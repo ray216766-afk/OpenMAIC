@@ -1,5 +1,5 @@
 /**
- * Oliver Scholarship Vocabulary Master System — V1.0
+ * Oliver Scholarship Vocabulary Master System — V1.1 (Academic Core Batch 1)
  * Shared contracts for the reusable vocabulary learning engine.
  *
  * Student-facing content is English only. The `chinese` field exists solely
@@ -7,14 +7,15 @@
  */
 
 export const MODULE_NAME = 'Oliver Scholarship Vocabulary Master System';
-export const MODULE_VERSION = 'V1.0';
+export const MODULE_VERSION = 'V1.1';
 
+/** Live Academic Core uses levels 1–3. 4–5 remain only for the archived V1.0 seed. */
 export const VOCABULARY_LEVELS = {
-  1: 'Core Upgrade Vocabulary',
-  2: 'Character & Emotion Vocabulary',
-  3: 'Advanced Reading Vocabulary',
-  4: 'Academic Scholarship Vocabulary',
-  5: 'High-Level Scholarship Vocabulary',
+  1: 'Essential Y5–Y6',
+  2: 'High Achievement',
+  3: 'Scholarship Stretch',
+  4: 'Academic Scholarship Vocabulary (archive)',
+  5: 'High-Level Scholarship Vocabulary (archive)',
 } as const;
 
 export type VocabularyLevel = 1 | 2 | 3 | 4 | 5;
@@ -36,6 +37,8 @@ export interface WordFamily {
   adjective?: string;
   adverb?: string;
   plural?: string;
+  /** Academic Core stores morphology as a related-forms list. */
+  related?: string[];
 }
 
 export interface VocabularyEntry {
@@ -45,14 +48,23 @@ export interface VocabularyEntry {
   category: string;
   /** Parent-only reference. Never send to student views. */
   chinese: string;
+  /** Student-facing simple definition (from `simple_definition`). */
   definition: string;
+  simple_definition: string;
+  detailed_definition?: string;
   synonyms: string[];
   antonyms: string[];
   word_family: WordFamily;
   collocations: string[];
+  common_collocations: string[];
   example_sentence: string;
+  creative_writing_example?: string;
+  part_of_speech?: string;
+  difficulty_score?: number;
+  review_schedule: string[];
   edutest_frequency: number;
   writing_value: string;
+  source_schema?: string;
 }
 
 export interface StudentVocabularyCard {
@@ -61,17 +73,24 @@ export interface StudentVocabularyCard {
   level: VocabularyLevel;
   category: string;
   definition: string;
+  simple_definition: string;
   synonyms: string[];
   antonyms: string[];
   word_family: WordFamily;
   collocations: string[];
+  common_collocations: string[];
   example_sentence: string;
+  creative_writing_example?: string;
+  part_of_speech?: string;
+  difficulty_score?: number;
+  review_schedule: string[];
   edutest_frequency: number;
   writing_value: string;
 }
 
 export interface ParentVocabularyCard extends StudentVocabularyCard {
   chinese: string;
+  detailed_definition?: string;
 }
 
 export interface ProgressEntry {
@@ -94,6 +113,10 @@ export interface VocabularyProgressFile {
   updated_at: string | null;
   last_completed_day: number;
   entries: ProgressEntry[];
+  /** Live bank id, e.g. Academic_Core_Batch_001. */
+  active_bank?: string;
+  /** Human note when progress is wiped for a bank switch. */
+  progress_note?: string;
 }
 
 export type ReviewExerciseType =

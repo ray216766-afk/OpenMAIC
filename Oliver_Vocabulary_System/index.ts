@@ -15,6 +15,10 @@ export {
   renderStudentMarkdown,
 } from './Lesson_Template';
 export {
+  ACTIVE_BANK,
+  ARCHIVE_SEED_RELATIVE_PATH,
+  COMPILED_MASTER_RELATIVE_PATH,
+  PROGRESS_RESET_NOTE,
   applyReviewOutcome,
   defaultEnginePaths,
   defaultModuleRoot,
@@ -26,9 +30,17 @@ export {
   loadProgress,
   markFirstSeen,
   normalizeMastery,
+  resolveMasterPath,
   saveProgress,
   spacedIntervalDays,
 } from './store';
+export {
+  asWordFamily,
+  formatWordFamily,
+  normalizeMasterWords,
+  normalizeVocabularyEntry,
+  reviewScheduleOffsets,
+} from './normalize';
 export { assertNoChinese, containsChinese, toParentCard, toStudentCard } from './student-view';
 export {
   PLANNED_BOOK_TITLES,

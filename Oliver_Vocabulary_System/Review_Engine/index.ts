@@ -1,3 +1,4 @@
+import { reviewScheduleOffsets } from '../normalize';
 import { firstSeenDayNumber, getProgressEntry } from '../store';
 import type {
   ProgressEntry,
@@ -47,6 +48,23 @@ function lowMasteryScore(entry: ProgressEntry | undefined): number {
   }
 }
 
+function scheduledReviewScore(
+  word: VocabularyEntry,
+  record: ProgressEntry | undefined,
+  day: number,
+): number {
+  const seen = firstSeenDayNumber(record?.first_seen);
+  if (!seen) return 0;
+  const age = Math.max(0, day - seen);
+  const offsets = reviewScheduleOffsets(word.review_schedule);
+  if (offsets.includes(age)) return 95;
+  const next = offsets.find((offset) => offset > age);
+  if (next !== undefined && next - age <= 1) return 55;
+  const lastDue = [...offsets].reverse().find((offset) => offset < age);
+  if (lastDue !== undefined && age - lastDue <= 2) return 40;
+  return 0;
+}
+
 function spacedScore(entry: ProgressEntry | undefined, day: number): number {
   if (!entry) return 20;
   const due = entry.next_review_day ?? firstSeenDayNumber(entry.first_seen) + 1;
@@ -87,12 +105,15 @@ export function selectReviewWords(
       const record = getProgressEntry(progress, entry.word);
       const seen = firstSeenDayNumber(record?.first_seen);
       const preferredBoost = preferredKeys.has(entry.word.toLowerCase()) ? 12 : 0;
+      const scheduleBoost = scheduledReviewScore(entry, record, day);
       const score =
         recencyScore(record, day) * 4 +
         incorrectScore(record) * 3 +
         lowMasteryScore(record) * 2 +
         spacedScore(record, day) +
-        preferredBoost;
+        scheduleBoost * 2 +
+        preferredBoost +
+        Math.max(0, 4 - entry.level);
       const eligible =
         Boolean(record) || seen > 0 || preferredKeys.has(entry.word.toLowerCase()) || day === 1;
       return { entry, record, score: eligible ? score : score * 0.35, seen };

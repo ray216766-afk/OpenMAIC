@@ -7,11 +7,13 @@ import { BookOpen, Check, Loader2, Sparkles } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { cn } from '@/lib/utils';
+import { formatWordFamily } from '@/Oliver_Vocabulary_System/normalize';
 import type {
   DailyLesson,
   ParentLessonReference,
   ProgressEntry,
   QuizAnswer,
+  WordFamily,
 } from '@/Oliver_Vocabulary_System/types';
 
 interface LessonPayload {
@@ -27,6 +29,9 @@ interface ProgressPayload {
   success: boolean;
   summary?: {
     master_word_count: number;
+    active_bank?: string;
+    active_bank_label?: string;
+    expansion_target?: number;
     tracked_words: number;
     last_completed_day: number;
     by_mastery: Record<string, number>;
@@ -34,15 +39,12 @@ interface ProgressPayload {
   progress?: { entries: ProgressEntry[] };
 }
 
-function familyLine(family: Record<string, string | undefined>): string {
-  return Object.entries(family)
-    .filter(([, value]) => value)
-    .map(([key, value]) => `${key}: ${value}`)
-    .join(' · ');
+function familyLine(family: WordFamily | undefined): string {
+  return formatWordFamily(family);
 }
 
 export function OliverVocabularyClient() {
-  const [day, setDay] = useState(25);
+  const [day, setDay] = useState(1);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [lesson, setLesson] = useState<DailyLesson | null>(null);
@@ -130,13 +132,17 @@ export function OliverVocabularyClient() {
     <div className="min-h-screen bg-[#f6f1e8] text-[#1f2430]">
       <header className="border-b border-[#d9cfc0] bg-[#1f3a5f] text-[#f6f1e8]">
         <div className="mx-auto flex max-w-5xl flex-col gap-3 px-6 py-8">
-          <p className="text-xs tracking-[0.2em] uppercase text-[#d4b87a]">OpenMAIC · V1.0</p>
+          <p className="text-xs tracking-[0.2em] uppercase text-[#d4b87a]">
+            OpenMAIC · V1.1 · Academic Core Batch 1
+          </p>
           <h1 className="font-serif text-3xl leading-tight md:text-4xl">
             Oliver Scholarship Vocabulary Master
           </h1>
           <p className="max-w-3xl text-sm text-[#e8dfd0]">
             English-only daily training for EduTest and Australian private-school scholarship
-            English. Chinese is stored for parent reference and never appears in the student lesson.
+            English. The live bank is Academic Core Batch 1 (100 words). Later approved batches
+            expand toward about 1500. Chinese is parent-only and never appears in the student
+            lesson.
           </p>
           <div className="flex flex-wrap items-center gap-3 pt-2">
             <label className="text-sm text-[#e8dfd0]" htmlFor="day-input">
@@ -167,7 +173,11 @@ export function OliverVocabularyClient() {
 
       <main className="mx-auto flex max-w-5xl flex-col gap-8 px-6 py-8">
         <section className="grid gap-3 rounded-xl bg-white p-5 shadow-sm ring-1 ring-[#e4d9c8] md:grid-cols-5">
-          <Stat label="Bank" value={summary?.master_word_count ?? '—'} />
+          <Stat
+            label="Bank"
+            value={summary?.master_word_count ?? '—'}
+            hint={summary?.active_bank_label ?? 'Academic Core Batch 1 (100)'}
+          />
           <Stat label="Tracked" value={summary?.tracked_words ?? progress.length} />
           <Stat label="New" value={masteryCounts.New ?? 0} />
           <Stat
@@ -184,8 +194,8 @@ export function OliverVocabularyClient() {
             <BookOpen className="mx-auto mb-3 text-[#1f3a5f]" />
             <p className="font-serif text-xl">Ready to generate a day.</p>
             <p className="mt-2 text-sm text-[#5c6574]">
-              Day 1 introduces the first ten Core Upgrade words. Day 25 is a mid-curriculum
-              scholarship set with a full review from earlier days.
+              Day 1 introduces the first ten Academic Core words (analyse, significant,
+              environment…). Later days continue through the 100-word batch, then wrap.
             </p>
           </div>
         )}
@@ -208,6 +218,9 @@ export function OliverVocabularyClient() {
                   {parent.words.map((word) => (
                     <li key={word.id} className="text-sm">
                       <span className="font-semibold">{word.word}</span> — {word.chinese}
+                      {word.detailed_definition ? (
+                        <span className="mt-1 block text-[#5c6574]">{word.detailed_definition}</span>
+                      ) : null}
                     </li>
                   ))}
                 </ul>
@@ -217,13 +230,21 @@ export function OliverVocabularyClient() {
             <section className="rounded-xl bg-white p-6 shadow-sm ring-1 ring-[#e4d9c8]">
               <h3 className="font-serif text-xl">Section 1 · New Vocabulary</h3>
               <p className="mb-4 text-xs uppercase tracking-wide text-[#7a7266]">
-                Word · Definition · Synonyms · Antonyms · Word family · Collocations · Example
+                Word · POS · Simple definition · Synonyms · Antonyms · Word family · Collocations ·
+                Example · Creative upgrade
               </p>
               <div className="grid gap-4">
                 {lesson.new_vocabulary.map((card) => (
                   <article key={card.id} className="border-b border-[#efe6d8] pb-4 last:border-0">
-                    <h4 className="text-lg font-semibold text-[#1f3a5f]">{card.word}</h4>
-                    <p className="mt-1">{card.definition}</p>
+                    <h4 className="text-lg font-semibold text-[#1f3a5f]">
+                      {card.word}
+                      {card.part_of_speech ? (
+                        <span className="ml-2 text-sm font-normal text-[#7a7266]">
+                          {card.part_of_speech} · Level {card.level}
+                        </span>
+                      ) : null}
+                    </h4>
+                    <p className="mt-1">{card.simple_definition || card.definition}</p>
                     <p className="mt-2 text-sm text-[#5c6574]">
                       <strong>Synonyms:</strong> {card.synonyms.join(', ') || '—'}
                     </p>
@@ -234,9 +255,13 @@ export function OliverVocabularyClient() {
                       <strong>Word family:</strong> {familyLine(card.word_family) || '—'}
                     </p>
                     <p className="text-sm text-[#5c6574]">
-                      <strong>Collocations:</strong> {card.collocations.join('; ')}
+                      <strong>Collocations:</strong>{' '}
+                      {(card.common_collocations ?? card.collocations).join('; ')}
                     </p>
                     <p className="mt-1 italic">{card.example_sentence}</p>
+                    {card.creative_writing_example ? (
+                      <p className="mt-1 text-sm text-[#1f3a5f]">{card.creative_writing_example}</p>
+                    ) : null}
                   </article>
                 ))}
               </div>
@@ -328,11 +353,20 @@ export function OliverVocabularyClient() {
   );
 }
 
-function Stat({ label, value }: { label: string; value: string | number }) {
+function Stat({
+  label,
+  value,
+  hint,
+}: {
+  label: string;
+  value: string | number;
+  hint?: string;
+}) {
   return (
     <div>
       <p className="text-xs uppercase tracking-wide text-[#7a7266]">{label}</p>
       <p className="font-serif text-2xl">{value}</p>
+      {hint ? <p className="text-xs text-[#7a7266]">{hint}</p> : null}
     </div>
   );
 }

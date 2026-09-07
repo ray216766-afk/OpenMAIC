@@ -1,6 +1,7 @@
 import { existsSync, mkdirSync, readFileSync, renameSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 
+import { ACTIVE_BANK, normalizeMasterWords } from './normalize';
 import {
   MASTERY_ALIASES,
   MODULE_NAME,
@@ -13,14 +14,29 @@ import {
 } from './types';
 
 export const DEFAULT_STUDENT = 'Oliver';
+export { ACTIVE_BANK } from './normalize';
+
+export const ARCHIVE_SEED_RELATIVE_PATH = 'archive/Vocabulary_Master_seed_v1_309.json';
+export const COMPILED_MASTER_RELATIVE_PATH = 'Vocabulary_Master.json';
+
+export const PROGRESS_RESET_NOTE =
+  'Progress was reset when the live bank switched from the V1.0 309-word seed to Academic Core Batch 1 (100 words, VAC0001–VAC0100). Day 1 starts clean. The old seed is archived at archive/Vocabulary_Master_seed_v1_309.json and is not used for lessons.';
 
 export function defaultModuleRoot(): string {
   return join(process.cwd(), 'Oliver_Vocabulary_System');
 }
 
+export function resolveMasterPath(root = defaultModuleRoot()): string {
+  const academic = join(root, ACTIVE_BANK.relativePath);
+  if (existsSync(academic)) return academic;
+  const compiled = join(root, COMPILED_MASTER_RELATIVE_PATH);
+  if (existsSync(compiled)) return compiled;
+  throw new Error(`No Academic Core or compiled Vocabulary_Master.json found under ${root}`);
+}
+
 export function defaultEnginePaths(root = defaultModuleRoot()): VocabularyEnginePaths {
   return {
-    masterPath: join(root, 'Vocabulary_Master.json'),
+    masterPath: resolveMasterPath(root),
     progressPath: join(root, 'Vocabulary_Progress.json'),
   };
 }
@@ -30,6 +46,8 @@ export function emptyProgressFile(): VocabularyProgressFile {
     student: DEFAULT_STUDENT,
     module: MODULE_NAME,
     version: MODULE_VERSION,
+    active_bank: ACTIVE_BANK.id,
+    progress_note: PROGRESS_RESET_NOTE,
     updated_at: null,
     last_completed_day: 0,
     entries: [],
@@ -38,10 +56,9 @@ export function emptyProgressFile(): VocabularyProgressFile {
 
 export function loadMaster(paths: VocabularyEnginePaths = defaultEnginePaths()): VocabularyEntry[] {
   const raw = readFileSync(paths.masterPath, 'utf8');
-  const parsed = JSON.parse(raw) as { words?: VocabularyEntry[] } | VocabularyEntry[];
-  const words = Array.isArray(parsed) ? parsed : (parsed.words ?? []);
-  if (!Array.isArray(words) || words.length === 0) {
-    throw new Error(`Vocabulary_Master.json has no words: ${paths.masterPath}`);
+  const words = normalizeMasterWords(JSON.parse(raw));
+  if (words.length === 0) {
+    throw new Error(`Vocabulary master has no words: ${paths.masterPath}`);
   }
   return words;
 }
@@ -70,6 +87,8 @@ export function saveProgress(
     module: MODULE_NAME,
     version: MODULE_VERSION,
     student: progress.student || DEFAULT_STUDENT,
+    active_bank: progress.active_bank || ACTIVE_BANK.id,
+    progress_note: progress.progress_note || PROGRESS_RESET_NOTE,
     updated_at: new Date().toISOString(),
     entries: progress.entries.map(normalizeProgressEntry),
   };

@@ -1,7 +1,9 @@
 {
   "student": "Oliver",
   "module": "Oliver Scholarship Vocabulary Master System",
-  "version": "V1.0",
+  "version": "V1.1",
+  "active_bank": "Academic_Core_Batch_001",
+  "progress_note": "Progress was reset when the live bank switched from the V1.0 309-word seed to Academic Core Batch 1 (100 words, VAC0001–VAC0100). Day 1 starts clean. The old seed is archived at archive/Vocabulary_Master_seed_v1_309.json and is not used for lessons.",
   "updated_at": null,
   "last_completed_day": 0,
   "entries": []

@@ -1,4 +1,4 @@
-import { defaultEnginePaths, loadMaster, loadProgress } from '@/Oliver_Vocabulary_System/store';
+import { ACTIVE_BANK, defaultEnginePaths, loadMaster, loadProgress } from '@/Oliver_Vocabulary_System/store';
 import { VOCABULARY_LEVELS } from '@/Oliver_Vocabulary_System/types';
 import { apiSuccess } from '@/lib/server/api-response';
 
@@ -16,10 +16,17 @@ export async function GET() {
     progress,
     summary: {
       master_word_count: master.length,
+      active_bank: ACTIVE_BANK.id,
+      active_bank_label: ACTIVE_BANK.label,
+      expansion_target: ACTIVE_BANK.expansionTarget,
       tracked_words: progress.entries.length,
       last_completed_day: progress.last_completed_day,
       by_mastery: byMastery,
-      levels: VOCABULARY_LEVELS,
+      levels: {
+        1: VOCABULARY_LEVELS[1],
+        2: VOCABULARY_LEVELS[2],
+        3: VOCABULARY_LEVELS[3],
+      },
     },
   });
 }
