@@ -1,3 +1,4 @@
+import { formatWordFamily } from '../normalize';
 import { MODULE_NAME, MODULE_VERSION } from '../types';
 import type {
   DailyLesson,
@@ -10,12 +11,14 @@ import type {
 
 export const STUDENT_NEW_WORD_FIELDS = [
   'Word',
+  'Part of Speech',
   'Definition',
   'Synonyms',
   'Antonyms',
   'Word Family',
   'Common Collocations',
   'Example Sentence',
+  'Creative Writing Example',
 ] as const;
 
 export function buildLessonTitle(day: number): string {
@@ -52,23 +55,23 @@ export function buildParentReference(
 }
 
 export function renderStudentMarkdown(lesson: DailyLesson): string {
-  const family = (card: StudentVocabularyCard) =>
-    Object.entries(card.word_family)
-      .filter(([, value]) => value)
-      .map(([key, value]) => `${key}: ${value}`)
-      .join('; ');
-
   const newBlock = lesson.new_vocabulary
     .map((card, index) => {
+      const pos = card.part_of_speech ? ` (${card.part_of_speech})` : '';
       return [
-        `### ${index + 1}. ${card.word}`,
-        `- Definition: ${card.definition}`,
+        `### ${index + 1}. ${card.word}${pos}`,
+        `- Definition: ${card.simple_definition || card.definition}`,
         `- Synonyms: ${card.synonyms.join(', ')}`,
-        `- Antonyms: ${card.antonyms.join(', ')}`,
-        `- Word Family: ${family(card) || '—'}`,
-        `- Common Collocations: ${card.collocations.join('; ')}`,
+        `- Antonyms: ${card.antonyms.join(', ') || '—'}`,
+        `- Word Family: ${formatWordFamily(card.word_family) || '—'}`,
+        `- Common Collocations: ${(card.common_collocations ?? card.collocations).join('; ')}`,
         `- Example Sentence: ${card.example_sentence}`,
-      ].join('\n');
+        card.creative_writing_example
+          ? `- Creative writing: ${card.creative_writing_example}`
+          : undefined,
+      ]
+        .filter(Boolean)
+        .join('\n');
     })
     .join('\n\n');
 

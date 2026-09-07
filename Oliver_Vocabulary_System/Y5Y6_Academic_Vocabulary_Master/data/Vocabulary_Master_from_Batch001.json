@@ -1,0 +1,4283 @@
+[
+  {
+    "id": "VAC0001",
+    "word": "analyse",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "分析",
+    "definition": "To look closely at something so you can understand how it works or what it means.",
+    "detailed_definition": "To examine information, ideas, or evidence carefully by breaking them into parts and explaining how those parts connect.",
+    "synonyms": [
+      "examine",
+      "study",
+      "investigate"
+    ],
+    "antonyms": [
+      "ignore",
+      "overlook"
+    ],
+    "word_family": {
+      "related": [
+        "analyse",
+        "analysis",
+        "analytical",
+        "analytically",
+        "analyst"
+      ]
+    },
+    "collocations": [
+      "analyse data",
+      "analyse a text",
+      "analyse the results"
+    ],
+    "example_sentence": "In science, we analyse the data from our plant experiment before writing a conclusion.",
+    "creative_writing_example": "Basic: We looked at the results. / Improved: We analysed the results to explain why some seeds grew faster.",
+    "part_of_speech": "verb",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0002",
+    "word": "significant",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "重要的；显著的",
+    "definition": "Important enough to notice or to make a real difference.",
+    "detailed_definition": "Large, meaningful, or important in a way that affects a result, decision, or understanding.",
+    "synonyms": [
+      "important",
+      "notable",
+      "considerable"
+    ],
+    "antonyms": [
+      "minor",
+      "insignificant"
+    ],
+    "word_family": {
+      "related": [
+        "significant",
+        "significance",
+        "significantly",
+        "insignificant"
+      ]
+    },
+    "collocations": [
+      "significant difference",
+      "significant impact",
+      "statistically significant"
+    ],
+    "example_sentence": "There was a significant rise in recycling after the school launched its new bins.",
+    "creative_writing_example": "Basic: It was a big change. / Improved: It was a significant change that improved the whole programme.",
+    "part_of_speech": "adjective",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0003",
+    "word": "environment",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "环境",
+    "definition": "The natural world around us, or the conditions in which people or animals live.",
+    "detailed_definition": "The surroundings—natural or human-made—that affect living things, including air, water, land, and social settings.",
+    "synonyms": [
+      "surroundings",
+      "habitat",
+      "setting"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "environment",
+        "environmental",
+        "environmentally",
+        "environmentalist"
+      ]
+    },
+    "collocations": [
+      "natural environment",
+      "learning environment",
+      "protect the environment"
+    ],
+    "example_sentence": "Protecting the local environment means keeping creeks clean and habitats safe for wildlife.",
+    "creative_writing_example": "Basic: We should look after nature. / Improved: We should protect the environment by reducing plastic waste.",
+    "part_of_speech": "noun",
+    "difficulty_score": 2,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 9,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0004",
+    "word": "determine",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "确定；判定",
+    "definition": "To work out or decide something after thinking or checking carefully.",
+    "detailed_definition": "To establish a fact, result, or decision through investigation, calculation, or careful judgement.",
+    "synonyms": [
+      "decide",
+      "establish",
+      "ascertain"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "determine",
+        "determination",
+        "determined",
+        "determinant"
+      ]
+    },
+    "collocations": [
+      "determine the cause",
+      "determine whether",
+      "determine the outcome"
+    ],
+    "example_sentence": "The class used a thermometer to determine the temperature of the water.",
+    "creative_writing_example": "Basic: We found out the answer. / Improved: We determined the answer by testing each method.",
+    "part_of_speech": "verb",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0005",
+    "word": "evaluate",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "评估；评价",
+    "definition": "To judge how good, useful, or successful something is.",
+    "detailed_definition": "To assess the quality, value, or effectiveness of ideas, evidence, or methods using clear reasons.",
+    "synonyms": [
+      "assess",
+      "judge",
+      "appraise"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "evaluate",
+        "evaluation",
+        "evaluative",
+        "evaluator"
+      ]
+    },
+    "collocations": [
+      "evaluate evidence",
+      "evaluate a method",
+      "evaluate the effectiveness"
+    ],
+    "example_sentence": "After the debate, we evaluate which arguments were supported by strong evidence.",
+    "creative_writing_example": "Basic: We said if it was good. / Improved: We evaluated the project using clear criteria.",
+    "part_of_speech": "verb",
+    "difficulty_score": 4,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 7,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0006",
+    "word": "demonstrate",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "证明；演示",
+    "definition": "To show clearly that something is true or how something works.",
+    "detailed_definition": "To prove or illustrate a point through evidence, examples, or a clear practical display.",
+    "synonyms": [
+      "show",
+      "prove",
+      "illustrate"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "demonstrate",
+        "demonstration",
+        "demonstrative",
+        "demonstrator"
+      ]
+    },
+    "collocations": [
+      "demonstrate understanding",
+      "demonstrate a skill",
+      "clearly demonstrate"
+    ],
+    "example_sentence": "The diagram demonstrates how water moves through the water cycle.",
+    "creative_writing_example": "Basic: The picture shows the idea. / Improved: The diagram demonstrates the process step by step.",
+    "part_of_speech": "verb",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0007",
+    "word": "justify",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "证明……有理；说明理由",
+    "definition": "To give good reasons that explain why a choice or opinion is fair or correct.",
+    "detailed_definition": "To support a claim, decision, or action with logical reasons and evidence so others can see why it is reasonable.",
+    "synonyms": [
+      "defend",
+      "support",
+      "explain"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "justify",
+        "justification",
+        "justifiable",
+        "justifiably"
+      ]
+    },
+    "collocations": [
+      "justify a decision",
+      "justify an opinion",
+      "justify your answer"
+    ],
+    "example_sentence": "In your persuasive text, justify your opinion with facts, not only feelings.",
+    "creative_writing_example": "Basic: Say why you think that. / Improved: Justify your opinion with two pieces of evidence.",
+    "part_of_speech": "verb",
+    "difficulty_score": 4,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 7,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0008",
+    "word": "perspective",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "视角；观点",
+    "definition": "A particular way of looking at or thinking about something.",
+    "detailed_definition": "A viewpoint shaped by a person’s experiences, role, or values, which can differ from other people’s views.",
+    "synonyms": [
+      "viewpoint",
+      "standpoint",
+      "angle"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "perspective",
+        "perspectives"
+      ]
+    },
+    "collocations": [
+      "from a … perspective",
+      "historical perspective",
+      "different perspectives"
+    ],
+    "example_sentence": "From a farmer’s perspective, drought is more than a weather story—it affects livelihoods.",
+    "creative_writing_example": "Basic: Different people think differently. / Improved: Each character offers a different perspective on the conflict.",
+    "part_of_speech": "noun",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0009",
+    "word": "consequence",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "后果；结果",
+    "definition": "Something that happens as a result of an action or decision.",
+    "detailed_definition": "An outcome—often important or serious—that follows from a cause, choice, or event.",
+    "synonyms": [
+      "result",
+      "outcome",
+      "effect"
+    ],
+    "antonyms": [
+      "cause"
+    ],
+    "word_family": {
+      "related": [
+        "consequence",
+        "consequences",
+        "consequent",
+        "consequently"
+      ]
+    },
+    "collocations": [
+      "serious consequence",
+      "unintended consequence",
+      "as a consequence"
+    ],
+    "example_sentence": "One consequence of cutting down trees is the loss of animal habitats.",
+    "creative_writing_example": "Basic: Bad things happened because of it. / Improved: A serious consequence of pollution is damage to marine life.",
+    "part_of_speech": "noun",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0010",
+    "word": "impact",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "影响；冲击",
+    "definition": "A strong effect that something has on a person, place, or situation.",
+    "detailed_definition": "The influence or change produced by an action, event, or idea—positive or negative.",
+    "synonyms": [
+      "effect",
+      "influence",
+      "impression"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "impact",
+        "impacts",
+        "impactful"
+      ]
+    },
+    "collocations": [
+      "positive impact",
+      "negative impact",
+      "have an impact on"
+    ],
+    "example_sentence": "Tourism can have a positive impact on local jobs, but also a negative impact on fragile reefs.",
+    "creative_writing_example": "Basic: It changed things a lot. / Improved: The new law had a lasting impact on water safety.",
+    "part_of_speech": "noun",
+    "difficulty_score": 2,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 9,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0011",
+    "word": "scarce",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "稀缺的；不足的",
+    "definition": "Hard to find because there is not enough of it.",
+    "detailed_definition": "Available only in small amounts; not plentiful enough to meet demand easily.",
+    "synonyms": [
+      "limited",
+      "rare",
+      "insufficient"
+    ],
+    "antonyms": [
+      "abundant",
+      "plentiful"
+    ],
+    "word_family": {
+      "related": [
+        "scarce",
+        "scarcely",
+        "scarcity"
+      ]
+    },
+    "collocations": [
+      "scarce resources",
+      "become scarce",
+      "scarce supply"
+    ],
+    "example_sentence": "Fresh water can become scarce during a long drought.",
+    "creative_writing_example": "Basic: There was not much left. / Improved: Clean water became scarce after months without rain.",
+    "part_of_speech": "adjective",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0012",
+    "word": "evidence",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "证据",
+    "definition": "Facts or information that help prove something is true.",
+    "detailed_definition": "Observable information, data, or examples used to support or challenge a claim.",
+    "synonyms": [
+      "proof",
+      "data",
+      "support"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "evidence",
+        "evident",
+        "evidently",
+        "evidential"
+      ]
+    },
+    "collocations": [
+      "strong evidence",
+      "gather evidence",
+      "evidence suggests"
+    ],
+    "example_sentence": "The footprints were evidence that animals had visited the creek overnight.",
+    "creative_writing_example": "Basic: We have proof. / Improved: We collected evidence from three reliable sources.",
+    "part_of_speech": "noun",
+    "difficulty_score": 2,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 9,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0013",
+    "word": "conclude",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "得出结论；结束",
+    "definition": "To decide something is true after thinking about the information you have.",
+    "detailed_definition": "To reach a judgement or ending based on evidence, reasoning, or the completion of a process.",
+    "synonyms": [
+      "decide",
+      "infer",
+      "deduce"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "conclude",
+        "conclusion",
+        "conclusive",
+        "conclusively"
+      ]
+    },
+    "collocations": [
+      "conclude that",
+      "conclude the discussion",
+      "safely conclude"
+    ],
+    "example_sentence": "From the graph, we can conclude that rainfall increased in spring.",
+    "creative_writing_example": "Basic: So we think this is the answer. / Improved: We conclude that the hypothesis was supported by the data.",
+    "part_of_speech": "verb",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0014",
+    "word": "compare",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "比较",
+    "definition": "To look at two or more things to see how they are similar.",
+    "detailed_definition": "To examine similarities (and often differences) between items, ideas, or results in an organised way.",
+    "synonyms": [
+      "contrast",
+      "match",
+      "relate"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "compare",
+        "comparison",
+        "comparable",
+        "comparative"
+      ]
+    },
+    "collocations": [
+      "compare and contrast",
+      "compare results",
+      "compare with"
+    ],
+    "example_sentence": "Compare the two poems and note how each describes the ocean.",
+    "creative_writing_example": "Basic: See if they are the same. / Improved: Compare the characters’ choices and explain what they reveal.",
+    "part_of_speech": "verb",
+    "difficulty_score": 2,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 9,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0015",
+    "word": "contrast",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "对比；对照",
+    "definition": "To show how two things are different.",
+    "detailed_definition": "To highlight differences between ideas, images, or situations so the distinctions become clear.",
+    "synonyms": [
+      "differentiate",
+      "distinguish",
+      "oppose"
+    ],
+    "antonyms": [
+      "compare"
+    ],
+    "word_family": {
+      "related": [
+        "contrast",
+        "contrasting",
+        "contrastive"
+      ]
+    },
+    "collocations": [
+      "contrast with",
+      "in contrast",
+      "sharp contrast"
+    ],
+    "example_sentence": "Contrast life in a coastal town with life in the outback.",
+    "creative_writing_example": "Basic: They are not the same. / Improved: Contrast the two settings to show how place shapes the story.",
+    "part_of_speech": "verb",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0016",
+    "word": "summarise",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "总结；概括",
+    "definition": "To say the main points of something in a shorter way.",
+    "detailed_definition": "To condense a text, discussion, or set of findings into the most important ideas without unnecessary detail.",
+    "synonyms": [
+      "sum up",
+      "outline",
+      "recap"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "summarise",
+        "summary",
+        "summarised"
+      ]
+    },
+    "collocations": [
+      "summarise the text",
+      "summarise findings",
+      "briefly summarise"
+    ],
+    "example_sentence": "Summarise the chapter in five sentences using your own words.",
+    "creative_writing_example": "Basic: Tell me what it was about. / Improved: Summarise the key arguments in a concise paragraph.",
+    "part_of_speech": "verb",
+    "difficulty_score": 2,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 9,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0017",
+    "word": "identify",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "识别；找出",
+    "definition": "To recognise or name what something is.",
+    "detailed_definition": "To find, name, or point out a person, feature, problem, or pattern accurately.",
+    "synonyms": [
+      "recognise",
+      "name",
+      "pinpoint"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "identify",
+        "identification",
+        "identifiable",
+        "identity"
+      ]
+    },
+    "collocations": [
+      "identify the cause",
+      "identify features",
+      "identify a problem"
+    ],
+    "example_sentence": "Identify the main idea of each paragraph before you take notes.",
+    "creative_writing_example": "Basic: Find the important part. / Improved: Identify the author’s purpose in the opening paragraph.",
+    "part_of_speech": "verb",
+    "difficulty_score": 2,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 9,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0018",
+    "word": "organise",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "组织；整理",
+    "definition": "To arrange things in a clear order so they work well.",
+    "detailed_definition": "To structure information, materials, or events systematically so they are efficient and easy to understand.",
+    "synonyms": [
+      "arrange",
+      "structure",
+      "order"
+    ],
+    "antonyms": [
+      "disorganise"
+    ],
+    "word_family": {
+      "related": [
+        "organise",
+        "organisation",
+        "organised",
+        "organiser",
+        "organisational"
+      ]
+    },
+    "collocations": [
+      "organise information",
+      "organise an event",
+      "well organised"
+    ],
+    "example_sentence": "Organise your notes under headings before you write the report.",
+    "creative_writing_example": "Basic: Put your ideas in order. / Improved: Organise your arguments from strongest to weakest.",
+    "part_of_speech": "verb",
+    "difficulty_score": 2,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 9,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0019",
+    "word": "investigate",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "调查；探究",
+    "definition": "To try to find out the truth by looking carefully and asking questions.",
+    "detailed_definition": "To examine a question, problem, or event in depth using research, tests, or careful observation.",
+    "synonyms": [
+      "examine",
+      "explore",
+      "research"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "investigate",
+        "investigation",
+        "investigator",
+        "investigative"
+      ]
+    },
+    "collocations": [
+      "investigate a problem",
+      "investigate further",
+      "scientifically investigate"
+    ],
+    "example_sentence": "We will investigate why some materials float and others sink.",
+    "creative_writing_example": "Basic: We will find out about it. / Improved: We will investigate the question using a fair test.",
+    "part_of_speech": "verb",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0020",
+    "word": "observe",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "观察",
+    "definition": "To watch something carefully to notice details.",
+    "detailed_definition": "To pay close attention to people, objects, or events in order to gather accurate information.",
+    "synonyms": [
+      "watch",
+      "notice",
+      "monitor"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "observe",
+        "observation",
+        "observer",
+        "observant",
+        "observable"
+      ]
+    },
+    "collocations": [
+      "observe carefully",
+      "observe a change",
+      "direct observation"
+    ],
+    "example_sentence": "Observe the mealworms each day and record any changes in your journal.",
+    "creative_writing_example": "Basic: Look at it. / Improved: Observe the reaction carefully and note the colour change.",
+    "part_of_speech": "verb",
+    "difficulty_score": 2,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 9,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0021",
+    "word": "predict",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "预测",
+    "definition": "To say what you think will happen before it happens.",
+    "detailed_definition": "To make a reasoned forecast about a future event or result based on patterns, evidence, or prior knowledge.",
+    "synonyms": [
+      "forecast",
+      "anticipate",
+      "foresee"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "predict",
+        "prediction",
+        "predictable",
+        "predictably",
+        "unpredictable"
+      ]
+    },
+    "collocations": [
+      "predict the outcome",
+      "predict that",
+      "accurate prediction"
+    ],
+    "example_sentence": "Predict what will happen if we increase the slope of the ramp.",
+    "creative_writing_example": "Basic: Guess what will happen. / Improved: Predict the outcome using what you know about friction.",
+    "part_of_speech": "verb",
+    "difficulty_score": 2,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 9,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0022",
+    "word": "contribute",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "贡献；促成",
+    "definition": "To give something—ideas, help, or effort—that adds to a result.",
+    "detailed_definition": "To play a part in producing an outcome by adding ideas, resources, actions, or influence.",
+    "synonyms": [
+      "add",
+      "provide",
+      "donate"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "contribute",
+        "contribution",
+        "contributor",
+        "contributing"
+      ]
+    },
+    "collocations": [
+      "contribute to",
+      "contribute ideas",
+      "contribute significantly"
+    ],
+    "example_sentence": "Everyone should contribute one idea to our class inquiry board.",
+    "creative_writing_example": "Basic: Help with the project. / Improved: Contribute evidence that strengthens the group’s argument.",
+    "part_of_speech": "verb",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0023",
+    "word": "establish",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "建立；确立",
+    "definition": "To set something up so it becomes accepted or firm.",
+    "detailed_definition": "To create, prove, or make permanent a fact, system, relationship, or organisation.",
+    "synonyms": [
+      "set up",
+      "create",
+      "found"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "establish",
+        "establishment",
+        "established",
+        "establishing"
+      ]
+    },
+    "collocations": [
+      "establish a link",
+      "establish rules",
+      "establish that"
+    ],
+    "example_sentence": "The school will establish a new garden club next term.",
+    "creative_writing_example": "Basic: They started a club. / Improved: They established clear rules so the club ran fairly.",
+    "part_of_speech": "verb",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0024",
+    "word": "factor",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "因素",
+    "definition": "One of the things that affects a result or situation.",
+    "detailed_definition": "An element or circumstance that influences an outcome and may interact with other elements.",
+    "synonyms": [
+      "element",
+      "influence",
+      "component"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "factor",
+        "factors",
+        "factorise"
+      ]
+    },
+    "collocations": [
+      "key factor",
+      "factor in",
+      "contributing factor"
+    ],
+    "example_sentence": "Weather is one factor that affects how quickly washing dries outside.",
+    "creative_writing_example": "Basic: One thing that matters is… / Improved: A key factor in the experiment was the amount of sunlight.",
+    "part_of_speech": "noun",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0025",
+    "word": "method",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "方法",
+    "definition": "A planned way of doing something.",
+    "detailed_definition": "A systematic procedure or approach used to complete a task, investigate a question, or solve a problem.",
+    "synonyms": [
+      "approach",
+      "procedure",
+      "technique"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "method",
+        "methods",
+        "methodical",
+        "methodology"
+      ]
+    },
+    "collocations": [
+      "scientific method",
+      "teaching method",
+      "method of"
+    ],
+    "example_sentence": "Describe the method you used so another student could repeat your test.",
+    "creative_writing_example": "Basic: This is how we did it. / Improved: Our method included three fair-test controls.",
+    "part_of_speech": "noun",
+    "difficulty_score": 2,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 9,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0026",
+    "word": "process",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "过程；流程",
+    "definition": "A series of steps that lead to a result.",
+    "detailed_definition": "A sequence of actions or natural changes that produce an outcome over time.",
+    "synonyms": [
+      "procedure",
+      "sequence",
+      "operation"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "process",
+        "processes",
+        "processing",
+        "processor"
+      ]
+    },
+    "collocations": [
+      "process of",
+      "learning process",
+      "natural process"
+    ],
+    "example_sentence": "Photosynthesis is the process plants use to make food from sunlight.",
+    "creative_writing_example": "Basic: Things happen in steps. / Improved: Understanding the process helps us explain each stage clearly.",
+    "part_of_speech": "noun",
+    "difficulty_score": 2,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 9,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0027",
+    "word": "strategy",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "策略；方法",
+    "definition": "A careful plan for achieving a goal.",
+    "detailed_definition": "A deliberate set of actions designed to solve a problem or reach a desired outcome efficiently.",
+    "synonyms": [
+      "plan",
+      "approach",
+      "tactic"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "strategy",
+        "strategies",
+        "strategic",
+        "strategically"
+      ]
+    },
+    "collocations": [
+      "learning strategy",
+      "strategy for",
+      "develop a strategy"
+    ],
+    "example_sentence": "A good reading strategy is to pause and check that you understand each paragraph.",
+    "creative_writing_example": "Basic: I have a plan. / Improved: Our strategy was to gather evidence before drafting the speech.",
+    "part_of_speech": "noun",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0028",
+    "word": "structure",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "结构",
+    "definition": "The way the parts of something are arranged.",
+    "detailed_definition": "The organised framework of a text, object, system, or argument that holds the parts together.",
+    "synonyms": [
+      "framework",
+      "organisation",
+      "arrangement"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "structure",
+        "structures",
+        "structural",
+        "restructure"
+      ]
+    },
+    "collocations": [
+      "text structure",
+      "structure of",
+      "organisational structure"
+    ],
+    "example_sentence": "The structure of your essay should include an introduction, body paragraphs, and a conclusion.",
+    "creative_writing_example": "Basic: Put the parts in order. / Improved: Strengthen the structure by linking each paragraph to your thesis.",
+    "part_of_speech": "noun",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0029",
+    "word": "approach",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "方法；途径",
+    "definition": "A way of dealing with a task or problem.",
+    "detailed_definition": "A particular manner or philosophy used when tackling a challenge, investigation, or piece of writing.",
+    "synonyms": [
+      "method",
+      "way",
+      "technique"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "approach",
+        "approaches",
+        "approaching",
+        "approachable"
+      ]
+    },
+    "collocations": [
+      "approach to",
+      "new approach",
+      "scientific approach"
+    ],
+    "example_sentence": "A calm approach helps when you are solving a tricky maths problem.",
+    "creative_writing_example": "Basic: This is how I’ll do it. / Improved: A step-by-step approach made the investigation manageable.",
+    "part_of_speech": "noun",
+    "difficulty_score": 2,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 9,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0030",
+    "word": "benefit",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "益处；好处",
+    "definition": "A helpful or good result that something provides.",
+    "detailed_definition": "An advantage gained from an action, decision, or feature that improves a situation.",
+    "synonyms": [
+      "advantage",
+      "gain",
+      "plus"
+    ],
+    "antonyms": [
+      "drawback",
+      "disadvantage"
+    ],
+    "word_family": {
+      "related": [
+        "benefit",
+        "benefits",
+        "beneficial",
+        "beneficially"
+      ]
+    },
+    "collocations": [
+      "benefit of",
+      "benefit from",
+      "mutual benefit"
+    ],
+    "example_sentence": "One benefit of riding to school is getting more exercise each morning.",
+    "creative_writing_example": "Basic: It is good for you. / Improved: A major benefit of the programme is improved teamwork.",
+    "part_of_speech": "noun",
+    "difficulty_score": 2,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 9,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0031",
+    "word": "context",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "背景；语境",
+    "definition": "The situation or background that helps you understand something.",
+    "detailed_definition": "The surrounding information, setting, or circumstances that give meaning to a word, event, or idea.",
+    "synonyms": [
+      "setting",
+      "background",
+      "situation"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "context",
+        "contexts",
+        "contextual",
+        "contextualise"
+      ]
+    },
+    "collocations": [
+      "in context",
+      "historical context",
+      "context clues"
+    ],
+    "example_sentence": "Always read the sentence around an unfamiliar word for context clues.",
+    "creative_writing_example": "Basic: Look at what is around it. / Improved: Use context to work out the author’s intended meaning.",
+    "part_of_speech": "noun",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0032",
+    "word": "relevant",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "相关的；切题的",
+    "definition": "Closely connected to the topic you are discussing.",
+    "detailed_definition": "Directly related to the matter at hand and therefore useful for understanding or solving it.",
+    "synonyms": [
+      "related",
+      "applicable",
+      "pertinent"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "unrelated"
+    ],
+    "word_family": {
+      "related": [
+        "relevant",
+        "relevance",
+        "relevantly",
+        "irrelevant"
+      ]
+    },
+    "collocations": [
+      "relevant information",
+      "relevant to",
+      "highly relevant"
+    ],
+    "example_sentence": "Include only relevant details in your summary so it stays focused.",
+    "creative_writing_example": "Basic: That doesn’t belong here. / Improved: Remove details that are not relevant to the research question.",
+    "part_of_speech": "adjective",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0033",
+    "word": "accurate",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "准确的",
+    "definition": "Correct and careful; without mistakes.",
+    "detailed_definition": "Free from error and faithful to the facts, measurements, or intended meaning.",
+    "synonyms": [
+      "correct",
+      "precise",
+      "exact"
+    ],
+    "antonyms": [
+      "inaccurate",
+      "wrong"
+    ],
+    "word_family": {
+      "related": [
+        "accurate",
+        "accuracy",
+        "accurately",
+        "inaccurate"
+      ]
+    },
+    "collocations": [
+      "accurate information",
+      "accurate measurement",
+      "highly accurate"
+    ],
+    "example_sentence": "An accurate measurement is essential when you mix ingredients for a science experiment.",
+    "creative_writing_example": "Basic: Make sure it’s right. / Improved: Record accurate data so your conclusion can be trusted.",
+    "part_of_speech": "adjective",
+    "difficulty_score": 2,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 9,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0034",
+    "word": "essential",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "必要的；必不可少的",
+    "definition": "Completely necessary; you cannot do without it.",
+    "detailed_definition": "Absolutely needed for a purpose, process, or successful outcome; of central importance.",
+    "synonyms": [
+      "necessary",
+      "vital",
+      "crucial"
+    ],
+    "antonyms": [
+      "optional",
+      "unnecessary"
+    ],
+    "word_family": {
+      "related": [
+        "essential",
+        "essentially",
+        "essence"
+      ]
+    },
+    "collocations": [
+      "essential for",
+      "essential skills",
+      "absolutely essential"
+    ],
+    "example_sentence": "Water is essential for plants to survive in the Australian bush.",
+    "creative_writing_example": "Basic: You really need this. / Improved: Clear evidence is essential to justify your claim.",
+    "part_of_speech": "adjective",
+    "difficulty_score": 2,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 9,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0035",
+    "word": "specific",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "具体的；特定的",
+    "definition": "Clear and exact, not general or vague.",
+    "detailed_definition": "Precisely identified or detailed, referring to a particular thing rather than a broad category.",
+    "synonyms": [
+      "particular",
+      "precise",
+      "exact"
+    ],
+    "antonyms": [
+      "general",
+      "vague"
+    ],
+    "word_family": {
+      "related": [
+        "specific",
+        "specifically",
+        "specify",
+        "specification"
+      ]
+    },
+    "collocations": [
+      "specific example",
+      "specific details",
+      "be specific"
+    ],
+    "example_sentence": "Give a specific example from the text to support your answer.",
+    "creative_writing_example": "Basic: Tell me more. / Improved: Provide a specific quotation that supports your inference.",
+    "part_of_speech": "adjective",
+    "difficulty_score": 2,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 9,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0036",
+    "word": "effective",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "有效的",
+    "definition": "Successful at producing the result you want.",
+    "detailed_definition": "Capable of achieving an intended purpose well; producing a clear, desired impact.",
+    "synonyms": [
+      "successful",
+      "powerful",
+      "productive"
+    ],
+    "antonyms": [
+      "ineffective",
+      "useless"
+    ],
+    "word_family": {
+      "related": [
+        "effective",
+        "effectively",
+        "effectiveness",
+        "ineffective"
+      ]
+    },
+    "collocations": [
+      "effective strategy",
+      "highly effective",
+      "effective communication"
+    ],
+    "example_sentence": "An effective headline grabs attention and hints at the article’s main idea.",
+    "creative_writing_example": "Basic: It worked well. / Improved: The campaign was effective because it used clear evidence and strong verbs.",
+    "part_of_speech": "adjective",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0037",
+    "word": "require",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "需要；要求",
+    "definition": "To need something or to make something necessary.",
+    "detailed_definition": "To demand as necessary, or to have as a condition for success or correctness.",
+    "synonyms": [
+      "need",
+      "demand",
+      "necessitate"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "require",
+        "requirement",
+        "required",
+        "requirements"
+      ]
+    },
+    "collocations": [
+      "require attention",
+      "require evidence",
+      "required reading"
+    ],
+    "example_sentence": "Scholarship exams require careful reading and clear written answers.",
+    "creative_writing_example": "Basic: You need to practise. / Improved: Complex problems require a clear strategy before you begin.",
+    "part_of_speech": "verb",
+    "difficulty_score": 2,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 9,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0038",
+    "word": "indicate",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "表明；显示",
+    "definition": "To show or point out that something is likely or true.",
+    "detailed_definition": "To signal, suggest, or make clear a fact, direction, or meaning through evidence or signs.",
+    "synonyms": [
+      "show",
+      "suggest",
+      "signal"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "indicate",
+        "indication",
+        "indicative",
+        "indicator"
+      ]
+    },
+    "collocations": [
+      "indicate that",
+      "indicate a trend",
+      "clearly indicate"
+    ],
+    "example_sentence": "The dark clouds indicate that a storm may arrive this afternoon.",
+    "creative_writing_example": "Basic: This shows that… / Improved: The results indicate a clear pattern across all three trials.",
+    "part_of_speech": "verb",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0039",
+    "word": "obtain",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "获得；取得",
+    "definition": "To get something, especially through effort or a process.",
+    "detailed_definition": "To acquire information, permission, or materials by asking, researching, measuring, or working for them.",
+    "synonyms": [
+      "get",
+      "acquire",
+      "gain"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "obtain",
+        "obtainable",
+        "obtaining"
+      ]
+    },
+    "collocations": [
+      "obtain information",
+      "obtain permission",
+      "obtain results"
+    ],
+    "example_sentence": "Students must obtain permission before photographing animals at the sanctuary.",
+    "creative_writing_example": "Basic: We got the information. / Improved: We obtained reliable data from three independent sources.",
+    "part_of_speech": "verb",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0040",
+    "word": "assume",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "假定；认为",
+    "definition": "To believe something is true without having complete proof.",
+    "detailed_definition": "To accept an idea as true for the moment, often as a starting point, even if it has not been fully proven.",
+    "synonyms": [
+      "suppose",
+      "presume",
+      "believe"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "assume",
+        "assumption",
+        "assumed",
+        "assuming"
+      ]
+    },
+    "collocations": [
+      "assume that",
+      "safe to assume",
+      "assume responsibility"
+    ],
+    "example_sentence": "Do not assume the character is guilty until the story provides evidence.",
+    "creative_writing_example": "Basic: I just thought that… / Improved: We cannot assume the result without testing it carefully.",
+    "part_of_speech": "verb",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0041",
+    "word": "define",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "定义；界定",
+    "definition": "To explain exactly what a word or idea means.",
+    "detailed_definition": "To state the precise meaning of a term or to set the boundaries of a concept clearly.",
+    "synonyms": [
+      "explain",
+      "clarify",
+      "describe"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "define",
+        "definition",
+        "definite",
+        "definitely",
+        "definitive"
+      ]
+    },
+    "collocations": [
+      "define a term",
+      "clearly define",
+      "define as"
+    ],
+    "example_sentence": "Define the word ‘habitat’ before you use it in your report.",
+    "creative_writing_example": "Basic: Say what it means. / Improved: Define key terms in your introduction so readers share your meaning.",
+    "part_of_speech": "verb",
+    "difficulty_score": 2,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 9,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0042",
+    "word": "select",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "选择",
+    "definition": "To carefully choose the best option from several possibilities.",
+    "detailed_definition": "To pick out a person, item, or idea according to a purpose, preference, or set of criteria.",
+    "synonyms": [
+      "choose",
+      "pick",
+      "nominate"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "select",
+        "selection",
+        "selective",
+        "selectively"
+      ]
+    },
+    "collocations": [
+      "select carefully",
+      "select from",
+      "selected examples"
+    ],
+    "example_sentence": "Select the most relevant quotation to support your paragraph.",
+    "creative_writing_example": "Basic: Pick one. / Improved: Select evidence that directly answers the research question.",
+    "part_of_speech": "verb",
+    "difficulty_score": 2,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 9,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0043",
+    "word": "respond",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "回应；作出反应",
+    "definition": "To answer or react to something that has been said or done.",
+    "detailed_definition": "To reply in words or actions to a question, event, or stimulus in an appropriate way.",
+    "synonyms": [
+      "reply",
+      "react",
+      "answer"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "respond",
+        "response",
+        "responsive",
+        "respondent"
+      ]
+    },
+    "collocations": [
+      "respond to",
+      "respond appropriately",
+      "quick response"
+    ],
+    "example_sentence": "Respond to the author’s argument by agreeing, disagreeing, or offering a new idea.",
+    "creative_writing_example": "Basic: Answer the question. / Improved: Respond to the prompt with a justified opinion.",
+    "part_of_speech": "verb",
+    "difficulty_score": 2,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 9,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0044",
+    "word": "consider",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "考虑；认为",
+    "definition": "To think carefully about something before deciding.",
+    "detailed_definition": "To reflect on ideas, options, or evidence thoughtfully as part of forming a judgement.",
+    "synonyms": [
+      "think about",
+      "weigh",
+      "contemplate"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "consider",
+        "consideration",
+        "considerable",
+        "considerate"
+      ]
+    },
+    "collocations": [
+      "consider carefully",
+      "consider the evidence",
+      "worth considering"
+    ],
+    "example_sentence": "Consider both sides of the issue before writing your persuasive conclusion.",
+    "creative_writing_example": "Basic: Think about it. / Improved: Consider the long-term consequences of your recommendation.",
+    "part_of_speech": "verb",
+    "difficulty_score": 2,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 9,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0045",
+    "word": "focus",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "集中；聚焦",
+    "definition": "To give all your attention to one thing.",
+    "detailed_definition": "To concentrate effort or attention on a particular subject, goal, or detail so it becomes clearer.",
+    "synonyms": [
+      "concentrate",
+      "centre on",
+      "emphasise"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "focus",
+        "focused",
+        "focuses",
+        "focal"
+      ]
+    },
+    "collocations": [
+      "focus on",
+      "main focus",
+      "focus attention"
+    ],
+    "example_sentence": "Focus on the main idea first, then add supporting details.",
+    "creative_writing_example": "Basic: Pay attention. / Improved: Focus your paragraph on one clear claim.",
+    "part_of_speech": "verb",
+    "difficulty_score": 2,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 9,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0046",
+    "word": "involve",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "涉及；包括",
+    "definition": "To include someone or something as a necessary part.",
+    "detailed_definition": "To contain as a component, or to engage people in an activity or process.",
+    "synonyms": [
+      "include",
+      "entail",
+      "engage"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "involve",
+        "involvement",
+        "involved",
+        "involving"
+      ]
+    },
+    "collocations": [
+      "involve students",
+      "involve risk",
+      "actively involve"
+    ],
+    "example_sentence": "The science fair project will involve designing, testing, and presenting.",
+    "creative_writing_example": "Basic: It has these parts. / Improved: The inquiry will involve collecting data from three sites.",
+    "part_of_speech": "verb",
+    "difficulty_score": 2,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 9,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0047",
+    "word": "occur",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "发生；出现",
+    "definition": "To happen, especially at a particular time or place.",
+    "detailed_definition": "To take place or come into existence as an event, change, or instance.",
+    "synonyms": [
+      "happen",
+      "take place",
+      "arise"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "occur",
+        "occurrence",
+        "occurring",
+        "occurred"
+      ]
+    },
+    "collocations": [
+      "occur when",
+      "occur naturally",
+      "frequently occur"
+    ],
+    "example_sentence": "Flooding can occur when heavy rain falls on hard, dry ground.",
+    "creative_writing_example": "Basic: It happened. / Improved: Errors can occur if measurements are rushed.",
+    "part_of_speech": "verb",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0048",
+    "word": "vary",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "变化；不同",
+    "definition": "To be different in different situations, or to change something.",
+    "detailed_definition": "To differ across cases, or to alter an element so that results or expressions are not all the same.",
+    "synonyms": [
+      "differ",
+      "change",
+      "fluctuate"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "vary",
+        "various",
+        "variety",
+        "variable",
+        "variation"
+      ]
+    },
+    "collocations": [
+      "vary depending on",
+      "vary widely",
+      "vary the method"
+    ],
+    "example_sentence": "Results may vary depending on the type of soil used.",
+    "creative_writing_example": "Basic: It changes. / Improved: Opinions vary, so support your view with evidence.",
+    "part_of_speech": "verb",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0049",
+    "word": "maintain",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "维持；保持",
+    "definition": "To keep something at the same level or in good condition.",
+    "detailed_definition": "To continue, preserve, or uphold a state, system, argument, or standard over time.",
+    "synonyms": [
+      "keep",
+      "preserve",
+      "sustain"
+    ],
+    "antonyms": [
+      "neglect",
+      "abandon"
+    ],
+    "word_family": {
+      "related": [
+        "maintain",
+        "maintenance",
+        "maintained",
+        "maintainable"
+      ]
+    },
+    "collocations": [
+      "maintain control",
+      "maintain a standard",
+      "maintain that"
+    ],
+    "example_sentence": "Athletes must maintain a balanced diet during training season.",
+    "creative_writing_example": "Basic: Keep it the same. / Improved: Maintain a formal tone throughout your report.",
+    "part_of_speech": "verb",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0050",
+    "word": "achieve",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "实现；达到",
+    "definition": "To succeed in reaching a goal through effort.",
+    "detailed_definition": "To accomplish a desired result by working with purpose, skill, or persistence.",
+    "synonyms": [
+      "accomplish",
+      "attain",
+      "reach"
+    ],
+    "antonyms": [
+      "fail"
+    ],
+    "word_family": {
+      "related": [
+        "achieve",
+        "achievement",
+        "achievable",
+        "overachieve"
+      ]
+    },
+    "collocations": [
+      "achieve a goal",
+      "achieve success",
+      "hard to achieve"
+    ],
+    "example_sentence": "With steady practice, you can achieve a higher score on reading comprehension.",
+    "creative_writing_example": "Basic: I got my goal. / Improved: She achieved her target by revising a little each day.",
+    "part_of_speech": "verb",
+    "difficulty_score": 2,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 9,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0051",
+    "word": "affect",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "影响",
+    "definition": "To cause a change in someone or something.",
+    "detailed_definition": "To influence a person, process, or outcome so that it becomes different in some way.",
+    "synonyms": [
+      "influence",
+      "change",
+      "impact"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "affect",
+        "affected",
+        "affecting",
+        "unaffected"
+      ]
+    },
+    "collocations": [
+      "affect the result",
+      "negatively affect",
+      "directly affect"
+    ],
+    "example_sentence": "Lack of sleep can affect concentration during afternoon lessons.",
+    "creative_writing_example": "Basic: It changes things. / Improved: Drought can severely affect crop yields across the region.",
+    "part_of_speech": "verb",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0052",
+    "word": "emphasise",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "强调",
+    "definition": "To give special importance to an idea so others notice it.",
+    "detailed_definition": "To stress a point deliberately in speech or writing so it stands out as especially important.",
+    "synonyms": [
+      "stress",
+      "highlight",
+      "underline"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "emphasise",
+        "emphasis",
+        "emphatic",
+        "emphatically"
+      ]
+    },
+    "collocations": [
+      "emphasise the need",
+      "strongly emphasise",
+      "emphasise that"
+    ],
+    "example_sentence": "The principal emphasised the importance of kindness during assembly.",
+    "creative_writing_example": "Basic: She said it was important. / Improved: The author emphasises justice through repeated images of balance.",
+    "part_of_speech": "verb",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0053",
+    "word": "illustrate",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "说明；举例证明",
+    "definition": "To make an idea clearer by using an example, picture, or story.",
+    "detailed_definition": "To explain or clarify a point by providing examples, diagrams, or vivid details.",
+    "synonyms": [
+      "demonstrate",
+      "exemplify",
+      "show"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "illustrate",
+        "illustration",
+        "illustrative",
+        "illustrator"
+      ]
+    },
+    "collocations": [
+      "illustrate a point",
+      "illustrate with",
+      "clearly illustrate"
+    ],
+    "example_sentence": "Use a real-life example to illustrate how erosion shapes the coastline.",
+    "creative_writing_example": "Basic: Give an example. / Improved: Illustrate your claim with a precise case study.",
+    "part_of_speech": "verb",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0054",
+    "word": "interpret",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "解释；解读",
+    "definition": "To explain the meaning of something you have read, seen, or heard.",
+    "detailed_definition": "To make sense of information, data, or a text by deciding what it means in context.",
+    "synonyms": [
+      "explain",
+      "construe",
+      "decode"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "interpret",
+        "interpretation",
+        "interpreter",
+        "interpretive"
+      ]
+    },
+    "collocations": [
+      "interpret data",
+      "interpret a text",
+      "interpret findings"
+    ],
+    "example_sentence": "Interpret the graph by explaining what the rising line shows about temperature.",
+    "creative_writing_example": "Basic: Say what it means. / Improved: Interpret the narrator’s silence as a sign of conflict.",
+    "part_of_speech": "verb",
+    "difficulty_score": 4,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 7,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0055",
+    "word": "outline",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "概述；勾勒",
+    "definition": "To give the main points of a plan or text without all the details.",
+    "detailed_definition": "To present the essential structure or overview of ideas in a clear, abbreviated form.",
+    "synonyms": [
+      "summarise",
+      "sketch",
+      "overview"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "outline",
+        "outlines",
+        "outlined",
+        "outlining"
+      ]
+    },
+    "collocations": [
+      "outline a plan",
+      "brief outline",
+      "outline the steps"
+    ],
+    "example_sentence": "Outline your speech before you write the full script.",
+    "creative_writing_example": "Basic: List the main bits. / Improved: Outline three reasons before expanding each paragraph.",
+    "part_of_speech": "verb",
+    "difficulty_score": 2,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 9,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0056",
+    "word": "recognise",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "认出；承认",
+    "definition": "To know what something is because you have seen or learned it before; or to accept that it is true.",
+    "detailed_definition": "To identify someone or something from prior knowledge, or to acknowledge a fact, quality, or achievement.",
+    "synonyms": [
+      "identify",
+      "acknowledge",
+      "notice"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "recognise",
+        "recognition",
+        "recognisable",
+        "recognised"
+      ]
+    },
+    "collocations": [
+      "recognise a pattern",
+      "recognise that",
+      "widely recognised"
+    ],
+    "example_sentence": "I recognise that symbol from our map key in geography.",
+    "creative_writing_example": "Basic: I know what that is. / Improved: Recognise the author’s bias before you accept the claim.",
+    "part_of_speech": "verb",
+    "difficulty_score": 2,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 9,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0057",
+    "word": "represent",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "代表；表示",
+    "definition": "To stand for something else, or to show it in a particular way.",
+    "detailed_definition": "To symbolise, depict, or act on behalf of a person, idea, or group in words, images, or actions.",
+    "synonyms": [
+      "stand for",
+      "depict",
+      "symbolise"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "represent",
+        "representation",
+        "representative",
+        "representing"
+      ]
+    },
+    "collocations": [
+      "represent data",
+      "represent an idea",
+      "representative of"
+    ],
+    "example_sentence": "On this graph, each bar represents one week of rainfall.",
+    "creative_writing_example": "Basic: This stands for that. / Improved: The colour red may represent danger in the story.",
+    "part_of_speech": "verb",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0058",
+    "word": "reveal",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "揭示；显示",
+    "definition": "To make something known that was hidden or unclear.",
+    "detailed_definition": "To uncover information, feelings, or truths that were previously secret, unknown, or not obvious.",
+    "synonyms": [
+      "show",
+      "uncover",
+      "disclose"
+    ],
+    "antonyms": [
+      "conceal",
+      "hide"
+    ],
+    "word_family": {
+      "related": [
+        "reveal",
+        "revelation",
+        "revealing",
+        "revealed"
+      ]
+    },
+    "collocations": [
+      "reveal that",
+      "reveal a secret",
+      "reveal the truth"
+    ],
+    "example_sentence": "The final chapter reveals why the character fled the town.",
+    "creative_writing_example": "Basic: We found out the secret. / Improved: New evidence revealed a different cause for the decline.",
+    "part_of_speech": "verb",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0059",
+    "word": "transform",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "转变；改造",
+    "definition": "To change something completely in form or character.",
+    "detailed_definition": "To alter a person, place, or idea so thoroughly that it becomes markedly different.",
+    "synonyms": [
+      "change",
+      "convert",
+      "reshape"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "transform",
+        "transformation",
+        "transformative",
+        "transformer"
+      ]
+    },
+    "collocations": [
+      "transform into",
+      "transform society",
+      "completely transform"
+    ],
+    "example_sentence": "Technology can transform the way we learn and share ideas.",
+    "creative_writing_example": "Basic: It changed a lot. / Improved: The new parkland transformed the empty lot into a community space.",
+    "part_of_speech": "verb",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0060",
+    "word": "complex",
+    "level": 1,
+    "category": "Academic Core Vocabulary",
+    "chinese": "复杂的",
+    "definition": "Made of many connected parts; not simple.",
+    "detailed_definition": "Complicated because it involves many interrelated elements that must be understood together.",
+    "synonyms": [
+      "complicated",
+      "intricate",
+      "elaborate"
+    ],
+    "antonyms": [
+      "simple",
+      "straightforward"
+    ],
+    "word_family": {
+      "related": [
+        "complex",
+        "complexity",
+        "complexes"
+      ]
+    },
+    "collocations": [
+      "complex problem",
+      "complex system",
+      "highly complex"
+    ],
+    "example_sentence": "Climate is a complex system influenced by ocean, land, and atmosphere.",
+    "creative_writing_example": "Basic: It’s hard and has lots of parts. / Improved: The novel explores a complex relationship between the rivals.",
+    "part_of_speech": "adjective",
+    "difficulty_score": 3,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 8,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0061",
+    "word": "assess",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "评定；评估",
+    "definition": "To judge the quality or importance of something using clear standards.",
+    "detailed_definition": "To evaluate performance, evidence, or risk systematically against criteria in order to form a reasoned judgement.",
+    "synonyms": [
+      "evaluate",
+      "appraise",
+      "judge"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "assess",
+        "assessment",
+        "assessable",
+        "assessor"
+      ]
+    },
+    "collocations": [
+      "assess risk",
+      "assess performance",
+      "formatively assess"
+    ],
+    "example_sentence": "Teachers assess writing using criteria such as structure, vocabulary, and clarity.",
+    "creative_writing_example": "Basic: Give it a mark. / Improved: Assess each source for reliability before you cite it.",
+    "part_of_speech": "verb",
+    "difficulty_score": 5,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 6,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0062",
+    "word": "criteria",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "标准（复数）",
+    "definition": "The rules or standards you use to judge something.",
+    "detailed_definition": "A set of principles or requirements used as a basis for making judgements or decisions. (Singular: criterion.)",
+    "synonyms": [
+      "standards",
+      "benchmarks",
+      "requirements"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "criterion",
+        "criteria"
+      ]
+    },
+    "collocations": [
+      "success criteria",
+      "meet the criteria",
+      "assessment criteria"
+    ],
+    "example_sentence": "Our success criteria for the poster include clear headings and accurate facts.",
+    "creative_writing_example": "Basic: These are the rules for marking. / Improved: Apply the criteria fairly to every group’s project.",
+    "part_of_speech": "noun",
+    "difficulty_score": 5,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 6,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0063",
+    "word": "hypothesis",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "假设；假说",
+    "definition": "An idea you suggest as a possible answer that you will test.",
+    "detailed_definition": "A testable statement that predicts a relationship or outcome and can be supported or challenged by evidence.",
+    "synonyms": [
+      "prediction",
+      "theory",
+      "proposition"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "hypothesis",
+        "hypotheses",
+        "hypothesise",
+        "hypothetical"
+      ]
+    },
+    "collocations": [
+      "test a hypothesis",
+      "form a hypothesis",
+      "support the hypothesis"
+    ],
+    "example_sentence": "Our hypothesis is that plants given more light will grow taller in two weeks.",
+    "creative_writing_example": "Basic: We guess this will happen. / Improved: Our hypothesis predicts a measurable difference between groups.",
+    "part_of_speech": "noun",
+    "difficulty_score": 5,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 6,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0064",
+    "word": "implication",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "含义；可能的影响",
+    "definition": "A possible result or meaning that follows from something, even if it is not stated directly.",
+    "detailed_definition": "A suggested consequence or significance that can be inferred from a fact, decision, or statement.",
+    "synonyms": [
+      "consequence",
+      "significance",
+      "ramification"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "implication",
+        "implications",
+        "imply",
+        "implied"
+      ]
+    },
+    "collocations": [
+      "implications of",
+      "serious implications",
+      "practical implications"
+    ],
+    "example_sentence": "One implication of banning single-use plastics is less litter on beaches.",
+    "creative_writing_example": "Basic: This might mean that… / Improved: Consider the wider implications of the policy for rural schools.",
+    "part_of_speech": "noun",
+    "difficulty_score": 6,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 5,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0065",
+    "word": "inference",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "推断；推论",
+    "definition": "A smart guess based on clues and what you already know.",
+    "detailed_definition": "A conclusion reached by reasoning from evidence and prior knowledge rather than from a statement made directly.",
+    "synonyms": [
+      "conclusion",
+      "deduction",
+      "reading between the lines"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "inference",
+        "infer",
+        "inferential",
+        "inferred"
+      ]
+    },
+    "collocations": [
+      "make an inference",
+      "logical inference",
+      "inference from"
+    ],
+    "example_sentence": "From the muddy footprints, our inference was that someone had crossed the oval after rain.",
+    "creative_writing_example": "Basic: I guessed from the clues. / Improved: Make an inference supported by two details in the text.",
+    "part_of_speech": "noun",
+    "difficulty_score": 5,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 6,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0066",
+    "word": "integrate",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "整合；使结合",
+    "definition": "To combine parts so they work together as a whole.",
+    "detailed_definition": "To bring ideas, systems, or groups into a unified structure where each element contributes effectively.",
+    "synonyms": [
+      "combine",
+      "merge",
+      "incorporate"
+    ],
+    "antonyms": [
+      "separate",
+      "isolate"
+    ],
+    "word_family": {
+      "related": [
+        "integrate",
+        "integration",
+        "integrated",
+        "integrative"
+      ]
+    },
+    "collocations": [
+      "integrate into",
+      "integrate ideas",
+      "fully integrate"
+    ],
+    "example_sentence": "Integrate quotations smoothly into your own sentences instead of dropping them in alone.",
+    "creative_writing_example": "Basic: Put the parts together. / Improved: Integrate science vocabulary into your explanation naturally.",
+    "part_of_speech": "verb",
+    "difficulty_score": 5,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 6,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0067",
+    "word": "phenomenon",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "现象",
+    "definition": "Something that happens or appears, especially something interesting that we study.",
+    "detailed_definition": "An observable event, fact, or situation—often unusual or noteworthy—that can be investigated scientifically or socially.",
+    "synonyms": [
+      "event",
+      "occurrence",
+      "happening"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "phenomenon",
+        "phenomena",
+        "phenomenal"
+      ]
+    },
+    "collocations": [
+      "natural phenomenon",
+      "social phenomenon",
+      "explain a phenomenon"
+    ],
+    "example_sentence": "Auroras are a natural phenomenon caused by activity in Earth’s atmosphere.",
+    "creative_writing_example": "Basic: It’s a strange thing that happens. / Improved: The phenomenon of urban heat islands affects city temperatures.",
+    "part_of_speech": "noun",
+    "difficulty_score": 6,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 5,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0068",
+    "word": "proportion",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "比例；部分",
+    "definition": "The size of one part compared with the whole or with another part.",
+    "detailed_definition": "A comparative relationship between quantities, or a share of a total expressed relatively.",
+    "synonyms": [
+      "share",
+      "ratio",
+      "percentage"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "proportion",
+        "proportions",
+        "proportional",
+        "proportionally"
+      ]
+    },
+    "collocations": [
+      "in proportion",
+      "large proportion",
+      "proportion of"
+    ],
+    "example_sentence": "A large proportion of the class preferred the non-fiction text.",
+    "creative_writing_example": "Basic: A big part of… / Improved: A significant proportion of plastic waste enters waterways each year.",
+    "part_of_speech": "noun",
+    "difficulty_score": 5,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 6,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0069",
+    "word": "synthesise",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "综合；合成",
+    "definition": "To combine information from different sources into a new, clear whole.",
+    "detailed_definition": "To integrate ideas or data from multiple places to create an original summary, argument, or product.",
+    "synonyms": [
+      "combine",
+      "integrate",
+      "fuse"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "synthesise",
+        "synthesis",
+        "synthetic",
+        "synthesiser"
+      ]
+    },
+    "collocations": [
+      "synthesise information",
+      "synthesise findings",
+      "synthesise sources"
+    ],
+    "example_sentence": "Synthesise notes from three articles before you write your report.",
+    "creative_writing_example": "Basic: Mix the ideas together. / Improved: Synthesise the evidence to form one coherent argument.",
+    "part_of_speech": "verb",
+    "difficulty_score": 6,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 5,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0070",
+    "word": "valid",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "有效的；合理的",
+    "definition": "Fair, reasonable, and based on good reasons or evidence.",
+    "detailed_definition": "Well-founded and logically sound; acceptable according to rules, evidence, or reasoning.",
+    "synonyms": [
+      "sound",
+      "legitimate",
+      "reasonable"
+    ],
+    "antonyms": [
+      "invalid",
+      "flawed"
+    ],
+    "word_family": {
+      "related": [
+        "valid",
+        "validity",
+        "validate",
+        "validation",
+        "invalid"
+      ]
+    },
+    "collocations": [
+      "valid reason",
+      "valid argument",
+      "remain valid"
+    ],
+    "example_sentence": "A valid argument uses evidence that actually supports the claim.",
+    "creative_writing_example": "Basic: That reason is okay. / Improved: Only valid measurements should be included in the final average.",
+    "part_of_speech": "adjective",
+    "difficulty_score": 5,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 6,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0071",
+    "word": "variable",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "变量",
+    "definition": "Something in an experiment that can change or be changed.",
+    "detailed_definition": "A factor that can take different values; in fair tests, scientists control some variables and change one deliberately.",
+    "synonyms": [
+      "factor",
+      "element"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "variable",
+        "variables",
+        "vary",
+        "variation"
+      ]
+    },
+    "collocations": [
+      "independent variable",
+      "dependent variable",
+      "control variables"
+    ],
+    "example_sentence": "Temperature was the independent variable we changed in each trial.",
+    "creative_writing_example": "Basic: The thing we change. / Improved: Identify every variable that could affect the results.",
+    "part_of_speech": "noun",
+    "difficulty_score": 5,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 6,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0072",
+    "word": "coherent",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "连贯的；清晰有条理的",
+    "definition": "Clear, logical, and easy to follow because the parts connect well.",
+    "detailed_definition": "Organised so that ideas fit together consistently and the whole makes sense to the reader or listener.",
+    "synonyms": [
+      "logical",
+      "clear",
+      "consistent"
+    ],
+    "antonyms": [
+      "confused",
+      "disjointed"
+    ],
+    "word_family": {
+      "related": [
+        "coherent",
+        "coherence",
+        "coherently",
+        "incoherent"
+      ]
+    },
+    "collocations": [
+      "coherent argument",
+      "coherent structure",
+      "remain coherent"
+    ],
+    "example_sentence": "A coherent paragraph sticks to one main idea and uses linking words.",
+    "creative_writing_example": "Basic: It makes sense. / Improved: Revise until your argument is coherent from start to finish.",
+    "part_of_speech": "adjective",
+    "difficulty_score": 6,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 5,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0073",
+    "word": "comprehensive",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "全面的；详尽的",
+    "definition": "Including nearly everything that is needed; very complete.",
+    "detailed_definition": "Broad and thorough in coverage, addressing all major parts of a topic or task.",
+    "synonyms": [
+      "thorough",
+      "complete",
+      "wide-ranging"
+    ],
+    "antonyms": [
+      "partial",
+      "narrow"
+    ],
+    "word_family": {
+      "related": [
+        "comprehensive",
+        "comprehensively",
+        "comprehensiveness"
+      ]
+    },
+    "collocations": [
+      "comprehensive study",
+      "comprehensive list",
+      "comprehensive review"
+    ],
+    "example_sentence": "The library guide offers a comprehensive overview of research skills.",
+    "creative_writing_example": "Basic: It covers a lot. / Improved: Write a comprehensive report that addresses every success criterion.",
+    "part_of_speech": "adjective",
+    "difficulty_score": 5,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 6,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0074",
+    "word": "distinguish",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "区分；辨别",
+    "definition": "To notice or explain the difference between two or more things.",
+    "detailed_definition": "To recognise or mark how items, ideas, or qualities differ so they can be treated separately.",
+    "synonyms": [
+      "differentiate",
+      "tell apart",
+      "separate"
+    ],
+    "antonyms": [
+      "confuse"
+    ],
+    "word_family": {
+      "related": [
+        "distinguish",
+        "distinction",
+        "distinct",
+        "distinctive"
+      ]
+    },
+    "collocations": [
+      "distinguish between",
+      "distinguish from",
+      "clearly distinguish"
+    ],
+    "example_sentence": "Distinguish between fact and opinion when you read the news article.",
+    "creative_writing_example": "Basic: Tell them apart. / Improved: Distinguish reliable sources from biased ones.",
+    "part_of_speech": "verb",
+    "difficulty_score": 5,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 6,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0075",
+    "word": "elaborate",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "详述；详细说明",
+    "definition": "To add more detail to an idea so it becomes clearer and richer.",
+    "detailed_definition": "To develop a point more fully with explanations, examples, or precise language.",
+    "synonyms": [
+      "expand",
+      "develop",
+      "detail"
+    ],
+    "antonyms": [
+      "simplify",
+      "condense"
+    ],
+    "word_family": {
+      "related": [
+        "elaborate",
+        "elaboration",
+        "elaborated",
+        "elaborately"
+      ]
+    },
+    "collocations": [
+      "elaborate on",
+      "elaborate further",
+      "elaborate explanation"
+    ],
+    "example_sentence": "Please elaborate on your answer by adding a second reason.",
+    "creative_writing_example": "Basic: Say more. / Improved: Elaborate your claim with a concrete example from the text.",
+    "part_of_speech": "verb",
+    "difficulty_score": 5,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 6,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0076",
+    "word": "formulate",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "制定；确切表达",
+    "definition": "To create or express an idea, plan, or question carefully.",
+    "detailed_definition": "To develop something systematically—such as a hypothesis, policy, or sentence—using precise thought and language.",
+    "synonyms": [
+      "develop",
+      "create",
+      "craft"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "formulate",
+        "formulation",
+        "formulated"
+      ]
+    },
+    "collocations": [
+      "formulate a plan",
+      "formulate a question",
+      "carefully formulate"
+    ],
+    "example_sentence": "Formulate a research question that can be investigated in two weeks.",
+    "creative_writing_example": "Basic: Make a plan. / Improved: Formulate a hypothesis that is clear and testable.",
+    "part_of_speech": "verb",
+    "difficulty_score": 6,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 5,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0077",
+    "word": "derive",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "得出；源自",
+    "definition": "To get something from a source, or to work something out from information.",
+    "detailed_definition": "To obtain a result, meaning, or substance from an origin through reasoning, calculation, or extraction.",
+    "synonyms": [
+      "obtain",
+      "deduce",
+      "extract"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "derive",
+        "derivation",
+        "derivative",
+        "derived"
+      ]
+    },
+    "collocations": [
+      "derive from",
+      "derive meaning",
+      "derive a conclusion"
+    ],
+    "example_sentence": "We can derive the meaning of the word from the surrounding sentences.",
+    "creative_writing_example": "Basic: We got it from… / Improved: Derive your conclusion strictly from the evidence presented.",
+    "part_of_speech": "verb",
+    "difficulty_score": 6,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 5,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0078",
+    "word": "cite",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "引用；引证",
+    "definition": "To mention a source of information to support what you say.",
+    "detailed_definition": "To quote or refer to an authority, text, or piece of evidence as backing for a claim.",
+    "synonyms": [
+      "quote",
+      "reference",
+      "mention"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "cite",
+        "citation",
+        "cited",
+        "citing"
+      ]
+    },
+    "collocations": [
+      "cite a source",
+      "cite evidence",
+      "cite as"
+    ],
+    "example_sentence": "Cite the website and the date you accessed it in your bibliography.",
+    "creative_writing_example": "Basic: Say where you found it. / Improved: Cite two scholarly sources to strengthen your argument.",
+    "part_of_speech": "verb",
+    "difficulty_score": 5,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 6,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0079",
+    "word": "qualitative",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "定性的",
+    "definition": "Describing qualities or characteristics rather than numbers.",
+    "detailed_definition": "Related to non-numerical information such as descriptions, opinions, or observed features.",
+    "synonyms": [
+      "descriptive",
+      "non-numerical"
+    ],
+    "antonyms": [
+      "quantitative"
+    ],
+    "word_family": {
+      "related": [
+        "qualitative",
+        "qualitatively",
+        "quality"
+      ]
+    },
+    "collocations": [
+      "qualitative data",
+      "qualitative research",
+      "qualitative analysis"
+    ],
+    "example_sentence": "Interview answers are qualitative data because they describe experiences in words.",
+    "creative_writing_example": "Basic: Not number data. / Improved: Qualitative observations noted the colour and texture of each sample.",
+    "part_of_speech": "adjective",
+    "difficulty_score": 6,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 5,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0080",
+    "word": "quantitative",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "定量的",
+    "definition": "Related to amounts that can be measured with numbers.",
+    "detailed_definition": "Concerned with numerical measurement, counting, or statistics rather than descriptive qualities alone.",
+    "synonyms": [
+      "numerical",
+      "measurable"
+    ],
+    "antonyms": [
+      "qualitative"
+    ],
+    "word_family": {
+      "related": [
+        "quantitative",
+        "quantitatively",
+        "quantity"
+      ]
+    },
+    "collocations": [
+      "quantitative data",
+      "quantitative analysis",
+      "quantitative methods"
+    ],
+    "example_sentence": "Recording height in centimetres gives quantitative data.",
+    "creative_writing_example": "Basic: Number data. / Improved: Quantitative results showed a 20% increase in germination.",
+    "part_of_speech": "adjective",
+    "difficulty_score": 6,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 5,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0081",
+    "word": "capacity",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "能力；容量",
+    "definition": "The ability to do something, or the amount something can hold.",
+    "detailed_definition": "The power, skill, or volume available to perform a function or contain a quantity.",
+    "synonyms": [
+      "ability",
+      "capability",
+      "volume"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "capacity",
+        "capacities",
+        "capacious"
+      ]
+    },
+    "collocations": [
+      "capacity to",
+      "full capacity",
+      "build capacity"
+    ],
+    "example_sentence": "The hall has a capacity of two hundred people for the concert.",
+    "creative_writing_example": "Basic: How much it can do/hold. / Improved: Reading widely builds your capacity to analyse complex texts.",
+    "part_of_speech": "noun",
+    "difficulty_score": 5,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 6,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0082",
+    "word": "constitute",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "构成；组成",
+    "definition": "To be the parts that make up a whole, or to count as something.",
+    "detailed_definition": "To form or compose something; to amount to a particular thing in law or reasoning.",
+    "synonyms": [
+      "form",
+      "compose",
+      "make up"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "constitute",
+        "constitution",
+        "constituent",
+        "constitutional"
+      ]
+    },
+    "collocations": [
+      "constitute a threat",
+      "constitute evidence",
+      "constitute the majority"
+    ],
+    "example_sentence": "These five paragraphs constitute the body of your essay.",
+    "creative_writing_example": "Basic: These make up the whole. / Improved: Three reliable sources constitute sufficient evidence for this claim.",
+    "part_of_speech": "verb",
+    "difficulty_score": 6,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 5,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0083",
+    "word": "correspond",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "符合；对应",
+    "definition": "To match or be similar to something else; also, to write letters to someone.",
+    "detailed_definition": "To be in agreement or equivalent relationship with another item, idea, or set of data.",
+    "synonyms": [
+      "match",
+      "agree",
+      "align"
+    ],
+    "antonyms": [
+      "differ",
+      "conflict"
+    ],
+    "word_family": {
+      "related": [
+        "correspond",
+        "correspondence",
+        "corresponding",
+        "correspondingly"
+      ]
+    },
+    "collocations": [
+      "correspond to",
+      "correspond with",
+      "closely correspond"
+    ],
+    "example_sentence": "Each symbol on the map should correspond to a clear item in the key.",
+    "creative_writing_example": "Basic: They match. / Improved: The results correspond closely with our original prediction.",
+    "part_of_speech": "verb",
+    "difficulty_score": 5,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 6,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0084",
+    "word": "diminish",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "减少；削弱",
+    "definition": "To become smaller or less important, or to make something smaller.",
+    "detailed_definition": "To reduce in size, strength, value, or intensity over time or through an action.",
+    "synonyms": [
+      "reduce",
+      "lessen",
+      "decrease"
+    ],
+    "antonyms": [
+      "increase",
+      "grow"
+    ],
+    "word_family": {
+      "related": [
+        "diminish",
+        "diminished",
+        "diminishing",
+        "diminution"
+      ]
+    },
+    "collocations": [
+      "diminish over time",
+      "diminish the impact",
+      "rapidly diminish"
+    ],
+    "example_sentence": "Habitats diminish when wetlands are drained for building.",
+    "creative_writing_example": "Basic: It got smaller. / Improved: Persistent litter can diminish the beauty of a national park.",
+    "part_of_speech": "verb",
+    "difficulty_score": 5,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 6,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0085",
+    "word": "emerge",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "出现；显现",
+    "definition": "To come out or become known after being hidden.",
+    "detailed_definition": "To appear, develop, or become apparent after a process, investigation, or period of change.",
+    "synonyms": [
+      "appear",
+      "arise",
+      "surface"
+    ],
+    "antonyms": [
+      "disappear"
+    ],
+    "word_family": {
+      "related": [
+        "emerge",
+        "emergence",
+        "emerging",
+        "emergent"
+      ]
+    },
+    "collocations": [
+      "emerge from",
+      "begin to emerge",
+      "newly emerged"
+    ],
+    "example_sentence": "A clear pattern began to emerge after we organised the survey results.",
+    "creative_writing_example": "Basic: It started to show. / Improved: New leaders often emerge during community challenges.",
+    "part_of_speech": "verb",
+    "difficulty_score": 5,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 6,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0086",
+    "word": "reinforce",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "加强；强化",
+    "definition": "To make an idea, structure, or behaviour stronger.",
+    "detailed_definition": "To strengthen a claim, habit, or physical structure by adding support, repetition, or additional evidence.",
+    "synonyms": [
+      "strengthen",
+      "support",
+      "bolster"
+    ],
+    "antonyms": [
+      "weaken",
+      "undermine"
+    ],
+    "word_family": {
+      "related": [
+        "reinforce",
+        "reinforcement",
+        "reinforced",
+        "reinforcing"
+      ]
+    },
+    "collocations": [
+      "reinforce an idea",
+      "reinforce learning",
+      "positively reinforce"
+    ],
+    "example_sentence": "Extra examples reinforce your argument and make it more convincing.",
+    "creative_writing_example": "Basic: Make it stronger. / Improved: Cite a second study to reinforce your conclusion.",
+    "part_of_speech": "verb",
+    "difficulty_score": 5,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 6,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0087",
+    "word": "subsequent",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "随后的；后来的",
+    "definition": "Coming after something else in time.",
+    "detailed_definition": "Following in order or time; occurring as a later stage in a sequence of events.",
+    "synonyms": [
+      "following",
+      "later",
+      "ensuing"
+    ],
+    "antonyms": [
+      "previous",
+      "prior"
+    ],
+    "word_family": {
+      "related": [
+        "subsequent",
+        "subsequently"
+      ]
+    },
+    "collocations": [
+      "subsequent events",
+      "subsequent chapters",
+      "in subsequent years"
+    ],
+    "example_sentence": "The first test failed, but subsequent trials produced clearer results.",
+    "creative_writing_example": "Basic: The ones after that… / Improved: Subsequent chapters reveal the narrator’s true motive.",
+    "part_of_speech": "adjective",
+    "difficulty_score": 6,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 5,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0088",
+    "word": "sufficient",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "足够的",
+    "definition": "Enough for what is needed.",
+    "detailed_definition": "Adequate in amount or quality to meet a requirement or achieve a purpose.",
+    "synonyms": [
+      "enough",
+      "adequate",
+      "ample"
+    ],
+    "antonyms": [
+      "insufficient",
+      "inadequate"
+    ],
+    "word_family": {
+      "related": [
+        "sufficient",
+        "sufficiently",
+        "suffice",
+        "insufficient"
+      ]
+    },
+    "collocations": [
+      "sufficient evidence",
+      "sufficient time",
+      "sufficient for"
+    ],
+    "example_sentence": "Two strong quotations are sufficient support for this short paragraph.",
+    "creative_writing_example": "Basic: That’s enough. / Improved: Ensure you have sufficient evidence before drawing a conclusion.",
+    "part_of_speech": "adjective",
+    "difficulty_score": 5,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 6,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0089",
+    "word": "underlying",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "潜在的；根本的",
+    "definition": "Hidden beneath the surface but still important; the real base of something.",
+    "detailed_definition": "Forming the foundation or real cause of a situation, even if it is not immediately obvious.",
+    "synonyms": [
+      "fundamental",
+      "root",
+      "basic"
+    ],
+    "antonyms": [
+      "surface",
+      "superficial"
+    ],
+    "word_family": {
+      "related": [
+        "underlying",
+        "underlie",
+        "underlies",
+        "underlain"
+      ]
+    },
+    "collocations": [
+      "underlying cause",
+      "underlying assumption",
+      "underlying principle"
+    ],
+    "example_sentence": "An underlying cause of the conflict was competition for scarce water.",
+    "creative_writing_example": "Basic: The real reason underneath… / Improved: Identify the underlying assumption in the author’s argument.",
+    "part_of_speech": "adjective",
+    "difficulty_score": 6,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 5,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0090",
+    "word": "undertake",
+    "level": 2,
+    "category": "Academic Core Vocabulary",
+    "chinese": "承担；着手做",
+    "definition": "To begin and take responsibility for a task or project.",
+    "detailed_definition": "To commit to carrying out a piece of work, study, or duty, often one that requires effort.",
+    "synonyms": [
+      "begin",
+      "carry out",
+      "take on"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "undertake",
+        "undertaking",
+        "undertook",
+        "undertaken"
+      ]
+    },
+    "collocations": [
+      "undertake a project",
+      "undertake research",
+      "undertake responsibility"
+    ],
+    "example_sentence": "Our class will undertake a week-long inquiry into local wildlife corridors.",
+    "creative_writing_example": "Basic: We will do this project. / Improved: Students undertake independent research for the scholarship task.",
+    "part_of_speech": "verb",
+    "difficulty_score": 5,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 6,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0091",
+    "word": "paradigm",
+    "level": 3,
+    "category": "Academic Core Vocabulary",
+    "chinese": "范式；典范",
+    "definition": "A typical example or a widely accepted way of thinking about something.",
+    "detailed_definition": "A model or framework of ideas that shapes how people understand a subject; a shift in paradigm changes that whole framework.",
+    "synonyms": [
+      "model",
+      "framework",
+      "pattern"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "paradigm",
+        "paradigms",
+        "paradigmatic"
+      ]
+    },
+    "collocations": [
+      "paradigm shift",
+      "dominant paradigm",
+      "new paradigm"
+    ],
+    "example_sentence": "The invention of the internet created a new paradigm for sharing information.",
+    "creative_writing_example": "Basic: A new way of thinking. / Improved: Electric vehicles signal a paradigm shift in transport planning.",
+    "part_of_speech": "noun",
+    "difficulty_score": 8,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 3,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0092",
+    "word": "dichotomy",
+    "level": 3,
+    "category": "Academic Core Vocabulary",
+    "chinese": "二分法；对立",
+    "definition": "A division into two opposite or very different parts.",
+    "detailed_definition": "A contrast between two mutually exclusive categories or ideas, sometimes oversimplifying a more complex reality.",
+    "synonyms": [
+      "division",
+      "contrast",
+      "split"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "dichotomy",
+        "dichotomies",
+        "dichotomous"
+      ]
+    },
+    "collocations": [
+      "false dichotomy",
+      "dichotomy between",
+      "create a dichotomy"
+    ],
+    "example_sentence": "The story explores the dichotomy between freedom and safety.",
+    "creative_writing_example": "Basic: Two opposite sides. / Improved: Avoid a false dichotomy that ignores middle options.",
+    "part_of_speech": "noun",
+    "difficulty_score": 8,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 3,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0093",
+    "word": "nuanced",
+    "level": 3,
+    "category": "Academic Core Vocabulary",
+    "chinese": "细致入微的；有细微差别的",
+    "definition": "Showing small but important differences; not simple or black-and-white.",
+    "detailed_definition": "Subtle and carefully shaded in meaning; recognising complexity rather than treating something as all good or all bad.",
+    "synonyms": [
+      "subtle",
+      "sophisticated",
+      "fine-grained"
+    ],
+    "antonyms": [
+      "simplistic",
+      "crude"
+    ],
+    "word_family": {
+      "related": [
+        "nuance",
+        "nuanced",
+        "nuances"
+      ]
+    },
+    "collocations": [
+      "nuanced view",
+      "nuanced analysis",
+      "more nuanced"
+    ],
+    "example_sentence": "A nuanced response admits that the policy helps some communities more than others.",
+    "creative_writing_example": "Basic: It’s not that simple. / Improved: Offer a nuanced analysis that weighs both benefits and costs.",
+    "part_of_speech": "adjective",
+    "difficulty_score": 7,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 4,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0094",
+    "word": "exacerbate",
+    "level": 3,
+    "category": "Academic Core Vocabulary",
+    "chinese": "加剧；使恶化",
+    "definition": "To make a problem worse.",
+    "detailed_definition": "To intensify the severity of a difficult situation, conflict, or condition.",
+    "synonyms": [
+      "worsen",
+      "aggravate",
+      "intensify"
+    ],
+    "antonyms": [
+      "alleviate",
+      "ease"
+    ],
+    "word_family": {
+      "related": [
+        "exacerbate",
+        "exacerbation",
+        "exacerbated"
+      ]
+    },
+    "collocations": [
+      "exacerbate the problem",
+      "exacerbate tension",
+      "further exacerbate"
+    ],
+    "example_sentence": "Cutting native trees can exacerbate soil erosion after heavy rain.",
+    "creative_writing_example": "Basic: It made the problem worse. / Improved: Ignoring early warnings may exacerbate the crisis.",
+    "part_of_speech": "verb",
+    "difficulty_score": 8,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 3,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0095",
+    "word": "juxtapose",
+    "level": 3,
+    "category": "Academic Core Vocabulary",
+    "chinese": "并列；对照放置",
+    "definition": "To place two things side by side so their differences (or similarities) stand out.",
+    "detailed_definition": "To position contrasting ideas, images, or scenes next to each other for deliberate comparison or effect.",
+    "synonyms": [
+      "contrast",
+      "place side by side",
+      "compare"
+    ],
+    "antonyms": [],
+    "word_family": {
+      "related": [
+        "juxtapose",
+        "juxtaposition",
+        "juxtaposed"
+      ]
+    },
+    "collocations": [
+      "juxtapose with",
+      "juxtapose images",
+      "deliberately juxtapose"
+    ],
+    "example_sentence": "The filmmaker juxtaposes noisy city streets with silent desert dunes.",
+    "creative_writing_example": "Basic: Put them next to each other to compare. / Improved: Juxtapose poverty and wealth to highlight injustice.",
+    "part_of_speech": "verb",
+    "difficulty_score": 8,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 3,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0096",
+    "word": "empirical",
+    "level": 3,
+    "category": "Academic Core Vocabulary",
+    "chinese": "经验的；实证的",
+    "definition": "Based on real observation, experience, or experiment—not only on theory.",
+    "detailed_definition": "Grounded in measurable evidence gathered through observation or testing rather than speculation alone.",
+    "synonyms": [
+      "observed",
+      "experimental",
+      "evidence-based"
+    ],
+    "antonyms": [
+      "theoretical",
+      "speculative"
+    ],
+    "word_family": {
+      "related": [
+        "empirical",
+        "empirically",
+        "empiricism"
+      ]
+    },
+    "collocations": [
+      "empirical evidence",
+      "empirical data",
+      "empirical research"
+    ],
+    "example_sentence": "Scientists look for empirical evidence before accepting a bold claim.",
+    "creative_writing_example": "Basic: Based on real tests. / Improved: Empirical data from the trials supported the hypothesis.",
+    "part_of_speech": "adjective",
+    "difficulty_score": 7,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 4,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0097",
+    "word": "intrinsic",
+    "level": 3,
+    "category": "Academic Core Vocabulary",
+    "chinese": "内在的；固有的",
+    "definition": "Belonging naturally to something as part of what it is.",
+    "detailed_definition": "Essential and inherent; existing within a person or thing rather than coming from outside rewards or causes.",
+    "synonyms": [
+      "inherent",
+      "innate",
+      "built-in"
+    ],
+    "antonyms": [
+      "extrinsic",
+      "external"
+    ],
+    "word_family": {
+      "related": [
+        "intrinsic",
+        "intrinsically"
+      ]
+    },
+    "collocations": [
+      "intrinsic value",
+      "intrinsic motivation",
+      "intrinsic quality"
+    ],
+    "example_sentence": "Curiosity is an intrinsic motivation for many strong learners.",
+    "creative_writing_example": "Basic: It comes from inside. / Improved: The artwork has intrinsic value beyond its price.",
+    "part_of_speech": "adjective",
+    "difficulty_score": 7,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 4,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0098",
+    "word": "ambiguous",
+    "level": 3,
+    "category": "Academic Core Vocabulary",
+    "chinese": "模棱两可的；含糊的",
+    "definition": "Unclear because it can be understood in more than one way.",
+    "detailed_definition": "Open to multiple interpretations; lacking a single definite meaning, sometimes deliberately.",
+    "synonyms": [
+      "unclear",
+      "vague",
+      "equivocal"
+    ],
+    "antonyms": [
+      "clear",
+      "unambiguous"
+    ],
+    "word_family": {
+      "related": [
+        "ambiguous",
+        "ambiguity",
+        "ambiguously",
+        "unambiguous"
+      ]
+    },
+    "collocations": [
+      "ambiguous ending",
+      "ambiguous statement",
+      "deliberately ambiguous"
+    ],
+    "example_sentence": "The ending is ambiguous, so readers must decide what happened to the hero.",
+    "creative_writing_example": "Basic: It’s unclear. / Improved: The ambiguous wording left the rule open to dispute.",
+    "part_of_speech": "adjective",
+    "difficulty_score": 7,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 4,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0099",
+    "word": "corroborate",
+    "level": 3,
+    "category": "Academic Core Vocabulary",
+    "chinese": "证实；确证",
+    "definition": "To give extra evidence that supports what someone else has said.",
+    "detailed_definition": "To confirm or strengthen a claim, account, or finding by providing independent supporting evidence.",
+    "synonyms": [
+      "confirm",
+      "support",
+      "verify"
+    ],
+    "antonyms": [
+      "contradict",
+      "disprove"
+    ],
+    "word_family": {
+      "related": [
+        "corroborate",
+        "corroboration",
+        "corroborative",
+        "corroborated"
+      ]
+    },
+    "collocations": [
+      "corroborate evidence",
+      "corroborate a claim",
+      "independently corroborate"
+    ],
+    "example_sentence": "A second witness can corroborate the first student’s report of the incident.",
+    "creative_writing_example": "Basic: Another fact that agrees. / Improved: Cite a second study to corroborate your findings.",
+    "part_of_speech": "verb",
+    "difficulty_score": 8,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 3,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  },
+  {
+    "id": "VAC0100",
+    "word": "precarious",
+    "level": 3,
+    "category": "Academic Core Vocabulary",
+    "chinese": "不稳定的；危险的",
+    "definition": "Not safe or secure; likely to change or collapse.",
+    "detailed_definition": "Uncertain and unstable, involving risk because a situation could worsen suddenly.",
+    "synonyms": [
+      "unstable",
+      "insecure",
+      "risky"
+    ],
+    "antonyms": [
+      "secure",
+      "stable"
+    ],
+    "word_family": {
+      "related": [
+        "precarious",
+        "precariously",
+        "precariousness"
+      ]
+    },
+    "collocations": [
+      "precarious situation",
+      "precarious position",
+      "precarious balance"
+    ],
+    "example_sentence": "Many coastal homes face a precarious future as sea levels rise.",
+    "creative_writing_example": "Basic: It’s risky and unsteady. / Improved: The species survives in a precarious balance with its habitat.",
+    "part_of_speech": "adjective",
+    "difficulty_score": 7,
+    "review_schedule": [
+      "Day 1",
+      "Day 3",
+      "Day 7",
+      "Day 14",
+      "Day 30"
+    ],
+    "edutest_frequency": 4,
+    "writing_value": "Academic Core — improves precise academic expression",
+    "source_schema": "Y5Y6_Academic_Vocabulary_Master_V1"
+  }
+]

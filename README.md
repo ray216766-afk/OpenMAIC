@@ -277,7 +277,7 @@ pnpm dev
 
 Open **http://localhost:3007** and start learning.
 
-Oliver Scholarship Vocabulary Master (V1.0) is available at **http://localhost:3007/oliver-vocabulary**. See `Oliver_Vocabulary_System/Documentation.md`.
+Oliver Scholarship Vocabulary Master (V1.1, Academic Core Batch 1 — 100 words) is available at **http://localhost:3007/oliver-vocabulary**. See `Oliver_Vocabulary_System/Documentation.md`.
 
 ### 4. Build for Production
 

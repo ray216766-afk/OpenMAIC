@@ -42,8 +42,9 @@ export function curriculumSlice(
 }
 
 /**
- * Day N is a stable curriculum slot: words (N-1)*10 .. N*10-1 in level order.
- * Generating Day 25 always yields the same ten new words.
+ * Day N is a stable curriculum slot: words (N-1)*10 .. N*10-1 in level then id order.
+ * Academic Core Batch 1 therefore starts Day 1 on VAC0001–VAC0010 (analyse, significant, …).
+ * Generating the same day always yields the same ten new words.
  */
 export function selectNewWords(
   master: VocabularyEntry[],
