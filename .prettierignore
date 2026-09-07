@@ -27,5 +27,10 @@ out/
 *.yml
 *.yaml
 
+# Oliver vocabulary seed / generated master (compact source + large JSON)
+Oliver_Vocabulary_System/scripts/seed-*.ts
+Oliver_Vocabulary_System/Vocabulary_Master.json
+Oliver_Vocabulary_System/Lesson_Day_*.json
+
 # SVG arc helper (vendored declaration)
 lib/export/svg-arc-to-cubic-bezier.d.ts

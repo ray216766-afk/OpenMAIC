@@ -7,6 +7,7 @@ const nextConfig: NextConfig = {
       'lib/server/agent-runtime/import-pptx-worker.mjs',
       'skills/openmaic/**',
       'skills/agent-runtime/**',
+      'Oliver_Vocabulary_System/**',
     ],
   },
   typescript: {

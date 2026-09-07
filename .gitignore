@@ -81,6 +81,10 @@ eval/orchestration/results/
 eval/orchestration/results-answering/
 eval/orchestration/results-answer-content/
 
+# generated Oliver daily lesson snapshots (progress JSON is committed)
+Oliver_Vocabulary_System/Lesson_Day_*.json
+Oliver_Vocabulary_System/*.tmp
+
 # e2e screenshot artifacts
 e2e/screenshots/
 
