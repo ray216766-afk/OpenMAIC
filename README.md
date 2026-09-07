@@ -275,7 +275,9 @@ DEFAULT_MODEL=glm:glm-5.1
 pnpm dev
 ```
 
-Open **http://localhost:3000** and start learning!
+Open **http://localhost:3007** and start learning.
+
+Oliver Scholarship Vocabulary Master (V1.0) is available at **http://localhost:3007/oliver-vocabulary**. See `Oliver_Vocabulary_System/Documentation.md`.
 
 ### 4. Build for Production
 
