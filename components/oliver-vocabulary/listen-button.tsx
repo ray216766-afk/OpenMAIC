@@ -40,6 +40,7 @@ export function ListenButton({
       disabled={!supported || !text.trim()}
       aria-label={supported ? label : `Listen to ${word} is unavailable in this browser`}
       aria-pressed={speaking}
+      data-speaking={speaking ? 'true' : 'false'}
       title={supported ? label : 'Speech is not available in this browser'}
       onClick={() => onToggle(utteranceId, text)}
       className={cn(

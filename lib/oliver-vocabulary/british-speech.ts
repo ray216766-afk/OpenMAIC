@@ -110,6 +110,11 @@ export function listenAriaLabel(word: string, speaking: boolean): string {
   return speaking ? `Stop speaking ${word}` : `Listen to ${word} in British English`;
 }
 
+/** Chrome fires canceled/interrupted after cancel()+speak(); those must not reset the new button. */
+export function shouldClearSpeakingOnSpeechError(error: string): boolean {
+  return error !== 'canceled' && error !== 'interrupted';
+}
+
 export interface BritishUtteranceConfig {
   lang: typeof BRITISH_ENGLISH_LANG;
   rate: number;

@@ -7,6 +7,7 @@ import {
   isBritishEnglishLang,
   listenAriaLabel,
   selectBritishEnglishVoice,
+  shouldClearSpeakingOnSpeechError,
   speechTextForStudent,
   ukVoiceNameScore,
   type BrowserVoiceLike,
@@ -111,5 +112,12 @@ describe('Oliver vocabulary British English speech', () => {
   it('uses accessible Listen / Stop labels for the speaker control', () => {
     expect(listenAriaLabel('analyse', false)).toBe('Listen to analyse in British English');
     expect(listenAriaLabel('analyse', true)).toBe('Stop speaking analyse');
+  });
+
+  it('keeps speaking state through Chrome cancel/interrupt races', () => {
+    expect(shouldClearSpeakingOnSpeechError('canceled')).toBe(false);
+    expect(shouldClearSpeakingOnSpeechError('interrupted')).toBe(false);
+    expect(shouldClearSpeakingOnSpeechError('synthesis-failed')).toBe(true);
+    expect(shouldClearSpeakingOnSpeechError('not-allowed')).toBe(true);
   });
 });

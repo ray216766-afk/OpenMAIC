@@ -5,9 +5,11 @@ import { useCallback, useEffect, useRef, useState } from 'react';
 import {
   applyBritishEnglishUtterance,
   configureBritishEnglishSpeech,
+  shouldClearSpeakingOnSpeechError,
 } from '@/lib/oliver-vocabulary/british-speech';
 
 const SPEAK_AFTER_CANCEL_MS = 60;
+const SPEAKING_FALLBACK_MS = 2500;
 
 export function isSpeechSynthesisSupported(): boolean {
   return typeof window !== 'undefined' && typeof window.speechSynthesis !== 'undefined';
@@ -84,7 +86,8 @@ export function useBritishSpeech() {
             setSpeakingId(null);
           }
         };
-        utterance.onerror = () => {
+        utterance.onerror = (event) => {
+          if (!shouldClearSpeakingOnSpeechError(event.error)) return;
           if (activeIdRef.current === id) {
             activeIdRef.current = null;
             setSpeakingId(null);
@@ -92,6 +95,15 @@ export function useBritishSpeech() {
         };
 
         window.speechSynthesis.speak(utterance);
+
+        // Headless / voice-less browsers often never fire onend. Keep the
+        // Speaking state visible, then clear so the button does not stick.
+        window.setTimeout(() => {
+          if (activeIdRef.current === id) {
+            activeIdRef.current = null;
+            setSpeakingId(null);
+          }
+        }, SPEAKING_FALLBACK_MS);
       };
 
       // Chromium often drops speak() if it runs in the same turn as cancel().
