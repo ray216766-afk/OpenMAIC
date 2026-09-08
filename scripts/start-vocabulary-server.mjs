@@ -20,7 +20,11 @@ const repositoryRoot = dirname(fileURLToPath(new URL('../package.json', import.m
 export function parseSemver(version) {
   const [core] = String(version).replace(/^v/i, '').split('-');
   const [major = '0', minor = '0', patch = '0'] = core.split('.');
-  return [Number.parseInt(major, 10) || 0, Number.parseInt(minor, 10) || 0, Number.parseInt(patch, 10) || 0];
+  return [
+    Number.parseInt(major, 10) || 0,
+    Number.parseInt(minor, 10) || 0,
+    Number.parseInt(patch, 10) || 0,
+  ];
 }
 
 export function isNodeVersionSupported(version, minimum = REQUIRED_NODE_VERSION) {
@@ -33,7 +37,10 @@ export function isNodeVersionSupported(version, minimum = REQUIRED_NODE_VERSION)
   return true;
 }
 
-export function assertNodeVersion(version = process.versions.node, minimum = REQUIRED_NODE_VERSION) {
+export function assertNodeVersion(
+  version = process.versions.node,
+  minimum = REQUIRED_NODE_VERSION,
+) {
   if (!isNodeVersionSupported(version, minimum)) {
     throw new Error(
       `Node.js >= ${minimum} is required to start Oliver Vocabulary Master. Current: ${version}`,

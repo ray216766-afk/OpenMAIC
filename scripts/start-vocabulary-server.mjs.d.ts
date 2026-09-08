@@ -23,7 +23,4 @@ export function prepareVocabularyServer(
   host: string;
   port: number;
 }>;
-export function printAccessUrls(
-  log?: (...args: unknown[]) => void,
-  addresses?: string[],
-): void;
+export function printAccessUrls(log?: (...args: unknown[]) => void, addresses?: string[]): void;
