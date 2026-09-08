@@ -59,8 +59,8 @@ Both `dev` and `start` use `-p 3007`. Then open:
 
 The page shows:
 
-1. **New Vocabulary** — 10 words (English only: POS, simple definition, family, collocations, example, creative upgrade)
-2. **Review Vocabulary** — 15 words + exercises (prefers prior days and `review_schedule`)
+1. **New Vocabulary** — 10 words (English only: POS, simple definition, family, collocations, example, creative upgrade) plus a **Listen** speaker on each word
+2. **Review Vocabulary** — 15 headwords with Listen, plus exercises (prefers prior days and `review_schedule`)
 3. **Mini Reading** — 150–200 words
 4. **Reading Questions** — 3–5 items
 
@@ -194,6 +194,19 @@ Day N is a stable curriculum slot (Day 1 = first ten level-ordered Academic Core
 
 Generating a lesson writes `first_seen`. Completing review exercises updates `review_count`, `correct_rate`, and mastery.
 
+## Listen — standard British English (en-GB)
+
+Each new-word card and each review headword has a **Listen** speaker control on `/oliver-vocabulary`.
+
+- Playback uses the browser **Web Speech API** (`speechSynthesis`). No API key is required.
+- The utterance language is always **`en-GB`** (standard British English).
+- Voice selection prefers en-GB voices such as Google UK English and Microsoft Hazel / Daniel. **en-AU is never preferred.**
+- Clicking Listen on another word stops the previous utterance. The active button shows a Speaking state.
+- Student view is English-only. Listen never speaks Chinese (parent-reference translations stay silent).
+- Example-sentence Listen on new-word cards is optional; the primary action speaks the headword.
+
+OpenMAIC cloud TTS is not required for this control. Keyless Listen must keep working even when no TTS provider is configured.
+
 ## Mini reading
 
 Passages are English only, scholarship difficulty, Australian school/camp/exam settings. Themes rotate: adventure, mystery, science, history, character challenge, real-world. Each passage includes at least five of that day’s new words plus review words, then 3–5 questions (vocabulary in context, main idea, inference, detail).
@@ -213,5 +226,5 @@ Do not implement writing generation or book-specific vocabulary here. Future mod
 ## Tests
 
 ```bash
-pnpm exec vitest run tests/oliver-vocabulary/engine.test.ts
+pnpm exec vitest run tests/oliver-vocabulary/engine.test.ts tests/oliver-vocabulary/british-speech.test.ts
 ```

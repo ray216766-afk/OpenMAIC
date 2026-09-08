@@ -4,8 +4,10 @@ import { useCallback, useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
 import { BookOpen, Check, Loader2, Sparkles } from 'lucide-react';
 
+import { ListenButton } from '@/components/oliver-vocabulary/listen-button';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
+import { useBritishSpeech } from '@/lib/oliver-vocabulary/use-british-speech';
 import { cn } from '@/lib/utils';
 import { formatWordFamily } from '@/Oliver_Vocabulary_System/normalize';
 import type {
@@ -13,6 +15,7 @@ import type {
   ParentLessonReference,
   ProgressEntry,
   QuizAnswer,
+  StudentVocabularyCard,
   WordFamily,
 } from '@/Oliver_Vocabulary_System/types';
 
@@ -55,6 +58,7 @@ export function OliverVocabularyClient() {
   const [answers, setAnswers] = useState<Record<string, string>>({});
   const [quizScore, setQuizScore] = useState<string | null>(null);
   const [submitting, setSubmitting] = useState(false);
+  const { supported: speechSupported, speakingId, toggle: toggleSpeech } = useBritishSpeech();
 
   const loadProgress = useCallback(async () => {
     const res = await fetch('/api/oliver-vocabulary/progress');
@@ -141,8 +145,8 @@ export function OliverVocabularyClient() {
           <p className="max-w-3xl text-sm text-[#e8dfd0]">
             English-only daily training for EduTest and Australian private-school scholarship
             English. The live bank is Academic Core Batch 1 (100 words). Later approved batches
-            expand toward about 1500. Chinese is parent-only and never appears in the student
-            lesson.
+            expand toward about 1500. Listen speaks each headword in standard British English
+            (en-GB). Chinese is parent-only and never appears in the student lesson.
           </p>
           <div className="flex flex-wrap items-center gap-3 pt-2">
             <label className="text-sm text-[#e8dfd0]" htmlFor="day-input">
@@ -219,7 +223,9 @@ export function OliverVocabularyClient() {
                     <li key={word.id} className="text-sm">
                       <span className="font-semibold">{word.word}</span> — {word.chinese}
                       {word.detailed_definition ? (
-                        <span className="mt-1 block text-[#5c6574]">{word.detailed_definition}</span>
+                        <span className="mt-1 block text-[#5c6574]">
+                          {word.detailed_definition}
+                        </span>
                       ) : null}
                     </li>
                   ))}
@@ -230,48 +236,42 @@ export function OliverVocabularyClient() {
             <section className="rounded-xl bg-white p-6 shadow-sm ring-1 ring-[#e4d9c8]">
               <h3 className="font-serif text-xl">Section 1 · New Vocabulary</h3>
               <p className="mb-4 text-xs uppercase tracking-wide text-[#7a7266]">
-                Word · POS · Simple definition · Synonyms · Antonyms · Word family · Collocations ·
-                Example · Creative upgrade
+                Word · Listen (British English, en-GB) · POS · Simple definition · Synonyms ·
+                Antonyms · Word family · Collocations · Example · Creative upgrade
               </p>
               <div className="grid gap-4">
                 {lesson.new_vocabulary.map((card) => (
-                  <article key={card.id} className="border-b border-[#efe6d8] pb-4 last:border-0">
-                    <h4 className="text-lg font-semibold text-[#1f3a5f]">
-                      {card.word}
-                      {card.part_of_speech ? (
-                        <span className="ml-2 text-sm font-normal text-[#7a7266]">
-                          {card.part_of_speech} · Level {card.level}
-                        </span>
-                      ) : null}
-                    </h4>
-                    <p className="mt-1">{card.simple_definition || card.definition}</p>
-                    <p className="mt-2 text-sm text-[#5c6574]">
-                      <strong>Synonyms:</strong> {card.synonyms.join(', ') || '—'}
-                    </p>
-                    <p className="text-sm text-[#5c6574]">
-                      <strong>Antonyms:</strong> {card.antonyms.join(', ') || '—'}
-                    </p>
-                    <p className="text-sm text-[#5c6574]">
-                      <strong>Word family:</strong> {familyLine(card.word_family) || '—'}
-                    </p>
-                    <p className="text-sm text-[#5c6574]">
-                      <strong>Collocations:</strong>{' '}
-                      {(card.common_collocations ?? card.collocations).join('; ')}
-                    </p>
-                    <p className="mt-1 italic">{card.example_sentence}</p>
-                    {card.creative_writing_example ? (
-                      <p className="mt-1 text-sm text-[#1f3a5f]">{card.creative_writing_example}</p>
-                    ) : null}
-                  </article>
+                  <NewVocabularyCard
+                    key={card.id}
+                    card={card}
+                    speakingId={speakingId}
+                    speechSupported={speechSupported}
+                    onToggleSpeech={toggleSpeech}
+                  />
                 ))}
               </div>
             </section>
 
             <section className="rounded-xl bg-white p-6 shadow-sm ring-1 ring-[#e4d9c8]">
               <h3 className="font-serif text-xl">Section 2 · Review Vocabulary</h3>
-              <p className="mb-4 text-sm text-[#5c6574]">
-                {lesson.review_vocabulary.map((card) => card.word).join(' · ')}
-              </p>
+              <ul className="mb-4 flex flex-wrap gap-2">
+                {lesson.review_vocabulary.map((card) => (
+                  <li
+                    key={card.id}
+                    className="flex items-center gap-1.5 rounded-lg border border-[#e4d9c8] bg-[#f6f1e8] px-2.5 py-1.5"
+                  >
+                    <span className="text-sm font-semibold text-[#1f3a5f]">{card.word}</span>
+                    <ListenButton
+                      word={card.word}
+                      utteranceId={`review-word:${card.id}`}
+                      text={card.word}
+                      speakingId={speakingId}
+                      supported={speechSupported}
+                      onToggle={toggleSpeech}
+                    />
+                  </li>
+                ))}
+              </ul>
               <div className="grid gap-5">
                 {lesson.review_exercises.map((exercise) => (
                   <div key={exercise.id}>
@@ -353,15 +353,72 @@ export function OliverVocabularyClient() {
   );
 }
 
-function Stat({
-  label,
-  value,
-  hint,
+function NewVocabularyCard({
+  card,
+  speakingId,
+  speechSupported,
+  onToggleSpeech,
 }: {
-  label: string;
-  value: string | number;
-  hint?: string;
+  card: StudentVocabularyCard;
+  speakingId: string | null;
+  speechSupported: boolean;
+  onToggleSpeech: (id: string, text: string) => void;
 }) {
+  return (
+    <article className="border-b border-[#efe6d8] pb-4 last:border-0">
+      <div className="flex flex-wrap items-center gap-2">
+        <h4 className="text-lg font-semibold text-[#1f3a5f]">
+          {card.word}
+          {card.part_of_speech ? (
+            <span className="ml-2 text-sm font-normal text-[#7a7266]">
+              {card.part_of_speech} · Level {card.level}
+            </span>
+          ) : null}
+        </h4>
+        <ListenButton
+          word={card.word}
+          utteranceId={`new-word:${card.id}`}
+          text={card.word}
+          speakingId={speakingId}
+          supported={speechSupported}
+          onToggle={onToggleSpeech}
+        />
+      </div>
+      <p className="mt-1">{card.simple_definition || card.definition}</p>
+      <p className="mt-2 text-sm text-[#5c6574]">
+        <strong>Synonyms:</strong> {card.synonyms.join(', ') || '—'}
+      </p>
+      <p className="text-sm text-[#5c6574]">
+        <strong>Antonyms:</strong> {card.antonyms.join(', ') || '—'}
+      </p>
+      <p className="text-sm text-[#5c6574]">
+        <strong>Word family:</strong> {familyLine(card.word_family) || '—'}
+      </p>
+      <p className="text-sm text-[#5c6574]">
+        <strong>Collocations:</strong> {(card.common_collocations ?? card.collocations).join('; ')}
+      </p>
+      <div className="mt-1 flex flex-wrap items-start gap-2">
+        <p className="italic">{card.example_sentence}</p>
+        {card.example_sentence ? (
+          <ListenButton
+            word={card.word}
+            utteranceId={`new-example:${card.id}`}
+            text={card.example_sentence}
+            speakingId={speakingId}
+            supported={speechSupported}
+            onToggle={onToggleSpeech}
+            size="example"
+          />
+        ) : null}
+      </div>
+      {card.creative_writing_example ? (
+        <p className="mt-1 text-sm text-[#1f3a5f]">{card.creative_writing_example}</p>
+      ) : null}
+    </article>
+  );
+}
+
+function Stat({ label, value, hint }: { label: string; value: string | number; hint?: string }) {
   return (
     <div>
       <p className="text-xs uppercase tracking-wide text-[#7a7266]">{label}</p>
