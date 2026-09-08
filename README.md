@@ -106,7 +106,7 @@ https://github.com/user-attachments/assets/8f3f1e5f-1468-4e93-8054-afeeea683a61
 ### Prerequisites
 
 - **Node.js** >= 22.19
-- **pnpm** >= 10
+- **pnpm** >= 10 (Windows PowerShell: use `pnpm.cmd` if `pnpm` is not on `PATH`)
 
 ### 1. Clone & Install
 
@@ -275,9 +275,9 @@ DEFAULT_MODEL=glm:glm-5.1
 pnpm dev
 ```
 
-Open **http://localhost:3007** and start learning.
+Open **http://127.0.0.1:2007** and start learning.
 
-Oliver Scholarship Vocabulary Master (V1.1, Academic Core Batch 1 — 100 words) is available at **http://localhost:3007/oliver-vocabulary**. See `Oliver_Vocabulary_System/Documentation.md`.
+Oliver Scholarship Vocabulary Master (V1.1, Academic Core Batch 1 — 100 words) is available at **http://127.0.0.1:2007/oliver-vocabulary** (also `http://localhost:2007/oliver-vocabulary`, plus a printed LAN URL). `pnpm dev` / `pnpm start` bind **`0.0.0.0:2007`** — `0.0.0.0` is the listen address, not a browser URL. This entry uses **2007** so it does not fight an existing local app on 3007. See **Local run on port 2007** in `Oliver_Vocabulary_System/Documentation.md`.
 
 ### 4. Build for Production
 

@@ -1,6 +1,9 @@
 import type { NextConfig } from 'next';
 
+import { allowedDevOrigins } from './scripts/vocabulary-network.mjs';
+
 const nextConfig: NextConfig = {
+  allowedDevOrigins: allowedDevOrigins(),
   output: process.env.VERCEL ? undefined : 'standalone',
   outputFileTracingIncludes: {
     '/*': [

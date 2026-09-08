@@ -27,27 +27,49 @@ The engine is self-contained under `Oliver_Vocabulary_System/`. OpenMAIC exposes
 
 | Surface | Path |
 | --- | --- |
-| Student UI | http://localhost:3007/oliver-vocabulary |
+| Student UI | http://127.0.0.1:2007/oliver-vocabulary |
 | Generate lesson API | `POST /api/oliver-vocabulary/lesson` `{ "day": 1 }` |
 | Progress API | `GET /api/oliver-vocabulary/progress` |
 | Quiz / progress update | `POST /api/oliver-vocabulary/quiz` |
 | CLI | `pnpm oliver:lesson -- --day 1` |
 | Thin adapter | `lib/oliver-vocabulary/index.ts` |
 
-The host app is configured to serve on **port 3007**.
+This Vocabulary Master entry serves on **port 2007**. It does not use 3007, so it will not fight an existing local Vocabulary/OpenMAIC instance that is already on 3007.
 
-## Run on port 3007
+## Local run on port 2007
+
+Requirements:
+
+- **Node.js >= 22.19.0**
+- **pnpm** >= 10 (Windows PowerShell: if `pnpm` is not found, use `pnpm.cmd`)
 
 ```bash
+git clone https://github.com/ray216766-afk/OpenMAIC.git
+cd OpenMAIC
 pnpm install
 pnpm dev
-# or
-pnpm start
 ```
 
-Both `dev` and `start` use `-p 3007`. Then open:
+On Windows PowerShell, the same steps are `pnpm.cmd install` then `pnpm.cmd dev` when the `pnpm` shim is missing.
 
-`http://localhost:3007/oliver-vocabulary`
+`pnpm start` uses the same launcher after `pnpm build`. Both commands bind Next.js to **`0.0.0.0:2007`** with a fixed port. The launcher does not increment to another port and does not stop an existing process.
+
+**`0.0.0.0` is the listen/bind address, not a browser URL.** Open one of these instead:
+
+- Local: http://127.0.0.1:2007/oliver-vocabulary
+- Local: http://localhost:2007/oliver-vocabulary
+- Network: `http://<detected-lan-ip>:2007/oliver-vocabulary`
+
+The launcher prints the detected LAN IPv4 (non-loopback, excluding `169.254.x.x` link-local). Do not type `http://0.0.0.0:2007` in the browser.
+
+### Firewall / port diagnostics
+
+If the page does not load:
+
+1. Confirm something is listening on 2007: `ss -ltnp | grep 2007` (Linux/macOS) or `netstat -ano | findstr :2007` (Windows).
+2. If 2007 is busy, free it yourself. This launcher will not kill the other process or move to another port.
+3. Allow inbound TCP **2007** on the host firewall for phone/LAN access.
+4. Keep any existing 3007 app running if you need it. This entry is **2007** only.
 
 ## Generate Oliver Vocabulary Lesson Day XX
 
@@ -71,7 +93,7 @@ Mark the review section to update `Vocabulary_Progress.json`.
 ### API
 
 ```bash
-curl -s -X POST http://localhost:3007/api/oliver-vocabulary/lesson \
+curl -s -X POST http://127.0.0.1:2007/api/oliver-vocabulary/lesson \
   -H 'Content-Type: application/json' \
   -d '{"day":1}'
 ```
@@ -226,5 +248,5 @@ Do not implement writing generation or book-specific vocabulary here. Future mod
 ## Tests
 
 ```bash
-pnpm exec vitest run tests/oliver-vocabulary/engine.test.ts tests/oliver-vocabulary/british-speech.test.ts
+pnpm exec vitest run tests/oliver-vocabulary/engine.test.ts tests/oliver-vocabulary/british-speech.test.ts tests/oliver-vocabulary/local-access.test.ts
 ```
