@@ -275,9 +275,9 @@ DEFAULT_MODEL=glm:glm-5.1
 pnpm dev
 ```
 
-Open **http://localhost:3007** and start learning.
+Open **http://127.0.0.1:3007** and start learning.
 
-Oliver Scholarship Vocabulary Master (V1.1, Academic Core Batch 1 — 100 words) is available at **http://localhost:3007/oliver-vocabulary**. See `Oliver_Vocabulary_System/Documentation.md`.
+Oliver Scholarship Vocabulary Master (V1.1, Academic Core Batch 1 — 100 words) is available at **http://127.0.0.1:3007/oliver-vocabulary**. `pnpm dev` and `pnpm start` bind `0.0.0.0:3007` so localhost and LAN work. See **Local run** in `Oliver_Vocabulary_System/Documentation.md`.
 
 ### 4. Build for Production
 

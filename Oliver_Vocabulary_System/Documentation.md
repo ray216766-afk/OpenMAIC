@@ -27,27 +27,28 @@ The engine is self-contained under `Oliver_Vocabulary_System/`. OpenMAIC exposes
 
 | Surface | Path |
 | --- | --- |
-| Student UI | http://localhost:3007/oliver-vocabulary |
+| Student UI | http://127.0.0.1:3007/oliver-vocabulary |
 | Generate lesson API | `POST /api/oliver-vocabulary/lesson` `{ "day": 1 }` |
 | Progress API | `GET /api/oliver-vocabulary/progress` |
 | Quiz / progress update | `POST /api/oliver-vocabulary/quiz` |
 | CLI | `pnpm oliver:lesson -- --day 1` |
 | Thin adapter | `lib/oliver-vocabulary/index.ts` |
 
-The host app is configured to serve on **port 3007**.
+The host app is configured to serve on **port 3007**, bound to `0.0.0.0` so localhost and LAN clients can connect.
 
-## Run on port 3007
+## Local run
 
 ```bash
+git pull
 pnpm install
 pnpm dev
-# or
-pnpm start
 ```
 
-Both `dev` and `start` use `-p 3007`. Then open:
+Then open http://127.0.0.1:3007/oliver-vocabulary
 
-`http://localhost:3007/oliver-vocabulary`
+LAN: `http://<your-lan-ip>:3007/oliver-vocabulary`
+
+`pnpm start` uses the same host/port (`next start -H 0.0.0.0 -p 3007`) after `pnpm build`. After `pnpm dev`, Next should print a Network URL on `0.0.0.0:3007` (and your LAN IP when one is detected).
 
 ## Generate Oliver Vocabulary Lesson Day XX
 
