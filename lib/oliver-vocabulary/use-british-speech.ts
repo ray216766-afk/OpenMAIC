@@ -17,7 +17,6 @@ export function isSpeechSynthesisSupported(): boolean {
 }
 
 export function useBritishSpeech() {
-  const [supported, setSupported] = useState(isSpeechSynthesisSupported);
   const [speakingId, setSpeakingId] = useState<string | null>(null);
   const [voices, setVoices] = useState<SpeechSynthesisVoice[]>([]);
   const speakTimerRef = useRef<number | null>(null);
@@ -59,10 +58,8 @@ export function useBritishSpeech() {
 
   useEffect(() => {
     if (!isSpeechSynthesisSupported()) {
-      setSupported(false);
       return;
     }
-    setSupported(true);
 
     const loadVoices = () => {
       setVoices(window.speechSynthesis.getVoices());
@@ -142,7 +139,7 @@ export function useBritishSpeech() {
   );
 
   return {
-    supported,
+    supported: true,
     speakingId,
     speak,
     stop,
