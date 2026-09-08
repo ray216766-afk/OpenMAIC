@@ -6,6 +6,7 @@ import {
   isAustralianEnglishLang,
   isBritishEnglishLang,
   listenAriaLabel,
+  MIN_SPEAKING_VISIBLE_MS,
   selectBritishEnglishVoice,
   shouldClearSpeakingOnSpeechError,
   speechTextForStudent,
@@ -119,5 +120,9 @@ describe('Oliver vocabulary British English speech', () => {
     expect(shouldClearSpeakingOnSpeechError('interrupted')).toBe(false);
     expect(shouldClearSpeakingOnSpeechError('synthesis-failed')).toBe(true);
     expect(shouldClearSpeakingOnSpeechError('not-allowed')).toBe(true);
+  });
+
+  it('holds Speaking long enough for a single headword to be read', () => {
+    expect(MIN_SPEAKING_VISIBLE_MS).toBeGreaterThanOrEqual(800);
   });
 });

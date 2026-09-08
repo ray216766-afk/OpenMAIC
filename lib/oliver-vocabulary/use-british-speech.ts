@@ -5,6 +5,7 @@ import { useCallback, useEffect, useRef, useState } from 'react';
 import {
   applyBritishEnglishUtterance,
   configureBritishEnglishSpeech,
+  MIN_SPEAKING_VISIBLE_MS,
   shouldClearSpeakingOnSpeechError,
 } from '@/lib/oliver-vocabulary/british-speech';
 
@@ -16,11 +17,45 @@ export function isSpeechSynthesisSupported(): boolean {
 }
 
 export function useBritishSpeech() {
-  const [supported, setSupported] = useState(false);
+  const [supported, setSupported] = useState(isSpeechSynthesisSupported);
   const [speakingId, setSpeakingId] = useState<string | null>(null);
   const [voices, setVoices] = useState<SpeechSynthesisVoice[]>([]);
   const speakTimerRef = useRef<number | null>(null);
+  const clearTimerRef = useRef<number | null>(null);
   const activeIdRef = useRef<string | null>(null);
+  const speakingStartedAtRef = useRef<number>(0);
+
+  const clearTimer = useCallback((ref: { current: number | null }) => {
+    if (ref.current !== null) {
+      window.clearTimeout(ref.current);
+      ref.current = null;
+    }
+  }, []);
+
+  const clearSpeaking = useCallback(
+    (id: string, immediate = false) => {
+      if (activeIdRef.current !== id) return;
+      const finish = () => {
+        if (activeIdRef.current !== id) return;
+        activeIdRef.current = null;
+        setSpeakingId(null);
+      };
+      if (immediate) {
+        clearTimer(clearTimerRef);
+        finish();
+        return;
+      }
+      const elapsed = Date.now() - speakingStartedAtRef.current;
+      const remaining = MIN_SPEAKING_VISIBLE_MS - elapsed;
+      if (remaining <= 0) {
+        finish();
+        return;
+      }
+      clearTimer(clearTimerRef);
+      clearTimerRef.current = window.setTimeout(finish, remaining);
+    },
+    [clearTimer],
+  );
 
   useEffect(() => {
     if (!isSpeechSynthesisSupported()) {
@@ -37,28 +72,21 @@ export function useBritishSpeech() {
 
     return () => {
       window.speechSynthesis.removeEventListener('voiceschanged', loadVoices);
-      if (speakTimerRef.current !== null) {
-        window.clearTimeout(speakTimerRef.current);
-      }
+      clearTimer(speakTimerRef);
+      clearTimer(clearTimerRef);
       window.speechSynthesis.cancel();
       activeIdRef.current = null;
     };
-  }, []);
-
-  const clearSpeakTimer = useCallback(() => {
-    if (speakTimerRef.current !== null) {
-      window.clearTimeout(speakTimerRef.current);
-      speakTimerRef.current = null;
-    }
-  }, []);
+  }, [clearTimer]);
 
   const stop = useCallback(() => {
     if (!isSpeechSynthesisSupported()) return;
-    clearSpeakTimer();
+    clearTimer(speakTimerRef);
+    clearTimer(clearTimerRef);
     window.speechSynthesis.cancel();
     activeIdRef.current = null;
     setSpeakingId(null);
-  }, [clearSpeakTimer]);
+  }, [clearTimer]);
 
   const speak = useCallback(
     (id: string, text: string) => {
@@ -70,9 +98,11 @@ export function useBritishSpeech() {
         return;
       }
 
-      clearSpeakTimer();
+      clearTimer(speakTimerRef);
+      clearTimer(clearTimerRef);
       window.speechSynthesis.cancel();
       activeIdRef.current = id;
+      speakingStartedAtRef.current = Date.now();
       setSpeakingId(id);
 
       const start = () => {
@@ -81,35 +111,23 @@ export function useBritishSpeech() {
         applyBritishEnglishUtterance(utterance, config, window.speechSynthesis.getVoices());
 
         utterance.onend = () => {
-          if (activeIdRef.current === id) {
-            activeIdRef.current = null;
-            setSpeakingId(null);
-          }
+          clearSpeaking(id);
         };
         utterance.onerror = (event) => {
           if (!shouldClearSpeakingOnSpeechError(event.error)) return;
-          if (activeIdRef.current === id) {
-            activeIdRef.current = null;
-            setSpeakingId(null);
-          }
+          clearSpeaking(id);
         };
 
         window.speechSynthesis.speak(utterance);
-
-        // Headless / voice-less browsers often never fire onend. Keep the
-        // Speaking state visible, then clear so the button does not stick.
-        window.setTimeout(() => {
-          if (activeIdRef.current === id) {
-            activeIdRef.current = null;
-            setSpeakingId(null);
-          }
+        clearTimerRef.current = window.setTimeout(() => {
+          clearSpeaking(id);
         }, SPEAKING_FALLBACK_MS);
       };
 
       // Chromium often drops speak() if it runs in the same turn as cancel().
       speakTimerRef.current = window.setTimeout(start, SPEAK_AFTER_CANCEL_MS);
     },
-    [clearSpeakTimer, stop, voices],
+    [clearSpeaking, clearTimer, stop, voices],
   );
 
   const toggle = useCallback(

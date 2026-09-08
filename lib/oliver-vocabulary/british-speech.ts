@@ -12,6 +12,8 @@ import { containsChinese } from '@/Oliver_Vocabulary_System/student-view';
 
 export const BRITISH_ENGLISH_LANG = 'en-GB';
 export const BRITISH_SPEECH_RATE = 0.92;
+/** Single words finish quickly; keep the Speaking label visible long enough to read. */
+export const MIN_SPEAKING_VISIBLE_MS = 900;
 
 /** Subset of SpeechSynthesisVoice used so selection can be unit-tested in Node. */
 export interface BrowserVoiceLike {
