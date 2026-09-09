@@ -9,10 +9,7 @@ export interface ChoiceReviewMark {
 /**
  * Review colours: the expected option is always revealed; a wrong pick stays red.
  */
-export function choiceReviewTone(
-  option: string,
-  mark?: ChoiceReviewMark | null,
-): ChoiceOptionTone {
+export function choiceReviewTone(option: string, mark?: ChoiceReviewMark | null): ChoiceOptionTone {
   if (!mark) return 'default';
   if (option === mark.expected) return 'correct';
   if (option === mark.given && !mark.correct) return 'incorrect';

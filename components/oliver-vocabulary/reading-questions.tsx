@@ -41,15 +41,11 @@ export function ReadingQuestionsSection({
             <li
               key={question.id}
               data-reading-question={question.id}
-              data-review-result={
-                marked ? (marked.correct ? 'correct' : 'incorrect') : undefined
-              }
+              data-review-result={marked ? (marked.correct ? 'correct' : 'incorrect') : undefined}
             >
               <p
                 id={promptId}
-                className={
-                  marked && !marked.correct ? 'font-medium text-red-800' : 'font-medium'
-                }
+                className={marked && !marked.correct ? 'font-medium text-red-800' : 'font-medium'}
               >
                 {question.prompt}
               </p>

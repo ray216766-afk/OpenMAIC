@@ -44,7 +44,9 @@ export function SubmitAnswersBar({
           </p>
         ) : null}
       </div>
-      <p className="text-sm text-[#5c6574]">{submitted ? 'Your answers are locked for this attempt.' : hint}</p>
+      <p className="text-sm text-[#5c6574]">
+        {submitted ? 'Your answers are locked for this attempt.' : hint}
+      </p>
     </div>
   );
 }
