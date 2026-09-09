@@ -305,7 +305,7 @@ export function OliverVocabularyClient() {
                 onClick={resetDay}
                 disabled={loading}
                 data-reset-day
-                className="border-[#d4b87a] text-[#f6f1e8] hover:bg-[#2a4d78]"
+                className="border-[#d4b87a] bg-[#fff8e8] text-[#1f2430] hover:bg-[#f3e6c4]"
               >
                 Parent/admin: Reset this day
               </Button>
