@@ -276,3 +276,6 @@ export function buildReviewExercises(
     };
   });
 }
+
+export { answersMatch, gradeReviewAnswers, reviewAttemptFingerprint } from './grade';
+export { markReviewQuiz, quizFromFrozenAttempt } from './mark';

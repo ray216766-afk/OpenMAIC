@@ -16,6 +16,7 @@ import type {
   ParentLessonReference,
   ProgressEntry,
   QuizAnswer,
+  QuizItemResult,
   StudentVocabularyCard,
   WordFamily,
 } from '@/Oliver_Vocabulary_System/types';
@@ -59,6 +60,8 @@ export function OliverVocabularyClient() {
   const [answers, setAnswers] = useState<Record<string, string>>({});
   const [readingAnswers, setReadingAnswers] = useState<Record<string, string>>({});
   const [quizScore, setQuizScore] = useState<string | null>(null);
+  const [quizResults, setQuizResults] = useState<Record<string, QuizItemResult>>({});
+  const [reviewMarked, setReviewMarked] = useState(false);
   const [submitting, setSubmitting] = useState(false);
   const { supported: speechSupported, speakingId, toggle: toggleSpeech } = useBritishSpeech();
 
@@ -79,6 +82,8 @@ export function OliverVocabularyClient() {
     setLoading(true);
     setError(null);
     setQuizScore(null);
+    setQuizResults({});
+    setReviewMarked(false);
     setAnswers({});
     setReadingAnswers({});
     try {
@@ -102,6 +107,24 @@ export function OliverVocabularyClient() {
     }
   }, [day, loadProgress]);
 
+  const applyQuiz = useCallback(
+    (quiz: {
+      correct: number;
+      total: number;
+      correct_rate: number;
+      results?: QuizItemResult[];
+    }) => {
+      setQuizScore(`${quiz.correct}/${quiz.total} correct (${quiz.correct_rate}%)`);
+      const nextResults: Record<string, QuizItemResult> = {};
+      for (const result of quiz.results ?? []) {
+        nextResults[result.exerciseId] = result;
+      }
+      setQuizResults(nextResults);
+      setReviewMarked(true);
+    },
+    [],
+  );
+
   const submitQuiz = useCallback(async () => {
     if (!lesson) return;
     const payload: QuizAnswer[] = lesson.review_exercises
@@ -117,18 +140,21 @@ export function OliverVocabularyClient() {
       });
       const data = (await res.json()) as {
         success: boolean;
-        quiz?: { correct: number; total: number; correct_rate: number };
+        quiz?: {
+          correct: number;
+          total: number;
+          correct_rate: number;
+          results?: QuizItemResult[];
+        };
       };
       if (data.quiz) {
-        setQuizScore(
-          `${data.quiz.correct}/${data.quiz.total} correct (${data.quiz.correct_rate}%)`,
-        );
+        applyQuiz(data.quiz);
       }
       await loadProgress();
     } finally {
       setSubmitting(false);
     }
-  }, [answers, lesson, loadProgress]);
+  }, [answers, applyQuiz, lesson, loadProgress]);
 
   const masteryCounts = useMemo(
     () => summary?.by_mastery ?? { New: 0, Learning: 0, Developing: 0, Mastered: 0 },
@@ -276,33 +302,56 @@ export function OliverVocabularyClient() {
                 ))}
               </ul>
               <div className="grid gap-5">
-                {lesson.review_exercises.map((exercise) => (
-                  <div key={exercise.id}>
-                    <p className="font-medium">
-                      <span className="mr-2 text-xs uppercase tracking-wide text-[#c9a227]">
-                        {exercise.type.replaceAll('_', ' ')}
-                      </span>
-                      {exercise.prompt}
-                    </p>
-                    {exercise.options ? (
-                      <ChoiceOptions
-                        name={exercise.id}
-                        options={exercise.options}
-                        selected={answers[exercise.id]}
-                        onSelect={(option) =>
-                          setAnswers((current) => ({ ...current, [exercise.id]: option }))
+                {lesson.review_exercises.map((exercise) => {
+                  const marked = quizResults[exercise.id];
+                  return (
+                    <div
+                      key={exercise.id}
+                      data-review-result={
+                        marked ? (marked.correct ? 'correct' : 'incorrect') : undefined
+                      }
+                    >
+                      <p
+                        className={
+                          marked && !marked.correct ? 'font-medium text-red-800' : 'font-medium'
                         }
-                      />
-                    ) : null}
-                  </div>
-                ))}
+                      >
+                        <span className="mr-2 text-xs uppercase tracking-wide text-[#c9a227]">
+                          {exercise.type.replaceAll('_', ' ')}
+                        </span>
+                        {exercise.prompt}
+                      </p>
+                      {exercise.options ? (
+                        <ChoiceOptions
+                          name={exercise.id}
+                          options={exercise.options}
+                          selected={answers[exercise.id]}
+                          disabled={reviewMarked}
+                          optionTone={(option) => {
+                            if (!marked) return 'default';
+                            if (option === marked.given && !marked.correct) return 'incorrect';
+                            if (option === marked.expected && marked.correct) return 'correct';
+                            return 'default';
+                          }}
+                          onSelect={(option) =>
+                            setAnswers((current) => ({ ...current, [exercise.id]: option }))
+                          }
+                        />
+                      ) : null}
+                    </div>
+                  );
+                })}
               </div>
               <div className="mt-6 flex flex-wrap items-center gap-3">
                 <Button onClick={() => void submitQuiz()} disabled={submitting}>
                   {submitting ? <Loader2 className="animate-spin" /> : <Check />}
                   Mark review and update progress
                 </Button>
-                {quizScore && <p className="text-sm font-medium text-[#1f3a5f]">{quizScore}</p>}
+                {quizScore && (
+                  <p className="text-sm font-medium text-[#1f3a5f]" data-quiz-score>
+                    {quizScore}
+                  </p>
+                )}
               </div>
             </section>
 

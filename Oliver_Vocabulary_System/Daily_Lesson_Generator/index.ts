@@ -7,6 +7,7 @@ import {
   loadMaster,
   loadProgress,
   markFirstSeen,
+  saveLessonSnapshot,
   saveProgress,
 } from '../store';
 import type {
@@ -122,11 +123,16 @@ export function generateOliverVocabularyLessonDay(
   });
   assertNoChinese(lesson, `Day ${day} student lesson`);
 
-  return {
+  const result = {
     lesson,
     parent_reference: buildParentReference(day, newEntries.map(toParentCard)),
     progress: progress.entries,
   };
+  if (persist) {
+    // Pin the shown exercises so Mark review cannot re-roll after progress updates.
+    saveLessonSnapshot(paths, { ...result, review_attempt: null });
+  }
+  return result;
 }
 
 export const GENERATE_LESSON_ACTION = 'Generate Oliver Vocabulary Lesson Day XX';
