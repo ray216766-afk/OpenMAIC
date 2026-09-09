@@ -1,5 +1,6 @@
 export {
   GENERATE_LESSON_ACTION,
+  LessonQualityError,
   NewWordsExhaustedError,
   curriculumSlice,
   generateOliverVocabularyLessonDay,
@@ -19,7 +20,24 @@ export {
   selectReviewWords,
 } from './Review_Engine';
 export type { ReadingAnswer } from './Review_Engine';
-export { generateMiniReading, generateReadingQuestions } from './Mini_Reading_Generator';
+export {
+  choosePassageTopic,
+  generateMiniReading,
+  generateReadingQuestions,
+  scoreWordForSlot,
+  tagsFor,
+} from './Mini_Reading_Generator';
+export {
+  NEVER_ANTONYM_WORDS,
+  hasClearAntonym,
+  pickSuitableType,
+  runReadingPassageQa,
+  runReadingQuestionQa,
+  runVocabQa,
+  suitableQuestionTypes,
+  validateReviewExercise,
+  validateUniqueAnswer,
+} from './quality';
 export {
   STUDENT_NEW_WORD_FIELDS,
   buildDailyLesson,

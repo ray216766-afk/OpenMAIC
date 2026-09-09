@@ -70,11 +70,15 @@ describe('Oliver Scholarship Vocabulary Master V1.1 — Academic Core Batch 1', 
     expect(result.lesson.new_vocabulary).toHaveLength(10);
     expect(result.lesson.review_vocabulary).toHaveLength(15);
     expect(result.lesson.review_exercises).toHaveLength(15);
-    expect(result.lesson.reading_questions.length).toBeGreaterThanOrEqual(3);
+    expect(result.lesson.reading_questions.length).toBeGreaterThanOrEqual(4);
     expect(result.lesson.reading_questions.length).toBeLessThanOrEqual(5);
-    expect(result.lesson.mini_reading.word_count).toBeGreaterThanOrEqual(150);
-    expect(result.lesson.mini_reading.word_count).toBeLessThanOrEqual(200);
+    expect(result.lesson.mini_reading.word_count).toBeGreaterThanOrEqual(180);
+    expect(result.lesson.mini_reading.word_count).toBeLessThanOrEqual(220);
     expect(result.lesson.mini_reading.featured_new_words.length).toBeGreaterThanOrEqual(5);
+    const featured =
+      result.lesson.mini_reading.featured_new_words.length +
+      result.lesson.mini_reading.featured_review_words.length;
+    expect(featured).toBeLessThanOrEqual(8);
     expect(result.parent_reference.words).toHaveLength(10);
     expect(result.parent_reference.words.every((word) => word.chinese)).toBe(true);
   });

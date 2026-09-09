@@ -159,7 +159,14 @@ export interface MiniReading {
   featured_review_words: string[];
 }
 
-export type ReadingQuestionType = 'vocabulary_in_context' | 'main_idea' | 'inference' | 'detail';
+export type ReadingQuestionType =
+  | 'vocabulary_in_context'
+  | 'main_idea'
+  | 'inference'
+  | 'detail'
+  | 'cause_effect'
+  | 'sequence'
+  | 'authors_purpose';
 
 export interface ReadingQuestion {
   id: string;

@@ -1,12 +1,6 @@
 import { reviewScheduleOffsets } from '../normalize';
 import { firstSeenDayNumber, getProgressEntry } from '../store';
-import type {
-  ProgressEntry,
-  ReviewExercise,
-  ReviewExerciseType,
-  VocabularyEntry,
-  VocabularyProgressFile,
-} from '../types';
+import type { ProgressEntry, VocabularyEntry, VocabularyProgressFile } from '../types';
 
 const REVIEW_TARGET = 15;
 
@@ -145,137 +139,8 @@ export function selectReviewWords(
   return { words: chosen.slice(0, count), reasons };
 }
 
-function otherWords(
-  master: VocabularyEntry[],
-  word: string,
-  field: 'synonyms' | 'definition',
-): string[] {
-  return master
-    .filter((entry) => entry.word !== word)
-    .map((entry) => (field === 'synonyms' ? entry.synonyms[0] : entry.definition))
-    .filter((value): value is string => Boolean(value));
-}
-
-function shuffle<T>(items: T[], seed: number): T[] {
-  const next = [...items];
-  let state = seed || 1;
-  for (let i = next.length - 1; i > 0; i -= 1) {
-    state = (state * 1664525 + 1013904223) >>> 0;
-    const j = state % (i + 1);
-    [next[i], next[j]] = [next[j], next[i]];
-  }
-  return next;
-}
-
-function uniqueOptions(correct: string, distractors: string[], seed: number, size = 4): string[] {
-  const pool = [correct, ...distractors.filter((item) => item && item !== correct)];
-  const picked = shuffle([...new Set(pool)], seed).slice(0, size);
-  if (!picked.includes(correct)) {
-    picked[picked.length - 1] = correct;
-  }
-  return shuffle(picked, seed + 7);
-}
-
-function blankExample(entry: VocabularyEntry): string {
-  const pattern = new RegExp(`\\b${entry.word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i');
-  if (pattern.test(entry.example_sentence)) {
-    return entry.example_sentence.replace(pattern, '______');
-  }
-  return `The scholarship candidate remained ______ even when the question was difficult.`.replace(
-    '______',
-    '______',
-  );
-}
-
-export function buildReviewExercises(
-  reviewWords: VocabularyEntry[],
-  master: VocabularyEntry[],
-  day: number,
-): ReviewExercise[] {
-  const types: ReviewExerciseType[] = [
-    'meaning_matching',
-    'synonym_selection',
-    'antonym_selection',
-    'fill_in_the_blank',
-    'sentence_completion',
-  ];
-
-  return reviewWords.map((entry, index) => {
-    const type = types[index % types.length];
-    const seed = day * 100 + index;
-    if (type === 'meaning_matching') {
-      return {
-        id: `REV${String(day).padStart(3, '0')}-${index + 1}`,
-        type,
-        word: entry.word,
-        prompt: `Which definition matches "${entry.word}"?`,
-        options: uniqueOptions(
-          entry.definition,
-          otherWords(master, entry.word, 'definition'),
-          seed,
-        ),
-        answer: entry.definition,
-      };
-    }
-    if (type === 'synonym_selection') {
-      const answer = entry.synonyms[0] ?? entry.definition;
-      const distractors = master
-        .filter((item) => item.word !== entry.word)
-        .flatMap((item) => item.synonyms.slice(0, 1));
-      return {
-        id: `REV${String(day).padStart(3, '0')}-${index + 1}`,
-        type,
-        word: entry.word,
-        prompt: `Choose the best synonym for "${entry.word}".`,
-        options: uniqueOptions(answer, distractors, seed),
-        answer,
-      };
-    }
-    if (type === 'antonym_selection') {
-      const answer = entry.antonyms[0] ?? 'none of these';
-      const distractors = master
-        .filter((item) => item.word !== entry.word)
-        .flatMap((item) => item.antonyms.slice(0, 1));
-      return {
-        id: `REV${String(day).padStart(3, '0')}-${index + 1}`,
-        type,
-        word: entry.word,
-        prompt: `Choose the best antonym for "${entry.word}".`,
-        options: uniqueOptions(answer, distractors, seed),
-        answer,
-      };
-    }
-    if (type === 'fill_in_the_blank') {
-      const distractors = master
-        .filter((item) => item.word !== entry.word)
-        .map((item) => item.word);
-      return {
-        id: `REV${String(day).padStart(3, '0')}-${index + 1}`,
-        type,
-        word: entry.word,
-        prompt: blankExample(entry),
-        options: uniqueOptions(entry.word, distractors, seed),
-        answer: entry.word,
-        hint: 'Use the exact target word.',
-      };
-    }
-    const stem = entry.example_sentence.includes(entry.word)
-      ? entry.example_sentence.split(new RegExp(`\\b${entry.word}\\b`, 'i'))[0].trim()
-      : `After thinking carefully, Oliver decided that the most accurate word was`;
-    return {
-      id: `REV${String(day).padStart(3, '0')}-${index + 1}`,
-      type: 'sentence_completion',
-      word: entry.word,
-      prompt: `${stem} ______`,
-      options: uniqueOptions(
-        entry.word,
-        master.filter((item) => item.word !== entry.word).map((item) => item.word),
-        seed,
-      ),
-      answer: entry.word,
-    };
-  });
-}
+export { buildReviewExercise, buildReviewExercises } from './exercises';
+export type { BuildExercisesOptions } from './exercises';
 
 export { answersMatch, gradeReviewAnswers, reviewAttemptFingerprint } from './grade';
 export { markReviewQuiz, quizFromFrozenAttempt } from './mark';

@@ -14,8 +14,8 @@ Each daily lesson contains:
 |-------|----------------|-------|
 | **New words** | Exactly **10** | Unused curriculum-order words from the current batch. Never re-issue a word that already has `first_seen` / was shown as New. Do **not** wrap the 100-word batch. If fewer than 10 unused remain, stop with a clear exhausted-batch message. |
 | **Review words** | Exactly **15** | From prior days per `review_schedule` (Day 1, 3, 7, 14, 30) |
-| **Mini reading** | **180–250 words** | Must weave **all 10 new words** naturally |
-| **Comprehension** | **5 MCQs** | Mix meaning, inference, collocation, and usage |
+| **Mini reading** | **180–220 words** | Topic/story first. Weave only the **5–8** new/review words that fit naturally. Unused words are tested in Review, not forced into the passage. |
+| **Comprehension** | **4–5 MCQs** | Written only after the passage is finished. Mix Vocab in Context, Main Idea, Inference, Detail/Evidence; optional Cause/Effect, Sequence, or Author's Purpose. |
 
 Total focus words per day: 25 (10 new + 15 review). Do not overload with extra new lemmas.
 
@@ -45,40 +45,79 @@ Total focus words per day: 25 (10 new + 15 review). Do not overload with extra n
 
 ---
 
-## 4. Mini Reading (180–250 words)
+## 4. Mini Reading (180–220 words)
+
+**Priority order:** Natural language > Coherence > Unique answer quality > Learning value > Vocabulary coverage.  
+Never sacrifice quality to force every target word into the passage.
+
+**Required architecture (topic-first):**
+1. Choose a topic / story / investigation / event / explanation / argument.
+2. Build **one coherent passage** with one central idea. Every sentence must serve that idea.
+3. Select only the vocabulary that fits naturally (about **one target every 20–35 words**; **5–8** words in a 180–220 word piece is enough).
+4. Integrate those words so a reader would still accept the text if the targets were unmarked.
+5. Generate reading questions **only after** the passage is finished.
+
+**Forbidden architecture:** vocab list → one sentence per word → concatenate → call it a passage.  
+Anti-pattern: mysterious drawer + drought sentence + compare poems + organise notes + photosynthesis dump.
 
 **Must:**
-- Include **all 10 new words** in natural context (no forced stuffing).
-- Read like a quality Y5–Y6 information or narrative-expository piece (Australian topics welcome: environment, school inquiry, community, sport science, history).
-- Keep vocabulary load manageable: new words are the stretch; surrounding language stays clear.
+- Read like a quality Y5–Y6 information or narrative-expository piece (Australian topics welcome).
+- Keep surrounding language clear; new words are the stretch, not the whole texture.
 - Stay **English-only** for the student version.
 - Prefer Australian spelling and local references where natural (organisation, analyse, harbour, etc.).
 
 **Must not:**
 - Gloss new words in Chinese inside the student reading.
-- Use the words as a disconnected word list in sentences that don’t form a coherent text.
-- Exceed 250 or fall under 180 words (count body text only).
+- Force 10/10 new-word coverage.
+- Exceed 220 or fall under 180 words (count body text only).
+
+**Remove-the-vocabulary test:** if bolded targets were unmarked, would it still feel like a real story/article? If no, rewrite.
 
 **Optional parent appendix:** 2–3 Chinese bullet points on theme + which words to listen for at home.
 
 ---
 
-## 5. Multiple-Choice Questions (×5)
+## 5. Review questions and reading questions
 
-Design five questions that together cover:
+### 5a. Vocab question-type suitability
 
-1. **Literal meaning** — which definition fits the word in context  
-2. **Contextual inference** — what the author implies using Word X  
-3. **Collocation / usage** — which phrase is natural  
-4. **Synonym / precision** — best upgrade or closest synonym in context  
-5. **Transfer** — which sentence uses the word correctly (or identify misuse)
+Before generating a review item, decide whether the word is suitable for that type:
+
+| Type | Use only when |
+|------|----------------|
+| **Meaning matching** | Clear age-appropriate definition; unambiguous; distinguishable distractors. |
+| **Synonym** | A clear near-synonym exists (significant→important, scarce→limited). Do not force weak pairs. |
+| **Antonym** | A clear opposite exists (scarce→abundant). **Never** antonym for *environment, perspective, evidence, method, process* and similar concept nouns. Pick another type. |
+| **Sentence completion / cloze** | The stem tests meaning through context and has enough semantic clues. |
+
+Do **not** use “none of these” because a word has no antonym or because distractors failed. Rare intentional use only; frequent use means the wrong question type was chosen.
+
+**Unique-answer rule:** exactly one clearly correct option. Internally insert each option; check grammar, meaning, and whether a Y5–Y6 native speaker could defend it. If more than one could work, rewrite. Reject vague stems such as “After the debate, we _____.” where *evaluate* and *determine* are both possible — add context.
+
+**Distractors:** grammatically plausible, semantically distinguishable, similar level, not absurd, not obviously unrelated. Avoid distractors that fail on grammar alone when the task is meaning.
+
+**Teacher workbook test:** would a teacher put this in a Y5–Y6 workbook without editing? If no, regenerate.
+
+### 5b. Reading questions (after the passage exists)
+
+Mix **4–5** items, in roughly this difficulty order: literal Detail → Vocab in Context → Main Idea → Inference. Optional fifth: Cause/Effect, Sequence, or Author's Purpose.
 
 Rules:
-- Exactly **4 options (A–D)** each; one correct answer.
-- Distractors plausible for Y5–Y6 (common confusions, near-synonyms).
+- Every answer must be supported by the **finished** passage.
+- Exactly **4 options (A–D)**; one correct answer.
+- Distractors plausible for Y5–Y6 (other coherent misreadings), not helicopters or talking magpies.
 - No trick questions based on obscure senses.
-- Answer key for parent/teacher; student sheet may hide answers until review.
-- English-only for Oliver; Chinese explanations of *why* an answer is correct may appear on the parent key only.
+- English-only for Oliver; Chinese rationales may appear on the parent key only.
+
+## 5c. Internal QA gates
+
+Before a lesson is returned to the API/UI, all three must pass (else regenerate):
+
+1. **Vocab QA** — suitability, no default none-of-these, unique answers, contextual stems, distractor quality, teacher-workbook test.
+2. **Reading passage QA** — topic-first, 180–220 words, 5–8 natural targets, no example-sentence dump, one central idea, remove-the-vocabulary test.
+3. **Reading question QA** — required type mix; every answer grounded in the finished text.
+
+Locked `Lesson_Day_XXX.json` snapshots stay as they were generated. New quality applies on a fresh generate or after **Reset this day**.
 
 ---
 
@@ -107,8 +146,9 @@ If time allows (2–4 minutes):
 Before publishing a daily lesson:
 
 - [ ] 10 new + 15 review confirmed from master DB IDs
-- [ ] Mini reading 180–250 words; all 10 new words present and natural
-- [ ] 5 MCQs with clear single answers and strong distractors
+- [ ] Mini reading 180–220 words; topic-first; only naturally fitting targets (about 5–8); unused words tested elsewhere
+- [ ] 4–5 reading MCQs written from the finished passage, with clear single answers and strong distractors
+- [ ] Review items pass suitability + unique-answer + no default “none of these”
 - [ ] Student pack English-only
 - [ ] Parent pack has Chinese meanings + brief coaching note
 - [ ] Australian spelling throughout
