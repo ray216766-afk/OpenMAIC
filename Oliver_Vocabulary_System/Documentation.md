@@ -88,7 +88,7 @@ The page shows:
 
 Use **Parent reference (Chinese)** to reveal `chinese_meaning` and the richer `detailed_definition`. They are never part of the student lesson payload.
 
-Mark the review section to update `Vocabulary_Progress.json`.
+Use **Submit answers** after the review questions to lock the attempt, show the score, and update `Vocabulary_Progress.json`. The grade stays frozen for that generated lesson. Reading questions have their own **Submit answers** control; wrong choices stay red and the correct answer is shown.
 
 ### API
 
