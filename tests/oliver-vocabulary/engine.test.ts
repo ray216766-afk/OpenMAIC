@@ -86,14 +86,18 @@ describe('Oliver Scholarship Vocabulary Master V1.1 — Academic Core Batch 1', 
     expect(result.lesson.new_vocabulary[0]).not.toHaveProperty('chinese');
   });
 
-  it('uses a stable Day N curriculum and tracks first seen', () => {
+  it('uses unused curriculum-order words and tracks first seen', () => {
     const paths = isolatedPaths();
     const first = generateOliverVocabularyLessonDay(3, paths, { persist: true });
     const second = generateOliverVocabularyLessonDay(3, paths, { persist: true });
     expect(first.lesson.new_vocabulary.map((card) => card.word)).toEqual(
       second.lesson.new_vocabulary.map((card) => card.word),
     );
+    expect(first.lesson.new_vocabulary[0].word).toBe('analyse');
     expect(first.progress.some((entry) => entry.first_seen === 'Day 3')).toBe(true);
+    expect(first.progress.some((entry) => entry.presented_as_new)).toBe(true);
+    expect(second.source).toBe('snapshot');
+    expect(second.locked).toBe(true);
   });
 
   it('maps Strong to Mastered and updates quiz outcomes', () => {

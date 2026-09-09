@@ -69,6 +69,7 @@ export function markReviewQuiz(
     ...snapshot,
     progress: nextProgress.entries,
     review_attempt: attempt,
+    locked: true,
   });
 
   return {

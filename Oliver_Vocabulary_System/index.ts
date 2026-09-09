@@ -1,18 +1,24 @@
 export {
   GENERATE_LESSON_ACTION,
+  NewWordsExhaustedError,
   curriculumSlice,
   generateOliverVocabularyLessonDay,
+  presentedNewWordKeys,
   priorCurriculumWords,
   selectNewWords,
+  unusedCurriculumWords,
 } from './Daily_Lesson_Generator';
 export {
   answersMatch,
   buildReviewExercises,
+  gradeReadingAnswers,
   gradeReviewAnswers,
+  markReadingQuiz,
   markReviewQuiz,
   reviewAttemptFingerprint,
   selectReviewWords,
 } from './Review_Engine';
+export type { ReadingAnswer } from './Review_Engine';
 export { generateMiniReading, generateReadingQuestions } from './Mini_Reading_Generator';
 export {
   STUDENT_NEW_WORD_FIELDS,
@@ -27,22 +33,27 @@ export {
   COMPILED_MASTER_RELATIVE_PATH,
   PROGRESS_RESET_NOTE,
   applyReviewOutcome,
+  collectSnapshotNewWords,
   defaultEnginePaths,
   defaultModuleRoot,
+  deleteLessonSnapshot,
   deriveMastery,
   emptyProgressFile,
   firstSeenDayNumber,
   getProgressEntry,
   lessonSnapshotPath,
+  listLessonDays,
   loadLessonSnapshot,
   loadMaster,
   loadProgress,
   markFirstSeen,
   normalizeMastery,
+  resetLessonDay,
   resolveMasterPath,
   saveLessonSnapshot,
   saveProgress,
   spacedIntervalDays,
+  wasPresentedAsNew,
 } from './store';
 export {
   asWordFamily,

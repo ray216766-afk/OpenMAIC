@@ -1,4 +1,12 @@
-import { existsSync, mkdirSync, readFileSync, renameSync, writeFileSync } from 'node:fs';
+import {
+  existsSync,
+  mkdirSync,
+  readdirSync,
+  readFileSync,
+  renameSync,
+  unlinkSync,
+  writeFileSync,
+} from 'node:fs';
 import { dirname, join } from 'node:path';
 
 import { ACTIVE_BANK, normalizeMasterWords } from './normalize';
@@ -7,6 +15,7 @@ import {
   MODULE_NAME,
   MODULE_VERSION,
   type DailyLesson,
+  type FrozenReadingAttempt,
   type FrozenReviewAttempt,
   type LessonSnapshotFile,
   type MasteryLevel,
@@ -67,6 +76,8 @@ export function saveLessonSnapshot(
     parent_reference?: ParentLessonReference;
     progress?: ProgressEntry[];
     review_attempt?: FrozenReviewAttempt | null;
+    reading_attempt?: FrozenReadingAttempt | null;
+    locked?: boolean;
   },
 ): void {
   const filePath = lessonSnapshotPath(paths, snapshot.lesson.day);
@@ -147,6 +158,10 @@ export function normalizeProgressEntry(entry: ProgressEntry): ProgressEntry {
   return {
     ...entry,
     first_seen: entry.first_seen || 'Day 0',
+    presented_as_new:
+      typeof entry.presented_as_new === 'boolean'
+        ? entry.presented_as_new
+        : firstSeenDayNumber(entry.first_seen) > 0,
     review_count: entry.review_count ?? 0,
     correct_count: correct,
     incorrect_count: incorrect,
@@ -210,10 +225,18 @@ export function markFirstSeen(
   day: number,
 ): VocabularyProgressFile {
   const existing = getProgressEntry(progress, word);
-  if (existing) return progress;
+  if (existing) {
+    if (existing.presented_as_new) return progress;
+    return upsertProgressEntry(progress, {
+      ...existing,
+      first_seen: existing.first_seen || `Day ${day}`,
+      presented_as_new: true,
+    });
+  }
   return upsertProgressEntry(progress, {
     word,
     first_seen: `Day ${day}`,
+    presented_as_new: true,
     review_count: 0,
     correct_rate: 0,
     mastery: 'New',
@@ -233,6 +256,7 @@ export function applyReviewOutcome(
   const existing = getProgressEntry(progress, word) ?? {
     word,
     first_seen: `Day ${day}`,
+    presented_as_new: false,
     review_count: 0,
     correct_rate: 0,
     mastery: 'New' as const,
@@ -272,4 +296,71 @@ export function firstSeenDayNumber(firstSeen: string | undefined): number {
   if (!firstSeen) return 0;
   const match = /Day\s+(\d+)/i.exec(firstSeen);
   return match ? Number(match[1]) : 0;
+}
+
+/** A word shown as New Vocabulary, or legacy first_seen without an explicit review-only flag. */
+export function wasPresentedAsNew(entry: ProgressEntry | undefined): boolean {
+  if (!entry) return false;
+  if (entry.presented_as_new === true) return true;
+  if (entry.presented_as_new === false) return false;
+  return firstSeenDayNumber(entry.first_seen) > 0;
+}
+
+export function listLessonDays(paths: VocabularyEnginePaths): number[] {
+  const dir = dirname(paths.progressPath);
+  if (!existsSync(dir)) return [];
+  return readdirSync(dir)
+    .map((name) => {
+      const match = /^Lesson_Day_(\d+)\.json$/.exec(name);
+      return match ? Number(match[1]) : null;
+    })
+    .filter((day): day is number => Number.isInteger(day) && day! >= 1)
+    .sort((a, b) => a - b);
+}
+
+export function collectSnapshotNewWords(paths: VocabularyEnginePaths): string[] {
+  const words: string[] = [];
+  for (const day of listLessonDays(paths)) {
+    const snapshot = loadLessonSnapshot(paths, day);
+    if (!snapshot) continue;
+    for (const card of snapshot.lesson.new_vocabulary) {
+      words.push(card.word);
+    }
+  }
+  return words;
+}
+
+export function deleteLessonSnapshot(paths: VocabularyEnginePaths, day: number): void {
+  const filePath = lessonSnapshotPath(paths, day);
+  if (existsSync(filePath)) unlinkSync(filePath);
+}
+
+/**
+ * Parent/admin reset: drop the frozen Day X lesson and forget New-word first_seen
+ * written for that day so those lemmas can be taught as New again.
+ */
+export function resetLessonDay(paths: VocabularyEnginePaths, day: number): void {
+  const snapshot = loadLessonSnapshot(paths, day);
+  const progress = loadProgress(paths);
+  const newKeys = new Set(
+    (snapshot?.lesson.new_vocabulary ?? []).map((card) => progressKey(card.word)),
+  );
+  const entries = progress.entries.filter((entry) => {
+    if (firstSeenDayNumber(entry.first_seen) === day && wasPresentedAsNew(entry)) {
+      return false;
+    }
+    if (newKeys.has(progressKey(entry.word)) && firstSeenDayNumber(entry.first_seen) === day) {
+      return false;
+    }
+    return true;
+  });
+  const remainingDays = listLessonDays(paths).filter((item) => item !== day);
+  const lastCompleted =
+    progress.last_completed_day === day
+      ? remainingDays.length > 0
+        ? Math.max(...remainingDays)
+        : Math.max(0, day - 1)
+      : progress.last_completed_day;
+  saveProgress({ ...progress, entries, last_completed_day: lastCompleted }, paths);
+  deleteLessonSnapshot(paths, day);
 }

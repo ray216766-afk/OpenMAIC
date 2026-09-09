@@ -153,5 +153,35 @@ describe('Section 4 reading questions', () => {
       'disabled',
       true,
     );
+    expect(
+      firstQuestion?.querySelector('[data-review-prompt-tone="incorrect"]')?.className,
+    ).toContain('text-red-800');
+  });
+
+  it('marks a correct reading pick green after submit', () => {
+    act(() => {
+      root.render(createElement(Harness));
+    });
+
+    const firstRadios = container
+      .querySelector('[data-reading-question="RQ001-1"]')!
+      .querySelectorAll<HTMLInputElement>('input[type="radio"]');
+    const submit = container.querySelector<HTMLButtonElement>('[data-submit-answers="reading"]');
+
+    act(() => {
+      firstRadios[0].click();
+    });
+    act(() => {
+      submit!.click();
+    });
+
+    const firstQuestion = container.querySelector('[data-reading-question="RQ001-1"]');
+    expect(firstQuestion?.getAttribute('data-review-result')).toBe('correct');
+    expect(firstQuestion?.querySelector('[data-option-tone="correct"]')?.className).toContain(
+      'bg-emerald-50',
+    );
+    expect(
+      firstQuestion?.querySelector('[data-review-prompt-tone="correct"]')?.className,
+    ).toContain('text-emerald-800');
   });
 });

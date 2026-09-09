@@ -16,6 +16,19 @@ export function choiceReviewTone(option: string, mark?: ChoiceReviewMark | null)
   return 'default';
 }
 
+/** Prompt colour after submit: correct = green, wrong = red. */
+export function choiceReviewPromptClass(mark?: ChoiceReviewMark | null): string {
+  if (!mark) return 'font-medium';
+  return mark.correct ? 'font-medium text-emerald-800' : 'font-medium text-red-800';
+}
+
+export function choiceReviewPromptTone(
+  mark?: ChoiceReviewMark | null,
+): 'correct' | 'incorrect' | undefined {
+  if (!mark) return undefined;
+  return mark.correct ? 'correct' : 'incorrect';
+}
+
 export function gradeChoiceSelections(
   items: Array<{ id: string; answer: string }>,
   answers: Record<string, string>,

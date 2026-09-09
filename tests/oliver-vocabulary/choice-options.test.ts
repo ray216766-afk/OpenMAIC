@@ -96,6 +96,9 @@ describe('review choice options', () => {
     expect(container.querySelector('[data-option-tone="correct"]')?.textContent).toContain(
       'To examine carefully.',
     );
+    expect(container.querySelector('[data-option-tone="correct"]')?.className).toContain(
+      'bg-emerald-50',
+    );
     expect(container.querySelector('[data-review-hint="correct"]')?.textContent).toBe('Correct');
   });
 });

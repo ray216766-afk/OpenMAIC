@@ -1,17 +1,24 @@
+import { NewWordsExhaustedError } from '../errors';
 import { buildReviewExercises, selectReviewWords } from '../Review_Engine';
 import { generateMiniReading, generateReadingQuestions } from '../Mini_Reading_Generator';
 import { buildDailyLesson, buildParentReference } from '../Lesson_Template';
 import { assertNoChinese, toParentCard, toStudentCard } from '../student-view';
 import {
+  collectSnapshotNewWords,
   defaultEnginePaths,
+  loadLessonSnapshot,
   loadMaster,
   loadProgress,
   markFirstSeen,
+  progressKey,
+  resetLessonDay,
   saveLessonSnapshot,
   saveProgress,
+  wasPresentedAsNew,
 } from '../store';
 import type {
   GenerateLessonResult,
+  ProgressEntry,
   VocabularyEnginePaths,
   VocabularyEntry,
   VocabularyProgressFile,
@@ -20,6 +27,8 @@ import type {
 const NEW_WORD_COUNT = 10;
 const REVIEW_WORD_COUNT = 15;
 
+export { NewWordsExhaustedError };
+
 function curriculumOrder(master: VocabularyEntry[]): VocabularyEntry[] {
   return [...master].sort((a, b) => {
     if (a.level !== b.level) return a.level - b.level;
@@ -27,73 +36,131 @@ function curriculumOrder(master: VocabularyEntry[]): VocabularyEntry[] {
   });
 }
 
+/**
+ * Curriculum-order window for Day N without wrapping.
+ * Day 11+ on a 100-word / 10-per-day bank returns [] instead of repeating Day 1.
+ */
 export function curriculumSlice(
   master: VocabularyEntry[],
   day: number,
   count = NEW_WORD_COUNT,
 ): VocabularyEntry[] {
   const ordered = curriculumOrder(master);
-  const start = ((Math.max(1, day) - 1) * count) % ordered.length;
+  const start = (Math.max(1, day) - 1) * count;
+  if (start >= ordered.length) return [];
   const window: VocabularyEntry[] = [];
-  for (let i = 0; i < ordered.length && window.length < count; i += 1) {
-    const entry = ordered[(start + i) % ordered.length];
+  for (let i = start; i < ordered.length && window.length < count; i += 1) {
+    const entry = ordered[i];
     if (!window.some((item) => item.word === entry.word)) window.push(entry);
   }
   return window;
 }
 
+export function presentedNewWordKeys(
+  progress: VocabularyProgressFile,
+  extraUsed: Iterable<string> = [],
+): Set<string> {
+  const used = new Set<string>();
+  for (const entry of progress.entries) {
+    if (wasPresentedAsNew(entry)) used.add(progressKey(entry.word));
+  }
+  for (const word of extraUsed) {
+    if (word) used.add(progressKey(word));
+  }
+  return used;
+}
+
+export function unusedCurriculumWords(
+  master: VocabularyEntry[],
+  progress: VocabularyProgressFile,
+  extraUsed: Iterable<string> = [],
+): VocabularyEntry[] {
+  const used = presentedNewWordKeys(progress, extraUsed);
+  return curriculumOrder(master).filter((entry) => !used.has(progressKey(entry.word)));
+}
+
 /**
- * Day N is a stable curriculum slot: words (N-1)*10 .. N*10-1 in level then id order.
- * Academic Core Batch 1 therefore starts Day 1 on VAC0001–VAC0010 (analyse, significant, …).
- * Generating the same day always yields the same ten new words.
+ * New Vocabulary is unused curriculum-order words only.
+ * A lemma already presented as New / with first_seen (or a locked snapshot)
+ * must never appear here again — Review Vocabulary only.
+ * Does not wrap the 100-word batch. Fewer than 10 unused → NewWordsExhaustedError.
  */
 export function selectNewWords(
   master: VocabularyEntry[],
-  _progress: VocabularyProgressFile,
-  day: number,
+  progress: VocabularyProgressFile,
+  _day: number,
   count = NEW_WORD_COUNT,
+  extraUsed: Iterable<string> = [],
 ): VocabularyEntry[] {
-  return curriculumSlice(master, day, count);
+  const unused = unusedCurriculumWords(master, progress, extraUsed);
+  if (unused.length < count) {
+    throw new NewWordsExhaustedError(unused.length, master.length);
+  }
+  return unused.slice(0, count);
 }
 
+/** Words already taught as New, in curriculum order — preferred Review pool. */
 export function priorCurriculumWords(
   master: VocabularyEntry[],
-  day: number,
-  count = NEW_WORD_COUNT,
+  progress: VocabularyProgressFile,
+  extraUsed: Iterable<string> = [],
 ): VocabularyEntry[] {
-  if (day <= 1) return [];
-  const seen = new Set<string>();
-  const prior: VocabularyEntry[] = [];
-  for (let priorDay = 1; priorDay < day; priorDay += 1) {
-    for (const entry of curriculumSlice(master, priorDay, count)) {
-      const key = entry.word.toLowerCase();
-      if (seen.has(key)) continue;
-      seen.add(key);
-      prior.push(entry);
-    }
-  }
-  return prior;
+  const used = presentedNewWordKeys(progress, extraUsed);
+  return curriculumOrder(master).filter((entry) => used.has(progressKey(entry.word)));
+}
+
+export interface GenerateLessonOptions {
+  persist?: boolean;
+  /** Parent/admin only. Deletes the locked Day X snapshot and regenerates. */
+  reset?: boolean;
+}
+
+function resultFromSnapshot(
+  snapshot: NonNullable<ReturnType<typeof loadLessonSnapshot>>,
+  progress: ProgressEntry[],
+): GenerateLessonResult {
+  return {
+    lesson: snapshot.lesson,
+    parent_reference: snapshot.parent_reference ?? { day: snapshot.lesson.day, words: [] },
+    progress: snapshot.progress ?? progress,
+    locked: true,
+    source: 'snapshot',
+    review_attempt: snapshot.review_attempt ?? null,
+    reading_attempt: snapshot.reading_attempt ?? null,
+  };
 }
 
 export function generateOliverVocabularyLessonDay(
   day: number,
   paths: VocabularyEnginePaths = defaultEnginePaths(),
-  options: { persist?: boolean } = {},
+  options: GenerateLessonOptions = {},
 ): GenerateLessonResult {
   if (!Number.isInteger(day) || day < 1) {
     throw new Error('Day must be an integer >= 1');
   }
 
   const persist = options.persist ?? true;
+  const reset = options.reset ?? false;
+
+  if (reset && persist) {
+    resetLessonDay(paths, day);
+  } else {
+    const existing = loadLessonSnapshot(paths, day);
+    if (existing) {
+      return resultFromSnapshot(existing, loadProgress(paths).entries);
+    }
+  }
+
   const master = loadMaster(paths);
   let progress = loadProgress(paths);
-  const newEntries = selectNewWords(master, progress, day);
+  const snapshotNewWords = collectSnapshotNewWords(paths);
+  const newEntries = selectNewWords(master, progress, day, NEW_WORD_COUNT, snapshotNewWords);
   if (newEntries.length < NEW_WORD_COUNT) {
-    throw new Error(`Need at least ${NEW_WORD_COUNT} vocabulary entries to build a daily lesson`);
+    throw new NewWordsExhaustedError(newEntries.length, master.length);
   }
 
   const exclude = new Set(newEntries.map((entry) => entry.word));
-  const preferredReview = priorCurriculumWords(master, day);
+  const preferredReview = priorCurriculumWords(master, progress, snapshotNewWords);
   const review = selectReviewWords(
     master,
     progress,
@@ -123,14 +190,24 @@ export function generateOliverVocabularyLessonDay(
   });
   assertNoChinese(lesson, `Day ${day} student lesson`);
 
-  const result = {
+  const result: GenerateLessonResult = {
     lesson,
     parent_reference: buildParentReference(day, newEntries.map(toParentCard)),
     progress: progress.entries,
+    locked: persist,
+    source: 'generated',
+    review_attempt: null,
+    reading_attempt: null,
   };
   if (persist) {
-    // Pin the shown exercises so Mark review cannot re-roll after progress updates.
-    saveLessonSnapshot(paths, { ...result, review_attempt: null });
+    saveLessonSnapshot(paths, {
+      lesson: result.lesson,
+      parent_reference: result.parent_reference,
+      progress: result.progress,
+      review_attempt: null,
+      reading_attempt: null,
+      locked: true,
+    });
   }
   return result;
 }
