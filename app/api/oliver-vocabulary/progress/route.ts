@@ -1,4 +1,10 @@
-import { ACTIVE_BANK, defaultEnginePaths, loadMaster, loadProgress } from '@/Oliver_Vocabulary_System/store';
+import {
+  ACTIVE_BANK,
+  defaultEnginePaths,
+  listLessonDays,
+  loadMaster,
+  loadProgress,
+} from '@/Oliver_Vocabulary_System/store';
 import { VOCABULARY_LEVELS } from '@/Oliver_Vocabulary_System/types';
 import { apiSuccess } from '@/lib/server/api-response';
 
@@ -21,6 +27,7 @@ export async function GET() {
       expansion_target: ACTIVE_BANK.expansionTarget,
       tracked_words: progress.entries.length,
       last_completed_day: progress.last_completed_day,
+      locked_days: listLessonDays(paths),
       by_mastery: byMastery,
       levels: {
         1: VOCABULARY_LEVELS[1],

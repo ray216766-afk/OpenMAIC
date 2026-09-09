@@ -2,7 +2,11 @@
 
 import type { ReadingQuestion } from '@/Oliver_Vocabulary_System/types';
 import type { ChoiceReviewMark } from '@/lib/oliver-vocabulary/choice-review';
-import { choiceReviewTone } from '@/lib/oliver-vocabulary/choice-review';
+import {
+  choiceReviewPromptClass,
+  choiceReviewPromptTone,
+  choiceReviewTone,
+} from '@/lib/oliver-vocabulary/choice-review';
 
 import { ChoiceOptions } from './choice-options';
 import { ChoiceReviewHint } from './choice-review-hint';
@@ -14,6 +18,7 @@ interface ReadingQuestionsSectionProps {
   onSelect: (questionId: string, option: string) => void;
   results?: Record<string, ChoiceReviewMark>;
   submitted?: boolean;
+  submitting?: boolean;
   score?: string | null;
   onSubmit?: () => void;
 }
@@ -24,6 +29,7 @@ export function ReadingQuestionsSection({
   onSelect,
   results,
   submitted = false,
+  submitting = false,
   score,
   onSubmit,
 }: ReadingQuestionsSectionProps) {
@@ -45,7 +51,8 @@ export function ReadingQuestionsSection({
             >
               <p
                 id={promptId}
-                className={marked && !marked.correct ? 'font-medium text-red-800' : 'font-medium'}
+                data-review-prompt-tone={choiceReviewPromptTone(marked)}
+                className={choiceReviewPromptClass(marked)}
               >
                 {question.prompt}
               </p>
@@ -70,6 +77,7 @@ export function ReadingQuestionsSection({
         <SubmitAnswersBar
           section="reading"
           onSubmit={onSubmit}
+          submitting={submitting}
           submitted={submitted}
           score={score}
           hint="Choose an answer for each question, then submit to see which are correct."

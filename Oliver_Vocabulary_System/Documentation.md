@@ -15,7 +15,7 @@ The live lesson bank is **Academic Core Batch 1 (100 words, VAC0001–VAC0100)**
 | Archived V1.0 seed | `archive/Vocabulary_Master_seed_v1_309.json` (not used for lessons) |
 | Expansion path | Later approved batches toward **~1500** words. Do not generate Batch 2+ here. |
 
-Day 1 new words are the first ten Level 1 Academic Core lemmas (analyse, significant, environment, …).
+Day 1 new words are the first ten unused Level 1 Academic Core lemmas (analyse, significant, environment, …). A word already shown as New / with `first_seen` never appears in New Vocabulary again — only in Review Vocabulary. The 100-word batch does **not** wrap.
 
 ## Progress reset
 
@@ -28,9 +28,10 @@ The engine is self-contained under `Oliver_Vocabulary_System/`. OpenMAIC exposes
 | Surface | Path |
 | --- | --- |
 | Student UI | http://127.0.0.1:2007/oliver-vocabulary |
-| Generate lesson API | `POST /api/oliver-vocabulary/lesson` `{ "day": 1 }` |
+| Generate / open locked lesson | `POST /api/oliver-vocabulary/lesson` `{ "day": 1 }` |
 | Progress API | `GET /api/oliver-vocabulary/progress` |
 | Quiz / progress update | `POST /api/oliver-vocabulary/quiz` |
+| Reading submit (frozen) | `POST /api/oliver-vocabulary/reading` |
 | CLI | `pnpm oliver:lesson -- --day 1` |
 | Thin adapter | `lib/oliver-vocabulary/index.ts` |
 
@@ -79,6 +80,8 @@ If the page does not load:
 2. Enter a day number (try **1**)
 3. Click **Generate Oliver Vocabulary Lesson Day 1**
 
+Once Day X has been generated, that day is **locked**. Clicking it again (or **Open locked Day X**) loads the frozen snapshot — same New/Review/reading/questions, and after Submit the same selected answers. Casual Generate does not overwrite it. **Parent/admin: Reset this day** is the only way to delete the snapshot and generate again.
+
 The page shows:
 
 1. **New Vocabulary** — 10 words (English only: POS, simple definition, family, collocations, example, creative upgrade) plus a **Listen** speaker on each word
@@ -88,7 +91,7 @@ The page shows:
 
 Use **Parent reference (Chinese)** to reveal `chinese_meaning` and the richer `detailed_definition`. They are never part of the student lesson payload.
 
-Use **Submit answers** after the review questions to lock the attempt, show the score, and update `Vocabulary_Progress.json`. The grade stays frozen for that generated lesson. Reading questions have their own **Submit answers** control; wrong choices stay red and the correct answer is shown.
+Use **Submit answers** after the review questions to lock the attempt, show the score, and update `Vocabulary_Progress.json`. Selected answers are snapshotted. On later review, **wrong = red** and **correct = green**, and the correct answer text is still shown for wrongs. The grade stays frozen for that generated lesson. Reading questions have their own **Submit answers** control with the same colours and snapshot.
 
 ### API
 
@@ -98,7 +101,7 @@ curl -s -X POST http://127.0.0.1:2007/api/oliver-vocabulary/lesson \
   -d '{"day":1}'
 ```
 
-`GET /api/oliver-vocabulary/lesson?day=1` also works.
+`GET /api/oliver-vocabulary/lesson?day=1` also works. If that day is already locked, both GET and POST return the snapshot (`source: "snapshot"`) instead of building a new lesson. Parent/admin reset: `POST` `{ "day": 1, "reset": true }`. If fewer than 10 unused Batch 1 words remain, the API returns **409** and does not wrap to Day 1 words.
 
 ### CLI
 
@@ -106,6 +109,7 @@ curl -s -X POST http://127.0.0.1:2007/api/oliver-vocabulary/lesson \
 pnpm oliver:lesson -- --day 1
 pnpm oliver:lesson -- --day 1 --print
 pnpm oliver:lesson -- --day 1 --no-persist
+pnpm oliver:lesson -- --day 1 --reset
 ```
 
 `--print` writes the English-only student markdown to stdout. A JSON snapshot is written to `Oliver_Vocabulary_System/Lesson_Day_XXX.json`.
@@ -190,6 +194,7 @@ pnpm oliver:expand -- --pack Oliver_Vocabulary_System/Y5Y6_Academic_Vocabulary_M
 {
   "word": "analyse",
   "first_seen": "Day 1",
+  "presented_as_new": true,
   "review_count": 3,
   "correct_rate": 90,
   "mastery": "Mastered"
@@ -212,9 +217,11 @@ Review selection priority:
 3. Low mastery
 4. Spaced repetition + each word’s `review_schedule` (Day 1 / 3 / 7 / 14 / 30)
 
-Day N is a stable curriculum slot (Day 1 = first ten level-ordered Academic Core words, Day 2 = next ten, …). Review for Day N prefers words from Days 1..N-1, then fills from the bank so every lesson still has 15 review items.
+New Vocabulary always takes the next unused words in level-then-id curriculum order. A word with `presented_as_new` / `first_seen` from a New presentation, or listed on a locked day’s `new_vocabulary`, must **never** appear as New again. Those words may only return in **Review Vocabulary** on the spaced schedule (Day 1 / 3 / 7 / 14 / 30). If fewer than 10 unused Batch 1 words remain, generation errors instead of wrapping back to Day 1.
 
-Generating a lesson writes `first_seen`. Completing review exercises updates `review_count`, `correct_rate`, and mastery.
+Review for a new day prefers words already taught as New, then fills from the bank so every ungenerated day still has 15 review items.
+
+Generating a lesson writes `first_seen` and `presented_as_new`, then locks `Lesson_Day_XXX.json`. Completing review exercises updates `review_count`, `correct_rate`, and mastery, and stores the original selected answers on that snapshot.
 
 ## Listen — standard British English (en-GB)
 
@@ -248,5 +255,5 @@ Do not implement writing generation or book-specific vocabulary here. Future mod
 ## Tests
 
 ```bash
-pnpm exec vitest run tests/oliver-vocabulary/engine.test.ts tests/oliver-vocabulary/british-speech.test.ts tests/oliver-vocabulary/local-access.test.ts
+pnpm exec vitest run tests/oliver-vocabulary
 ```

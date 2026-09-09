@@ -28,9 +28,10 @@ function main(): void {
   const argv = process.argv.slice(2);
   const day = parseDay(argv);
   const persist = !argv.includes('--no-persist');
+  const reset = argv.includes('--reset');
   const printMarkdown = argv.includes('--print') || argv.includes('-p');
   const paths = defaultEnginePaths();
-  const result = generateOliverVocabularyLessonDay(day, paths, { persist });
+  const result = generateOliverVocabularyLessonDay(day, paths, { persist, reset });
   const outDir = defaultModuleRoot();
   const jsonPath = join(outDir, `Lesson_Day_${String(day).padStart(3, '0')}.json`);
   writeFileSync(jsonPath, `${JSON.stringify(result, null, 2)}\n`, 'utf8');
@@ -46,7 +47,11 @@ function main(): void {
       `Reading: ${result.lesson.mini_reading.word_count} words`,
       `Questions: ${result.lesson.reading_questions.length}`,
       `Wrote ${jsonPath}`,
-      persist ? `Updated ${paths.progressPath}` : 'Progress not persisted (--no-persist)',
+      result.source === 'snapshot'
+        ? `Loaded locked snapshot (use --reset to regenerate Day ${day})`
+        : persist
+          ? `Updated ${paths.progressPath}`
+          : 'Progress not persisted (--no-persist)',
       '',
     ].join('\n'),
   );

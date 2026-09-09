@@ -279,3 +279,5 @@ export function buildReviewExercises(
 
 export { answersMatch, gradeReviewAnswers, reviewAttemptFingerprint } from './grade';
 export { markReviewQuiz, quizFromFrozenAttempt } from './mark';
+export { gradeReadingAnswers, markReadingQuiz } from './reading';
+export type { ReadingAnswer } from './reading';

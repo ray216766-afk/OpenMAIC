@@ -99,6 +99,11 @@ export interface ProgressEntry {
   review_count: number;
   correct_rate: number;
   mastery: MasteryLevel;
+  /**
+   * True only when the word was shown in New Vocabulary.
+   * Review-only first_seen fallbacks stay false so they can still be taught as New.
+   */
+  presented_as_new?: boolean;
   /** Internal scheduling fields — not part of the student-facing schema. */
   last_reviewed_day?: number;
   incorrect_count?: number;
@@ -182,10 +187,17 @@ export interface ParentLessonReference {
   words: ParentVocabularyCard[];
 }
 
+export type LessonSource = 'generated' | 'snapshot';
+
 export interface GenerateLessonResult {
   lesson: DailyLesson;
   parent_reference: ParentLessonReference;
   progress: ProgressEntry[];
+  /** True once a Day X lesson snapshot exists. Casual Generate must not overwrite it. */
+  locked?: boolean;
+  source?: LessonSource;
+  review_attempt?: FrozenReviewAttempt | null;
+  reading_attempt?: FrozenReadingAttempt | null;
 }
 
 export interface QuizAnswer {
@@ -222,11 +234,30 @@ export interface FrozenReviewAttempt {
   results: QuizItemResult[];
 }
 
+/** Frozen first submit of Section 4 reading questions. Repeat clicks must return this. */
+export interface FrozenReadingResult {
+  questionId: string;
+  given: string;
+  expected: string;
+  correct: boolean;
+}
+
+export interface FrozenReadingAttempt {
+  lesson_generated_at: string;
+  marked_at: string;
+  correct: number;
+  total: number;
+  correct_rate: number;
+  results: FrozenReadingResult[];
+}
+
 export interface LessonSnapshotFile {
   lesson: DailyLesson;
   parent_reference?: ParentLessonReference;
   progress?: ProgressEntry[];
   review_attempt?: FrozenReviewAttempt | null;
+  reading_attempt?: FrozenReadingAttempt | null;
+  locked?: boolean;
 }
 
 /**

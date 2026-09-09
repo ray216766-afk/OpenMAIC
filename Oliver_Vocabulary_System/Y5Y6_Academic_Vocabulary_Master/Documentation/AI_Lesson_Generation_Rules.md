@@ -12,7 +12,7 @@ Each daily lesson contains:
 
 | Block | Count / Length | Rules |
 |-------|----------------|-------|
-| **New words** | Exactly **10** | From current batch, unused or scheduled as “new” |
+| **New words** | Exactly **10** | Unused curriculum-order words from the current batch. Never re-issue a word that already has `first_seen` / was shown as New. Do **not** wrap the 100-word batch. If fewer than 10 unused remain, stop with a clear exhausted-batch message. |
 | **Review words** | Exactly **15** | From prior days per `review_schedule` (Day 1, 3, 7, 14, 30) |
 | **Mini reading** | **180–250 words** | Must weave **all 10 new words** naturally |
 | **Comprehension** | **5 MCQs** | Mix meaning, inference, collocation, and usage |
@@ -23,7 +23,7 @@ Total focus words per day: 25 (10 new + 15 review). Do not overload with extra n
 
 ## 2. New Words (×10)
 
-1. Prefer a **mix of levels** within the day (e.g. mostly Level 1, 2–3 Level 2, occasional Level 3).
+1. Take the next **unused** lemmas in curriculum order (level, then id). Already-taught New words are Review-only.
 2. Prefer **related themes** when possible (environment, argument, investigation) so the mini reading coheres.
 3. Present for Oliver in English only:
    - word + POS
@@ -112,7 +112,7 @@ Before publishing a daily lesson:
 - [ ] Student pack English-only
 - [ ] Parent pack has Chinese meanings + brief coaching note
 - [ ] Australian spelling throughout
-- [ ] No duplicate new words vs recent 3 days
+- [ ] No duplicate New words ever (first_seen / presented-as-new never wrap back into New Vocabulary)
 - [ ] Level mix appropriate (not 10× Level 3 in one day)
 
 ---

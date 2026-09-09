@@ -1,6 +1,8 @@
 import { describe, expect, it } from 'vitest';
 
 import {
+  choiceReviewPromptClass,
+  choiceReviewPromptTone,
   choiceReviewTone,
   formatChoiceScore,
   gradeChoiceSelections,
@@ -12,6 +14,17 @@ describe('choice review helpers', () => {
     expect(choiceReviewTone('A celebration.', wrong)).toBe('incorrect');
     expect(choiceReviewTone('To examine carefully.', wrong)).toBe('correct');
     expect(choiceReviewTone('A uniform.', wrong)).toBe('default');
+  });
+
+  it('colours review prompts green when correct and red when wrong', () => {
+    expect(choiceReviewPromptTone({ given: 'a', expected: 'b', correct: false })).toBe('incorrect');
+    expect(choiceReviewPromptClass({ given: 'a', expected: 'b', correct: false })).toContain(
+      'text-red-800',
+    );
+    expect(choiceReviewPromptTone({ given: 'a', expected: 'a', correct: true })).toBe('correct');
+    expect(choiceReviewPromptClass({ given: 'a', expected: 'a', correct: true })).toContain(
+      'text-emerald-800',
+    );
   });
 
   it('marks a correct pick calmly as correct', () => {
