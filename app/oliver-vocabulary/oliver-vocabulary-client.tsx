@@ -4,17 +4,19 @@ import { useCallback, useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
 import { BookOpen, Check, Loader2, Sparkles } from 'lucide-react';
 
+import { ChoiceOptions } from '@/components/oliver-vocabulary/choice-options';
 import { ListenButton } from '@/components/oliver-vocabulary/listen-button';
+import { ReadingQuestionsSection } from '@/components/oliver-vocabulary/reading-questions';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { useBritishSpeech } from '@/lib/oliver-vocabulary/use-british-speech';
-import { cn } from '@/lib/utils';
 import { formatWordFamily } from '@/Oliver_Vocabulary_System/normalize';
 import type {
   DailyLesson,
   ParentLessonReference,
   ProgressEntry,
   QuizAnswer,
+  QuizItemResult,
   StudentVocabularyCard,
   WordFamily,
 } from '@/Oliver_Vocabulary_System/types';
@@ -56,7 +58,10 @@ export function OliverVocabularyClient() {
   const [summary, setSummary] = useState<ProgressPayload['summary']>();
   const [showParent, setShowParent] = useState(false);
   const [answers, setAnswers] = useState<Record<string, string>>({});
+  const [readingAnswers, setReadingAnswers] = useState<Record<string, string>>({});
   const [quizScore, setQuizScore] = useState<string | null>(null);
+  const [quizResults, setQuizResults] = useState<Record<string, QuizItemResult>>({});
+  const [reviewMarked, setReviewMarked] = useState(false);
   const [submitting, setSubmitting] = useState(false);
   const { supported: speechSupported, speakingId, toggle: toggleSpeech } = useBritishSpeech();
 
@@ -77,7 +82,10 @@ export function OliverVocabularyClient() {
     setLoading(true);
     setError(null);
     setQuizScore(null);
+    setQuizResults({});
+    setReviewMarked(false);
     setAnswers({});
+    setReadingAnswers({});
     try {
       const res = await fetch('/api/oliver-vocabulary/lesson', {
         method: 'POST',
@@ -99,8 +107,28 @@ export function OliverVocabularyClient() {
     }
   }, [day, loadProgress]);
 
+  const applyQuiz = useCallback(
+    (quiz: {
+      correct: number;
+      total: number;
+      correct_rate: number;
+      results?: QuizItemResult[];
+    }) => {
+      setQuizScore(`${quiz.correct}/${quiz.total} correct (${quiz.correct_rate}%)`);
+      const nextResults: Record<string, QuizItemResult> = {};
+      for (const result of quiz.results ?? []) {
+        nextResults[result.exerciseId] = result;
+      }
+      setQuizResults(nextResults);
+      setReviewMarked(true);
+    },
+    [],
+  );
+
   const submitQuiz = useCallback(async () => {
     if (!lesson) return;
+    // Same completed attempt: do not re-grade. Only Generate starts a new grade.
+    if (reviewMarked) return;
     const payload: QuizAnswer[] = lesson.review_exercises
       .filter((exercise) => answers[exercise.id])
       .map((exercise) => ({ exerciseId: exercise.id, answer: answers[exercise.id] }));
@@ -114,18 +142,21 @@ export function OliverVocabularyClient() {
       });
       const data = (await res.json()) as {
         success: boolean;
-        quiz?: { correct: number; total: number; correct_rate: number };
+        quiz?: {
+          correct: number;
+          total: number;
+          correct_rate: number;
+          results?: QuizItemResult[];
+        };
       };
       if (data.quiz) {
-        setQuizScore(
-          `${data.quiz.correct}/${data.quiz.total} correct (${data.quiz.correct_rate}%)`,
-        );
+        applyQuiz(data.quiz);
       }
       await loadProgress();
     } finally {
       setSubmitting(false);
     }
-  }, [answers, lesson, loadProgress]);
+  }, [answers, applyQuiz, lesson, loadProgress, reviewMarked]);
 
   const masteryCounts = useMemo(
     () => summary?.by_mastery ?? { New: 0, Learning: 0, Developing: 0, Mastered: 0 },
@@ -273,47 +304,60 @@ export function OliverVocabularyClient() {
                 ))}
               </ul>
               <div className="grid gap-5">
-                {lesson.review_exercises.map((exercise) => (
-                  <div key={exercise.id}>
-                    <p className="font-medium">
-                      <span className="mr-2 text-xs uppercase tracking-wide text-[#c9a227]">
-                        {exercise.type.replaceAll('_', ' ')}
-                      </span>
-                      {exercise.prompt}
-                    </p>
-                    <div className="mt-2 flex flex-col gap-2">
-                      {exercise.options?.map((option) => (
-                        <label
-                          key={option}
-                          className={cn(
-                            'flex cursor-pointer items-start gap-2 rounded-md border px-3 py-2 text-sm',
-                            answers[exercise.id] === option
-                              ? 'border-[#1f3a5f] bg-[#eef3f8]'
-                              : 'border-[#e4d9c8]',
-                          )}
-                        >
-                          <input
-                            type="radio"
-                            className="mt-1"
-                            name={exercise.id}
-                            checked={answers[exercise.id] === option}
-                            onChange={() =>
-                              setAnswers((current) => ({ ...current, [exercise.id]: option }))
-                            }
-                          />
-                          <span>{option}</span>
-                        </label>
-                      ))}
+                {lesson.review_exercises.map((exercise) => {
+                  const marked = quizResults[exercise.id];
+                  return (
+                    <div
+                      key={exercise.id}
+                      data-review-result={
+                        marked ? (marked.correct ? 'correct' : 'incorrect') : undefined
+                      }
+                    >
+                      <p
+                        className={
+                          marked && !marked.correct ? 'font-medium text-red-800' : 'font-medium'
+                        }
+                      >
+                        <span className="mr-2 text-xs uppercase tracking-wide text-[#c9a227]">
+                          {exercise.type.replaceAll('_', ' ')}
+                        </span>
+                        {exercise.prompt}
+                      </p>
+                      {exercise.options ? (
+                        <ChoiceOptions
+                          name={exercise.id}
+                          options={exercise.options}
+                          selected={answers[exercise.id]}
+                          disabled={reviewMarked}
+                          optionTone={(option) => {
+                            if (!marked) return 'default';
+                            if (option === marked.given && !marked.correct) return 'incorrect';
+                            if (option === marked.expected && marked.correct) return 'correct';
+                            return 'default';
+                          }}
+                          onSelect={(option) =>
+                            setAnswers((current) => ({ ...current, [exercise.id]: option }))
+                          }
+                        />
+                      ) : null}
                     </div>
-                  </div>
-                ))}
+                  );
+                })}
               </div>
               <div className="mt-6 flex flex-wrap items-center gap-3">
                 <Button onClick={() => void submitQuiz()} disabled={submitting}>
                   {submitting ? <Loader2 className="animate-spin" /> : <Check />}
                   Mark review and update progress
                 </Button>
-                {quizScore && <p className="text-sm font-medium text-[#1f3a5f]">{quizScore}</p>}
+                {quizScore && (
+                  <p
+                    className="text-sm font-medium text-[#1f3a5f]"
+                    data-quiz-score
+                    data-review-frozen={reviewMarked ? 'true' : undefined}
+                  >
+                    {quizScore}
+                  </p>
+                )}
               </div>
             </section>
 
@@ -326,26 +370,13 @@ export function OliverVocabularyClient() {
               <p className="mt-4 whitespace-pre-wrap leading-7">{lesson.mini_reading.passage}</p>
             </section>
 
-            <section className="rounded-xl bg-white p-6 shadow-sm ring-1 ring-[#e4d9c8]">
-              <h3 className="font-serif text-xl">Section 4 · Reading Questions</h3>
-              <ol className="mt-4 grid list-decimal gap-5 pl-5">
-                {lesson.reading_questions.map((question) => (
-                  <li key={question.id}>
-                    <p className="font-medium">{question.prompt}</p>
-                    <p className="text-xs uppercase tracking-wide text-[#c9a227]">
-                      {question.type.replaceAll('_', ' ')}
-                    </p>
-                    <ul className="mt-2 grid gap-1 text-sm">
-                      {question.options.map((option) => (
-                        <li key={option} className="rounded bg-[#f6f1e8] px-3 py-1.5">
-                          {option}
-                        </li>
-                      ))}
-                    </ul>
-                  </li>
-                ))}
-              </ol>
-            </section>
+            <ReadingQuestionsSection
+              questions={lesson.reading_questions}
+              answers={readingAnswers}
+              onSelect={(questionId, option) =>
+                setReadingAnswers((current) => ({ ...current, [questionId]: option }))
+              }
+            />
           </>
         )}
       </main>

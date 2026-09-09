@@ -6,7 +6,11 @@ import {
   MASTERY_ALIASES,
   MODULE_NAME,
   MODULE_VERSION,
+  type DailyLesson,
+  type FrozenReviewAttempt,
+  type LessonSnapshotFile,
   type MasteryLevel,
+  type ParentLessonReference,
   type ProgressEntry,
   type VocabularyEntry,
   type VocabularyEnginePaths,
@@ -39,6 +43,37 @@ export function defaultEnginePaths(root = defaultModuleRoot()): VocabularyEngine
     masterPath: resolveMasterPath(root),
     progressPath: join(root, 'Vocabulary_Progress.json'),
   };
+}
+
+export function lessonSnapshotPath(paths: VocabularyEnginePaths, day: number): string {
+  return join(dirname(paths.progressPath), `Lesson_Day_${String(day).padStart(3, '0')}.json`);
+}
+
+export function loadLessonSnapshot(
+  paths: VocabularyEnginePaths,
+  day: number,
+): LessonSnapshotFile | null {
+  const filePath = lessonSnapshotPath(paths, day);
+  if (!existsSync(filePath)) return null;
+  const parsed = JSON.parse(readFileSync(filePath, 'utf8')) as LessonSnapshotFile;
+  if (!parsed?.lesson?.review_exercises) return null;
+  return parsed;
+}
+
+export function saveLessonSnapshot(
+  paths: VocabularyEnginePaths,
+  snapshot: {
+    lesson: DailyLesson;
+    parent_reference?: ParentLessonReference;
+    progress?: ProgressEntry[];
+    review_attempt?: FrozenReviewAttempt | null;
+  },
+): void {
+  const filePath = lessonSnapshotPath(paths, snapshot.lesson.day);
+  mkdirSync(dirname(filePath), { recursive: true });
+  const tmp = `${filePath}.tmp`;
+  writeFileSync(tmp, `${JSON.stringify(snapshot, null, 2)}\n`, 'utf8');
+  renameSync(tmp, filePath);
 }
 
 export function emptyProgressFile(): VocabularyProgressFile {

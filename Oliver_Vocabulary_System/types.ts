@@ -193,20 +193,40 @@ export interface QuizAnswer {
   answer: string;
 }
 
+export interface QuizItemResult {
+  exerciseId: string;
+  word: string;
+  type: ReviewExerciseType;
+  expected: string;
+  given: string;
+  correct: boolean;
+}
+
 export interface QuizResult {
   day: number;
   total: number;
   correct: number;
   correct_rate: number;
-  results: Array<{
-    exerciseId: string;
-    word: string;
-    type: ReviewExerciseType;
-    expected: string;
-    given: string;
-    correct: boolean;
-  }>;
+  results: QuizItemResult[];
   progress: ProgressEntry[];
+}
+
+/** Frozen first mark of a generated lesson. Repeat clicks must return this. */
+export interface FrozenReviewAttempt {
+  fingerprint: string;
+  lesson_generated_at: string;
+  marked_at: string;
+  correct: number;
+  total: number;
+  correct_rate: number;
+  results: QuizItemResult[];
+}
+
+export interface LessonSnapshotFile {
+  lesson: DailyLesson;
+  parent_reference?: ParentLessonReference;
+  progress?: ProgressEntry[];
+  review_attempt?: FrozenReviewAttempt | null;
 }
 
 /**

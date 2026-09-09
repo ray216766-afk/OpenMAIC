@@ -5,7 +5,14 @@ export {
   priorCurriculumWords,
   selectNewWords,
 } from './Daily_Lesson_Generator';
-export { buildReviewExercises, selectReviewWords } from './Review_Engine';
+export {
+  answersMatch,
+  buildReviewExercises,
+  gradeReviewAnswers,
+  markReviewQuiz,
+  reviewAttemptFingerprint,
+  selectReviewWords,
+} from './Review_Engine';
 export { generateMiniReading, generateReadingQuestions } from './Mini_Reading_Generator';
 export {
   STUDENT_NEW_WORD_FIELDS,
@@ -26,11 +33,14 @@ export {
   emptyProgressFile,
   firstSeenDayNumber,
   getProgressEntry,
+  lessonSnapshotPath,
+  loadLessonSnapshot,
   loadMaster,
   loadProgress,
   markFirstSeen,
   normalizeMastery,
   resolveMasterPath,
+  saveLessonSnapshot,
   saveProgress,
   spacedIntervalDays,
 } from './store';
