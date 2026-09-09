@@ -127,6 +127,8 @@ export function OliverVocabularyClient() {
 
   const submitQuiz = useCallback(async () => {
     if (!lesson) return;
+    // Same completed attempt: do not re-grade. Only Generate starts a new grade.
+    if (reviewMarked) return;
     const payload: QuizAnswer[] = lesson.review_exercises
       .filter((exercise) => answers[exercise.id])
       .map((exercise) => ({ exerciseId: exercise.id, answer: answers[exercise.id] }));
@@ -154,7 +156,7 @@ export function OliverVocabularyClient() {
     } finally {
       setSubmitting(false);
     }
-  }, [answers, applyQuiz, lesson, loadProgress]);
+  }, [answers, applyQuiz, lesson, loadProgress, reviewMarked]);
 
   const masteryCounts = useMemo(
     () => summary?.by_mastery ?? { New: 0, Learning: 0, Developing: 0, Mastered: 0 },
@@ -348,7 +350,11 @@ export function OliverVocabularyClient() {
                   Mark review and update progress
                 </Button>
                 {quizScore && (
-                  <p className="text-sm font-medium text-[#1f3a5f]" data-quiz-score>
+                  <p
+                    className="text-sm font-medium text-[#1f3a5f]"
+                    data-quiz-score
+                    data-review-frozen={reviewMarked ? 'true' : undefined}
+                  >
                     {quizScore}
                   </p>
                 )}

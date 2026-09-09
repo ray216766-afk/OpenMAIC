@@ -98,6 +98,18 @@ describe('Oliver review grading determinism', () => {
     expect(progressAfterRepeat.entries.map((entry) => [entry.word, entry.review_count])).toEqual(
       progressAfterFirst.entries.map((entry) => [entry.word, entry.review_count]),
     );
+
+    // Authoritative repro: click Mark again, even with different answers,
+    // must not change the score or the correct/incorrect set.
+    const flipped = answers.map((item, index) => {
+      const exercise = generated.lesson.review_exercises[index];
+      const other = exercise.options?.find((option) => option !== item.answer);
+      return { exerciseId: item.exerciseId, answer: other ?? item.answer };
+    });
+    const afterFlip = markReviewQuiz(paths, 1, flipped);
+    expect(afterFlip.correct).toBe(first.correct);
+    expect(afterFlip.total).toBe(first.total);
+    expect(afterFlip.results).toEqual(first.results);
   });
 
   it('does not re-grade a frozen lesson against a regenerated review set', () => {
