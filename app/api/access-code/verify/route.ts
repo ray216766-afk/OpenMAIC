@@ -3,6 +3,9 @@ import { timingSafeEqual } from 'crypto';
 import { apiError, apiSuccess } from '@/lib/server/api-response';
 import { createAccessToken } from '@/lib/server/access-token';
 
+export const runtime = 'nodejs';
+export const dynamic = 'force-dynamic';
+
 export async function POST(request: Request) {
   const accessCode = process.env.ACCESS_CODE;
   if (!accessCode) {

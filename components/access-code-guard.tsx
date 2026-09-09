@@ -2,6 +2,7 @@
 
 import { useEffect, useState, ReactNode } from 'react';
 import { AccessCodeModal } from '@/components/access-code-modal';
+import { accessCodeStatusFromPayload, OPEN_ACCESS_STATUS } from '@/lib/access-code-status';
 import { useSettingsStore } from '@/lib/store/settings';
 
 export function AccessCodeGuard({ children }: { children: ReactNode }) {
@@ -9,25 +10,31 @@ export function AccessCodeGuard({ children }: { children: ReactNode }) {
     enabled: boolean;
     authenticated: boolean;
     loading: boolean;
-  }>({ enabled: false, authenticated: false, loading: true });
+  }>({ ...OPEN_ACCESS_STATUS, loading: true });
 
   useEffect(() => {
     let cancelled = false;
     fetch('/api/access-code/status')
-      .then((res) => res.json())
+      .then(async (res) => {
+        if (!res.ok) {
+          throw new Error(`access-code status HTTP ${res.status}`);
+        }
+        return res.json();
+      })
       .then((data) => {
         if (!cancelled) {
           setStatus({
-            enabled: data.enabled,
-            authenticated: data.authenticated,
+            ...accessCodeStatusFromPayload(data),
             loading: false,
           });
         }
       })
-      .catch(() => {
+      .catch((error) => {
         if (!cancelled) {
-          // Default to requiring auth on error — safer than silently disabling
-          setStatus({ enabled: true, authenticated: false, loading: false });
+          // Status API failed (network, 404 HTML, non-JSON). Fail open so a
+          // broken compile/runtime cannot permanently lock the local UI.
+          console.warn('[access-code] status check failed; defaulting to open access', error);
+          setStatus({ ...OPEN_ACCESS_STATUS, loading: false });
         }
       });
     return () => {
