@@ -5,6 +5,10 @@ import { createRoot, type Root } from 'react-dom/client';
 import { afterEach, beforeEach, describe, expect, it } from 'vitest';
 
 import { ReadingQuestionsSection } from '@/components/oliver-vocabulary/reading-questions';
+import {
+  type ChoiceReviewMark,
+  gradeChoiceSelections,
+} from '@/lib/oliver-vocabulary/choice-review';
 import type { ReadingQuestion } from '@/Oliver_Vocabulary_System/types';
 
 const questions: ReadingQuestion[] = [
@@ -33,11 +37,22 @@ const questions: ReadingQuestion[] = [
 
 function Harness() {
   const [answers, setAnswers] = useState<Record<string, string>>({});
+  const [results, setResults] = useState<Record<string, ChoiceReviewMark>>({});
+  const [submitted, setSubmitted] = useState(false);
   return createElement(ReadingQuestionsSection, {
     questions,
     answers,
+    results,
+    submitted,
     onSelect: (questionId, option) =>
       setAnswers((current) => ({ ...current, [questionId]: option })),
+    onSubmit: () => {
+      if (submitted) return;
+      const graded = gradeChoiceSelections(questions, answers);
+      if (graded.total === 0) return;
+      setResults(graded.results);
+      setSubmitted(true);
+    },
   });
 }
 
@@ -93,5 +108,50 @@ describe('Section 4 reading questions', () => {
 
     expect(secondRadios[0].checked).toBe(true);
     expect(radios[0].checked).toBe(true);
+  });
+
+  it('offers Submit answers and then shows red wrongs plus the correct answer', () => {
+    act(() => {
+      root.render(createElement(Harness));
+    });
+
+    const submit = container.querySelector<HTMLButtonElement>('[data-submit-answers="reading"]');
+    expect(submit?.textContent).toContain('Submit answers');
+    expect(submit?.disabled).toBe(false);
+
+    const firstRadios = container
+      .querySelector('[data-reading-question="RQ001-1"]')!
+      .querySelectorAll<HTMLInputElement>('input[type="radio"]');
+
+    act(() => {
+      firstRadios[1].click();
+    });
+    act(() => {
+      submit!.click();
+    });
+
+    const firstQuestion = container.querySelector('[data-reading-question="RQ001-1"]');
+    expect(firstQuestion?.getAttribute('data-review-result')).toBe('incorrect');
+    expect(firstQuestion?.querySelector('[data-option-tone="incorrect"]')?.textContent).toContain(
+      'A loud celebration.',
+    );
+    expect(firstQuestion?.querySelector('[data-option-tone="correct"]')?.textContent).toContain(
+      'To examine something carefully.',
+    );
+    expect(firstQuestion?.querySelector('[data-correct-answer]')?.textContent).toBe(
+      'To examine something carefully.',
+    );
+    expect(
+      [...firstQuestion!.querySelectorAll<HTMLInputElement>('input[type="radio"]')].every(
+        (radio) => radio.disabled,
+      ),
+    ).toBe(true);
+    expect(container.querySelector('[data-submit-answers="reading"]')?.textContent).toContain(
+      'Answers submitted',
+    );
+    expect(container.querySelector('[data-submit-answers="reading"]')).toHaveProperty(
+      'disabled',
+      true,
+    );
   });
 });

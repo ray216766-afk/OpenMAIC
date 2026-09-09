@@ -2,13 +2,21 @@
 
 import { useCallback, useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
-import { BookOpen, Check, Loader2, Sparkles } from 'lucide-react';
+import { BookOpen, Loader2, Sparkles } from 'lucide-react';
 
 import { ChoiceOptions } from '@/components/oliver-vocabulary/choice-options';
+import { ChoiceReviewHint } from '@/components/oliver-vocabulary/choice-review-hint';
 import { ListenButton } from '@/components/oliver-vocabulary/listen-button';
 import { ReadingQuestionsSection } from '@/components/oliver-vocabulary/reading-questions';
+import { SubmitAnswersBar } from '@/components/oliver-vocabulary/submit-answers-bar';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
+import {
+  type ChoiceReviewMark,
+  choiceReviewTone,
+  formatChoiceScore,
+  gradeChoiceSelections,
+} from '@/lib/oliver-vocabulary/choice-review';
 import { useBritishSpeech } from '@/lib/oliver-vocabulary/use-british-speech';
 import { formatWordFamily } from '@/Oliver_Vocabulary_System/normalize';
 import type {
@@ -63,6 +71,9 @@ export function OliverVocabularyClient() {
   const [quizResults, setQuizResults] = useState<Record<string, QuizItemResult>>({});
   const [reviewMarked, setReviewMarked] = useState(false);
   const [submitting, setSubmitting] = useState(false);
+  const [readingResults, setReadingResults] = useState<Record<string, ChoiceReviewMark>>({});
+  const [readingScore, setReadingScore] = useState<string | null>(null);
+  const [readingSubmitted, setReadingSubmitted] = useState(false);
   const { supported: speechSupported, speakingId, toggle: toggleSpeech } = useBritishSpeech();
 
   const loadProgress = useCallback(async () => {
@@ -86,6 +97,9 @@ export function OliverVocabularyClient() {
     setReviewMarked(false);
     setAnswers({});
     setReadingAnswers({});
+    setReadingResults({});
+    setReadingScore(null);
+    setReadingSubmitted(false);
     try {
       const res = await fetch('/api/oliver-vocabulary/lesson', {
         method: 'POST',
@@ -157,6 +171,15 @@ export function OliverVocabularyClient() {
       setSubmitting(false);
     }
   }, [answers, applyQuiz, lesson, loadProgress, reviewMarked]);
+
+  const submitReading = useCallback(() => {
+    if (!lesson || readingSubmitted) return;
+    const graded = gradeChoiceSelections(lesson.reading_questions, readingAnswers);
+    if (graded.total === 0) return;
+    setReadingResults(graded.results);
+    setReadingScore(formatChoiceScore(graded.correct, graded.total));
+    setReadingSubmitted(true);
+  }, [lesson, readingAnswers, readingSubmitted]);
 
   const masteryCounts = useMemo(
     () => summary?.by_mastery ?? { New: 0, Learning: 0, Developing: 0, Mastered: 0 },
@@ -329,36 +352,25 @@ export function OliverVocabularyClient() {
                           options={exercise.options}
                           selected={answers[exercise.id]}
                           disabled={reviewMarked}
-                          optionTone={(option) => {
-                            if (!marked) return 'default';
-                            if (option === marked.given && !marked.correct) return 'incorrect';
-                            if (option === marked.expected && marked.correct) return 'correct';
-                            return 'default';
-                          }}
+                          optionTone={(option) => choiceReviewTone(option, marked)}
                           onSelect={(option) =>
                             setAnswers((current) => ({ ...current, [exercise.id]: option }))
                           }
                         />
                       ) : null}
+                      <ChoiceReviewHint mark={marked} />
                     </div>
                   );
                 })}
               </div>
-              <div className="mt-6 flex flex-wrap items-center gap-3">
-                <Button onClick={() => void submitQuiz()} disabled={submitting}>
-                  {submitting ? <Loader2 className="animate-spin" /> : <Check />}
-                  Mark review and update progress
-                </Button>
-                {quizScore && (
-                  <p
-                    className="text-sm font-medium text-[#1f3a5f]"
-                    data-quiz-score
-                    data-review-frozen={reviewMarked ? 'true' : undefined}
-                  >
-                    {quizScore}
-                  </p>
-                )}
-              </div>
+              <SubmitAnswersBar
+                section="review"
+                onSubmit={() => void submitQuiz()}
+                submitting={submitting}
+                submitted={reviewMarked}
+                score={quizScore}
+                hint="Choose your review answers, then submit to lock them and see your score. The grade stays frozen for this attempt."
+              />
             </section>
 
             <section className="rounded-xl bg-white p-6 shadow-sm ring-1 ring-[#e4d9c8]">
@@ -373,6 +385,10 @@ export function OliverVocabularyClient() {
             <ReadingQuestionsSection
               questions={lesson.reading_questions}
               answers={readingAnswers}
+              results={readingResults}
+              submitted={readingSubmitted}
+              score={readingScore}
+              onSubmit={submitReading}
               onSelect={(questionId, option) =>
                 setReadingAnswers((current) => ({ ...current, [questionId]: option }))
               }
