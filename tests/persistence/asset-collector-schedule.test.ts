@@ -299,4 +299,17 @@ describe('instrumentation registration', () => {
 
     expect(startAssetCollectorSchedule).not.toHaveBeenCalled();
   });
+
+  it('does not load the Node instrumentation module on Edge', async () => {
+    const registerNodeInstrumentation = vi.fn();
+    vi.doMock('@/instrumentation.node', () => ({
+      registerNodeInstrumentation,
+    }));
+    vi.stubEnv('NEXT_RUNTIME', 'edge');
+
+    const { register } = await import('@/instrumentation');
+    await register();
+
+    expect(registerNodeInstrumentation).not.toHaveBeenCalled();
+  });
 });
