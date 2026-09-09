@@ -86,8 +86,8 @@ The page shows:
 
 1. **New Vocabulary** — 10 words (English only: POS, simple definition, family, collocations, example, creative upgrade) plus a **Listen** speaker on each word
 2. **Review Vocabulary** — 15 headwords with Listen, plus exercises (prefers prior days and `review_schedule`)
-3. **Mini Reading** — 150–200 words
-4. **Reading Questions** — 3–5 items
+3. **Mini Reading** — 180–220 words, topic-first (about 5–8 naturally fitting targets)
+4. **Reading Questions** — 4–5 items written from the finished passage
 
 Use **Parent reference (Chinese)** to reveal `chinese_meaning` and the richer `detailed_definition`. They are never part of the student lesson payload.
 
@@ -126,8 +126,9 @@ Oliver_Vocabulary_System/
 ├── archive/Vocabulary_Master_seed_v1_309.json
 ├── Vocabulary_Progress.json    # live mastery store (reset for Batch 1)
 ├── Daily_Lesson_Generator/     # Day N curriculum + orchestration
-├── Review_Engine/              # selection + exercises
-├── Mini_Reading_Generator/     # 150–200 word passages + questions
+├── Review_Engine/              # selection + suitability-aware exercises
+├── Mini_Reading_Generator/     # topic-first 180–220 word passages + aligned questions
+├── quality/                    # vocab / passage / reading-question QA gates
 ├── Lesson_Template/            # student / parent lesson shape
 ├── types.ts                    # contracts + V2/V3 hooks
 ├── normalize.ts                # Academic Core → engine schema
@@ -238,7 +239,15 @@ OpenMAIC cloud TTS is not required for this control. Keyless Listen must keep wo
 
 ## Mini reading
 
-Passages are English only, scholarship difficulty, Australian school/camp/exam settings. Themes rotate: adventure, mystery, science, history, character challenge, real-world. Each passage includes at least five of that day’s new words plus review words, then 3–5 questions (vocabulary in context, main idea, inference, detail).
+Passages are English only, scholarship difficulty, Australian school/camp/exam settings. **Topic/story is chosen first**; only vocabulary that fits that one central idea is woven in. Themes rotate: adventure, mystery, science, history, character challenge, real-world. A 180–220 word passage should carry about **5–8** naturally fitting targets (roughly one every 20–35 words). Unused new words are tested in Review, not forced into the reading. Do not concatenate one example sentence per word.
+
+Reading questions are written only after the passage exists: 4–5 items mixing vocabulary in context, main idea, inference, and detail, with an optional cause/effect, sequence, or author's purpose item. Every answer must be supported by the finished text.
+
+Review items choose a suitable question type per word (no forced antonyms for *environment, perspective, evidence, method, process* and similar; no default “none of these”). Sentence completion must include enough context that exactly one option is defensible.
+
+Internal QA (vocab + passage + reading questions) runs before a lesson is returned. Locked `Lesson_Day_XXX.json` snapshots are left unchanged; new quality applies on fresh generate or **Reset this day**. See `Y5Y6_Academic_Vocabulary_Master/Documentation/AI_Lesson_Generation_Rules.md`.
+
+A self-reviewed Day 1 sample (fresh generate, not a live lock) is in `Y5Y6_Academic_Vocabulary_Master/Documentation/samples/`.
 
 ## Extension points (not implemented)
 

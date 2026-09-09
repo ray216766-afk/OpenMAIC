@@ -1,6 +1,7 @@
 import { NextRequest } from 'next/server';
 
 import {
+  LessonQualityError,
   NewWordsExhaustedError,
   generateOliverVocabularyLessonDay,
 } from '@/Oliver_Vocabulary_System/Daily_Lesson_Generator';
@@ -29,6 +30,9 @@ function lessonResponse(day: number, persist: boolean, reset: boolean) {
 function lessonError(error: unknown) {
   if (error instanceof NewWordsExhaustedError) {
     return apiError('INVALID_REQUEST', 409, error.message);
+  }
+  if (error instanceof LessonQualityError) {
+    return apiError('GENERATION_FAILED', 422, error.message);
   }
   const message = error instanceof Error ? error.message : 'Lesson generation failed';
   return apiError('GENERATION_FAILED', 500, message);

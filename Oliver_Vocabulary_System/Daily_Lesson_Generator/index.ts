@@ -1,6 +1,7 @@
-import { NewWordsExhaustedError } from '../errors';
-import { buildReviewExercises, selectReviewWords } from '../Review_Engine';
+import { LessonQualityError, NewWordsExhaustedError } from '../errors';
 import { generateMiniReading, generateReadingQuestions } from '../Mini_Reading_Generator';
+import { runReadingPassageQa, runReadingQuestionQa, runVocabQa } from '../quality';
+import { buildReviewExercises, selectReviewWords } from '../Review_Engine';
 import { buildDailyLesson, buildParentReference } from '../Lesson_Template';
 import { assertNoChinese, toParentCard, toStudentCard } from '../student-view';
 import {
@@ -27,7 +28,9 @@ import type {
 const NEW_WORD_COUNT = 10;
 const REVIEW_WORD_COUNT = 15;
 
-export { NewWordsExhaustedError };
+export { LessonQualityError, NewWordsExhaustedError };
+
+const QUALITY_ATTEMPTS = 6;
 
 function curriculumOrder(master: VocabularyEntry[]): VocabularyEntry[] {
   return [...master].sort((a, b) => {
@@ -169,8 +172,28 @@ export function generateOliverVocabularyLessonDay(
     REVIEW_WORD_COUNT,
     preferredReview,
   );
-  const reading = generateMiniReading(day, newEntries, review.words);
-  const questions = generateReadingQuestions(day, reading, newEntries, review.words);
+  let reading = generateMiniReading(day, newEntries, review.words);
+  let questions = generateReadingQuestions(day, reading, newEntries, review.words);
+  let reviewExercises = buildReviewExercises(review.words, master, day);
+  let qualityErrors: string[] = [];
+
+  for (let attempt = 0; attempt < QUALITY_ATTEMPTS; attempt += 1) {
+    reading = generateMiniReading(day, newEntries, review.words, { attempt });
+    questions = generateReadingQuestions(day, reading, newEntries, review.words);
+    reviewExercises = buildReviewExercises(review.words, master, day, { attempt });
+    const vocabQa = runVocabQa(reviewExercises, review.words, master);
+    const passageQa = runReadingPassageQa(
+      reading,
+      [...newEntries, ...review.words],
+      reading.fallbackPassage,
+    );
+    const questionQa = runReadingQuestionQa(questions, reading);
+    qualityErrors = [...vocabQa.errors, ...passageQa.errors, ...questionQa.errors];
+    if (qualityErrors.length === 0) break;
+  }
+  if (qualityErrors.length > 0) {
+    throw new LessonQualityError(qualityErrors);
+  }
 
   for (const entry of newEntries) {
     progress = markFirstSeen(progress, entry.word, day);
@@ -184,8 +207,15 @@ export function generateOliverVocabularyLessonDay(
     day,
     newVocabulary: newEntries.map(toStudentCard),
     reviewVocabulary: review.words.map(toStudentCard),
-    reviewExercises: buildReviewExercises(review.words, master, day),
-    miniReading: reading,
+    reviewExercises,
+    miniReading: {
+      title: reading.title,
+      theme: reading.theme,
+      passage: reading.passage,
+      word_count: reading.word_count,
+      featured_new_words: reading.featured_new_words,
+      featured_review_words: reading.featured_review_words,
+    },
     readingQuestions: questions,
   });
   assertNoChinese(lesson, `Day ${day} student lesson`);

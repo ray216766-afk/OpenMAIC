@@ -18,3 +18,19 @@ export class NewWordsExhaustedError extends Error {
     this.bankSize = bankSize;
   }
 }
+
+export class LessonQualityError extends Error {
+  readonly code = 'LESSON_QUALITY_FAILED' as const;
+  readonly issues: string[];
+
+  constructor(issues: string[]) {
+    const preview = issues.slice(0, 4).join(' · ');
+    super(
+      issues.length
+        ? `Lesson generation failed quality checks: ${preview}`
+        : 'Lesson generation failed quality checks.',
+    );
+    this.name = 'LessonQualityError';
+    this.issues = issues;
+  }
+}

@@ -1,0 +1,1429 @@
+{
+  "module": "Oliver Scholarship Vocabulary Master System",
+  "version": "V1.1",
+  "day": 1,
+  "title": "Oliver Vocabulary Lesson Day 1",
+  "generated_at": "2026-09-09T10:50:37.347Z",
+  "new_vocabulary": [
+    {
+      "id": "VAC0001",
+      "word": "analyse",
+      "level": 1,
+      "category": "Academic Core Vocabulary",
+      "definition": "To look closely at something so you can understand how it works or what it means.",
+      "simple_definition": "To look closely at something so you can understand how it works or what it means.",
+      "synonyms": [
+        "examine",
+        "study",
+        "investigate"
+      ],
+      "antonyms": [
+        "ignore",
+        "overlook"
+      ],
+      "word_family": {
+        "related": [
+          "analyse",
+          "analysis",
+          "analytical",
+          "analytically",
+          "analyst"
+        ]
+      },
+      "collocations": [
+        "analyse data",
+        "analyse a text",
+        "analyse the results"
+      ],
+      "common_collocations": [
+        "analyse data",
+        "analyse a text",
+        "analyse the results"
+      ],
+      "example_sentence": "In science, we analyse the data from our plant experiment before writing a conclusion.",
+      "creative_writing_example": "Basic: We looked at the results. / Improved: We analysed the results to explain why some seeds grew faster.",
+      "part_of_speech": "verb",
+      "difficulty_score": 3,
+      "review_schedule": [
+        "Day 1",
+        "Day 3",
+        "Day 7",
+        "Day 14",
+        "Day 30"
+      ],
+      "edutest_frequency": 8,
+      "writing_value": "Academic Core — improves precise academic expression"
+    },
+    {
+      "id": "VAC0002",
+      "word": "significant",
+      "level": 1,
+      "category": "Academic Core Vocabulary",
+      "definition": "Important enough to notice or to make a real difference.",
+      "simple_definition": "Important enough to notice or to make a real difference.",
+      "synonyms": [
+        "important",
+        "notable",
+        "considerable"
+      ],
+      "antonyms": [
+        "minor",
+        "insignificant"
+      ],
+      "word_family": {
+        "related": [
+          "significant",
+          "significance",
+          "significantly",
+          "insignificant"
+        ]
+      },
+      "collocations": [
+        "significant difference",
+        "significant impact",
+        "statistically significant"
+      ],
+      "common_collocations": [
+        "significant difference",
+        "significant impact",
+        "statistically significant"
+      ],
+      "example_sentence": "There was a significant rise in recycling after the school launched its new bins.",
+      "creative_writing_example": "Basic: It was a big change. / Improved: It was a significant change that improved the whole programme.",
+      "part_of_speech": "adjective",
+      "difficulty_score": 3,
+      "review_schedule": [
+        "Day 1",
+        "Day 3",
+        "Day 7",
+        "Day 14",
+        "Day 30"
+      ],
+      "edutest_frequency": 8,
+      "writing_value": "Academic Core — improves precise academic expression"
+    },
+    {
+      "id": "VAC0003",
+      "word": "environment",
+      "level": 1,
+      "category": "Academic Core Vocabulary",
+      "definition": "The natural world around us, or the conditions in which people or animals live.",
+      "simple_definition": "The natural world around us, or the conditions in which people or animals live.",
+      "synonyms": [
+        "surroundings",
+        "habitat",
+        "setting"
+      ],
+      "antonyms": [],
+      "word_family": {
+        "related": [
+          "environment",
+          "environmental",
+          "environmentally",
+          "environmentalist"
+        ]
+      },
+      "collocations": [
+        "natural environment",
+        "learning environment",
+        "protect the environment"
+      ],
+      "common_collocations": [
+        "natural environment",
+        "learning environment",
+        "protect the environment"
+      ],
+      "example_sentence": "Protecting the local environment means keeping creeks clean and habitats safe for wildlife.",
+      "creative_writing_example": "Basic: We should look after nature. / Improved: We should protect the environment by reducing plastic waste.",
+      "part_of_speech": "noun",
+      "difficulty_score": 2,
+      "review_schedule": [
+        "Day 1",
+        "Day 3",
+        "Day 7",
+        "Day 14",
+        "Day 30"
+      ],
+      "edutest_frequency": 8,
+      "writing_value": "Academic Core — improves precise academic expression"
+    },
+    {
+      "id": "VAC0004",
+      "word": "determine",
+      "level": 1,
+      "category": "Academic Core Vocabulary",
+      "definition": "To work out or decide something after thinking or checking carefully.",
+      "simple_definition": "To work out or decide something after thinking or checking carefully.",
+      "synonyms": [
+        "decide",
+        "establish",
+        "ascertain"
+      ],
+      "antonyms": [],
+      "word_family": {
+        "related": [
+          "determine",
+          "determination",
+          "determined",
+          "determinant"
+        ]
+      },
+      "collocations": [
+        "determine the cause",
+        "determine whether",
+        "determine the outcome"
+      ],
+      "common_collocations": [
+        "determine the cause",
+        "determine whether",
+        "determine the outcome"
+      ],
+      "example_sentence": "The class used a thermometer to determine the temperature of the water.",
+      "creative_writing_example": "Basic: We found out the answer. / Improved: We determined the answer by testing each method.",
+      "part_of_speech": "verb",
+      "difficulty_score": 3,
+      "review_schedule": [
+        "Day 1",
+        "Day 3",
+        "Day 7",
+        "Day 14",
+        "Day 30"
+      ],
+      "edutest_frequency": 8,
+      "writing_value": "Academic Core — improves precise academic expression"
+    },
+    {
+      "id": "VAC0005",
+      "word": "evaluate",
+      "level": 1,
+      "category": "Academic Core Vocabulary",
+      "definition": "To judge how good, useful, or successful something is.",
+      "simple_definition": "To judge how good, useful, or successful something is.",
+      "synonyms": [
+        "assess",
+        "judge",
+        "appraise"
+      ],
+      "antonyms": [],
+      "word_family": {
+        "related": [
+          "evaluate",
+          "evaluation",
+          "evaluative",
+          "evaluator"
+        ]
+      },
+      "collocations": [
+        "evaluate evidence",
+        "evaluate a method",
+        "evaluate the effectiveness"
+      ],
+      "common_collocations": [
+        "evaluate evidence",
+        "evaluate a method",
+        "evaluate the effectiveness"
+      ],
+      "example_sentence": "After the debate, we evaluate which arguments were supported by strong evidence.",
+      "creative_writing_example": "Basic: We said if it was good. / Improved: We evaluated the project using clear criteria.",
+      "part_of_speech": "verb",
+      "difficulty_score": 4,
+      "review_schedule": [
+        "Day 1",
+        "Day 3",
+        "Day 7",
+        "Day 14",
+        "Day 30"
+      ],
+      "edutest_frequency": 8,
+      "writing_value": "Academic Core — improves precise academic expression"
+    },
+    {
+      "id": "VAC0006",
+      "word": "demonstrate",
+      "level": 1,
+      "category": "Academic Core Vocabulary",
+      "definition": "To show clearly that something is true or how something works.",
+      "simple_definition": "To show clearly that something is true or how something works.",
+      "synonyms": [
+        "show",
+        "prove",
+        "illustrate"
+      ],
+      "antonyms": [],
+      "word_family": {
+        "related": [
+          "demonstrate",
+          "demonstration",
+          "demonstrative",
+          "demonstrator"
+        ]
+      },
+      "collocations": [
+        "demonstrate understanding",
+        "demonstrate a skill",
+        "clearly demonstrate"
+      ],
+      "common_collocations": [
+        "demonstrate understanding",
+        "demonstrate a skill",
+        "clearly demonstrate"
+      ],
+      "example_sentence": "The diagram demonstrates how water moves through the water cycle.",
+      "creative_writing_example": "Basic: The picture shows the idea. / Improved: The diagram demonstrates the process step by step.",
+      "part_of_speech": "verb",
+      "difficulty_score": 3,
+      "review_schedule": [
+        "Day 1",
+        "Day 3",
+        "Day 7",
+        "Day 14",
+        "Day 30"
+      ],
+      "edutest_frequency": 8,
+      "writing_value": "Academic Core — improves precise academic expression"
+    },
+    {
+      "id": "VAC0007",
+      "word": "justify",
+      "level": 1,
+      "category": "Academic Core Vocabulary",
+      "definition": "To give good reasons that explain why a choice or opinion is fair or correct.",
+      "simple_definition": "To give good reasons that explain why a choice or opinion is fair or correct.",
+      "synonyms": [
+        "defend",
+        "support",
+        "explain"
+      ],
+      "antonyms": [],
+      "word_family": {
+        "related": [
+          "justify",
+          "justification",
+          "justifiable",
+          "justifiably"
+        ]
+      },
+      "collocations": [
+        "justify a decision",
+        "justify an opinion",
+        "justify your answer"
+      ],
+      "common_collocations": [
+        "justify a decision",
+        "justify an opinion",
+        "justify your answer"
+      ],
+      "example_sentence": "In your persuasive text, justify your opinion with facts, not only feelings.",
+      "creative_writing_example": "Basic: Say why you think that. / Improved: Justify your opinion with two pieces of evidence.",
+      "part_of_speech": "verb",
+      "difficulty_score": 4,
+      "review_schedule": [
+        "Day 1",
+        "Day 3",
+        "Day 7",
+        "Day 14",
+        "Day 30"
+      ],
+      "edutest_frequency": 8,
+      "writing_value": "Academic Core — improves precise academic expression"
+    },
+    {
+      "id": "VAC0008",
+      "word": "perspective",
+      "level": 1,
+      "category": "Academic Core Vocabulary",
+      "definition": "A particular way of looking at or thinking about something.",
+      "simple_definition": "A particular way of looking at or thinking about something.",
+      "synonyms": [
+        "viewpoint",
+        "standpoint",
+        "angle"
+      ],
+      "antonyms": [],
+      "word_family": {
+        "related": [
+          "perspective",
+          "perspectives"
+        ]
+      },
+      "collocations": [
+        "from a … perspective",
+        "historical perspective",
+        "different perspectives"
+      ],
+      "common_collocations": [
+        "from a … perspective",
+        "historical perspective",
+        "different perspectives"
+      ],
+      "example_sentence": "From a farmer’s perspective, drought is more than a weather story—it affects livelihoods.",
+      "creative_writing_example": "Basic: Different people think differently. / Improved: Each character offers a different perspective on the conflict.",
+      "part_of_speech": "noun",
+      "difficulty_score": 3,
+      "review_schedule": [
+        "Day 1",
+        "Day 3",
+        "Day 7",
+        "Day 14",
+        "Day 30"
+      ],
+      "edutest_frequency": 8,
+      "writing_value": "Academic Core — improves precise academic expression"
+    },
+    {
+      "id": "VAC0009",
+      "word": "consequence",
+      "level": 1,
+      "category": "Academic Core Vocabulary",
+      "definition": "Something that happens as a result of an action or decision.",
+      "simple_definition": "Something that happens as a result of an action or decision.",
+      "synonyms": [
+        "result",
+        "outcome",
+        "effect"
+      ],
+      "antonyms": [
+        "cause"
+      ],
+      "word_family": {
+        "related": [
+          "consequence",
+          "consequences",
+          "consequent",
+          "consequently"
+        ]
+      },
+      "collocations": [
+        "serious consequence",
+        "unintended consequence",
+        "as a consequence"
+      ],
+      "common_collocations": [
+        "serious consequence",
+        "unintended consequence",
+        "as a consequence"
+      ],
+      "example_sentence": "One consequence of cutting down trees is the loss of animal habitats.",
+      "creative_writing_example": "Basic: Bad things happened because of it. / Improved: A serious consequence of pollution is damage to marine life.",
+      "part_of_speech": "noun",
+      "difficulty_score": 3,
+      "review_schedule": [
+        "Day 1",
+        "Day 3",
+        "Day 7",
+        "Day 14",
+        "Day 30"
+      ],
+      "edutest_frequency": 8,
+      "writing_value": "Academic Core — improves precise academic expression"
+    },
+    {
+      "id": "VAC0010",
+      "word": "impact",
+      "level": 1,
+      "category": "Academic Core Vocabulary",
+      "definition": "A strong effect that something has on a person, place, or situation.",
+      "simple_definition": "A strong effect that something has on a person, place, or situation.",
+      "synonyms": [
+        "effect",
+        "influence",
+        "impression"
+      ],
+      "antonyms": [],
+      "word_family": {
+        "related": [
+          "impact",
+          "impacts",
+          "impactful"
+        ]
+      },
+      "collocations": [
+        "positive impact",
+        "negative impact",
+        "have an impact on"
+      ],
+      "common_collocations": [
+        "positive impact",
+        "negative impact",
+        "have an impact on"
+      ],
+      "example_sentence": "Tourism can have a positive impact on local jobs, but also a negative impact on fragile reefs.",
+      "creative_writing_example": "Basic: It changed things a lot. / Improved: The new law had a lasting impact on water safety.",
+      "part_of_speech": "noun",
+      "difficulty_score": 2,
+      "review_schedule": [
+        "Day 1",
+        "Day 3",
+        "Day 7",
+        "Day 14",
+        "Day 30"
+      ],
+      "edutest_frequency": 8,
+      "writing_value": "Academic Core — improves precise academic expression"
+    }
+  ],
+  "review_vocabulary": [
+    {
+      "id": "VAC0011",
+      "word": "scarce",
+      "level": 1,
+      "category": "Academic Core Vocabulary",
+      "definition": "Hard to find because there is not enough of it.",
+      "simple_definition": "Hard to find because there is not enough of it.",
+      "synonyms": [
+        "limited",
+        "rare",
+        "insufficient"
+      ],
+      "antonyms": [
+        "abundant",
+        "plentiful"
+      ],
+      "word_family": {
+        "related": [
+          "scarce",
+          "scarcely",
+          "scarcity"
+        ]
+      },
+      "collocations": [
+        "scarce resources",
+        "become scarce",
+        "scarce supply"
+      ],
+      "common_collocations": [
+        "scarce resources",
+        "become scarce",
+        "scarce supply"
+      ],
+      "example_sentence": "Fresh water can become scarce during a long drought.",
+      "creative_writing_example": "Basic: There was not much left. / Improved: Clean water became scarce after months without rain.",
+      "part_of_speech": "adjective",
+      "difficulty_score": 3,
+      "review_schedule": [
+        "Day 1",
+        "Day 3",
+        "Day 7",
+        "Day 14",
+        "Day 30"
+      ],
+      "edutest_frequency": 8,
+      "writing_value": "Academic Core — improves precise academic expression"
+    },
+    {
+      "id": "VAC0012",
+      "word": "evidence",
+      "level": 1,
+      "category": "Academic Core Vocabulary",
+      "definition": "Facts or information that help prove something is true.",
+      "simple_definition": "Facts or information that help prove something is true.",
+      "synonyms": [
+        "proof",
+        "data",
+        "support"
+      ],
+      "antonyms": [],
+      "word_family": {
+        "related": [
+          "evidence",
+          "evident",
+          "evidently",
+          "evidential"
+        ]
+      },
+      "collocations": [
+        "strong evidence",
+        "gather evidence",
+        "evidence suggests"
+      ],
+      "common_collocations": [
+        "strong evidence",
+        "gather evidence",
+        "evidence suggests"
+      ],
+      "example_sentence": "The footprints were evidence that animals had visited the creek overnight.",
+      "creative_writing_example": "Basic: We have proof. / Improved: We collected evidence from three reliable sources.",
+      "part_of_speech": "noun",
+      "difficulty_score": 2,
+      "review_schedule": [
+        "Day 1",
+        "Day 3",
+        "Day 7",
+        "Day 14",
+        "Day 30"
+      ],
+      "edutest_frequency": 8,
+      "writing_value": "Academic Core — improves precise academic expression"
+    },
+    {
+      "id": "VAC0013",
+      "word": "conclude",
+      "level": 1,
+      "category": "Academic Core Vocabulary",
+      "definition": "To decide something is true after thinking about the information you have.",
+      "simple_definition": "To decide something is true after thinking about the information you have.",
+      "synonyms": [
+        "decide",
+        "infer",
+        "deduce"
+      ],
+      "antonyms": [],
+      "word_family": {
+        "related": [
+          "conclude",
+          "conclusion",
+          "conclusive",
+          "conclusively"
+        ]
+      },
+      "collocations": [
+        "conclude that",
+        "conclude the discussion",
+        "safely conclude"
+      ],
+      "common_collocations": [
+        "conclude that",
+        "conclude the discussion",
+        "safely conclude"
+      ],
+      "example_sentence": "From the graph, we can conclude that rainfall increased in spring.",
+      "creative_writing_example": "Basic: So we think this is the answer. / Improved: We conclude that the hypothesis was supported by the data.",
+      "part_of_speech": "verb",
+      "difficulty_score": 3,
+      "review_schedule": [
+        "Day 1",
+        "Day 3",
+        "Day 7",
+        "Day 14",
+        "Day 30"
+      ],
+      "edutest_frequency": 8,
+      "writing_value": "Academic Core — improves precise academic expression"
+    },
+    {
+      "id": "VAC0014",
+      "word": "compare",
+      "level": 1,
+      "category": "Academic Core Vocabulary",
+      "definition": "To look at two or more things to see how they are similar.",
+      "simple_definition": "To look at two or more things to see how they are similar.",
+      "synonyms": [
+        "contrast",
+        "match",
+        "relate"
+      ],
+      "antonyms": [],
+      "word_family": {
+        "related": [
+          "compare",
+          "comparison",
+          "comparable",
+          "comparative"
+        ]
+      },
+      "collocations": [
+        "compare and contrast",
+        "compare results",
+        "compare with"
+      ],
+      "common_collocations": [
+        "compare and contrast",
+        "compare results",
+        "compare with"
+      ],
+      "example_sentence": "Compare the two poems and note how each describes the ocean.",
+      "creative_writing_example": "Basic: See if they are the same. / Improved: Compare the characters’ choices and explain what they reveal.",
+      "part_of_speech": "verb",
+      "difficulty_score": 2,
+      "review_schedule": [
+        "Day 1",
+        "Day 3",
+        "Day 7",
+        "Day 14",
+        "Day 30"
+      ],
+      "edutest_frequency": 8,
+      "writing_value": "Academic Core — improves precise academic expression"
+    },
+    {
+      "id": "VAC0015",
+      "word": "contrast",
+      "level": 1,
+      "category": "Academic Core Vocabulary",
+      "definition": "To show how two things are different.",
+      "simple_definition": "To show how two things are different.",
+      "synonyms": [
+        "differentiate",
+        "distinguish",
+        "oppose"
+      ],
+      "antonyms": [
+        "compare"
+      ],
+      "word_family": {
+        "related": [
+          "contrast",
+          "contrasting",
+          "contrastive"
+        ]
+      },
+      "collocations": [
+        "contrast with",
+        "in contrast",
+        "sharp contrast"
+      ],
+      "common_collocations": [
+        "contrast with",
+        "in contrast",
+        "sharp contrast"
+      ],
+      "example_sentence": "Contrast life in a coastal town with life in the outback.",
+      "creative_writing_example": "Basic: They are not the same. / Improved: Contrast the two settings to show how place shapes the story.",
+      "part_of_speech": "verb",
+      "difficulty_score": 3,
+      "review_schedule": [
+        "Day 1",
+        "Day 3",
+        "Day 7",
+        "Day 14",
+        "Day 30"
+      ],
+      "edutest_frequency": 8,
+      "writing_value": "Academic Core — improves precise academic expression"
+    },
+    {
+      "id": "VAC0016",
+      "word": "summarise",
+      "level": 1,
+      "category": "Academic Core Vocabulary",
+      "definition": "To say the main points of something in a shorter way.",
+      "simple_definition": "To say the main points of something in a shorter way.",
+      "synonyms": [
+        "sum up",
+        "outline",
+        "recap"
+      ],
+      "antonyms": [],
+      "word_family": {
+        "related": [
+          "summarise",
+          "summary",
+          "summarised"
+        ]
+      },
+      "collocations": [
+        "summarise the text",
+        "summarise findings",
+        "briefly summarise"
+      ],
+      "common_collocations": [
+        "summarise the text",
+        "summarise findings",
+        "briefly summarise"
+      ],
+      "example_sentence": "Summarise the chapter in five sentences using your own words.",
+      "creative_writing_example": "Basic: Tell me what it was about. / Improved: Summarise the key arguments in a concise paragraph.",
+      "part_of_speech": "verb",
+      "difficulty_score": 2,
+      "review_schedule": [
+        "Day 1",
+        "Day 3",
+        "Day 7",
+        "Day 14",
+        "Day 30"
+      ],
+      "edutest_frequency": 8,
+      "writing_value": "Academic Core — improves precise academic expression"
+    },
+    {
+      "id": "VAC0017",
+      "word": "identify",
+      "level": 1,
+      "category": "Academic Core Vocabulary",
+      "definition": "To recognise or name what something is.",
+      "simple_definition": "To recognise or name what something is.",
+      "synonyms": [
+        "recognise",
+        "name",
+        "pinpoint"
+      ],
+      "antonyms": [],
+      "word_family": {
+        "related": [
+          "identify",
+          "identification",
+          "identifiable",
+          "identity"
+        ]
+      },
+      "collocations": [
+        "identify the cause",
+        "identify features",
+        "identify a problem"
+      ],
+      "common_collocations": [
+        "identify the cause",
+        "identify features",
+        "identify a problem"
+      ],
+      "example_sentence": "Identify the main idea of each paragraph before you take notes.",
+      "creative_writing_example": "Basic: Find the important part. / Improved: Identify the author’s purpose in the opening paragraph.",
+      "part_of_speech": "verb",
+      "difficulty_score": 2,
+      "review_schedule": [
+        "Day 1",
+        "Day 3",
+        "Day 7",
+        "Day 14",
+        "Day 30"
+      ],
+      "edutest_frequency": 8,
+      "writing_value": "Academic Core — improves precise academic expression"
+    },
+    {
+      "id": "VAC0018",
+      "word": "organise",
+      "level": 1,
+      "category": "Academic Core Vocabulary",
+      "definition": "To arrange things in a clear order so they work well.",
+      "simple_definition": "To arrange things in a clear order so they work well.",
+      "synonyms": [
+        "arrange",
+        "structure",
+        "order"
+      ],
+      "antonyms": [
+        "disorganise"
+      ],
+      "word_family": {
+        "related": [
+          "organise",
+          "organisation",
+          "organised",
+          "organiser",
+          "organisational"
+        ]
+      },
+      "collocations": [
+        "organise information",
+        "organise an event",
+        "well organised"
+      ],
+      "common_collocations": [
+        "organise information",
+        "organise an event",
+        "well organised"
+      ],
+      "example_sentence": "Organise your notes under headings before you write the report.",
+      "creative_writing_example": "Basic: Put your ideas in order. / Improved: Organise your arguments from strongest to weakest.",
+      "part_of_speech": "verb",
+      "difficulty_score": 2,
+      "review_schedule": [
+        "Day 1",
+        "Day 3",
+        "Day 7",
+        "Day 14",
+        "Day 30"
+      ],
+      "edutest_frequency": 8,
+      "writing_value": "Academic Core — improves precise academic expression"
+    },
+    {
+      "id": "VAC0019",
+      "word": "investigate",
+      "level": 1,
+      "category": "Academic Core Vocabulary",
+      "definition": "To try to find out the truth by looking carefully and asking questions.",
+      "simple_definition": "To try to find out the truth by looking carefully and asking questions.",
+      "synonyms": [
+        "examine",
+        "explore",
+        "research"
+      ],
+      "antonyms": [],
+      "word_family": {
+        "related": [
+          "investigate",
+          "investigation",
+          "investigator",
+          "investigative"
+        ]
+      },
+      "collocations": [
+        "investigate a problem",
+        "investigate further",
+        "scientifically investigate"
+      ],
+      "common_collocations": [
+        "investigate a problem",
+        "investigate further",
+        "scientifically investigate"
+      ],
+      "example_sentence": "We will investigate why some materials float and others sink.",
+      "creative_writing_example": "Basic: We will find out about it. / Improved: We will investigate the question using a fair test.",
+      "part_of_speech": "verb",
+      "difficulty_score": 3,
+      "review_schedule": [
+        "Day 1",
+        "Day 3",
+        "Day 7",
+        "Day 14",
+        "Day 30"
+      ],
+      "edutest_frequency": 8,
+      "writing_value": "Academic Core — improves precise academic expression"
+    },
+    {
+      "id": "VAC0020",
+      "word": "observe",
+      "level": 1,
+      "category": "Academic Core Vocabulary",
+      "definition": "To watch something carefully to notice details.",
+      "simple_definition": "To watch something carefully to notice details.",
+      "synonyms": [
+        "watch",
+        "notice",
+        "monitor"
+      ],
+      "antonyms": [],
+      "word_family": {
+        "related": [
+          "observe",
+          "observation",
+          "observer",
+          "observant",
+          "observable"
+        ]
+      },
+      "collocations": [
+        "observe carefully",
+        "observe a change",
+        "direct observation"
+      ],
+      "common_collocations": [
+        "observe carefully",
+        "observe a change",
+        "direct observation"
+      ],
+      "example_sentence": "Observe the mealworms each day and record any changes in your journal.",
+      "creative_writing_example": "Basic: Look at it. / Improved: Observe the reaction carefully and note the colour change.",
+      "part_of_speech": "verb",
+      "difficulty_score": 2,
+      "review_schedule": [
+        "Day 1",
+        "Day 3",
+        "Day 7",
+        "Day 14",
+        "Day 30"
+      ],
+      "edutest_frequency": 8,
+      "writing_value": "Academic Core — improves precise academic expression"
+    },
+    {
+      "id": "VAC0021",
+      "word": "predict",
+      "level": 1,
+      "category": "Academic Core Vocabulary",
+      "definition": "To say what you think will happen before it happens.",
+      "simple_definition": "To say what you think will happen before it happens.",
+      "synonyms": [
+        "forecast",
+        "anticipate",
+        "foresee"
+      ],
+      "antonyms": [],
+      "word_family": {
+        "related": [
+          "predict",
+          "prediction",
+          "predictable",
+          "predictably",
+          "unpredictable"
+        ]
+      },
+      "collocations": [
+        "predict the outcome",
+        "predict that",
+        "accurate prediction"
+      ],
+      "common_collocations": [
+        "predict the outcome",
+        "predict that",
+        "accurate prediction"
+      ],
+      "example_sentence": "Predict what will happen if we increase the slope of the ramp.",
+      "creative_writing_example": "Basic: Guess what will happen. / Improved: Predict the outcome using what you know about friction.",
+      "part_of_speech": "verb",
+      "difficulty_score": 2,
+      "review_schedule": [
+        "Day 1",
+        "Day 3",
+        "Day 7",
+        "Day 14",
+        "Day 30"
+      ],
+      "edutest_frequency": 8,
+      "writing_value": "Academic Core — improves precise academic expression"
+    },
+    {
+      "id": "VAC0022",
+      "word": "contribute",
+      "level": 1,
+      "category": "Academic Core Vocabulary",
+      "definition": "To give something—ideas, help, or effort—that adds to a result.",
+      "simple_definition": "To give something—ideas, help, or effort—that adds to a result.",
+      "synonyms": [
+        "add",
+        "provide",
+        "donate"
+      ],
+      "antonyms": [],
+      "word_family": {
+        "related": [
+          "contribute",
+          "contribution",
+          "contributor",
+          "contributing"
+        ]
+      },
+      "collocations": [
+        "contribute to",
+        "contribute ideas",
+        "contribute significantly"
+      ],
+      "common_collocations": [
+        "contribute to",
+        "contribute ideas",
+        "contribute significantly"
+      ],
+      "example_sentence": "Everyone should contribute one idea to our class inquiry board.",
+      "creative_writing_example": "Basic: Help with the project. / Improved: Contribute evidence that strengthens the group’s argument.",
+      "part_of_speech": "verb",
+      "difficulty_score": 3,
+      "review_schedule": [
+        "Day 1",
+        "Day 3",
+        "Day 7",
+        "Day 14",
+        "Day 30"
+      ],
+      "edutest_frequency": 8,
+      "writing_value": "Academic Core — improves precise academic expression"
+    },
+    {
+      "id": "VAC0023",
+      "word": "establish",
+      "level": 1,
+      "category": "Academic Core Vocabulary",
+      "definition": "To set something up so it becomes accepted or firm.",
+      "simple_definition": "To set something up so it becomes accepted or firm.",
+      "synonyms": [
+        "set up",
+        "create",
+        "found"
+      ],
+      "antonyms": [],
+      "word_family": {
+        "related": [
+          "establish",
+          "establishment",
+          "established",
+          "establishing"
+        ]
+      },
+      "collocations": [
+        "establish a link",
+        "establish rules",
+        "establish that"
+      ],
+      "common_collocations": [
+        "establish a link",
+        "establish rules",
+        "establish that"
+      ],
+      "example_sentence": "The school will establish a new garden club next term.",
+      "creative_writing_example": "Basic: They started a club. / Improved: They established clear rules so the club ran fairly.",
+      "part_of_speech": "verb",
+      "difficulty_score": 3,
+      "review_schedule": [
+        "Day 1",
+        "Day 3",
+        "Day 7",
+        "Day 14",
+        "Day 30"
+      ],
+      "edutest_frequency": 8,
+      "writing_value": "Academic Core — improves precise academic expression"
+    },
+    {
+      "id": "VAC0024",
+      "word": "factor",
+      "level": 1,
+      "category": "Academic Core Vocabulary",
+      "definition": "One of the things that affects a result or situation.",
+      "simple_definition": "One of the things that affects a result or situation.",
+      "synonyms": [
+        "element",
+        "influence",
+        "component"
+      ],
+      "antonyms": [],
+      "word_family": {
+        "related": [
+          "factor",
+          "factors",
+          "factorise"
+        ]
+      },
+      "collocations": [
+        "key factor",
+        "factor in",
+        "contributing factor"
+      ],
+      "common_collocations": [
+        "key factor",
+        "factor in",
+        "contributing factor"
+      ],
+      "example_sentence": "Weather is one factor that affects how quickly washing dries outside.",
+      "creative_writing_example": "Basic: One thing that matters is… / Improved: A key factor in the experiment was the amount of sunlight.",
+      "part_of_speech": "noun",
+      "difficulty_score": 3,
+      "review_schedule": [
+        "Day 1",
+        "Day 3",
+        "Day 7",
+        "Day 14",
+        "Day 30"
+      ],
+      "edutest_frequency": 8,
+      "writing_value": "Academic Core — improves precise academic expression"
+    },
+    {
+      "id": "VAC0025",
+      "word": "method",
+      "level": 1,
+      "category": "Academic Core Vocabulary",
+      "definition": "A planned way of doing something.",
+      "simple_definition": "A planned way of doing something.",
+      "synonyms": [
+        "approach",
+        "procedure",
+        "technique"
+      ],
+      "antonyms": [],
+      "word_family": {
+        "related": [
+          "method",
+          "methods",
+          "methodical",
+          "methodology"
+        ]
+      },
+      "collocations": [
+        "scientific method",
+        "teaching method",
+        "method of"
+      ],
+      "common_collocations": [
+        "scientific method",
+        "teaching method",
+        "method of"
+      ],
+      "example_sentence": "Describe the method you used so another student could repeat your test.",
+      "creative_writing_example": "Basic: This is how we did it. / Improved: Our method included three fair-test controls.",
+      "part_of_speech": "noun",
+      "difficulty_score": 2,
+      "review_schedule": [
+        "Day 1",
+        "Day 3",
+        "Day 7",
+        "Day 14",
+        "Day 30"
+      ],
+      "edutest_frequency": 8,
+      "writing_value": "Academic Core — improves precise academic expression"
+    }
+  ],
+  "review_exercises": [
+    {
+      "id": "REV001-1",
+      "type": "meaning_matching",
+      "word": "scarce",
+      "prompt": "Which definition matches \"scarce\"?",
+      "options": [
+        "Hard to find because there is not enough of it.",
+        "To get something, especially through effort or a process.",
+        "To match or be similar to something else; also, to write letters to someone.",
+        "To work out or decide something after thinking or checking carefully."
+      ],
+      "answer": "Hard to find because there is not enough of it."
+    },
+    {
+      "id": "REV001-2",
+      "type": "synonym_selection",
+      "word": "evidence",
+      "prompt": "Choose the best near-synonym for \"evidence\".",
+      "options": [
+        "important",
+        "plan",
+        "add",
+        "proof"
+      ],
+      "answer": "proof"
+    },
+    {
+      "id": "REV001-3",
+      "type": "meaning_matching",
+      "word": "conclude",
+      "prompt": "Which definition matches \"conclude\"?",
+      "options": [
+        "Important enough to notice or to make a real difference.",
+        "To decide something is true after thinking about the information you have.",
+        "The ability to do something, or the amount something can hold.",
+        "To give something—ideas, help, or effort—that adds to a result."
+      ],
+      "answer": "To decide something is true after thinking about the information you have."
+    },
+    {
+      "id": "REV001-4",
+      "type": "fill_in_the_blank",
+      "word": "compare",
+      "prompt": "______ the two poems and note how each describes the ocean.",
+      "options": [
+        "observe",
+        "compare",
+        "recognise",
+        "identify"
+      ],
+      "answer": "compare",
+      "hint": "Use the exact target word."
+    },
+    {
+      "id": "REV001-5",
+      "type": "sentence_completion",
+      "word": "contrast",
+      "prompt": "______ life in a coastal town with life in the outback.",
+      "options": [
+        "represent",
+        "contrast",
+        "require",
+        "summarise"
+      ],
+      "answer": "contrast"
+    },
+    {
+      "id": "REV001-6",
+      "type": "meaning_matching",
+      "word": "summarise",
+      "prompt": "Which definition matches \"summarise\"?",
+      "options": [
+        "To get something from a source, or to work something out from information.",
+        "To judge how good, useful, or successful something is.",
+        "The situation or background that helps you understand something.",
+        "To say the main points of something in a shorter way."
+      ],
+      "answer": "To say the main points of something in a shorter way."
+    },
+    {
+      "id": "REV001-7",
+      "type": "synonym_selection",
+      "word": "identify",
+      "prompt": "Choose the best near-synonym for \"identify\".",
+      "options": [
+        "suppose",
+        "important",
+        "recognise",
+        "differ"
+      ],
+      "answer": "recognise"
+    },
+    {
+      "id": "REV001-8",
+      "type": "antonym_selection",
+      "word": "organise",
+      "prompt": "Choose the clearest opposite of \"organise\".",
+      "options": [
+        "disorganise",
+        "represent",
+        "observe",
+        "confused"
+      ],
+      "answer": "disorganise"
+    },
+    {
+      "id": "REV001-9",
+      "type": "fill_in_the_blank",
+      "word": "investigate",
+      "prompt": "We will ______ why some materials float and others sink.",
+      "options": [
+        "vary",
+        "define",
+        "investigate",
+        "analyse"
+      ],
+      "answer": "investigate",
+      "hint": "Use the exact target word."
+    },
+    {
+      "id": "REV001-10",
+      "type": "sentence_completion",
+      "word": "observe",
+      "prompt": "______ the mealworms each day and record any changes in your journal.",
+      "options": [
+        "observe",
+        "indicate",
+        "outline",
+        "formulate"
+      ],
+      "answer": "observe"
+    },
+    {
+      "id": "REV001-11",
+      "type": "meaning_matching",
+      "word": "predict",
+      "prompt": "Which definition matches \"predict\"?",
+      "options": [
+        "A typical example or a widely accepted way of thinking about something.",
+        "To say what you think will happen before it happens.",
+        "To explain exactly what a word or idea means.",
+        "Describing qualities or characteristics rather than numbers."
+      ],
+      "answer": "To say what you think will happen before it happens."
+    },
+    {
+      "id": "REV001-12",
+      "type": "synonym_selection",
+      "word": "contribute",
+      "prompt": "Choose the best near-synonym for \"contribute\".",
+      "options": [
+        "share",
+        "add",
+        "important",
+        "recognise"
+      ],
+      "answer": "add"
+    },
+    {
+      "id": "REV001-13",
+      "type": "fill_in_the_blank",
+      "word": "establish",
+      "prompt": "The school will ______ a new garden club next term.",
+      "options": [
+        "require",
+        "summarise",
+        "establish",
+        "demonstrate"
+      ],
+      "answer": "establish",
+      "hint": "Use the exact target word."
+    },
+    {
+      "id": "REV001-14",
+      "type": "fill_in_the_blank",
+      "word": "factor",
+      "prompt": "Weather is one ______ that affects how quickly washing dries outside.",
+      "options": [
+        "context",
+        "perspective",
+        "factor",
+        "proportion"
+      ],
+      "answer": "factor",
+      "hint": "Use the exact target word."
+    },
+    {
+      "id": "REV001-15",
+      "type": "sentence_completion",
+      "word": "method",
+      "prompt": "Describe the ______ you used so another student could repeat your test.",
+      "options": [
+        "method",
+        "factor",
+        "consequence",
+        "criteria"
+      ],
+      "answer": "method"
+    }
+  ],
+  "mini_reading": {
+    "title": "The Ridge Beyond the Marked Trail",
+    "theme": "adventure",
+    "passage": "On the third morning of school camp, the Year 6 group left the painted markers and climbed toward a ridge the map showed only as a pale smudge. They had been told to notice the weather, the rock, and the way a person speaks when the path grows steep. A thin wind moved through the gums. Nobody treated the walk as a race. Ms Hart asked them to investigate the slope before anyone crossed the loose stone. A patient method mattered more than speed. Oliver paused and tried to determine which trees still held last night's rain, then compare the wet bark with the dry dust. The group had to evaluate whether the safer line was longer but sound, or shorter and likely to crumble. The crumbling edge was one consequence they could not ignore. They did not need a heroic tale. They needed to analyse what they had seen so the next pair would not slip. The change underfoot was significant enough to slow the line. By the fire trail, the better prize was this: they could describe the ridge without exaggeration.",
+    "word_count": 183,
+    "featured_new_words": [
+      "analyse",
+      "determine",
+      "evaluate",
+      "significant",
+      "consequence"
+    ],
+    "featured_review_words": [
+      "compare",
+      "investigate",
+      "method"
+    ]
+  },
+  "reading_questions": [
+    {
+      "id": "RQ001-1",
+      "type": "detail",
+      "prompt": "Which detail is actually in the passage?",
+      "options": [
+        "A visiting reporter took over and published the answer that morning.",
+        "The teacher announced a prize for the fastest finished page.",
+        "The Year 6 group left the painted markers and climbed toward a ridge.",
+        "The class cancelled the activity and went home before anything was recorded."
+      ],
+      "answer": "The Year 6 group left the painted markers and climbed toward a ridge."
+    },
+    {
+      "id": "RQ001-2",
+      "type": "vocabulary_in_context",
+      "prompt": "In this passage, \"analyse\" is used to mean:",
+      "options": [
+        "To work out or decide something after thinking or checking carefully.",
+        "To look closely at something so you can understand how it works or what it means.",
+        "Important enough to notice or to make a real difference.",
+        "The natural world around us, or the conditions in which people or animals live."
+      ],
+      "answer": "To look closely at something so you can understand how it works or what it means."
+    },
+    {
+      "id": "RQ001-3",
+      "type": "main_idea",
+      "prompt": "Which sentence best states the main idea of the whole passage?",
+      "options": [
+        "The camp walk rewards careful observation and a safe plan more than a dramatic view.",
+        "The walk is treated as a race to the ridge and back.",
+        "The students ignore the loose stone and take every shortcut.",
+        "The camp journal wants a heroic tale more than an accurate description."
+      ],
+      "answer": "The camp walk rewards careful observation and a safe plan more than a dramatic view."
+    },
+    {
+      "id": "RQ001-4",
+      "type": "inference",
+      "prompt": "What can the reader reasonably infer from the passage?",
+      "options": [
+        "He wants the quickest possible conclusion, even without support.",
+        "He has already decided that nothing in the scene is worth noticing.",
+        "He is only interested in winning a public prize.",
+        "The students are expected to notice conditions, not just reach the top."
+      ],
+      "answer": "The students are expected to notice conditions, not just reach the top."
+    },
+    {
+      "id": "RQ001-5",
+      "type": "cause_effect",
+      "prompt": "Which cause-and-effect relationship is supported by the passage?",
+      "options": [
+        "The activity was cancelled, so no notes were kept.",
+        "A film version of the event replaced what actually happened.",
+        "The slope had loose stone and a crumbling edge. This led to: The group slowed and had to judge which line was safer.",
+        "A prize was offered, so everyone rushed and ignored the facts."
+      ],
+      "answer": "The slope had loose stone and a crumbling edge. This led to: The group slowed and had to judge which line was safer."
+    }
+  ]
+}

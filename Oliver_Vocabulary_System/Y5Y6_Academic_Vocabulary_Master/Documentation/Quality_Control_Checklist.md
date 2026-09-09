@@ -94,7 +94,8 @@ If any answer is “no,” replace the word before approval.
 
 When first daily lessons are generated from Batch 1:
 
-- [ ] 10 new + 15 review + 180–250 word reading with all 10 new words
-- [ ] 5 MCQs meet design rules
+- [ ] 10 new + 15 review + 180–220 word reading built topic-first (about 5–8 naturally fitting targets; do not force 10/10)
+- [ ] 4–5 reading MCQs meet design rules and are aligned to the finished passage
+- [ ] Review items do not force antonyms onto concept nouns; no default “none of these”
 - [ ] Student English-only; parent Chinese pack separate
 
