@@ -39,10 +39,27 @@ export function defaultModuleRoot(): string {
   return join(process.cwd(), 'Oliver_Vocabulary_System');
 }
 
+function compiledWordCount(compiledPath: string): number {
+  try {
+    const parsed = JSON.parse(readFileSync(compiledPath, 'utf8')) as {
+      word_count?: number;
+      words?: unknown[];
+    };
+    if (typeof parsed.word_count === 'number' && parsed.word_count > 0) return parsed.word_count;
+    if (Array.isArray(parsed.words)) return parsed.words.length;
+  } catch {
+    return 0;
+  }
+  return 0;
+}
+
 export function resolveMasterPath(root = defaultModuleRoot()): string {
   const academic = join(root, ACTIVE_BANK.relativePath);
-  if (existsSync(academic)) return academic;
   const compiled = join(root, COMPILED_MASTER_RELATIVE_PATH);
+  if (existsSync(compiled) && compiledWordCount(compiled) > ACTIVE_BANK.batch1WordCount) {
+    return compiled;
+  }
+  if (existsSync(academic)) return academic;
   if (existsSync(compiled)) return compiled;
   throw new Error(`No Academic Core or compiled Vocabulary_Master.json found under ${root}`);
 }

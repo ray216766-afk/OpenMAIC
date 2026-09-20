@@ -1,0 +1,4686 @@
+{
+  "naturally": {
+    "simple": "In a way that happens by itself, without people forcing it.",
+    "detailed": "In a manner that follows ordinary processes in living systems or the physical world, rather than by artificial interference.",
+    "zh": "自然地；天然地",
+    "syn": [
+      "instinctively",
+      "automatically",
+      "spontaneously"
+    ],
+    "ant": [
+      "artificially"
+    ],
+    "col": [
+      "occur naturally",
+      "happen naturally",
+      "naturally occurring"
+    ],
+    "fam": [
+      "naturally",
+      "natural",
+      "nature",
+      "unnatural",
+      "naturalist"
+    ],
+    "example": "In the creek investigation, crystals formed naturally as the salty water dried on the tray.",
+    "basic": "The crystals formed by themselves as the water dried."
+  },
+  "obviously": {
+    "simple": "In a way that is easy for anyone to see or understand.",
+    "detailed": "In a manner that leaves little doubt because the evidence or meaning is immediately clear to a careful reader.",
+    "zh": "显然；明显地",
+    "syn": [
+      "clearly",
+      "evidently",
+      "plainly"
+    ],
+    "ant": [
+      "obscurely"
+    ],
+    "col": [
+      "obviously true",
+      "obviously wrong",
+      "most obviously"
+    ],
+    "fam": [
+      "obviously",
+      "obvious",
+      "obviousness"
+    ],
+    "example": "The graph was obviously incomplete because Friday's temperature column was still blank.",
+    "basic": "Anyone could see that the graph was missing Friday's temperature."
+  },
+  "particularly": {
+    "simple": "Especially; more than usual, or more than the other things in a group.",
+    "detailed": "To a greater degree than in other cases; used to single out one person, place, or idea as more important or more true.",
+    "zh": "尤其；特别",
+    "syn": [
+      "especially",
+      "notably",
+      "specifically"
+    ],
+    "ant": [
+      "generally"
+    ],
+    "col": [
+      "particularly important",
+      "particularly useful",
+      "particularly in"
+    ],
+    "fam": [
+      "particularly",
+      "particular",
+      "particularity"
+    ],
+    "example": "The marker praised Oliver's conclusion, particularly the way he linked each claim to a measurement.",
+    "basic": "The marker especially liked the way he linked each claim to a measurement."
+  },
+  "previously": {
+    "simple": "At an earlier time; before the moment you are talking about.",
+    "detailed": "During a time before the event under discussion, often used to compare an earlier result, rule, or situation with the present one.",
+    "zh": "以前；先前",
+    "syn": [
+      "earlier",
+      "formerly",
+      "beforehand"
+    ],
+    "ant": [
+      "afterwards"
+    ],
+    "col": [
+      "previously known",
+      "previously recorded",
+      "as previously stated"
+    ],
+    "fam": [
+      "previously",
+      "previous"
+    ],
+    "example": "The class compared this year's rainfall with the totals they had previously recorded in Term 1.",
+    "basic": "They compared this year's rainfall with the totals they had written down earlier."
+  },
+  "probably": {
+    "simple": "More likely than not; almost certainly, but not completely proven.",
+    "detailed": "With a high chance of being true or of happening, while still leaving room for doubt or further evidence.",
+    "zh": "很可能；大概",
+    "syn": [
+      "likely",
+      "presumably",
+      "most likely"
+    ],
+    "ant": [
+      "unlikely"
+    ],
+    "col": [
+      "probably true",
+      "will probably",
+      "most probably"
+    ],
+    "fam": [
+      "probably",
+      "probable",
+      "probability",
+      "improbable"
+    ],
+    "example": "If the soil stays this dry, the seedlings will probably wilt before Friday's lesson.",
+    "basic": "If the soil stays this dry, the seedlings are likely to wilt before Friday."
+  },
+  "rarely": {
+    "simple": "Not often; only on a few occasions, so it stands out when it happens.",
+    "detailed": "At unusually long intervals; happening so seldom that it stands out when it does occur.",
+    "zh": "很少；罕见地",
+    "syn": [
+      "seldom",
+      "infrequently",
+      "hardly ever"
+    ],
+    "ant": [
+      "often",
+      "frequently"
+    ],
+    "col": [
+      "rarely seen",
+      "rarely occurs",
+      "only rarely"
+    ],
+    "fam": [
+      "rarely",
+      "rare",
+      "rarity",
+      "rarest"
+    ],
+    "example": "Frost rarely reaches the coastal plain, so the class treated Tuesday's ice as unusual data.",
+    "basic": "Frost almost never reaches the coastal plain."
+  },
+  "recently": {
+    "simple": "Not long ago; in the near past rather than years earlier.",
+    "detailed": "During a short period immediately before the present, used to mark change or new information.",
+    "zh": "最近",
+    "syn": [
+      "lately",
+      "of late",
+      "newly"
+    ],
+    "ant": [],
+    "col": [
+      "until recently",
+      "more recently",
+      "recently discovered"
+    ],
+    "fam": [
+      "recently",
+      "recent"
+    ],
+    "example": "The council had recently opened a new wetland walk, so the field notes mentioned fresh boardwalks.",
+    "basic": "The council had opened a new wetland walk not long ago."
+  },
+  "regularly": {
+    "simple": "Again and again on a steady schedule, not just once or twice.",
+    "detailed": "At even or frequent intervals, or in a consistent pattern that a reader can rely on.",
+    "zh": "经常；定期地",
+    "syn": [
+      "routinely",
+      "consistently",
+      "repeatedly"
+    ],
+    "ant": [
+      "occasionally",
+      "irregularly"
+    ],
+    "col": [
+      "check regularly",
+      "meet regularly",
+      "regularly updated"
+    ],
+    "fam": [
+      "regularly",
+      "regular",
+      "regularity",
+      "irregular"
+    ],
+    "example": "Oliver watered the seedlings regularly so the results would not be spoiled by uneven care.",
+    "basic": "Oliver watered the seedlings on a steady schedule."
+  },
+  "slightly": {
+    "simple": "A little; not by a large amount, so the overall picture stays similar.",
+    "detailed": "To a small degree; enough to notice, but not enough to change the overall picture completely.",
+    "zh": "稍微；略微",
+    "syn": [
+      "a little",
+      "somewhat",
+      "marginally"
+    ],
+    "ant": [
+      "greatly",
+      "considerably"
+    ],
+    "col": [
+      "slightly higher",
+      "slightly different",
+      "only slightly"
+    ],
+    "fam": [
+      "slightly",
+      "slight",
+      "slightest"
+    ],
+    "example": "Friday's temperature was slightly higher than Thursday's, but both days stayed in the same band.",
+    "basic": "Friday was a bit warmer than Thursday."
+  },
+  "suddenly": {
+    "simple": "Quickly and without warning, so there is almost no time to prepare.",
+    "detailed": "Happening in an instant, with little or no time for anyone to prepare or change course.",
+    "zh": "突然",
+    "syn": [
+      "abruptly",
+      "all at once",
+      "unexpectedly"
+    ],
+    "ant": [
+      "gradually"
+    ],
+    "col": [
+      "stop suddenly",
+      "appear suddenly",
+      "suddenly changed"
+    ],
+    "fam": [
+      "suddenly",
+      "sudden",
+      "suddenness"
+    ],
+    "example": "The creek rose suddenly after the storm, so the group moved their equipment up the bank.",
+    "basic": "The creek rose very quickly after the storm."
+  },
+  "typically": {
+    "simple": "In the usual or expected way for that kind of thing.",
+    "detailed": "In a manner that matches the common or characteristic pattern, rather than an unusual exception.",
+    "zh": "通常；典型地",
+    "syn": [
+      "normally",
+      "commonly",
+      "characteristically"
+    ],
+    "ant": [
+      "unusually",
+      "atypically"
+    ],
+    "col": [
+      "typically found",
+      "typically occurs",
+      "typically includes"
+    ],
+    "fam": [
+      "typically",
+      "typical",
+      "typicality",
+      "atypical"
+    ],
+    "example": "A Year 6 investigation typically includes a fair test, a results table, and a cautious conclusion.",
+    "basic": "A Year 6 investigation usually includes a fair test, a table, and a conclusion."
+  },
+  "usually": {
+    "simple": "Most of the time; as the ordinary habit or pattern.",
+    "detailed": "In the majority of cases; according to the ordinary course of events rather than a rare exception.",
+    "zh": "通常；一般",
+    "syn": [
+      "normally",
+      "generally",
+      "ordinarily"
+    ],
+    "ant": [
+      "rarely",
+      "seldom"
+    ],
+    "col": [
+      "usually happens",
+      "usually found",
+      "more than usually"
+    ],
+    "fam": [
+      "usually",
+      "usual",
+      "unusual"
+    ],
+    "example": "The library is usually quiet after lunch, which is why Oliver drafts his essay there.",
+    "basic": "The library is quiet after lunch most days."
+  },
+  "alloy": {
+    "simple": "A metal made by mixing two or more metals so the new material is more useful.",
+    "detailed": "A metallic material formed when metals, and sometimes other elements, are combined so the mixture is stronger, harder, or more workable than the separate parts.",
+    "zh": "合金",
+    "syn": [
+      "mixture",
+      "blend",
+      "composite metal"
+    ],
+    "ant": [],
+    "col": [
+      "metal alloy",
+      "aluminium alloy",
+      "alloy steel"
+    ],
+    "fam": [
+      "alloy",
+      "alloys",
+      "alloyed",
+      "alloying"
+    ],
+    "example": "The technology unit compared a soft copper wire with a stronger alloy used in bike frames.",
+    "basic": "They compared soft copper with a mixed metal used in bike frames."
+  },
+  "altitude": {
+    "simple": "How high a place or aircraft is above sea level.",
+    "detailed": "The vertical height of a location, mountain, or aircraft measured from a standard level, usually mean sea level.",
+    "zh": "海拔；高度",
+    "syn": [
+      "height",
+      "elevation",
+      "height above sea level"
+    ],
+    "ant": [],
+    "col": [
+      "high altitude",
+      "altitude sickness",
+      "gain altitude"
+    ],
+    "fam": [
+      "altitude",
+      "altitudes"
+    ],
+    "example": "The hikers recorded the lookout's altitude so they could explain why the air felt cooler.",
+    "basic": "The hikers wrote down how high the lookout was above sea level."
+  },
+  "angle": {
+    "simple": "The space between two lines that meet, often measured in degrees.",
+    "detailed": "The figure formed by two rays that share an endpoint, or the amount of turn between those rays, measured in degrees or radians.",
+    "zh": "角；角度",
+    "syn": [
+      "corner",
+      "degree measure",
+      "inclination"
+    ],
+    "ant": [],
+    "col": [
+      "right angle",
+      "measure the angle",
+      "angle of incidence"
+    ],
+    "fam": [
+      "angle",
+      "angles",
+      "angular",
+      "angled"
+    ],
+    "example": "They measured the angle of the ramp before predicting how far the toy car would travel.",
+    "basic": "They measured how steep the ramp was before the test."
+  },
+  "axis": {
+    "simple": "An imaginary line that something spins around, or a baseline on a graph.",
+    "detailed": "A straight reference line about which a body rotates, or a numbered baseline used to locate points on a graph.",
+    "zh": "轴",
+    "syn": [
+      "pivot line",
+      "centre line",
+      "reference line"
+    ],
+    "ant": [],
+    "col": [
+      "axis of rotation",
+      "x-axis",
+      "Earth's axis"
+    ],
+    "fam": [
+      "axis",
+      "axes",
+      "axial"
+    ],
+    "example": "Earth spins on its axis, which is why we have day and night.",
+    "basic": "Earth spins around an imaginary line through its middle."
+  },
+  "basin": {
+    "simple": "A low area of land that collects water, or the whole area that drains into a river.",
+    "detailed": "A bowl-shaped hollow in the Earth's surface, or the drainage area whose runoff and groundwater feed one river system.",
+    "zh": "盆地；流域",
+    "syn": [
+      "hollow",
+      "drainage area",
+      "catchment bowl"
+    ],
+    "ant": [],
+    "col": [
+      "river basin",
+      "drainage basin",
+      "ocean basin"
+    ],
+    "fam": [
+      "basin",
+      "basins"
+    ],
+    "example": "Rain that falls anywhere in the Murray–Darling basin can eventually reach the same river system.",
+    "basic": "Rain that falls across that huge low area can end up in the same river system."
+  },
+  "bedrock": {
+    "simple": "The solid rock that lies underneath the soil.",
+    "detailed": "The hard, unbroken rock layer beneath soil, sand, or loose sediment; it is the foundation on which the landscape sits.",
+    "zh": "基岩",
+    "syn": [
+      "solid rock",
+      "underlying rock",
+      "foundation rock"
+    ],
+    "ant": [],
+    "col": [
+      "solid bedrock",
+      "bedrock layer",
+      "exposed bedrock"
+    ],
+    "fam": [
+      "bedrock"
+    ],
+    "example": "The creek had cut down to bedrock, so the students could see the original rock instead of only soil.",
+    "basic": "The creek had cut down to the solid rock under the soil."
+  },
+  "biomass": {
+    "simple": "The total mass of living things in an area, or plant material used as fuel.",
+    "detailed": "The amount of living or recently living organic matter in a habitat, often measured as dry weight, and sometimes burned or processed as an energy source.",
+    "zh": "生物量",
+    "syn": [
+      "living mass",
+      "organic matter",
+      "plant matter"
+    ],
+    "ant": [],
+    "col": [
+      "plant biomass",
+      "biomass energy",
+      "total biomass"
+    ],
+    "fam": [
+      "biomass"
+    ],
+    "example": "They estimated the grassland's biomass by drying and weighing sample clumps of grass.",
+    "basic": "They estimated how much living plant material was in the grassland."
+  },
+  "biome": {
+    "simple": "A huge natural region with its own climate and typical plants and animals, such as desert or rainforest.",
+    "detailed": "A large-scale ecological community classified by climate and by the plants and animals adapted to live there.",
+    "zh": "生物群系",
+    "syn": [
+      "ecological region",
+      "life zone",
+      "habitat region"
+    ],
+    "ant": [],
+    "col": [
+      "desert biome",
+      "forest biome",
+      "biome map"
+    ],
+    "fam": [
+      "biome",
+      "biomes"
+    ],
+    "example": "Australia's desert biome has plants that store water, unlike the wet tropical forests further north.",
+    "basic": "Australia's huge dry region has plants that store water."
+  },
+  "buoyancy": {
+    "simple": "The upward push of a liquid or gas that can make an object float.",
+    "detailed": "The upward force a fluid exerts on an object placed in it, equal to the weight of the fluid the object displaces.",
+    "zh": "浮力",
+    "syn": [
+      "upthrust",
+      "floating force",
+      "lift in water"
+    ],
+    "ant": [],
+    "col": [
+      "test buoyancy",
+      "positive buoyancy",
+      "buoyancy of"
+    ],
+    "fam": [
+      "buoyancy",
+      "buoyant",
+      "buoyantly"
+    ],
+    "example": "The plasticine boat floated because its shape increased buoyancy by displacing more water.",
+    "basic": "The plasticine boat floated because its shape pushed more water aside."
+  },
+  "catchment": {
+    "simple": "The area of land from which rainwater flows into a river, dam, or reservoir.",
+    "detailed": "A drainage basin whose surface runoff and groundwater feed a particular river or water-storage system; a key idea in Australian water management.",
+    "zh": "集水区",
+    "syn": [
+      "drainage basin",
+      "watershed",
+      "water-collection area"
+    ],
+    "ant": [],
+    "col": [
+      "catchment area",
+      "river catchment",
+      "protect the catchment"
+    ],
+    "fam": [
+      "catchment",
+      "catchments"
+    ],
+    "example": "Anything spilled on the school oval can wash into the local creek catchment after heavy rain.",
+    "basic": "Anything spilled on the oval can wash into the land that drains to the local creek."
+  },
+  "chlorophyll": {
+    "simple": "The green substance in leaves that captures sunlight so a plant can make food.",
+    "detailed": "The green pigment in chloroplasts that absorbs light energy for photosynthesis, giving most healthy leaves their colour.",
+    "zh": "叶绿素",
+    "syn": [
+      "green pigment",
+      "leaf pigment",
+      "plant pigment"
+    ],
+    "ant": [],
+    "col": [
+      "contain chlorophyll",
+      "chlorophyll absorbs",
+      "lack of chlorophyll"
+    ],
+    "fam": [
+      "chlorophyll"
+    ],
+    "example": "Yellowing leaves often mean the plant is making less chlorophyll and cannot trap sunlight well.",
+    "basic": "Yellowing leaves often mean the plant is making less of the green stuff that traps sunlight."
+  },
+  "circuit": {
+    "simple": "A complete path that electricity can travel around.",
+    "detailed": "A closed loop of conductors and components that allows electric current to flow from a source and return, lighting a globe or running a motor.",
+    "zh": "电路",
+    "syn": [
+      "electrical loop",
+      "current path",
+      "wiring loop"
+    ],
+    "ant": [],
+    "col": [
+      "complete circuit",
+      "electrical circuit",
+      "short circuit"
+    ],
+    "fam": [
+      "circuit",
+      "circuits",
+      "circuitry"
+    ],
+    "example": "The globe stayed dark until Maya closed the circuit with the final crocodile clip.",
+    "basic": "The globe stayed dark until Maya finished the electrical path."
+  },
+  "combustion": {
+    "simple": "The process of burning a fuel in oxygen to release heat and light.",
+    "detailed": "A chemical reaction in which a fuel combines rapidly with oxygen, producing heat, light, and waste gases such as carbon dioxide.",
+    "zh": "燃烧",
+    "syn": [
+      "burning",
+      "ignition",
+      "oxidation with flame"
+    ],
+    "ant": [],
+    "col": [
+      "combustion reaction",
+      "complete combustion",
+      "product of combustion"
+    ],
+    "fam": [
+      "combustion",
+      "combust",
+      "combustible"
+    ],
+    "example": "The class listed water and carbon dioxide as products of combustion when the candle burned.",
+    "basic": "They listed water and carbon dioxide as what you get when the candle burns."
+  },
+  "compound": {
+    "simple": "A substance made when two or more elements join chemically in a fixed way.",
+    "detailed": "A pure substance whose particles contain atoms of different elements bonded in a definite ratio, so its properties differ from those of the separate elements.",
+    "zh": "化合物",
+    "syn": [
+      "chemical combination",
+      "bonded substance",
+      "chemical substance"
+    ],
+    "ant": [],
+    "col": [
+      "chemical compound",
+      "ionic compound",
+      "compound of"
+    ],
+    "fam": [
+      "compound",
+      "compounds"
+    ],
+    "example": "Water is a compound of hydrogen and oxygen, not just a loose mix of the two gases.",
+    "basic": "Water is hydrogen and oxygen joined together, not just mixed."
+  },
+  "continent": {
+    "simple": "One of Earth's huge land masses, such as Australia or Asia.",
+    "detailed": "A very large, continuous area of land, conventionally one of the main global landmasses used on maps and in geography.",
+    "zh": "大陆；洲",
+    "syn": [
+      "landmass",
+      "mainland",
+      "major land"
+    ],
+    "ant": [],
+    "col": [
+      "continent of Australia",
+      "on the continent",
+      "continental shelf"
+    ],
+    "fam": [
+      "continent",
+      "continents",
+      "continental"
+    ],
+    "example": "Australia is both a country and a continent, which is unusual on a world map.",
+    "basic": "Australia is both a country and one of Earth's huge land masses."
+  },
+  "crater": {
+    "simple": "A bowl-shaped hole made by a volcano or by something hitting the ground from space.",
+    "detailed": "A roughly circular depression formed by volcanic explosion or collapse, or by the impact of a meteorite.",
+    "zh": "陨石坑；火山口",
+    "syn": [
+      "hollow",
+      "impact bowl",
+      "volcanic pit"
+    ],
+    "ant": [],
+    "col": [
+      "impact crater",
+      "volcanic crater",
+      "crater floor"
+    ],
+    "fam": [
+      "crater",
+      "craters",
+      "cratered"
+    ],
+    "example": "The photograph of the Moon showed a crater larger than some Australian towns.",
+    "basic": "The Moon photo showed a huge bowl-shaped hole."
+  },
+  "crystal": {
+    "simple": "A solid whose particles line up in a regular pattern, often with flat, shiny faces.",
+    "detailed": "A mineral or chemical solid with an ordered internal lattice that can grow into geometric faces, such as a quartz point or a salt cube.",
+    "zh": "晶体",
+    "syn": [
+      "gem solid",
+      "geometric solid",
+      "mineral grain"
+    ],
+    "ant": [],
+    "col": [
+      "salt crystal",
+      "ice crystal",
+      "crystal structure"
+    ],
+    "fam": [
+      "crystal",
+      "crystals",
+      "crystalline",
+      "crystallise"
+    ],
+    "example": "As the salty water evaporated, a cube-shaped crystal of salt appeared on the black paper.",
+    "basic": "As the salty water dried, a cube of salt appeared on the paper."
+  },
+  "delta": {
+    "simple": "Low land built up where a river drops sand and silt as it meets the sea.",
+    "detailed": "A deposit of sediment, often roughly triangular, formed at a river mouth when the current slows and drops its load.",
+    "zh": "三角洲",
+    "syn": [
+      "river mouth plain",
+      "sediment fan",
+      "alluvial mouth"
+    ],
+    "ant": [],
+    "col": [
+      "river delta",
+      "Nile delta",
+      "delta plain"
+    ],
+    "fam": [
+      "delta",
+      "deltas",
+      "deltaic"
+    ],
+    "example": "Farms on a river delta are fertile because floods keep adding new silt.",
+    "basic": "Farms at the river mouth are fertile because floods keep adding new silt."
+  },
+  "digestion": {
+    "simple": "The breaking down of food so the body can use the nutrients.",
+    "detailed": "The mechanical and chemical process that turns food into smaller nutrients the body can absorb into the blood.",
+    "zh": "消化",
+    "syn": [
+      "breakdown of food",
+      "food processing",
+      "nutrient release"
+    ],
+    "ant": [],
+    "col": [
+      "aid digestion",
+      "process of digestion",
+      "human digestion"
+    ],
+    "fam": [
+      "digestion",
+      "digest",
+      "digestive",
+      "digestible"
+    ],
+    "example": "Chewing is the first stage of digestion because it increases the surface area of the food.",
+    "basic": "Chewing is the first stage of breaking food down."
+  },
+  "eclipse": {
+    "simple": "When one space object blocks the light of another, such as the Moon covering the Sun.",
+    "detailed": "An alignment in which one celestial body passes into another's shadow, or hides another from an observer's view, as when the Sun or Moon is covered.",
+    "zh": "日食；月食",
+    "syn": [
+      "hiding of light",
+      "celestial blocking",
+      "overshadowing"
+    ],
+    "ant": [],
+    "col": [
+      "solar eclipse",
+      "lunar eclipse",
+      "total eclipse"
+    ],
+    "fam": [
+      "eclipse",
+      "eclipses",
+      "eclipsed"
+    ],
+    "example": "During a solar eclipse the Moon slides between Earth and the Sun and the playground goes dim.",
+    "basic": "When the Moon slides between Earth and the Sun, the playground goes dim."
+  },
+  "electricity": {
+    "simple": "Energy from moving electric charge, used to power lights, heaters, and machines.",
+    "detailed": "A form of energy associated with electric charge, current, and potential difference, found in circuits and in natural events such as lightning.",
+    "zh": "电；电力",
+    "syn": [
+      "electrical energy",
+      "power",
+      "current energy"
+    ],
+    "ant": [],
+    "col": [
+      "generate electricity",
+      "static electricity",
+      "electricity supply"
+    ],
+    "fam": [
+      "electricity",
+      "electric",
+      "electrical",
+      "electrician"
+    ],
+    "example": "The wind turbine on the model hill generated enough electricity to light a small globe.",
+    "basic": "The model windmill made enough power to light a small globe."
+  },
+  "equator": {
+    "simple": "The imaginary line around the middle of Earth, equally far from both poles.",
+    "detailed": "The great circle at 0° latitude that divides Earth into the Northern and Southern Hemispheres and marks the hottest general climate band.",
+    "zh": "赤道",
+    "syn": [
+      "midline of Earth",
+      "0° latitude",
+      "mid-Earth line"
+    ],
+    "ant": [],
+    "col": [
+      "cross the equator",
+      "near the equator",
+      "equator line"
+    ],
+    "fam": [
+      "equator",
+      "equatorial"
+    ],
+    "example": "Towns near the equator stay warm all year because sunlight hits that belt more directly.",
+    "basic": "Towns near Earth's middle stay warm all year."
+  },
+  "estuary": {
+    "simple": "The wide, partly salty mouth of a river where it meets the sea.",
+    "detailed": "A coastal water body where freshwater from a river mixes with seawater, often forming a rich habitat for fish, birds, and mangroves.",
+    "zh": "河口；河口湾",
+    "syn": [
+      "river mouth",
+      "tidal mouth",
+      "brackish inlet"
+    ],
+    "ant": [],
+    "col": [
+      "tidal estuary",
+      "estuary habitat",
+      "mangrove estuary"
+    ],
+    "fam": [
+      "estuary",
+      "estuaries",
+      "estuarine"
+    ],
+    "example": "The class sampled water from the estuary and found it was saltier than the river but fresher than the open sea.",
+    "basic": "They sampled water from the river mouth and found it was only partly salty."
+  },
+  "extinction": {
+    "simple": "When a whole species dies out and no living members remain.",
+    "detailed": "The complete disappearance of a species from Earth, so that breeding populations no longer exist anywhere.",
+    "zh": "灭绝",
+    "syn": [
+      "dying out",
+      "disappearance",
+      "wiping out"
+    ],
+    "ant": [
+      "survival"
+    ],
+    "col": [
+      "mass extinction",
+      "face extinction",
+      "risk of extinction"
+    ],
+    "fam": [
+      "extinction",
+      "extinct",
+      "extinctions"
+    ],
+    "example": "Habitat loss can push a species toward extinction even if a few animals are still alive today.",
+    "basic": "Losing habitat can make a whole species die out."
+  },
+  "fermentation": {
+    "simple": "A process in which microbes break down sugar without using oxygen, as in bread or yoghurt.",
+    "detailed": "An anaerobic chemical change in which microorganisms convert sugars into acids, gases, or alcohol, used in cooking and some industry.",
+    "zh": "发酵",
+    "syn": [
+      "anaerobic breakdown",
+      "microbe action",
+      "sugar conversion"
+    ],
+    "ant": [],
+    "col": [
+      "lactic fermentation",
+      "yeast fermentation",
+      "process of fermentation"
+    ],
+    "fam": [
+      "fermentation",
+      "ferment",
+      "fermented",
+      "fermenting"
+    ],
+    "example": "Bubbles in the dough showed that fermentation by yeast was producing carbon dioxide.",
+    "basic": "Bubbles in the dough showed that the yeast was breaking down sugar and making gas."
+  },
+  "fertiliser": {
+    "simple": "A substance added to soil to give plants extra nutrients so they grow better.",
+    "detailed": "A natural or manufactured material that supplies nutrients such as nitrogen, phosphorus, or potassium to crops or garden plants.",
+    "zh": "肥料",
+    "syn": [
+      "plant food",
+      "soil nutrient",
+      "enrichment"
+    ],
+    "ant": [],
+    "col": [
+      "chemical fertiliser",
+      "apply fertiliser",
+      "organic fertiliser"
+    ],
+    "fam": [
+      "fertiliser",
+      "fertilisers",
+      "fertilise",
+      "fertile"
+    ],
+    "example": "Too much fertiliser washed into the creek and the class linked it to the sudden algal bloom.",
+    "basic": "Too much plant food washed into the creek and green slime grew quickly."
+  },
+  "fibre": {
+    "simple": "Thread-like material in food or plants that helps digestion or makes cloth and ropes strong.",
+    "detailed": "Long, thin strands in plant cell walls or animal tissue; the plant material in food that humans do not fully digest, which helps the gut work well.",
+    "zh": "纤维",
+    "syn": [
+      "strand",
+      "thread",
+      "roughage"
+    ],
+    "ant": [],
+    "col": [
+      "dietary fibre",
+      "plant fibre",
+      "high-fibre food"
+    ],
+    "fam": [
+      "fibre",
+      "fibres",
+      "fibrous"
+    ],
+    "example": "Wholegrain bread has more fibre than white bread, so it keeps you feeling full for longer.",
+    "basic": "Wholegrain bread has more of the plant threads your body does not fully digest."
+  },
+  "fungus": {
+    "simple": "A living thing such as a mushroom, mould, or yeast, which is not a plant or an animal.",
+    "detailed": "A member of the kingdom of organisms that absorb nutrients from living or dead matter, including mushrooms, moulds, and yeasts.",
+    "zh": "真菌",
+    "syn": [
+      "mushroom organism",
+      "mould organism",
+      "yeast organism"
+    ],
+    "ant": [],
+    "col": [
+      "fungus grows",
+      "soil fungus",
+      "fungus among"
+    ],
+    "fam": [
+      "fungus",
+      "fungi",
+      "fungal"
+    ],
+    "example": "A fungus on the damp bread released spores that looked like fine dust under the microscope.",
+    "basic": "A mould on the damp bread released tiny dust-like spores."
+  },
+  "galaxy": {
+    "simple": "A huge group of stars, gas, and dust held together by gravity, such as the Milky Way.",
+    "detailed": "A gravitationally bound system of stars, stellar remnants, gas, dust, and dark matter, of which the Milky Way is one example.",
+    "zh": "星系",
+    "syn": [
+      "star system",
+      "star island",
+      "stellar group"
+    ],
+    "ant": [],
+    "col": [
+      "spiral galaxy",
+      "Milky Way galaxy",
+      "distant galaxy"
+    ],
+    "fam": [
+      "galaxy",
+      "galaxies",
+      "galactic"
+    ],
+    "example": "On a dark country night you can see the Milky Way galaxy as a pale band across the sky.",
+    "basic": "On a dark country night you can see our huge star-group as a pale band."
+  },
+  "germination": {
+    "simple": "The moment a seed starts to grow into a young plant.",
+    "detailed": "The process in which a seed or spore begins to develop after taking in water and meeting the right temperature and air conditions.",
+    "zh": "发芽；萌发",
+    "syn": [
+      "sprouting",
+      "seed sprouting",
+      "beginning to grow"
+    ],
+    "ant": [],
+    "col": [
+      "seed germination",
+      "rate of germination",
+      "after germination"
+    ],
+    "fam": [
+      "germination",
+      "germinate",
+      "germinating",
+      "germinated"
+    ],
+    "example": "They compared germination in the dark cupboard with seeds left on the sunny windowsill.",
+    "basic": "They compared which seeds started growing in the dark and which started on the windowsill."
+  },
+  "greenhouse": {
+    "simple": "A glass or plastic building that traps heat so plants can grow, or the warming of Earth when gases trap heat.",
+    "detailed": "A structure with transparent walls that admits sunlight and holds warmth for plants; also used of the atmospheric effect in which certain gases keep Earth warmer.",
+    "zh": "温室",
+    "syn": [
+      "hothouse",
+      "glasshouse",
+      "growing house"
+    ],
+    "ant": [],
+    "col": [
+      "greenhouse gas",
+      "greenhouse effect",
+      "school greenhouse"
+    ],
+    "fam": [
+      "greenhouse",
+      "greenhouses"
+    ],
+    "example": "Tomato seedlings in the school greenhouse grew faster because the plastic trapped warm air.",
+    "basic": "Tomato seedlings in the glass growing-house grew faster because the air stayed warm."
+  },
+  "groundwater": {
+    "simple": "Water stored in rocks and soil under the ground.",
+    "detailed": "Fresh water that occupies pores and cracks beneath the Earth's surface and feeds wells, springs, and the base flow of rivers.",
+    "zh": "地下水",
+    "syn": [
+      "underground water",
+      "subsurface water",
+      "aquifer water"
+    ],
+    "ant": [],
+    "col": [
+      "groundwater supply",
+      "pump groundwater",
+      "groundwater level"
+    ],
+    "fam": [
+      "groundwater"
+    ],
+    "example": "The farmer's well went dry when the groundwater level dropped after three dry summers.",
+    "basic": "The well went dry when the water stored under the ground dropped."
+  },
+  "herbivore": {
+    "simple": "An animal that eats only plants, such as grass, leaves, or fruit.",
+    "detailed": "A consumer whose diet consists of plant material rather than other animals, such as a kangaroo grazing on grass.",
+    "zh": "食草动物",
+    "syn": [
+      "plant-eater",
+      "grazer",
+      "browser"
+    ],
+    "ant": [
+      "carnivore"
+    ],
+    "col": [
+      "large herbivore",
+      "herbivore diet",
+      "grazing herbivore"
+    ],
+    "fam": [
+      "herbivore",
+      "herbivores",
+      "herbivorous"
+    ],
+    "example": "A koala is a herbivore that specialises in eucalyptus leaves.",
+    "basic": "A koala is a plant-eater that lives on eucalyptus leaves."
+  },
+  "humidity": {
+    "simple": "How much water vapour is in the air, from dry to sticky-wet.",
+    "detailed": "The amount of water vapour present in the atmosphere, often given as a percentage of the maximum the air can hold at that temperature.",
+    "zh": "湿度",
+    "syn": [
+      "moistness",
+      "dampness",
+      "air moisture"
+    ],
+    "ant": [
+      "dryness"
+    ],
+    "col": [
+      "high humidity",
+      "relative humidity",
+      "humidity level"
+    ],
+    "fam": [
+      "humidity",
+      "humid",
+      "humidifier"
+    ],
+    "example": "The data logger showed high humidity after rain, which matched the sticky feeling in the classroom.",
+    "basic": "The logger showed the air was very moist after rain."
+  },
+  "irrigation": {
+    "simple": "Supplying water to crops through channels, pipes, or sprinklers when rain is not enough.",
+    "detailed": "The planned delivery of water to farmland so plants can grow well in dry weather; a major feature of Australian agriculture.",
+    "zh": "灌溉",
+    "syn": [
+      "watering",
+      "watering of crops",
+      "water supply to fields"
+    ],
+    "ant": [],
+    "col": [
+      "irrigation channel",
+      "drip irrigation",
+      "irrigation scheme"
+    ],
+    "fam": [
+      "irrigation",
+      "irrigate",
+      "irrigated",
+      "irrigating"
+    ],
+    "example": "Drip irrigation wasted less water than spraying the whole paddock on a windy afternoon.",
+    "basic": "Drip watering wasted less water than spraying the whole paddock."
+  },
+  "kinetic": {
+    "simple": "Relating to movement, especially the energy something has because it is moving.",
+    "detailed": "Describing energy or properties that come from motion, as in movement energy, which increases with mass and speed.",
+    "zh": "动能的；运动的",
+    "syn": [
+      "moving",
+      "motion-related",
+      "dynamic"
+    ],
+    "ant": [
+      "potential"
+    ],
+    "col": [
+      "kinetic energy",
+      "kinetic theory",
+      "kinetic sculpture"
+    ],
+    "fam": [
+      "kinetic",
+      "kinetically"
+    ],
+    "example": "The marble had more kinetic energy at the bottom of the ramp than at the top.",
+    "basic": "The marble had more movement energy at the bottom of the ramp."
+  },
+  "limestone": {
+    "simple": "A rock made mainly from the shells and skeletons of sea creatures, used in buildings and cement.",
+    "detailed": "A sedimentary rock composed largely of calcium carbonate, often formed from marine fossils and later used as a building stone.",
+    "zh": "石灰岩",
+    "syn": [
+      "calcium rock",
+      "chalky rock",
+      "carbonate rock"
+    ],
+    "ant": [],
+    "col": [
+      "limestone cave",
+      "limestone cliff",
+      "blocks of limestone"
+    ],
+    "fam": [
+      "limestone"
+    ],
+    "example": "Acid rain had eaten tiny pits in the limestone wall of the old church.",
+    "basic": "Acid rain had eaten tiny pits in the pale shell-rock wall."
+  },
+  "magnetism": {
+    "simple": "The force that makes magnets attract or repel some metals.",
+    "detailed": "The set of forces and fields produced by magnetic materials or moving electric charges, causing attraction or repulsion.",
+    "zh": "磁力；磁性",
+    "syn": [
+      "magnetic force",
+      "magnetic pull",
+      "magnetic field effect"
+    ],
+    "ant": [],
+    "col": [
+      "force of magnetism",
+      "magnetism of",
+      "study magnetism"
+    ],
+    "fam": [
+      "magnetism",
+      "magnet",
+      "magnetic",
+      "magnetise"
+    ],
+    "example": "They mapped the magnetism of a bar magnet by sprinkling iron filings around it.",
+    "basic": "They mapped the pull of a bar magnet by sprinkling iron filings around it."
+  },
+  "mantle": {
+    "simple": "The thick, hot rock layer of Earth between the thin crust and the core.",
+    "detailed": "The broad zone of solid but slowly flowing silicate rock that lies beneath Earth's crust and surrounds the core.",
+    "zh": "地幔",
+    "syn": [
+      "middle rock layer",
+      "Earth's middle layer",
+      "silicate layer"
+    ],
+    "ant": [],
+    "col": [
+      "Earth's mantle",
+      "upper mantle",
+      "mantle rock"
+    ],
+    "fam": [
+      "mantle"
+    ],
+    "example": "Slow movement in the mantle drags the tectonic plates that sit on Earth's crust.",
+    "basic": "Slow movement in the hot rock under the crust drags the plates."
+  },
+  "metamorphic": {
+    "simple": "Describes rock that has been changed by heat and pressure deep underground.",
+    "detailed": "Formed when existing rock is transformed in texture or mineral make-up without fully melting, typically under high heat and pressure.",
+    "zh": "变质的",
+    "syn": [
+      "changed-by-heat",
+      "heat-and-pressure",
+      "transformed"
+    ],
+    "ant": [],
+    "col": [
+      "metamorphic rock",
+      "metamorphic slate",
+      "metamorphic process"
+    ],
+    "fam": [
+      "metamorphic",
+      "metamorphism",
+      "metamorphose"
+    ],
+    "example": "Slate is a metamorphic rock that began as mudstone and was squeezed and heated.",
+    "basic": "Slate is a rock that began as mudstone and was changed by heat and pressure."
+  },
+  "mineral": {
+    "simple": "A natural solid from the Earth with a definite chemical make-up, such as quartz or salt.",
+    "detailed": "A naturally occurring inorganic solid with an ordered structure and a characteristic chemical composition.",
+    "zh": "矿物",
+    "syn": [
+      "ore mineral",
+      "natural solid",
+      "rock-forming solid"
+    ],
+    "ant": [],
+    "col": [
+      "mineral deposit",
+      "mineral crystal",
+      "rich in minerals"
+    ],
+    "fam": [
+      "mineral",
+      "minerals",
+      "mineralogy",
+      "mineralise"
+    ],
+    "example": "Quartz is a mineral you can identify by its hardness and glassy faces.",
+    "basic": "Quartz is a natural solid you can identify by its hardness and glassy faces."
+  },
+  "nucleus": {
+    "simple": "The control centre of a cell, or the tiny dense centre of an atom.",
+    "detailed": "The membrane-bound structure that holds a cell's genetic material; also the dense core of an atom containing protons and neutrons.",
+    "zh": "细胞核；原子核",
+    "syn": [
+      "core",
+      "centre",
+      "cell centre"
+    ],
+    "ant": [],
+    "col": [
+      "cell nucleus",
+      "atomic nucleus",
+      "nucleus of"
+    ],
+    "fam": [
+      "nucleus",
+      "nuclei",
+      "nuclear"
+    ],
+    "example": "Under the microscope the stained nucleus looked like a dark round spot inside each cell.",
+    "basic": "Under the microscope the cell's control centre looked like a dark round spot."
+  },
+  "omnivore": {
+    "simple": "An animal that eats both plants and other animals.",
+    "detailed": "A consumer whose diet includes both plant and animal matter, such as a human, a magpie, or a bear.",
+    "zh": "杂食动物",
+    "syn": [
+      "mixed-eater",
+      "all-eater",
+      "plant-and-meat eater"
+    ],
+    "ant": [],
+    "col": [
+      "omnivore diet",
+      "typical omnivore",
+      "omnivore species"
+    ],
+    "fam": [
+      "omnivore",
+      "omnivores",
+      "omnivorous"
+    ],
+    "example": "A magpie is an omnivore because it takes insects as well as leftover sandwiches.",
+    "basic": "A magpie eats both insects and leftover sandwiches."
+  },
+  "orbit": {
+    "simple": "The curved path one object follows around another in space.",
+    "detailed": "The regular, usually elliptical path of a planet, moon, or satellite around a more massive body under gravity.",
+    "zh": "轨道",
+    "syn": [
+      "path",
+      "circuit in space",
+      "revolution path"
+    ],
+    "ant": [],
+    "col": [
+      "Earth's orbit",
+      "in orbit",
+      "orbit around"
+    ],
+    "fam": [
+      "orbit",
+      "orbits",
+      "orbital",
+      "orbiting"
+    ],
+    "example": "Earth's orbit around the Sun takes about 365 days and gives us a year.",
+    "basic": "Earth's path around the Sun takes about 365 days."
+  },
+  "ozone": {
+    "simple": "A form of oxygen high in the atmosphere that screens out some harmful sunlight.",
+    "detailed": "A molecule of three oxygen atoms (O₃) that forms a layer in the stratosphere and absorbs much ultraviolet radiation.",
+    "zh": "臭氧",
+    "syn": [
+      "high-atmosphere oxygen",
+      "UV-blocking gas",
+      "O3 gas"
+    ],
+    "ant": [],
+    "col": [
+      "ozone layer",
+      "ozone hole",
+      "ground-level ozone"
+    ],
+    "fam": [
+      "ozone"
+    ],
+    "example": "The class read that the ozone layer over Antarctica thins in spring, letting more ultraviolet light through.",
+    "basic": "They read that the high oxygen shield over Antarctica thins in spring."
+  },
+  "peninsula": {
+    "simple": "Land that is almost an island, with water on most sides but still joined to the mainland.",
+    "detailed": "A piece of land projecting into a sea or lake and surrounded by water on three sides, such as the Mornington coast near Melbourne.",
+    "zh": "半岛",
+    "syn": [
+      "head of land",
+      "nearly-island",
+      "projecting land"
+    ],
+    "ant": [],
+    "col": [
+      "on the peninsula",
+      "narrow peninsula",
+      "peninsula coast"
+    ],
+    "fam": [
+      "peninsula",
+      "peninsulas",
+      "peninsular"
+    ],
+    "example": "Holiday traffic crawls onto the peninsula every summer because there is only one main road in.",
+    "basic": "Holiday traffic crawls onto that almost-island every summer."
+  },
+  "pollen": {
+    "simple": "Fine powder from flowers that helps plants make seeds.",
+    "detailed": "The tiny grains produced by the male parts of a flower or cone, which carry the cells needed for fertilisation.",
+    "zh": "花粉",
+    "syn": [
+      "flower dust",
+      "plant powder",
+      "pollen grains"
+    ],
+    "ant": [],
+    "col": [
+      "pollen grain",
+      "bee pollen",
+      "pollen count"
+    ],
+    "fam": [
+      "pollen",
+      "pollinate",
+      "pollination",
+      "pollinator"
+    ],
+    "example": "Yellow pollen stuck to the bee's legs as it moved from one blossom to the next.",
+    "basic": "Yellow flower powder stuck to the bee's legs."
+  },
+  "precipitation": {
+    "simple": "Water that falls from the sky as rain, hail, snow, or sleet.",
+    "detailed": "Any form of water, liquid or solid, that condenses in the atmosphere and reaches the ground; a key measurement in climate graphs.",
+    "zh": "降水",
+    "syn": [
+      "rainfall",
+      "fall of water",
+      "rain and snow"
+    ],
+    "ant": [
+      "evaporation"
+    ],
+    "col": [
+      "annual precipitation",
+      "precipitation total",
+      "form of precipitation"
+    ],
+    "fam": [
+      "precipitation",
+      "precipitate"
+    ],
+    "example": "The climate graph showed almost no precipitation in January, which matched the town's dry summers.",
+    "basic": "The climate graph showed almost no rain in January."
+  },
+  "protein": {
+    "simple": "A nutrient in foods such as meat, eggs, and beans that the body uses to build and repair itself.",
+    "detailed": "A large molecule made of amino acids; essential for growth, enzymes, and the structure of muscles, skin, and many other tissues.",
+    "zh": "蛋白质",
+    "syn": [
+      "body-building nutrient",
+      "amino-acid food",
+      "tissue-building food"
+    ],
+    "ant": [],
+    "col": [
+      "protein source",
+      "high in protein",
+      "protein molecule"
+    ],
+    "fam": [
+      "protein",
+      "proteins"
+    ],
+    "example": "The dietitian asked the class to list one protein food they had eaten at breakfast.",
+    "basic": "She asked them to list one body-building food they had eaten at breakfast."
+  },
+  "radiation": {
+    "simple": "Energy that travels as waves or particles, such as light, heat, or X-rays.",
+    "detailed": "The emission and travel of energy through space as electromagnetic waves or as streams of particles, including sunlight and medical X-rays.",
+    "zh": "辐射",
+    "syn": [
+      "radiant energy",
+      "emitted energy",
+      "wave energy"
+    ],
+    "ant": [],
+    "col": [
+      "solar radiation",
+      "ultraviolet radiation",
+      "radiation level"
+    ],
+    "fam": [
+      "radiation",
+      "radiate",
+      "radiant",
+      "radioactive"
+    ],
+    "example": "Dark soil absorbs more solar radiation than pale sand, so it heats up faster at noon.",
+    "basic": "Dark soil takes in more of the Sun's energy than pale sand."
+  },
+  "rainforest": {
+    "simple": "A thick, wet forest with very high rainfall, such as in tropical Queensland.",
+    "detailed": "A dense forest ecosystem that receives abundant rain and supports layered vegetation and high biodiversity.",
+    "zh": "雨林",
+    "syn": [
+      "jungle forest",
+      "wet forest",
+      "tropical forest"
+    ],
+    "ant": [],
+    "col": [
+      "tropical rainforest",
+      "rainforest canopy",
+      "rainforest species"
+    ],
+    "fam": [
+      "rainforest",
+      "rainforests"
+    ],
+    "example": "In the Daintree rainforest the canopy is so thick that little sunlight reaches the forest floor.",
+    "basic": "In that thick wet forest the high leaves block most of the sunlight."
+  },
+  "refraction": {
+    "simple": "The bending of light when it passes from one material into another.",
+    "detailed": "The change in direction of a wave, especially light, as it crosses a boundary between media that it travels through at different speeds.",
+    "zh": "折射",
+    "syn": [
+      "bending of light",
+      "light bending",
+      "wave bending"
+    ],
+    "ant": [],
+    "col": [
+      "refraction of light",
+      "index of refraction",
+      "refraction in water"
+    ],
+    "fam": [
+      "refraction",
+      "refract",
+      "refractive",
+      "refracted"
+    ],
+    "example": "The pencil looked broken at the waterline because of refraction as light left the water.",
+    "basic": "The pencil looked broken at the waterline because the light bent."
+  },
+  "respiration": {
+    "simple": "The process living things use to release energy from food, often using oxygen.",
+    "detailed": "The set of chemical reactions in cells that break down glucose, usually with oxygen, to release energy the organism can use.",
+    "zh": "呼吸作用",
+    "syn": [
+      "cellular breathing",
+      "energy release",
+      "gas exchange process"
+    ],
+    "ant": [],
+    "col": [
+      "cellular respiration",
+      "aerobic respiration",
+      "rate of respiration"
+    ],
+    "fam": [
+      "respiration",
+      "respire",
+      "respiratory"
+    ],
+    "example": "Germinating seeds warmed the flask slightly because respiration releases heat as well as energy.",
+    "basic": "The sprouting seeds warmed the flask slightly because they were releasing energy from food."
+  },
+  "salinity": {
+    "simple": "How salty a body of water or a patch of soil is.",
+    "detailed": "The concentration of dissolved salts in water or soil, a key measure in Australian river, irrigation, and land-care studies.",
+    "zh": "盐度",
+    "syn": [
+      "saltiness",
+      "salt level",
+      "salt concentration"
+    ],
+    "ant": [],
+    "col": [
+      "soil salinity",
+      "salinity level",
+      "rising salinity"
+    ],
+    "fam": [
+      "salinity",
+      "saline",
+      "salinisation"
+    ],
+    "example": "Rising salinity in the irrigation district left a white crust on the bare paddock.",
+    "basic": "Rising saltiness left a white crust on the bare paddock."
+  },
+  "satellite": {
+    "simple": "A moon, or a human-made object, that travels around a planet.",
+    "detailed": "A natural or artificial body in orbit around a planet or other larger body, used in nature (the Moon) or for communication and weather images.",
+    "zh": "卫星",
+    "syn": [
+      "orbiter",
+      "moon",
+      "space platform"
+    ],
+    "ant": [],
+    "col": [
+      "weather satellite",
+      "natural satellite",
+      "satellite image"
+    ],
+    "fam": [
+      "satellite",
+      "satellites"
+    ],
+    "example": "The weather satellite image showed a cyclone forming off the north-west coast.",
+    "basic": "The space-camera picture showed a cyclone forming off the north-west coast."
+  },
+  "skeleton": {
+    "simple": "The framework of bones that supports an animal's body.",
+    "detailed": "The internal or external supporting structure of an organism, typically the system of bones in vertebrates that protects organs and allows movement.",
+    "zh": "骨骼",
+    "syn": [
+      "bones",
+      "bony frame",
+      "framework"
+    ],
+    "ant": [],
+    "col": [
+      "human skeleton",
+      "skeleton of",
+      "external skeleton"
+    ],
+    "fam": [
+      "skeleton",
+      "skeletons",
+      "skeletal"
+    ],
+    "example": "The museum skeleton of a whale showed ribs long enough to walk under.",
+    "basic": "The museum whale bones showed ribs long enough to walk under."
+  },
+  "solar": {
+    "simple": "Relating to the Sun, or powered by sunlight.",
+    "detailed": "Of or produced by the Sun, including sunlight, the Sun's family of planets, and energy collected by sun-powered panels.",
+    "zh": "太阳的",
+    "syn": [
+      "sun-powered",
+      "of the Sun",
+      "sun-related"
+    ],
+    "ant": [
+      "lunar"
+    ],
+    "col": [
+      "solar energy",
+      "solar panel",
+      "solar system"
+    ],
+    "fam": [
+      "solar"
+    ],
+    "example": "The school installed solar panels so part of the electricity would come from sunlight.",
+    "basic": "The school installed sun-powered panels for part of its electricity."
+  },
+  "telescope": {
+    "simple": "An instrument that makes distant objects, especially in space, look closer and clearer.",
+    "detailed": "An optical or radio device that gathers and focuses electromagnetic radiation so distant celestial objects can be studied.",
+    "zh": "望远镜",
+    "syn": [
+      "spyglass",
+      "star-viewer",
+      "observing tube"
+    ],
+    "ant": [],
+    "col": [
+      "optical telescope",
+      "radio telescope",
+      "look through a telescope"
+    ],
+    "fam": [
+      "telescope",
+      "telescopes",
+      "telescopic"
+    ],
+    "example": "Through the school telescope Jupiter's four bright moons lined up like tiny beads.",
+    "basic": "Through the school star-viewer Jupiter's four bright moons lined up like beads."
+  },
+  "tissue": {
+    "simple": "A group of similar cells that work together in a plant or animal, such as muscle.",
+    "detailed": "An organised layer or mass of cells that share a structure and function within an organ, for example muscle or leaf cells working together.",
+    "zh": "组织",
+    "syn": [
+      "cell group",
+      "cell layer",
+      "body fabric"
+    ],
+    "ant": [],
+    "col": [
+      "muscle tissue",
+      "plant tissue",
+      "tissue sample"
+    ],
+    "fam": [
+      "tissue",
+      "tissues"
+    ],
+    "example": "Muscle tissue contracts so the arm can bend at the elbow.",
+    "basic": "The group of muscle cells contracts so the arm can bend."
+  },
+  "tributary": {
+    "simple": "A smaller stream or river that flows into a larger one.",
+    "detailed": "A channel that contributes its water to a main river, increasing the main river's flow and extending its catchment.",
+    "zh": "支流",
+    "syn": [
+      "side stream",
+      "feeder river",
+      "branch river"
+    ],
+    "ant": [],
+    "col": [
+      "tributary of",
+      "major tributary",
+      "join as a tributary"
+    ],
+    "fam": [
+      "tributary",
+      "tributaries"
+    ],
+    "example": "After the storm every tributary ran brown, and the main river rose by evening.",
+    "basic": "After the storm every smaller side-river ran brown."
+  },
+  "tsunami": {
+    "simple": "A huge ocean wave caused by an underwater earthquake or landslide.",
+    "detailed": "A series of long-wavelength sea waves generated by a sudden displacement of water, often after a seismic event on the sea floor.",
+    "zh": "海啸",
+    "syn": [
+      "seismic sea wave",
+      "harbour wave",
+      "giant sea wave"
+    ],
+    "ant": [],
+    "col": [
+      "tsunami warning",
+      "tsunami wave",
+      "after the tsunami"
+    ],
+    "fam": [
+      "tsunami",
+      "tsunamis"
+    ],
+    "example": "The coastal town practised a tsunami drill so students knew which hill to climb.",
+    "basic": "The coastal town practised a giant-wave drill so students knew which hill to climb."
+  },
+  "turbine": {
+    "simple": "A machine with blades that spin when water, steam, or wind pushes them, often making electricity.",
+    "detailed": "A rotary engine that converts the energy of a moving fluid into mechanical work, frequently driving a generator.",
+    "zh": "涡轮机",
+    "syn": [
+      "rotor engine",
+      "spinning generator",
+      "blade wheel"
+    ],
+    "ant": [],
+    "col": [
+      "wind turbine",
+      "steam turbine",
+      "turbine blades"
+    ],
+    "fam": [
+      "turbine",
+      "turbines"
+    ],
+    "example": "Each wind turbine on the ridge turned a generator hidden inside the white tower.",
+    "basic": "Each spinning wind-machine on the ridge made electricity inside the tower."
+  },
+  "vegetation": {
+    "simple": "The plants growing in a particular place.",
+    "detailed": "The collective plant cover of an area, including trees, shrubs, grasses, and other flora used to describe a landscape.",
+    "zh": "植被",
+    "syn": [
+      "plant cover",
+      "plant life",
+      "flora"
+    ],
+    "ant": [],
+    "col": [
+      "native vegetation",
+      "dense vegetation",
+      "clear the vegetation"
+    ],
+    "fam": [
+      "vegetation",
+      "vegetate",
+      "vegetated"
+    ],
+    "example": "After the fire, new vegetation appeared first as green shoots along the blackened trunks.",
+    "basic": "After the fire, new plants appeared first as green shoots."
+  },
+  "velocity": {
+    "simple": "Speed in a particular direction, not just how fast something moves.",
+    "detailed": "A measure of how fast an object is moving and in which direction; unlike everyday 'speed', it is a vector quantity.",
+    "zh": "速度",
+    "syn": [
+      "speed with direction",
+      "rate of travel",
+      "vector speed"
+    ],
+    "ant": [],
+    "col": [
+      "constant velocity",
+      "change in velocity",
+      "velocity of"
+    ],
+    "fam": [
+      "velocity",
+      "velocities"
+    ],
+    "example": "The toy car's velocity increased down the ramp and then dropped when it hit the carpet.",
+    "basic": "The toy car went faster down the ramp and then slower on the carpet."
+  },
+  "vibration": {
+    "simple": "A rapid back-and-forth shaking that you can often feel or hear.",
+    "detailed": "A repeated oscillating movement about a central position, which can travel as a wave through a solid, liquid, or gas.",
+    "zh": "振动",
+    "syn": [
+      "shaking",
+      "tremor",
+      "oscillation"
+    ],
+    "ant": [],
+    "col": [
+      "strong vibration",
+      "vibration of",
+      "cause vibration"
+    ],
+    "fam": [
+      "vibration",
+      "vibrate",
+      "vibrating",
+      "vibrations"
+    ],
+    "example": "You could feel the vibration in the desk when the tuning fork touched the wood.",
+    "basic": "You could feel the desk shaking when the tuning fork touched the wood."
+  },
+  "voltage": {
+    "simple": "The electrical 'push' that makes current flow in a circuit, measured in volts.",
+    "detailed": "The electric potential difference between two points, which drives current through a conductor when a circuit is complete.",
+    "zh": "电压",
+    "syn": [
+      "potential difference",
+      "electrical push",
+      "volt reading"
+    ],
+    "ant": [],
+    "col": [
+      "high voltage",
+      "voltage drop",
+      "measure the voltage"
+    ],
+    "fam": [
+      "voltage",
+      "volt",
+      "voltmeter"
+    ],
+    "example": "Two batteries in a line increased the voltage, so the globe shone more brightly.",
+    "basic": "Two batteries in a line increased the electrical push, so the globe shone more brightly."
+  },
+  "wetland": {
+    "simple": "Land that is wet for much of the year, such as a swamp, marsh, or billabong.",
+    "detailed": "An ecosystem where the soil is waterlogged for long periods, supporting plants adapted to wet conditions and providing habitat for many birds and frogs.",
+    "zh": "湿地",
+    "syn": [
+      "marsh",
+      "swamp",
+      "billabong country"
+    ],
+    "ant": [],
+    "col": [
+      "wetland habitat",
+      "protect the wetland",
+      "coastal wetland"
+    ],
+    "fam": [
+      "wetland",
+      "wetlands"
+    ],
+    "example": "Ibis and frogs crowded the wetland after the first autumn rain filled the shallows.",
+    "basic": "Ibis and frogs crowded the swampy ground after the first autumn rain."
+  },
+  "ambassador": {
+    "simple": "A country's official representative who lives in another country and speaks for their government.",
+    "detailed": "A senior diplomat appointed to represent one nation in another, handling official talks, ceremonies, and the work of an embassy.",
+    "zh": "大使",
+    "syn": [
+      "diplomat",
+      "envoy",
+      "representative"
+    ],
+    "ant": [],
+    "col": [
+      "Australian ambassador",
+      "ambassador to",
+      "the ambassador said"
+    ],
+    "fam": [
+      "ambassador",
+      "ambassadors",
+      "ambassadorial"
+    ],
+    "example": "The Australian ambassador in Tokyo explained the new trade agreement to reporters.",
+    "basic": "Australia's top official in Tokyo explained the new trade agreement."
+  },
+  "amendment": {
+    "simple": "An official change made to a law, constitution, or written agreement.",
+    "detailed": "A formal alteration to a legal or constitutional text, adding, removing, or rewriting a clause after debate and a vote.",
+    "zh": "修正案",
+    "syn": [
+      "change",
+      "revision",
+      "alteration"
+    ],
+    "ant": [],
+    "col": [
+      "constitutional amendment",
+      "propose an amendment",
+      "amendment to"
+    ],
+    "fam": [
+      "amendment",
+      "amendments",
+      "amend",
+      "amended"
+    ],
+    "example": "Parliament passed an amendment that tightened the rules on plastic packaging.",
+    "basic": "Parliament passed a change that tightened the rules on plastic packaging."
+  },
+  "archaeology": {
+    "simple": "The study of the past by carefully digging up and examining objects people left behind.",
+    "detailed": "The discipline that recovers and interprets material remains — tools, buildings, bones, and sites — to reconstruct how people lived.",
+    "zh": "考古学",
+    "syn": [
+      "study of remains",
+      "dig science",
+      "past-material study"
+    ],
+    "ant": [],
+    "col": [
+      "archaeology of",
+      "field archaeology",
+      "study archaeology"
+    ],
+    "fam": [
+      "archaeology",
+      "archaeologist",
+      "archaeological"
+    ],
+    "example": "In the archaeology unit they treated a broken plate as evidence, not as rubbish.",
+    "basic": "In the digs unit they treated a broken plate as evidence."
+  },
+  "ballot": {
+    "simple": "A secret vote, or the paper or system used to record that vote.",
+    "detailed": "A method of voting, usually private, in which each person marks a paper or machine so choices can be counted fairly.",
+    "zh": "选票；投票",
+    "syn": [
+      "vote",
+      "voting paper",
+      "poll"
+    ],
+    "ant": [],
+    "col": [
+      "secret ballot",
+      "cast a ballot",
+      "ballot paper"
+    ],
+    "fam": [
+      "ballot",
+      "ballots",
+      "balloted"
+    ],
+    "example": "Each student folded a ballot paper so nobody could see who they had chosen for captain.",
+    "basic": "Each student folded a voting paper so nobody could see their choice."
+  },
+  "boycott": {
+    "simple": "An organised refusal to buy from, use, or deal with a person, company, or country as a protest.",
+    "detailed": "A collective withdrawal of business or participation, used as political or social pressure to force a change in policy or behaviour.",
+    "zh": "抵制",
+    "syn": [
+      "ban",
+      "refusal",
+      "shunning"
+    ],
+    "ant": [],
+    "col": [
+      "consumer boycott",
+      "boycott of",
+      "call a boycott"
+    ],
+    "fam": [
+      "boycott",
+      "boycotts",
+      "boycotted",
+      "boycotting"
+    ],
+    "example": "Shoppers organised a boycott of the brand after the report on unfair wages.",
+    "basic": "Shoppers refused to buy from the brand after the report on unfair wages."
+  },
+  "cabinet": {
+    "simple": "The small group of senior ministers who make the main decisions in a government.",
+    "detailed": "The executive committee of ministers, usually led by a prime minister or premier, that discusses and decides government policy.",
+    "zh": "内阁",
+    "syn": [
+      "ministry",
+      "executive team",
+      "council of ministers"
+    ],
+    "ant": [],
+    "col": [
+      "federal cabinet",
+      "cabinet meeting",
+      "cabinet minister"
+    ],
+    "fam": [
+      "cabinet"
+    ],
+    "example": "The premier called an emergency cabinet meeting after the flood warning.",
+    "basic": "The premier called an emergency meeting of senior ministers after the flood warning."
+  },
+  "capitalism": {
+    "simple": "An economic system in which private people and companies own businesses and try to make a profit.",
+    "detailed": "An economic system based on private ownership of property and firms, market prices, and the pursuit of profit, as distinct from systems where the state owns most industry.",
+    "zh": "资本主义",
+    "syn": [
+      "market system",
+      "private-enterprise system",
+      "free-market system"
+    ],
+    "ant": [],
+    "col": [
+      "modern capitalism",
+      "under capitalism",
+      "capitalism and"
+    ],
+    "fam": [
+      "capitalism",
+      "capitalist",
+      "capital"
+    ],
+    "example": "The HASS lesson compared capitalism, in which shops are privately owned, with a planned economy.",
+    "basic": "The lesson compared a system of privately owned shops with a planned economy."
+  },
+  "ceremony": {
+    "simple": "A formal event with set actions, often to mark an important occasion.",
+    "detailed": "A structured public or private ritual — such as a citizenship event or ANZAC service — that uses words, symbols, and order to mark meaning.",
+    "zh": "仪式",
+    "syn": [
+      "ritual",
+      "rite",
+      "formal occasion"
+    ],
+    "ant": [],
+    "col": [
+      "opening ceremony",
+      "citizenship ceremony",
+      "attend a ceremony"
+    ],
+    "fam": [
+      "ceremony",
+      "ceremonies",
+      "ceremonial"
+    ],
+    "example": "Families filled the hall for the citizenship ceremony, where new Australians made a pledge.",
+    "basic": "Families filled the hall for the formal event where new Australians made a pledge."
+  },
+  "charter": {
+    "simple": "A formal written document that sets out rights, rules, or the aims of a group.",
+    "detailed": "An official founding or rights document that grants powers, lists principles, or states what an organisation or people may do.",
+    "zh": "宪章",
+    "syn": [
+      "founding document",
+      "written grant",
+      "articles"
+    ],
+    "ant": [],
+    "col": [
+      "human rights charter",
+      "charter of",
+      "sign a charter"
+    ],
+    "fam": [
+      "charter",
+      "charters",
+      "chartered"
+    ],
+    "example": "The student council wrote a charter that promised fair elections and an open complaints box.",
+    "basic": "The student council wrote a founding set of rules for fair elections."
+  },
+  "chronology": {
+    "simple": "The order in which events happened, from earliest to latest.",
+    "detailed": "A time sequence of events, or the study of arranging those events correctly, used in history to avoid mixing causes and later results.",
+    "zh": "年表；年代顺序",
+    "syn": [
+      "time order",
+      "sequence",
+      "timeline order"
+    ],
+    "ant": [],
+    "col": [
+      "chronology of",
+      "in chronological order",
+      "clear chronology"
+    ],
+    "fam": [
+      "chronology",
+      "chronological",
+      "chronologically"
+    ],
+    "example": "A muddled chronology made it sound as if Federation happened before the gold rushes.",
+    "basic": "A muddled time-order made it sound as if Federation happened before the gold rushes."
+  },
+  "citizenship": {
+    "simple": "The legal position of belonging to a country, with rights and duties.",
+    "detailed": "The status of being a recognised member of a nation, including rights such as voting (when of age) and duties such as obeying the law.",
+    "zh": "公民身份",
+    "syn": [
+      "national membership",
+      "civic status",
+      "legal belonging"
+    ],
+    "ant": [],
+    "col": [
+      "Australian citizenship",
+      "citizenship test",
+      "grant citizenship"
+    ],
+    "fam": [
+      "citizenship",
+      "citizen",
+      "citizens"
+    ],
+    "example": "The inquiry asked what rights and responsibilities come with Australian citizenship.",
+    "basic": "The inquiry asked what rights and duties come with being an Australian citizen."
+  },
+  "colonisation": {
+    "simple": "The act of one country taking control of another land and sending people to settle there.",
+    "detailed": "The process by which a foreign power occupies land, establishes settlements, and imposes its rule; in Australia this involved British settlement and the dispossession of First Nations peoples.",
+    "zh": "殖民；殖民化",
+    "syn": [
+      "settlement by a foreign power",
+      "occupation",
+      "imperial settlement"
+    ],
+    "ant": [],
+    "col": [
+      "British colonisation",
+      "colonisation of",
+      "impact of colonisation"
+    ],
+    "fam": [
+      "colonisation",
+      "colonise",
+      "colony",
+      "colonial"
+    ],
+    "example": "The unit examined how colonisation changed land use and First Nations lives after 1788.",
+    "basic": "The unit examined how British settlement changed land use and First Nations lives after 1788."
+  },
+  "commemoration": {
+    "simple": "An event or act that honours and remembers a person or a past event.",
+    "detailed": "A ceremony, monument, or practice designed to keep a historical event or person in public memory, such as ANZAC Day services.",
+    "zh": "纪念；纪念活动",
+    "syn": [
+      "remembrance",
+      "memorial event",
+      "tribute"
+    ],
+    "ant": [],
+    "col": [
+      "public commemoration",
+      "commemoration of",
+      "day of commemoration"
+    ],
+    "fam": [
+      "commemoration",
+      "commemorate",
+      "commemorative"
+    ],
+    "example": "The school's ANZAC commemoration included a minute's silence and a wreath at the memorial.",
+    "basic": "The school's ANZAC remembrance included a minute's silence."
+  },
+  "conquest": {
+    "simple": "The act of taking control of a place or people by force.",
+    "detailed": "The military or political taking of territory and the people in it, often followed by new rulers, laws, and settlement.",
+    "zh": "征服",
+    "syn": [
+      "takeover",
+      "defeat",
+      "subjugation"
+    ],
+    "ant": [],
+    "col": [
+      "military conquest",
+      "conquest of",
+      "after the conquest"
+    ],
+    "fam": [
+      "conquest",
+      "conquests",
+      "conquer",
+      "conqueror"
+    ],
+    "example": "The map showed borders that changed after the Spanish conquest of the Aztec empire.",
+    "basic": "The map showed borders that changed after Spain took the Aztec empire by force."
+  },
+  "convict": {
+    "simple": "A person found guilty of a crime and, in Australian history, often sent from Britain to a colony.",
+    "detailed": "A person sentenced by a court; in colonial Australia many convicts were transported from Britain and Ireland to serve their sentences as forced labour.",
+    "zh": "囚犯；流放犯",
+    "syn": [
+      "prisoner",
+      "transported prisoner",
+      "sentenced person"
+    ],
+    "ant": [],
+    "col": [
+      "convict ship",
+      "transported convict",
+      "convict labour"
+    ],
+    "fam": [
+      "convict",
+      "convicts",
+      "convicted"
+    ],
+    "example": "A convict arriving in 1788 might spend years in chains before earning a ticket of leave.",
+    "basic": "A prisoner sent from Britain in 1788 might spend years in chains."
+  },
+  "court": {
+    "simple": "A place and system where a judge (and sometimes a jury) hears a case and applies the law.",
+    "detailed": "An official legal body that settles disputes, tries alleged offences, and issues judgments according to statute and common law.",
+    "zh": "法庭",
+    "syn": [
+      "tribunal",
+      "law court",
+      "bench"
+    ],
+    "ant": [],
+    "col": [
+      "high court",
+      "appear in court",
+      "court case"
+    ],
+    "fam": [
+      "court",
+      "courts",
+      "courtroom"
+    ],
+    "example": "The class visited the local court and watched a magistrate explain a sentencing decision.",
+    "basic": "The class visited the local law building and watched a magistrate explain a decision."
+  },
+  "covenant": {
+    "simple": "A formal, serious agreement that people or groups promise to keep.",
+    "detailed": "A binding pledge or treaty, often written, that sets out duties between parties; used in law, religion, and some international agreements.",
+    "zh": "契约",
+    "syn": [
+      "pact",
+      "binding agreement",
+      "solemn promise"
+    ],
+    "ant": [],
+    "col": [
+      "sign a covenant",
+      "covenant of",
+      "international covenant"
+    ],
+    "fam": [
+      "covenant",
+      "covenants",
+      "covenanted"
+    ],
+    "example": "The two councils signed a covenant to share the river water fairly in dry years.",
+    "basic": "The two councils signed a serious written promise to share the river water."
+  },
+  "declaration": {
+    "simple": "An official public statement of a decision, fact, or set of rights.",
+    "detailed": "A formal announcement, often written, that states a position, independence, emergency, or list of rights for the record.",
+    "zh": "宣言；声明",
+    "syn": [
+      "proclamation",
+      "announcement",
+      "formal statement"
+    ],
+    "ant": [],
+    "col": [
+      "declaration of independence",
+      "make a declaration",
+      "public declaration"
+    ],
+    "fam": [
+      "declaration",
+      "declarations",
+      "declare",
+      "declared"
+    ],
+    "example": "Students compared Australia's federation documents with the American declaration of independence.",
+    "basic": "Students compared Australia's federation documents with America's formal independence statement."
+  },
+  "embassy": {
+    "simple": "A country's official office in another country's capital, and the people who work there.",
+    "detailed": "The diplomatic mission that represents one nation in another, usually in the capital city, handling passports, talks, and official business.",
+    "zh": "大使馆",
+    "syn": [
+      "diplomatic mission",
+      "legation",
+      "official mission"
+    ],
+    "ant": [],
+    "col": [
+      "Australian embassy",
+      "embassy staff",
+      "at the embassy"
+    ],
+    "fam": [
+      "embassy",
+      "embassies"
+    ],
+    "example": "Travellers queued at the embassy to replace passports stolen on the train.",
+    "basic": "Travellers queued at Australia's official office overseas to replace stolen passports."
+  },
+  "emigration": {
+    "simple": "The act of leaving your own country to live permanently in another.",
+    "detailed": "Movement out of a home country to settle elsewhere; the counterpart of immigration, which is arrival in the new country.",
+    "zh": "移居国外",
+    "syn": [
+      "leaving a country",
+      "out-migration",
+      "departure to settle"
+    ],
+    "ant": [
+      "immigration"
+    ],
+    "col": [
+      "emigration from",
+      "mass emigration",
+      "reasons for emigration"
+    ],
+    "fam": [
+      "emigration",
+      "emigrate",
+      "emigrant"
+    ],
+    "example": "Gold-rush emigration from China and Europe changed the population of several Australian colonies.",
+    "basic": "People leaving China and Europe for the goldfields changed several colonies."
+  },
+  "ethnicity": {
+    "simple": "A shared cultural background, language, or ancestry that a group of people identify with.",
+    "detailed": "A social identity based on common heritage, language, customs, or origin, distinct from (though sometimes overlapping with) nationality or race.",
+    "zh": "族群；民族属性",
+    "syn": [
+      "ethnic background",
+      "cultural ancestry",
+      "heritage group"
+    ],
+    "ant": [],
+    "col": [
+      "ethnicity and",
+      "shared ethnicity",
+      "ethnicity data"
+    ],
+    "fam": [
+      "ethnicity",
+      "ethnic",
+      "ethnically"
+    ],
+    "example": "The census question on ethnicity asked people which cultural backgrounds they identified with.",
+    "basic": "The census asked people which cultural backgrounds they identified with."
+  },
+  "explorer": {
+    "simple": "A person who travels into little-known places to map, study, or report on them.",
+    "detailed": "Someone who journeys into unfamiliar territory to gather geographical, scientific, or commercial knowledge; in Australian history the term is often used for inland and coastal expeditions.",
+    "zh": "探险家",
+    "syn": [
+      "expedition leader",
+      "pathfinder",
+      "survey traveller"
+    ],
+    "ant": [],
+    "col": [
+      "European explorer",
+      "explorer of",
+      "famous explorer"
+    ],
+    "fam": [
+      "explorer",
+      "explorers",
+      "explore",
+      "exploration"
+    ],
+    "example": "The diary of the explorer described waterholes that First Nations guides already knew well.",
+    "basic": "The traveller's diary described waterholes that First Nations guides already knew."
+  },
+  "governor": {
+    "simple": "The Crown's representative in an Australian state, or the official who once ran a colony.",
+    "detailed": "A vice-regal or colonial official who represents the monarch and, in earlier times, held executive power over a colony's government.",
+    "zh": "总督",
+    "syn": [
+      "Crown representative",
+      "colonial ruler",
+      "vice-regal official"
+    ],
+    "ant": [],
+    "col": [
+      "state governor",
+      "governor of",
+      "governor's house"
+    ],
+    "fam": [
+      "governor",
+      "governors",
+      "govern",
+      "government"
+    ],
+    "example": "In early New South Wales the governor could make orders that had the force of law.",
+    "basic": "In early New South Wales the Crown's official could make orders that had the force of law."
+  },
+  "identity": {
+    "simple": "Who a person or group is, including the qualities they see as making them themselves.",
+    "detailed": "The sense of self or group belonging formed by culture, history, roles, and personal choices; a key idea in HASS discussions of community.",
+    "zh": "身份；认同",
+    "syn": [
+      "sense of self",
+      "who someone is",
+      "selfhood"
+    ],
+    "ant": [],
+    "col": [
+      "national identity",
+      "cultural identity",
+      "sense of identity"
+    ],
+    "fam": [
+      "identity",
+      "identities",
+      "identify",
+      "identification"
+    ],
+    "example": "The exhibition asked how sport, language, and Country shape Australian identity.",
+    "basic": "The exhibition asked how sport, language, and Country shape who Australians feel they are."
+  },
+  "ideology": {
+    "simple": "A set of ideas that a group uses to explain how society should work.",
+    "detailed": "A fairly organised system of political or social beliefs that shapes policies, slogans, and the way supporters interpret events.",
+    "zh": "意识形态",
+    "syn": [
+      "belief system",
+      "political creed",
+      "doctrine"
+    ],
+    "ant": [],
+    "col": [
+      "political ideology",
+      "ideology of",
+      "dominant ideology"
+    ],
+    "fam": [
+      "ideology",
+      "ideologies",
+      "ideological"
+    ],
+    "example": "The article said the party's ideology favoured smaller government and lower taxes.",
+    "basic": "The article said the party's set of beliefs favoured smaller government."
+  },
+  "independence": {
+    "simple": "The state of being free from another country's rule or from someone else's control.",
+    "detailed": "Political self-rule, or personal autonomy, in which a nation or person makes decisions without being governed by an outside power.",
+    "zh": "独立",
+    "syn": [
+      "self-rule",
+      "autonomy",
+      "self-government"
+    ],
+    "ant": [
+      "dependence",
+      "colonial rule"
+    ],
+    "col": [
+      "gain independence",
+      "declaration of independence",
+      "political independence"
+    ],
+    "fam": [
+      "independence",
+      "independent",
+      "independently"
+    ],
+    "example": "India gained independence from British rule in 1947 after a long campaign.",
+    "basic": "India became free from British rule in 1947."
+  },
+  "industrialisation": {
+    "simple": "The change from making most goods by hand to making them in factories with machines.",
+    "detailed": "The historical process in which an economy shifts toward large-scale factory production, powered machinery, and urban wage labour.",
+    "zh": "工业化",
+    "syn": [
+      "factory growth",
+      "rise of industry",
+      "mechanisation of work"
+    ],
+    "ant": [],
+    "col": [
+      "rapid industrialisation",
+      "industrialisation of",
+      "during industrialisation"
+    ],
+    "fam": [
+      "industrialisation",
+      "industrialise",
+      "industrial",
+      "industry"
+    ],
+    "example": "Industrialisation in nineteenth-century Britain pulled many families from farms into crowded mill towns.",
+    "basic": "The rise of factories in nineteenth-century Britain pulled many families into mill towns."
+  },
+  "inequality": {
+    "simple": "An unfair difference in wealth, rights, or chances between people or groups.",
+    "detailed": "A patterned gap in income, power, health, or opportunity that leaves some people systematically worse off than others.",
+    "zh": "不平等",
+    "syn": [
+      "unfair gap",
+      "disparity",
+      "unevenness"
+    ],
+    "ant": [
+      "equality"
+    ],
+    "col": [
+      "social inequality",
+      "income inequality",
+      "reduce inequality"
+    ],
+    "fam": [
+      "inequality",
+      "inequalities",
+      "unequal"
+    ],
+    "example": "The graph of income inequality showed the top tenth earning far more than the bottom tenth.",
+    "basic": "The graph showed a big unfair gap between the highest and lowest earners."
+  },
+  "inflation": {
+    "simple": "A general rise in prices, so the same money buys less than before.",
+    "detailed": "A sustained increase in the average price level of goods and services, which reduces the purchasing power of a currency.",
+    "zh": "通货膨胀",
+    "syn": [
+      "price rise",
+      "rising prices",
+      "loss of buying power"
+    ],
+    "ant": [
+      "deflation"
+    ],
+    "col": [
+      "rate of inflation",
+      "high inflation",
+      "inflation target"
+    ],
+    "fam": [
+      "inflation",
+      "inflate",
+      "inflationary"
+    ],
+    "example": "When inflation rose, the same lunch money bought a smaller sandwich than last year.",
+    "basic": "When prices rose across the board, the same lunch money bought a smaller sandwich."
+  },
+  "institution": {
+    "simple": "An established organisation or long-lasting custom that helps a society run, such as a court, school, or parliament.",
+    "detailed": "A durable public or social structure — a body, rule system, or tradition — that organises behaviour over time, from hospitals to the idea of marriage.",
+    "zh": "机构；制度",
+    "syn": [
+      "organisation",
+      "established body",
+      "public body"
+    ],
+    "ant": [],
+    "col": [
+      "public institution",
+      "democratic institution",
+      "institution of"
+    ],
+    "fam": [
+      "institution",
+      "institutions",
+      "institutional"
+    ],
+    "example": "Parliament is an institution that makes laws, not just a building on the hill in Canberra.",
+    "basic": "Parliament is an established public body that makes laws."
+  },
+  "invasion": {
+    "simple": "The act of entering a country or land with force in order to take control.",
+    "detailed": "A hostile entry of armed forces, or a sudden overwhelming arrival, that aims to occupy territory or defeat the people already there.",
+    "zh": "入侵",
+    "syn": [
+      "incursion",
+      "armed entry",
+      "occupation by force"
+    ],
+    "ant": [
+      "withdrawal"
+    ],
+    "col": [
+      "military invasion",
+      "invasion of",
+      "resist the invasion"
+    ],
+    "fam": [
+      "invasion",
+      "invade",
+      "invader",
+      "invasive"
+    ],
+    "example": "Some historians describe 1788 as an invasion because the First Fleet arrived without First Nations consent.",
+    "basic": "Some historians say 1788 was a forced entry because the First Fleet arrived without consent."
+  },
+  "jury": {
+    "simple": "A group of ordinary citizens who listen to a trial and decide whether the accused is guilty.",
+    "detailed": "A panel of eligible citizens sworn to hear evidence in court and deliver a verdict, a key feature of many common-law criminal trials.",
+    "zh": "陪审团",
+    "syn": [
+      "panel of citizens",
+      "trial panel",
+      "finders of fact"
+    ],
+    "ant": [],
+    "col": [
+      "jury trial",
+      "jury duty",
+      "members of the jury"
+    ],
+    "fam": [
+      "jury",
+      "juries",
+      "juror"
+    ],
+    "example": "The jury left the courtroom to discuss the evidence in private before giving a verdict.",
+    "basic": "The group of ordinary citizens left to discuss the evidence in private."
+  },
+  "legislature": {
+    "simple": "The group of elected people who make and change the laws.",
+    "detailed": "The law-making branch of government, such as the Australian Parliament or a state parliament, as distinct from the courts and the ministry.",
+    "zh": "立法机关",
+    "syn": [
+      "parliament",
+      "law-making body",
+      "assembly"
+    ],
+    "ant": [],
+    "col": [
+      "state legislature",
+      "members of the legislature",
+      "the legislature passed"
+    ],
+    "fam": [
+      "legislature",
+      "legislatures",
+      "legislate",
+      "legislation"
+    ],
+    "example": "A bill does not become law until the legislature has debated and passed it.",
+    "basic": "A bill does not become law until the law-making body has debated and passed it."
+  },
+  "liberty": {
+    "simple": "The freedom to live, speak, and act without unfair control.",
+    "detailed": "The condition of being free from arbitrary power, including civil liberties such as speech, movement, and a fair trial.",
+    "zh": "自由",
+    "syn": [
+      "freedom",
+      "independence",
+      "autonomy"
+    ],
+    "ant": [
+      "oppression",
+      "captivity"
+    ],
+    "col": [
+      "civil liberty",
+      "liberty of",
+      "value liberty"
+    ],
+    "fam": [
+      "liberty",
+      "liberties",
+      "liberal"
+    ],
+    "example": "The speaker said liberty includes the right to criticise the government without fear.",
+    "basic": "The speaker said freedom includes the right to criticise the government without fear."
+  },
+  "literacy": {
+    "simple": "The ability to read and write well enough to use texts in everyday life.",
+    "detailed": "Skill in reading, writing, and, in modern classrooms, interpreting a range of texts so a person can learn, work, and take part in civic life.",
+    "zh": "读写能力",
+    "syn": [
+      "reading and writing skill",
+      "print skill",
+      "ability to read"
+    ],
+    "ant": [
+      "illiteracy"
+    ],
+    "col": [
+      "literacy rate",
+      "improve literacy",
+      "literacy skills"
+    ],
+    "fam": [
+      "literacy",
+      "literate",
+      "illiterate"
+    ],
+    "example": "The library programme aimed to lift literacy so every girl could tackle a scholarship paper.",
+    "basic": "The library programme aimed to lift reading and writing so every girl could tackle a hard paper."
+  },
+  "majority": {
+    "simple": "More than half of a group, or the larger part of it.",
+    "detailed": "A number of votes or people greater than 50 per cent, or the larger share of a population; in parliament it often means enough seats to form government.",
+    "zh": "多数",
+    "syn": [
+      "greater part",
+      "more than half",
+      "bulk"
+    ],
+    "ant": [
+      "minority"
+    ],
+    "col": [
+      "majority of",
+      "clear majority",
+      "majority vote"
+    ],
+    "fam": [
+      "majority",
+      "majorities"
+    ],
+    "example": "A majority of the class voted for a longer inquiry, so the teacher changed the timetable.",
+    "basic": "More than half the class voted for a longer inquiry."
+  },
+  "manufacturing": {
+    "simple": "The business of making goods in factories, rather than growing them or selling services.",
+    "detailed": "The industrial production of articles from raw materials or parts, typically on a large scale, as opposed to farming or office work.",
+    "zh": "制造业",
+    "syn": [
+      "factory production",
+      "making of goods",
+      "industry"
+    ],
+    "ant": [],
+    "col": [
+      "manufacturing industry",
+      "car manufacturing",
+      "manufacturing jobs"
+    ],
+    "fam": [
+      "manufacturing",
+      "manufacture",
+      "manufacturer"
+    ],
+    "example": "Car manufacturing in that city shrank when the last assembly plant closed.",
+    "basic": "Factory car-making in that city shrank when the last plant closed."
+  },
+  "maritime": {
+    "simple": "Relating to the sea, ships, and sea trade.",
+    "detailed": "Of or connected with navigation, shipping, ports, and the law or history of the sea, as in a seafaring museum or a sea boundary.",
+    "zh": "海事的；海洋的",
+    "syn": [
+      "seafaring",
+      "naval",
+      "of the sea"
+    ],
+    "ant": [
+      "inland"
+    ],
+    "col": [
+      "maritime museum",
+      "maritime trade",
+      "maritime law"
+    ],
+    "fam": [
+      "maritime"
+    ],
+    "example": "The maritime museum displayed the compass from a wool clipper that once left Sydney.",
+    "basic": "The sea-trade museum displayed the compass from a wool clipper."
+  },
+  "memorial": {
+    "simple": "A statue, building, or plaque set up to honour people or an event from the past.",
+    "detailed": "A physical or ceremonial reminder — monument, park, or service — created so a community does not forget the dead or a significant event.",
+    "zh": "纪念碑；纪念馆",
+    "syn": [
+      "monument",
+      "remembrance marker",
+      "commemorative site"
+    ],
+    "ant": [],
+    "col": [
+      "war memorial",
+      "memorial service",
+      "at the memorial"
+    ],
+    "fam": [
+      "memorial",
+      "memorials",
+      "memorialise"
+    ],
+    "example": "Names of local soldiers are carved on the sandstone memorial in the main street.",
+    "basic": "Names of local soldiers are carved on the sandstone monument in the main street."
+  },
+  "merchant": {
+    "simple": "A person whose work is buying and selling goods, especially in large amounts or across seas.",
+    "detailed": "A trader who purchases commodities to sell at a profit, historically including ship-owning merchants who linked ports and colonies.",
+    "zh": "商人",
+    "syn": [
+      "trader",
+      "dealer",
+      "wholesaler"
+    ],
+    "ant": [],
+    "col": [
+      "wealthy merchant",
+      "merchant ship",
+      "merchant of"
+    ],
+    "fam": [
+      "merchant",
+      "merchants",
+      "merchandise"
+    ],
+    "example": "The merchant imported tea and exported wool through the busy Sydney docks.",
+    "basic": "The trader imported tea and exported wool through the Sydney docks."
+  },
+  "minority": {
+    "simple": "A smaller part of a group, or a group of people who are fewer than the rest in a community.",
+    "detailed": "Less than half of a set of votes or people; also a community whose culture, language, or identity differs from the larger surrounding population.",
+    "zh": "少数；少数群体",
+    "syn": [
+      "smaller part",
+      "lesser share",
+      "smaller group"
+    ],
+    "ant": [
+      "majority"
+    ],
+    "col": [
+      "minority group",
+      "in the minority",
+      "ethnic minority"
+    ],
+    "fam": [
+      "minority",
+      "minorities"
+    ],
+    "example": "Being in a minority on the council did not stop her from asking hard questions.",
+    "basic": "Being in the smaller group on the council did not stop her from asking hard questions."
+  },
+  "monarchy": {
+    "simple": "A system of government with a king, queen, or other hereditary ruler.",
+    "detailed": "A form of state in which a monarch is head of state, either ruling with real power or, as in Australia, serving as a constitutional figure represented by a governor-general.",
+    "zh": "君主制",
+    "syn": [
+      "kingship",
+      "royal rule",
+      "crowned government"
+    ],
+    "ant": [
+      "republic"
+    ],
+    "col": [
+      "constitutional monarchy",
+      "absolute monarchy",
+      "under a monarchy"
+    ],
+    "fam": [
+      "monarchy",
+      "monarch",
+      "monarchies"
+    ],
+    "example": "Australia is a constitutional monarchy: the King is head of state, but elected ministers run the government.",
+    "basic": "Australia has a king as head of state, but elected ministers run the government."
+  },
+  "multiculturalism": {
+    "simple": "The idea that many cultures can live together in one country and be respected.",
+    "detailed": "A social policy and attitude that recognises and supports cultural diversity within a nation, rather than demanding that everyone follow one culture only.",
+    "zh": "多元文化主义",
+    "syn": [
+      "cultural diversity policy",
+      "many-cultures idea",
+      "pluralism"
+    ],
+    "ant": [],
+    "col": [
+      "Australian multiculturalism",
+      "policy of multiculturalism",
+      "support multiculturalism"
+    ],
+    "fam": [
+      "multiculturalism",
+      "multicultural"
+    ],
+    "example": "Harmony Day lessons presented multiculturalism as a strength of modern Australian suburbs.",
+    "basic": "Harmony Day lessons presented living with many cultures as a strength of Australian suburbs."
+  },
+  "nationalism": {
+    "simple": "A strong belief that your nation is especially important and should be independent or put first.",
+    "detailed": "A political feeling or movement that emphasises national identity, unity, and often superiority or self-rule, which can inspire both independence campaigns and conflict.",
+    "zh": "民族主义",
+    "syn": [
+      "national pride movement",
+      "patriotic doctrine",
+      "nation-first belief"
+    ],
+    "ant": [],
+    "col": [
+      "rise of nationalism",
+      "nationalism in",
+      "extreme nationalism"
+    ],
+    "fam": [
+      "nationalism",
+      "nationalist",
+      "nationalistic"
+    ],
+    "example": "Nineteenth-century nationalism helped some European peoples demand their own countries.",
+    "basic": "Nineteenth-century national pride helped some European peoples demand their own countries."
+  },
+  "negotiation": {
+    "simple": "Talking with the other side to try to reach an agreement.",
+    "detailed": "A structured discussion in which parties bargain, compromise, and set terms, used in diplomacy, industrial disputes, and everyday problem-solving.",
+    "zh": "谈判",
+    "syn": [
+      "bargaining",
+      "talks",
+      "discussion toward agreement"
+    ],
+    "ant": [],
+    "col": [
+      "peace negotiation",
+      "enter negotiation",
+      "negotiation between"
+    ],
+    "fam": [
+      "negotiation",
+      "negotiate",
+      "negotiator",
+      "negotiable"
+    ],
+    "example": "After a long negotiation the two councils agreed to share the cost of the new bridge.",
+    "basic": "After a long set of talks the two councils agreed to share the cost of the bridge."
+  },
+  "opposition": {
+    "simple": "The people or party that disagree with those in power, or the act of resisting a plan.",
+    "detailed": "In parliament, the parties not in government who scrutinise ministers; more generally, organised resistance to a policy, idea, or group.",
+    "zh": "反对；反对党",
+    "syn": [
+      "resistance",
+      "rival party",
+      "objection"
+    ],
+    "ant": [
+      "support",
+      "government"
+    ],
+    "col": [
+      "leader of the opposition",
+      "strong opposition",
+      "in opposition"
+    ],
+    "fam": [
+      "opposition",
+      "oppose",
+      "opponent",
+      "opposing"
+    ],
+    "example": "The opposition questioned the premier about hospital waiting times at question time.",
+    "basic": "The rival party questioned the premier about hospital waiting times."
+  },
+  "outback": {
+    "simple": "The remote inland parts of Australia, far from the big coastal cities.",
+    "detailed": "The sparsely populated, often arid interior of Australia, away from the densely settled coast, used in geography and national imagery.",
+    "zh": "内地；内陆（澳大利亚）",
+    "syn": [
+      "inland Australia",
+      "remote interior",
+      "bush interior"
+    ],
+    "ant": [],
+    "col": [
+      "the outback",
+      "outback town",
+      "outback station"
+    ],
+    "fam": [
+      "outback"
+    ],
+    "example": "The documentary followed a Flying Doctor flight to an outback clinic 400 kilometres from the nearest city.",
+    "basic": "The documentary followed a Flying Doctor flight to a remote inland clinic."
+  },
+  "pioneer": {
+    "simple": "One of the first people to settle, try, or develop something new.",
+    "detailed": "A person who opens the way for others, whether by settling new land, inventing a method, or being first in a field of work.",
+    "zh": "先驱；开拓者",
+    "syn": [
+      "trailblazer",
+      "pathfinder",
+      "early settler"
+    ],
+    "ant": [],
+    "col": [
+      "pioneer of",
+      "pioneer settler",
+      "pioneer work"
+    ],
+    "fam": [
+      "pioneer",
+      "pioneers",
+      "pioneering"
+    ],
+    "example": "She was a pioneer of girls' cricket in the district and later coached the state side.",
+    "basic": "She was one of the first to build girls' cricket in the district."
+  },
+  "politician": {
+    "simple": "A person whose job is to work in government or to seek election to public office.",
+    "detailed": "Someone who holds or campaigns for political office, making or influencing laws and public decisions, for example a member of parliament.",
+    "zh": "从政者；政客",
+    "syn": [
+      "office-holder",
+      "elected representative",
+      "public official"
+    ],
+    "ant": [],
+    "col": [
+      "local politician",
+      "career politician",
+      "politician said"
+    ],
+    "fam": [
+      "politician",
+      "politicians",
+      "politics",
+      "political"
+    ],
+    "example": "The local politician visited the school to hear students' questions about the new bus route.",
+    "basic": "The elected local member visited the school to hear questions about the bus route."
+  },
+  "poverty": {
+    "simple": "The state of being very poor and lacking money for basic needs.",
+    "detailed": "A condition in which people cannot afford adequate food, housing, health care, or schooling, measured in absolute or relative terms.",
+    "zh": "贫穷",
+    "syn": [
+      "need",
+      "want",
+      "destitution"
+    ],
+    "ant": [
+      "wealth",
+      "affluence"
+    ],
+    "col": [
+      "live in poverty",
+      "child poverty",
+      "reduce poverty"
+    ],
+    "fam": [
+      "poverty",
+      "poor"
+    ],
+    "example": "The charity report linked child poverty to crowded housing and missed school meals.",
+    "basic": "The charity report linked being very poor to crowded housing and missed meals."
+  },
+  "premier": {
+    "simple": "The elected leader of an Australian state government.",
+    "detailed": "The head of government in an Australian state, usually the leader of the party that holds a majority in the lower house.",
+    "zh": "州总理",
+    "syn": [
+      "state leader",
+      "head of state government",
+      "first minister"
+    ],
+    "ant": [],
+    "col": [
+      "state premier",
+      "premier of",
+      "premier announced"
+    ],
+    "fam": [
+      "premier",
+      "premiers",
+      "premiership"
+    ],
+    "example": "The Victorian premier announced extra trains after the inquiry into overcrowding.",
+    "basic": "Victoria's state leader announced extra trains after the inquiry."
+  },
+  "privilege": {
+    "simple": "A special right or advantage that only some people have.",
+    "detailed": "An unearned or extra benefit attached to a role, class, or group, which can make life easier than it is for people without that advantage.",
+    "zh": "特权",
+    "syn": [
+      "advantage",
+      "special right",
+      "entitlement"
+    ],
+    "ant": [
+      "disadvantage"
+    ],
+    "col": [
+      "special privilege",
+      "privilege of",
+      "position of privilege"
+    ],
+    "fam": [
+      "privilege",
+      "privileges",
+      "privileged"
+    ],
+    "example": "Reserved seats at the front were a privilege for students who had volunteered all term.",
+    "basic": "Reserved seats at the front were a special advantage for the volunteers."
+  },
+  "proclamation": {
+    "simple": "An official public announcement, often made by a government or a monarch.",
+    "detailed": "A formal published notice that declares a law, emergency, holiday, or new status so that the public is taken to know it.",
+    "zh": "公告；宣言",
+    "syn": [
+      "edict",
+      "official announcement",
+      "public notice"
+    ],
+    "ant": [],
+    "col": [
+      "royal proclamation",
+      "issue a proclamation",
+      "proclamation of"
+    ],
+    "fam": [
+      "proclamation",
+      "proclamations",
+      "proclaim"
+    ],
+    "example": "A colonial proclamation claimed land that First Nations nations had never ceded.",
+    "basic": "A colonial public notice claimed land that First Nations nations had never given up."
+  },
+  "propaganda": {
+    "simple": "Information spread to make people accept a particular view, often by hiding the other side.",
+    "detailed": "Persuasive material, sometimes misleading, produced by a government or group to shape public opinion rather than to present balanced evidence.",
+    "zh": "宣传（常带偏见）",
+    "syn": [
+      "biased publicity",
+      "one-sided messaging",
+      "spin"
+    ],
+    "ant": [],
+    "col": [
+      "wartime propaganda",
+      "propaganda poster",
+      "spread propaganda"
+    ],
+    "fam": [
+      "propaganda",
+      "propagandist"
+    ],
+    "example": "The wartime poster was propaganda: it showed only heroic soldiers and none of the costs of battle.",
+    "basic": "The wartime poster was one-sided advertising for the war."
+  },
+  "prosperity": {
+    "simple": "A time or condition of being successful and having enough money and resources.",
+    "detailed": "Sustained economic well-being for a person, community, or nation, marked by employment, rising living standards, and confidence.",
+    "zh": "繁荣",
+    "syn": [
+      "affluence",
+      "success",
+      "good fortune"
+    ],
+    "ant": [
+      "hardship",
+      "recession"
+    ],
+    "col": [
+      "economic prosperity",
+      "period of prosperity",
+      "share in prosperity"
+    ],
+    "fam": [
+      "prosperity",
+      "prosper",
+      "prosperous"
+    ],
+    "example": "The gold rush brought sudden prosperity to some towns and left others empty when the gold ran out.",
+    "basic": "The gold rush brought sudden wealth to some towns."
+  },
+  "rebellion": {
+    "simple": "An organised fight or uprising against the people in power.",
+    "detailed": "Open, collective resistance to authority, ranging from a protest that turns into revolt to an armed attempt to overthrow rulers.",
+    "zh": "叛乱；反抗",
+    "syn": [
+      "revolt",
+      "uprising",
+      "insurrection"
+    ],
+    "ant": [
+      "obedience"
+    ],
+    "col": [
+      "armed rebellion",
+      "crush the rebellion",
+      "rebellion against"
+    ],
+    "fam": [
+      "rebellion",
+      "rebel",
+      "rebellious"
+    ],
+    "example": "The Eureka rebellion began as a protest by miners against a harsh licence fee.",
+    "basic": "The Eureka uprising began as a protest by miners against a harsh licence fee."
+  },
+  "reform": {
+    "simple": "A change made to improve a law, system, or practice.",
+    "detailed": "A deliberate improvement to institutions or rules, intended to correct injustice or inefficiency without necessarily overthrowing the whole system.",
+    "zh": "改革",
+    "syn": [
+      "improvement",
+      "revision",
+      "overhaul"
+    ],
+    "ant": [],
+    "col": [
+      "law reform",
+      "education reform",
+      "push for reform"
+    ],
+    "fam": [
+      "reform",
+      "reforms",
+      "reformer",
+      "reformed"
+    ],
+    "example": "Voting reform in the 1890s extended the ballot to more adults in some Australian colonies.",
+    "basic": "Changes to voting rules in the 1890s let more adults vote in some colonies."
+  },
+  "refugee": {
+    "simple": "A person who has fled their country because of war, danger, or persecution.",
+    "detailed": "Someone who cannot safely return home and seeks protection in another country because of a well-founded fear of harm.",
+    "zh": "难民",
+    "syn": [
+      "displaced person",
+      "person seeking safety",
+      "forced migrant"
+    ],
+    "ant": [],
+    "col": [
+      "refugee family",
+      "refugee camp",
+      "protect a refugee"
+    ],
+    "fam": [
+      "refugee",
+      "refugees",
+      "refuge"
+    ],
+    "example": "The class interview with a refugee focused on the journey, not just on the war they had left.",
+    "basic": "The class interview with someone who had fled danger focused on the journey."
+  },
+  "republic": {
+    "simple": "A country whose head of state is elected or chosen, not a king or queen.",
+    "detailed": "A form of government in which political power rests with the people or their representatives and the head of state is not a hereditary monarch.",
+    "zh": "共和国",
+    "syn": [
+      "elected-head state",
+      "non-monarchy",
+      "popular state"
+    ],
+    "ant": [
+      "monarchy"
+    ],
+    "col": [
+      "become a republic",
+      "federal republic",
+      "republic of"
+    ],
+    "fam": [
+      "republic",
+      "republics",
+      "republican"
+    ],
+    "example": "Some Australians argue the nation should become a republic with an Australian head of state.",
+    "basic": "Some Australians argue the nation should have an elected head of state instead of a king."
+  },
+  "revolution": {
+    "simple": "A sudden, far-reaching change in government or society, often after a popular uprising.",
+    "detailed": "A fundamental overthrow or transformation of a political or social order, as in France in 1789 or the later factory-age upheaval.",
+    "zh": "革命",
+    "syn": [
+      "uprising",
+      "overthrow",
+      "radical change"
+    ],
+    "ant": [],
+    "col": [
+      "French Revolution",
+      "industrial revolution",
+      "after the revolution"
+    ],
+    "fam": [
+      "revolution",
+      "revolutions",
+      "revolutionary",
+      "revolt"
+    ],
+    "example": "The industrial revolution changed how cloth was made, but it was not a single street battle.",
+    "basic": "The great factory change of the 1700s changed how cloth was made."
+  },
+  "slavery": {
+    "simple": "The system of owning people as property and forcing them to work without freedom or pay.",
+    "detailed": "An institution in which human beings are treated as property, denied legal personhood, and compelled to labour for the benefit of owners.",
+    "zh": "奴隶制",
+    "syn": [
+      "enslavement",
+      "bondage",
+      "forced ownership of people"
+    ],
+    "ant": [
+      "freedom"
+    ],
+    "col": [
+      "abolish slavery",
+      "history of slavery",
+      "slavery in"
+    ],
+    "fam": [
+      "slavery",
+      "slave",
+      "enslave",
+      "enslaved"
+    ],
+    "example": "The inquiry contrasted chattel slavery with other forms of forced labour in the Pacific.",
+    "basic": "The inquiry contrasted owning people as property with other forms of forced labour."
+  },
+  "suburb": {
+    "simple": "A mainly residential area on the edge of a city, away from the crowded centre.",
+    "detailed": "An urban district, often of houses and local shops, that forms part of a larger city but sits outside the central business area.",
+    "zh": "郊区",
+    "syn": [
+      "outer neighbourhood",
+      "residential district",
+      "outlying area"
+    ],
+    "ant": [],
+    "col": [
+      "inner suburb",
+      "new suburb",
+      "live in a suburb"
+    ],
+    "fam": [
+      "suburb",
+      "suburbs",
+      "suburban",
+      "suburbia"
+    ],
+    "example": "A new railway station can turn a quiet suburb into a busy place to live and shop.",
+    "basic": "A new railway station can turn a quiet outer neighbourhood into a busy place."
+  },
+  "taxation": {
+    "simple": "The system of collecting money from people and businesses to pay for public services.",
+    "detailed": "The legal raising of revenue by government through taxes on income, goods, or property, used to fund schools, hospitals, and other services.",
+    "zh": "税收",
+    "syn": [
+      "tax system",
+      "levy system",
+      "revenue raising"
+    ],
+    "ant": [],
+    "col": [
+      "fair taxation",
+      "taxation policy",
+      "system of taxation"
+    ],
+    "fam": [
+      "taxation",
+      "tax",
+      "taxable",
+      "taxpayer"
+    ],
+    "example": "The HASS debate asked whether taxation should rise to pay for flood-proof roads.",
+    "basic": "The debate asked whether taxes should rise to pay for flood-proof roads."
+  },
+  "territory": {
+    "simple": "An area of land under the control of a government, or a region that is not yet a full state.",
+    "detailed": "A defined area of land (and sometimes sea) over which a state claims authority; in Australia the word also names regions that are not full states.",
+    "zh": "领土；地区",
+    "syn": [
+      "land",
+      "domain",
+      "jurisdiction"
+    ],
+    "ant": [],
+    "col": [
+      "northern territory",
+      "national territory",
+      "defend the territory"
+    ],
+    "fam": [
+      "territory",
+      "territories",
+      "territorial"
+    ],
+    "example": "The Northern Territory is a territory, not a state, so the federal parliament can still override some of its laws.",
+    "basic": "The Northern Territory is a region that is not a full state."
+  },
+  "tourism": {
+    "simple": "The business of people travelling for holidays and the services that support those visits.",
+    "detailed": "The industry and activity of visitors travelling for leisure or interest, including transport, accommodation, and the effects on local places.",
+    "zh": "旅游业",
+    "syn": [
+      "holiday travel",
+      "visitor industry",
+      "sightseeing trade"
+    ],
+    "ant": [],
+    "col": [
+      "tourism industry",
+      "eco-tourism",
+      "boost tourism"
+    ],
+    "fam": [
+      "tourism",
+      "tourist",
+      "tour"
+    ],
+    "example": "Reef tourism brings money to the town, but too many boats can damage the coral.",
+    "basic": "Holiday visits to the reef bring money, but too many boats can damage the coral."
+  },
+  "unemployment": {
+    "simple": "The situation of people who want paid work but cannot find a job.",
+    "detailed": "The condition, and the official rate, of people in the labour force who are without work and actively seeking it.",
+    "zh": "失业",
+    "syn": [
+      "joblessness",
+      "lack of work",
+      "being out of work"
+    ],
+    "ant": [
+      "employment"
+    ],
+    "col": [
+      "unemployment rate",
+      "high unemployment",
+      "youth unemployment"
+    ],
+    "fam": [
+      "unemployment",
+      "unemployed",
+      "employ"
+    ],
+    "example": "Youth unemployment rose in the town when the cannery closed before Christmas.",
+    "basic": "The number of young people without jobs rose when the cannery closed."
+  },
+  "urbanisation": {
+    "simple": "The process of more people living in towns and cities instead of in the countryside.",
+    "detailed": "The growth in the proportion of a population that lives in urban areas, often accompanied by expanding suburbs and changing land use.",
+    "zh": "城市化",
+    "syn": [
+      "city growth",
+      "spread of cities",
+      "move to cities"
+    ],
+    "ant": [],
+    "col": [
+      "rapid urbanisation",
+      "urbanisation of",
+      "effects of urbanisation"
+    ],
+    "fam": [
+      "urbanisation",
+      "urbanise",
+      "urban"
+    ],
+    "example": "Urbanisation along the coast has turned market gardens into streets of new houses.",
+    "basic": "The spread of cities along the coast has turned market gardens into streets of houses."
+  },
+  "voyage": {
+    "simple": "A long journey, especially by sea or through space.",
+    "detailed": "An extended passage by ship (or spacecraft), often used for exploration, migration, or trade rather than a short local trip.",
+    "zh": "航行；航海",
+    "syn": [
+      "sea journey",
+      "passage",
+      "expedition by sea"
+    ],
+    "ant": [],
+    "col": [
+      "long voyage",
+      "voyage to",
+      "maiden voyage"
+    ],
+    "fam": [
+      "voyage",
+      "voyages",
+      "voyager"
+    ],
+    "example": "The First Fleet's voyage from England to Botany Bay lasted more than eight months.",
+    "basic": "The First Fleet's long sea journey from England to Botany Bay lasted more than eight months."
+  },
+  "welfare": {
+    "simple": "Help that a government or group gives people in need, or a person's general well-being.",
+    "detailed": "Public support such as payments, housing, or services for people who are sick, unemployed, or poor; also used more broadly for health and happiness.",
+    "zh": "福利",
+    "syn": [
+      "social support",
+      "public assistance",
+      "well-being"
+    ],
+    "ant": [],
+    "col": [
+      "social welfare",
+      "welfare payment",
+      "child welfare"
+    ],
+    "fam": [
+      "welfare"
+    ],
+    "example": "The inquiry asked whether welfare payments were enough for a family after a flood.",
+    "basic": "The inquiry asked whether government help was enough for a family after a flood."
+  },
+  "workforce": {
+    "simple": "All the people who are available to do paid work in a country, industry, or company.",
+    "detailed": "The collective body of employees and job-seekers in an economy or organisation, sometimes analysed by skill, age, or industry.",
+    "zh": "劳动力",
+    "syn": [
+      "labour force",
+      "employees",
+      "workers"
+    ],
+    "ant": [],
+    "col": [
+      "skilled workforce",
+      "join the workforce",
+      "workforce shortage"
+    ],
+    "fam": [
+      "workforce"
+    ],
+    "example": "A shortage in the teaching workforce meant some classes were split between two rooms.",
+    "basic": "A shortage of available teachers meant some classes were split between two rooms."
+  },
+  "alliteration": {
+    "simple": "Repeating the same starting sound in nearby words, as in 'wild, wet weather'.",
+    "detailed": "A sound device in which the same consonant (or sometimes vowel) sound begins closely placed words, used to make a phrase memorable or musical.",
+    "zh": "头韵",
+    "syn": [
+      "repeated opening sound",
+      "initial-sound echo",
+      "front-sound pattern"
+    ],
+    "ant": [],
+    "col": [
+      "use alliteration",
+      "example of alliteration",
+      "alliteration in"
+    ],
+    "fam": [
+      "alliteration",
+      "alliterative",
+      "alliterate"
+    ],
+    "example": "The headline 'Fierce flames flatten farmland' used alliteration to make the disaster sound sudden.",
+    "basic": "The headline repeated the 'f' sound to make the disaster sound sudden."
+  },
+  "autobiography": {
+    "simple": "A book in which a person tells the story of their own life.",
+    "detailed": "A non-fiction narrative written by the subject about their own experiences, as distinct from a biography written by someone else.",
+    "zh": "自传",
+    "syn": [
+      "life story by oneself",
+      "personal memoir",
+      "self-written life"
+    ],
+    "ant": [],
+    "col": [
+      "write an autobiography",
+      "autobiography of",
+      "childhood autobiography"
+    ],
+    "fam": [
+      "autobiography",
+      "autobiographies",
+      "autobiographical"
+    ],
+    "example": "In her autobiography the scientist described the shed where she first grew crystals.",
+    "basic": "In her own life story the scientist described the shed where she first grew crystals."
+  },
+  "ballad": {
+    "simple": "A poem or song that tells a story, often in short verses with a strong beat.",
+    "detailed": "A narrative poem or song, traditionally in simple stanzas with refrain or rhyme, used for folk tales, love stories, and dramatic events.",
+    "zh": "民谣；叙事诗",
+    "syn": [
+      "story song",
+      "narrative poem",
+      "folk tale in verse"
+    ],
+    "ant": [],
+    "col": [
+      "folk ballad",
+      "ballad of",
+      "sing a ballad"
+    ],
+    "fam": [
+      "ballad",
+      "ballads",
+      "balladic"
+    ],
+    "example": "The bush ballad told of a rider who vanished in a dust storm on the plains.",
+    "basic": "The bush story-song told of a rider who vanished in a dust storm."
+  },
+  "characterisation": {
+    "simple": "The way a writer shows what a character is like through actions, speech, and description.",
+    "detailed": "The techniques an author uses to construct a character — direct description, dialogue, thoughts, and other people's reactions — so the reader can infer traits.",
+    "zh": "人物塑造",
+    "syn": [
+      "character building",
+      "portrayal",
+      "character drawing"
+    ],
+    "ant": [],
+    "col": [
+      "direct characterisation",
+      "skilful characterisation",
+      "characterisation of"
+    ],
+    "fam": [
+      "characterisation",
+      "characterise",
+      "character"
+    ],
+    "example": "The characterisation of the captain relied on short orders rather than long speeches about bravery.",
+    "basic": "The writer showed the captain mainly through short orders, not speeches about bravery."
+  },
+  "comedy": {
+    "simple": "A play, film, or story meant to amuse, usually ending more happily than a tragedy.",
+    "detailed": "A dramatic or narrative genre that uses humour, mistaken identity, or playful conflict and typically restores order or marriage rather than disaster.",
+    "zh": "喜剧",
+    "syn": [
+      "humorous play",
+      "comic drama",
+      "amusing story"
+    ],
+    "ant": [
+      "tragedy"
+    ],
+    "col": [
+      "romantic comedy",
+      "comedy of errors",
+      "write a comedy"
+    ],
+    "fam": [
+      "comedy",
+      "comedies",
+      "comedic",
+      "comedian"
+    ],
+    "example": "Their class comedy ended with the lost dog and the mayor arriving on stage at the same moment.",
+    "basic": "Their funny class play ended with the lost dog and the mayor arriving together."
+  },
+  "couplet": {
+    "simple": "Two lines of poetry that sit together and often rhyme.",
+    "detailed": "A pair of successive verse lines, frequently rhymed and of similar length, used to close a sonnet or to drive a ballad forward.",
+    "zh": "对句",
+    "syn": [
+      "rhyming pair",
+      "two-line verse",
+      "line pair"
+    ],
+    "ant": [],
+    "col": [
+      "rhyming couplet",
+      "closing couplet",
+      "heroic couplet"
+    ],
+    "fam": [
+      "couplet",
+      "couplets"
+    ],
+    "example": "She finished the poem with a couplet that snapped the riddle shut in two rhyming lines.",
+    "basic": "She finished the poem with two rhyming lines that snapped the riddle shut."
+  },
+  "dialect": {
+    "simple": "A form of a language used by people from a particular place or group.",
+    "detailed": "A regional or social variety of a language, with its own vocabulary, grammar, or pronunciation, as distinct from the standard classroom form.",
+    "zh": "方言",
+    "syn": [
+      "regional speech",
+      "local variety",
+      "vernacular"
+    ],
+    "ant": [],
+    "col": [
+      "local dialect",
+      "write in dialect",
+      "dialect of"
+    ],
+    "fam": [
+      "dialect",
+      "dialects",
+      "dialectal"
+    ],
+    "example": "The narrator's Queensland dialect used 'arvo' and 'yeah-nah' that a London reader might need glossed.",
+    "basic": "The narrator's Queensland way of speaking used 'arvo' and 'yeah-nah'."
+  },
+  "drama": {
+    "simple": "A story written to be performed by actors, or writing that feels tense and emotional.",
+    "detailed": "A genre meant for stage or screen performance; also used more loosely for serious conflict in a narrative that holds an audience.",
+    "zh": "戏剧",
+    "syn": [
+      "play",
+      "stage piece",
+      "theatrical work"
+    ],
+    "ant": [],
+    "col": [
+      "school drama",
+      "drama performance",
+      "study drama"
+    ],
+    "fam": [
+      "drama",
+      "dramas",
+      "dramatic",
+      "dramatist"
+    ],
+    "example": "In drama they blocked the scene so the argument happened downstage, closer to the audience.",
+    "basic": "In the play lesson they placed the argument closer to the audience."
+  },
+  "epilogue": {
+    "simple": "A short section at the end of a book or play that tells what happens afterwards.",
+    "detailed": "A closing speech or chapter after the main action, used to settle remaining questions or show characters at a later time.",
+    "zh": "尾声；后记",
+    "syn": [
+      "afterword",
+      "closing chapter",
+      "final speech"
+    ],
+    "ant": [
+      "prologue"
+    ],
+    "col": [
+      "in the epilogue",
+      "epilogue of",
+      "add an epilogue"
+    ],
+    "fam": [
+      "epilogue",
+      "epilogues"
+    ],
+    "example": "The epilogue jumped forward ten years and showed the twins still arguing on the same jetty.",
+    "basic": "The last extra chapter jumped forward ten years and showed the twins still arguing."
+  },
+  "fable": {
+    "simple": "A short story, often with animals as characters, that teaches a moral lesson.",
+    "detailed": "A brief allegorical tale, traditionally ending with an explicit moral, in which animals or objects behave like people to criticise human faults.",
+    "zh": "寓言",
+    "syn": [
+      "moral tale",
+      "allegory",
+      "lesson story"
+    ],
+    "ant": [],
+    "col": [
+      "Aesop's fable",
+      "animal fable",
+      "moral of the fable"
+    ],
+    "fam": [
+      "fable",
+      "fables",
+      "fabled"
+    ],
+    "example": "In the fable the proud magpie lost its berries because it would not share the branch.",
+    "basic": "In the short moral story the proud magpie lost its berries."
+  },
+  "flashback": {
+    "simple": "A scene that jumps back to an earlier time in the story.",
+    "detailed": "A narrative interruption that presents events from the past so the reader understands a character's motive or a secret already in place.",
+    "zh": "倒叙；闪回",
+    "syn": [
+      "look-back scene",
+      "return to the past",
+      "earlier-time scene"
+    ],
+    "ant": [],
+    "col": [
+      "use a flashback",
+      "flashback to",
+      "in a flashback"
+    ],
+    "fam": [
+      "flashback",
+      "flashbacks"
+    ],
+    "example": "A flashback to the flood explained why the grandmother still packed a radio in every picnic basket.",
+    "basic": "A jump back to the flood explained why the grandmother still packed a radio."
+  },
+  "folklore": {
+    "simple": "The traditional stories, sayings, and customs passed down in a community.",
+    "detailed": "The body of legends, songs, beliefs, and practices shared by a people, usually by word of mouth rather than by a single known author.",
+    "zh": "民间传说；民俗",
+    "syn": [
+      "folk tradition",
+      "oral tradition",
+      "popular lore"
+    ],
+    "ant": [],
+    "col": [
+      "local folklore",
+      "folklore of",
+      "study folklore"
+    ],
+    "fam": [
+      "folklore",
+      "folkloric",
+      "folklorist"
+    ],
+    "example": "Bunyip tales and bush ballads both sit in Australian folklore, though one tradition is far older.",
+    "basic": "Those traditional stories and songs both sit in Australia's passed-down lore."
+  },
+  "foreshadow": {
+    "simple": "To drop a hint that something will happen later in a story.",
+    "detailed": "To plant clues — an image, a remark, or a small event — that prepare the reader for a later turning point without stating it outright.",
+    "zh": "预示；埋下伏笔",
+    "syn": [
+      "hint at",
+      "prefigure",
+      "signal ahead"
+    ],
+    "ant": [],
+    "col": [
+      "foreshadow the ending",
+      "foreshadow danger",
+      "foreshadow a twist"
+    ],
+    "fam": [
+      "foreshadow",
+      "foreshadows",
+      "foreshadowed",
+      "foreshadowing"
+    ],
+    "example": "Dark clouds in chapter one foreshadow the storm that will trap the hikers.",
+    "basic": "Dark clouds in chapter one hint at the storm that will trap the hikers."
+  },
+  "idiom": {
+    "simple": "A phrase whose meaning is not obvious from the separate words, such as 'raining cats and dogs'.",
+    "detailed": "A fixed expression whose overall sense cannot be guessed by translating each word, so readers must learn it as a chunk.",
+    "zh": "习语；成语",
+    "syn": [
+      "set phrase",
+      "fixed expression",
+      "saying"
+    ],
+    "ant": [],
+    "col": [
+      "common idiom",
+      "English idiom",
+      "idiom meaning"
+    ],
+    "fam": [
+      "idiom",
+      "idioms",
+      "idiomatic"
+    ],
+    "example": "The idiom 'kick the bucket' does not involve a real bucket; it means to die.",
+    "basic": "The set phrase 'kick the bucket' does not involve a real bucket."
+  },
+  "legend": {
+    "simple": "A traditional story that may be based on a real person or event but has grown more extraordinary over time.",
+    "detailed": "A narrative from the past that a community treats as meaningful history, even when details have been enlarged, as distinct from a myth about gods or origins.",
+    "zh": "传说",
+    "syn": [
+      "traditional tale",
+      "hero tale",
+      "folk story"
+    ],
+    "ant": [],
+    "col": [
+      "urban legend",
+      "legend of",
+      "local legend"
+    ],
+    "fam": [
+      "legend",
+      "legends",
+      "legendary"
+    ],
+    "example": "The legend of Ned Kelly mixes court records with stories that grew after the siege.",
+    "basic": "The traditional tale of Ned Kelly mixes court records with later stories."
+  },
+  "lyric": {
+    "simple": "The words of a song, or a short poem that expresses feelings rather than telling a long story.",
+    "detailed": "A short, song-like poem that presents a speaker's emotion or thought; also the text sung to a melody.",
+    "zh": "抒情诗；歌词",
+    "syn": [
+      "song words",
+      "lyric poem",
+      "verse of feeling"
+    ],
+    "ant": [],
+    "col": [
+      "song lyric",
+      "lyric poem",
+      "write a lyric"
+    ],
+    "fam": [
+      "lyric",
+      "lyrics",
+      "lyrical",
+      "lyricist"
+    ],
+    "example": "The lyric of the protest song named the river but never named the company.",
+    "basic": "The words of the protest song named the river but never named the company."
+  },
+  "myth": {
+    "simple": "A traditional story, often about gods or how the world began, that a culture uses to explain beliefs.",
+    "detailed": "A sacred or foundational narrative that explains origins, values, or natural features; different from a legend tied to a later historical figure.",
+    "zh": "神话",
+    "syn": [
+      "origin story",
+      "sacred tale",
+      "creation story"
+    ],
+    "ant": [],
+    "col": [
+      "creation myth",
+      "Greek myth",
+      "myth of"
+    ],
+    "fam": [
+      "myth",
+      "myths",
+      "mythical",
+      "mythology"
+    ],
+    "example": "The Greek myth of Persephone was used to explain why winter returns each year.",
+    "basic": "The Greek origin story of Persephone was used to explain winter."
+  },
+  "onomatopoeia": {
+    "simple": "A word that imitates a sound, such as 'buzz', 'crash', or 'drip'.",
+    "detailed": "A sound device in which a word's pronunciation suggests the noise it names, used to make description more vivid.",
+    "zh": "拟声；拟声词",
+    "syn": [
+      "sound-word",
+      "echoic word",
+      "imitative word"
+    ],
+    "ant": [],
+    "col": [
+      "use onomatopoeia",
+      "example of onomatopoeia",
+      "onomatopoeia in"
+    ],
+    "fam": [
+      "onomatopoeia",
+      "onomatopoeic"
+    ],
+    "example": "The line 'the creek went slosh, slosh' used onomatopoeia so you could hear the boots.",
+    "basic": "The line 'the creek went slosh, slosh' copied the sound of the boots."
+  },
+  "personification": {
+    "simple": "Giving human qualities to an object, animal, or idea, as if it could think or speak.",
+    "detailed": "A figurative device that attributes human actions, feelings, or voice to something non-human in order to create mood or meaning.",
+    "zh": "拟人",
+    "syn": [
+      "giving human traits",
+      "humanising image",
+      "animating a thing"
+    ],
+    "ant": [],
+    "col": [
+      "use personification",
+      "personification of",
+      "example of personification"
+    ],
+    "fam": [
+      "personification",
+      "personify",
+      "personified"
+    ],
+    "example": "The sentence 'the drought licked the dams dry' used personification to make the weather seem greedy.",
+    "basic": "The sentence gave the drought a human action — licking — to make it seem greedy."
+  },
+  "poetry": {
+    "simple": "Writing arranged in lines that uses sound, image, and rhythm more tightly than ordinary prose.",
+    "detailed": "A literary form that shapes language into lines and stanzas, relying on sound devices, imagery, and compressed meaning rather than only on plot.",
+    "zh": "诗歌",
+    "syn": [
+      "verse",
+      "poems",
+      "poetic writing"
+    ],
+    "ant": [
+      "prose"
+    ],
+    "col": [
+      "write poetry",
+      "modern poetry",
+      "study poetry"
+    ],
+    "fam": [
+      "poetry",
+      "poem",
+      "poet",
+      "poetic"
+    ],
+    "example": "In the poetry unit Oliver had to mark the stressed beats, not just retell the story.",
+    "basic": "In the poems unit Oliver had to mark the stressed beats."
+  },
+  "prologue": {
+    "simple": "A short opening section that comes before the main story or play.",
+    "detailed": "An introductory chapter, speech, or scene that sets context, introduces a narrator, or shows an event that happens before the main action.",
+    "zh": "序言；开场",
+    "syn": [
+      "preface",
+      "opening section",
+      "foreword scene"
+    ],
+    "ant": [
+      "epilogue"
+    ],
+    "col": [
+      "in the prologue",
+      "write a prologue",
+      "prologue to"
+    ],
+    "fam": [
+      "prologue",
+      "prologues"
+    ],
+    "example": "The prologue showed the fire before chapter one began with the rebuilt street.",
+    "basic": "The opening extra scene showed the fire before chapter one began."
+  },
+  "rhyme": {
+    "simple": "When words share the same ending sound, such as 'night' and 'light'.",
+    "detailed": "A sound pattern in which the final stressed vowels and following sounds of words match, used in verse, song, and some rhetoric.",
+    "zh": "押韵",
+    "syn": [
+      "end-sound match",
+      "chiming words",
+      "corresponding sound"
+    ],
+    "ant": [],
+    "col": [
+      "rhyme scheme",
+      "end rhyme",
+      "perfect rhyme"
+    ],
+    "fam": [
+      "rhyme",
+      "rhymes",
+      "rhymed",
+      "rhyming"
+    ],
+    "example": "He changed 'road' to 'track' so the last line would rhyme with 'back'.",
+    "basic": "He changed 'road' to 'track' so the last line would share an ending sound with 'back'."
+  },
+  "rhythm": {
+    "simple": "The pattern of beats or stresses that you can hear in music, poetry, or a sentence.",
+    "detailed": "The regular or varied recurrence of stressed and unstressed sounds that gives verse, prose, or music its pulse.",
+    "zh": "节奏",
+    "syn": [
+      "beat",
+      "cadence",
+      "pulse"
+    ],
+    "ant": [],
+    "col": [
+      "strong rhythm",
+      "rhythm of",
+      "keep the rhythm"
+    ],
+    "fam": [
+      "rhythm",
+      "rhythms",
+      "rhythmic",
+      "rhythmically"
+    ],
+    "example": "Clapping the rhythm showed that the bush poem used a steady four-beat line.",
+    "basic": "Clapping the beat showed that the bush poem used a steady four-beat line."
+  },
+  "sonnet": {
+    "simple": "A fourteen-line poem with a set rhyme pattern, often about love or a big idea.",
+    "detailed": "A short lyric of fourteen lines, classically in iambic pentameter, with a recognised rhyme scheme such as Shakespearean or Petrarchan.",
+    "zh": "十四行诗",
+    "syn": [
+      "fourteen-line poem",
+      "lyric of fourteen lines",
+      "sonnet verse"
+    ],
+    "ant": [],
+    "col": [
+      "Shakespearean sonnet",
+      "write a sonnet",
+      "sonnet sequence"
+    ],
+    "fam": [
+      "sonnet",
+      "sonnets"
+    ],
+    "example": "Her sonnet turned at line nine, when the drought image became a promise of rain.",
+    "basic": "Her fourteen-line poem turned at line nine, when the drought image became rain."
+  },
+  "stanza": {
+    "simple": "A grouped set of lines in a poem, like a paragraph of verse.",
+    "detailed": "A unit of a poem set off by a space, with a recurring number of lines and often a repeating rhyme or rhythm pattern.",
+    "zh": "诗节",
+    "syn": [
+      "verse paragraph",
+      "verse unit",
+      "block of lines"
+    ],
+    "ant": [],
+    "col": [
+      "second stanza",
+      "four-line stanza",
+      "stanza break"
+    ],
+    "fam": [
+      "stanza",
+      "stanzas"
+    ],
+    "example": "Each stanza of the ballad ended with the same refrain about the dry creek.",
+    "basic": "Each grouped set of lines ended with the same refrain about the dry creek."
+  },
+  "stereotype": {
+    "simple": "An over-simple, fixed idea about a whole group of people that ignores individual differences.",
+    "detailed": "A widely held but reductive image or assumption that treats members of a group as if they were all the same, often unfairly.",
+    "zh": "刻板印象",
+    "syn": [
+      "cliché image",
+      "fixed idea",
+      "oversimple label"
+    ],
+    "ant": [],
+    "col": [
+      "gender stereotype",
+      "challenge a stereotype",
+      "stereotype of"
+    ],
+    "fam": [
+      "stereotype",
+      "stereotypes",
+      "stereotypical",
+      "stereotyped"
+    ],
+    "example": "The novel challenged the stereotype that every scientist is a quiet man in a white coat.",
+    "basic": "The novel challenged the lazy idea that every scientist is a quiet man in a white coat."
+  },
+  "subplot": {
+    "simple": "A smaller story that runs alongside the main plot.",
+    "detailed": "A secondary storyline that involves supporting characters or a lesser conflict and usually connects thematically to the main action.",
+    "zh": "次要情节",
+    "syn": [
+      "side story",
+      "secondary plot",
+      "minor storyline"
+    ],
+    "ant": [],
+    "col": [
+      "romantic subplot",
+      "develop a subplot",
+      "subplot involving"
+    ],
+    "fam": [
+      "subplot",
+      "subplots"
+    ],
+    "example": "The subplot about the missing bicycle mirrored the larger mystery of the vanished map.",
+    "basic": "The smaller side-story about the missing bicycle mirrored the larger mystery."
+  },
+  "suspense": {
+    "simple": "The tense feeling of not knowing what will happen next.",
+    "detailed": "A narrative effect that delays key information or outcome so the reader feels anxiety, curiosity, or dread while waiting.",
+    "zh": "悬念",
+    "syn": [
+      "tension",
+      "uncertainty",
+      "anxious waiting"
+    ],
+    "ant": [],
+    "col": [
+      "build suspense",
+      "sense of suspense",
+      "suspense in"
+    ],
+    "fam": [
+      "suspense",
+      "suspenseful"
+    ],
+    "example": "Leaving the torch battery untested built suspense before the cave scene.",
+    "basic": "Leaving the torch battery untested made readers tense before the cave scene."
+  },
+  "tragedy": {
+    "simple": "A serious play or story in which the main character suffers a disastrous end.",
+    "detailed": "A dramatic genre that presents a fall from fortune, often through a character flaw or cruel fate, and aims to stir pity and fear rather than laughter.",
+    "zh": "悲剧",
+    "syn": [
+      "disastrous drama",
+      "tragic play",
+      "downfall story"
+    ],
+    "ant": [
+      "comedy"
+    ],
+    "col": [
+      "Greek tragedy",
+      "personal tragedy",
+      "tragedy of"
+    ],
+    "fam": [
+      "tragedy",
+      "tragedies",
+      "tragic"
+    ],
+    "example": "In the Greek tragedy the king learns the truth only after the damage cannot be undone.",
+    "basic": "In the serious Greek play the king learns the truth too late."
+  },
+  "verse": {
+    "simple": "Writing in lines of poetry, or one such line or section.",
+    "detailed": "Language organised as poetry rather than prose; also a single metrical line, or a numbered section of a song or poem.",
+    "zh": "诗行；韵文",
+    "syn": [
+      "poetic line",
+      "metrical writing",
+      "stanza line"
+    ],
+    "ant": [
+      "prose"
+    ],
+    "col": [
+      "write in verse",
+      "blank verse",
+      "a verse of"
+    ],
+    "fam": [
+      "verse",
+      "verses",
+      "versify"
+    ],
+    "example": "The hymn's second verse named the river that ran behind the old church.",
+    "basic": "The hymn's second section named the river behind the old church."
+  },
+  "voice": {
+    "simple": "The distinctive way a narrator or writer sounds on the page.",
+    "detailed": "The personality, attitude, and style that come through in a text — first-person, formal, wry, and so on — as if a particular speaker were talking.",
+    "zh": "叙述声音；语调",
+    "syn": [
+      "narrative tone",
+      "writer's manner",
+      "speaking style"
+    ],
+    "ant": [],
+    "col": [
+      "narrative voice",
+      "authorial voice",
+      "find your voice"
+    ],
+    "fam": [
+      "voice",
+      "voices",
+      "voiced"
+    ],
+    "example": "The diary voice was chatty and misspelt, which made the fear in chapter five more shocking.",
+    "basic": "The diary sounded chatty and misspelt, which made the fear in chapter five more shocking."
+  },
+  "annotate": {
+    "simple": "To add short notes to a text as you read, explaining or marking important parts.",
+    "detailed": "To write comments, questions, or labels on or beside a passage so the reader records thinking, sources, or key ideas for later use.",
+    "zh": "批注；注释",
+    "syn": [
+      "mark up",
+      "gloss",
+      "add notes to"
+    ],
+    "ant": [],
+    "col": [
+      "annotate a text",
+      "annotate the diagram",
+      "carefully annotate"
+    ],
+    "fam": [
+      "annotate",
+      "annotates",
+      "annotated",
+      "annotation"
+    ],
+    "example": "Oliver had to annotate the article in the margin, not just highlight whole paragraphs yellow.",
+    "basic": "Oliver had to add short notes to the article, not just highlight it yellow."
+  },
+  "brainstorm": {
+    "simple": "To list many ideas quickly, without judging them yet.",
+    "detailed": "To generate a wide set of possibilities in a short burst, delaying criticism so unusual or useful ideas are not shut down too early.",
+    "zh": "集思广益；头脑风暴",
+    "syn": [
+      "think up ideas",
+      "ideate",
+      "list possibilities"
+    ],
+    "ant": [],
+    "col": [
+      "brainstorm ideas",
+      "brainstorm a title",
+      "class brainstorm"
+    ],
+    "fam": [
+      "brainstorm",
+      "brainstorms",
+      "brainstormed",
+      "brainstorming"
+    ],
+    "example": "They had five minutes to brainstorm titles before anyone was allowed to say 'that's silly'.",
+    "basic": "They had five minutes to list titles before anyone was allowed to judge them."
+  },
+  "cross-check": {
+    "simple": "To check a fact by comparing it with a second, independent source.",
+    "detailed": "To verify information by matching it against another account, data set, or method so a single error is less likely to stand.",
+    "zh": "交叉核对",
+    "syn": [
+      "verify against another source",
+      "double-source",
+      "corroborate"
+    ],
+    "ant": [],
+    "col": [
+      "cross-check the figures",
+      "cross-check sources",
+      "cross-check a claim"
+    ],
+    "fam": [
+      "cross-check",
+      "cross-checks",
+      "cross-checked",
+      "cross-checking"
+    ],
+    "example": "Always cross-check a surprising statistic with the original table, not just a social-media post.",
+    "basic": "Always check a surprising statistic against the original table as well."
+  },
+  "double-check": {
+    "simple": "To check something a second time so a mistake is less likely.",
+    "detailed": "To repeat a calculation, spelling, or instruction in order to catch slips before work is submitted or equipment is used.",
+    "zh": "复查；再核对",
+    "syn": [
+      "recheck",
+      "check again",
+      "verify once more"
+    ],
+    "ant": [],
+    "col": [
+      "double-check your work",
+      "double-check the spelling",
+      "double-check the answer"
+    ],
+    "fam": [
+      "double-check",
+      "double-checks",
+      "double-checked",
+      "double-checking"
+    ],
+    "example": "The rubric asked students to double-check every quotation against the original page.",
+    "basic": "The marking guide asked students to check every quotation a second time."
+  },
+  "footnote": {
+    "simple": "A small note at the bottom of a page that adds extra information or a source.",
+    "detailed": "A numbered or symbolled remark placed at the foot of a page to cite a source, define a term, or add a comment without breaking the main sentence.",
+    "zh": "脚注",
+    "syn": [
+      "page-bottom note",
+      "source note",
+      "footer citation"
+    ],
+    "ant": [],
+    "col": [
+      "add a footnote",
+      "see footnote",
+      "footnote number"
+    ],
+    "fam": [
+      "footnote",
+      "footnotes",
+      "footnoted"
+    ],
+    "example": "A footnote on page 3 named the CSIRO report behind the salinity graph.",
+    "basic": "A small note at the bottom of page 3 named the CSIRO report."
+  },
+  "index": {
+    "simple": "An alphabetical list at the back of a book that shows on which pages topics appear.",
+    "detailed": "A back-of-book finding aid that lists names and subjects with page numbers so a reader can locate information without scanning every chapter.",
+    "zh": "索引",
+    "syn": [
+      "back-of-book list",
+      "topic list",
+      "page finder"
+    ],
+    "ant": [],
+    "col": [
+      "index of",
+      "look in the index",
+      "subject index"
+    ],
+    "fam": [
+      "index",
+      "indexes",
+      "indexical"
+    ],
+    "example": "She used the index to jump straight to 'irrigation' instead of flipping every chapter.",
+    "basic": "She used the alphabetical list at the back to jump straight to 'irrigation'."
+  },
+  "keyword": {
+    "simple": "An important word you search for, or that captures the main idea of a text.",
+    "detailed": "A term that unlocks a search, catalogue, or argument because it names a central concept; also used for the words a reader highlights as essential.",
+    "zh": "关键词",
+    "syn": [
+      "search term",
+      "key term",
+      "lead word"
+    ],
+    "ant": [],
+    "col": [
+      "search keyword",
+      "keyword list",
+      "choose a keyword"
+    ],
+    "fam": [
+      "keyword",
+      "keywords"
+    ],
+    "example": "Using the keyword 'catchment' found better science pages than searching 'water place'.",
+    "basic": "Using the important search word 'catchment' found better science pages."
+  },
+  "margin": {
+    "simple": "The blank space around the edge of a page, used for notes or to keep text readable.",
+    "detailed": "The unprinted border of a page or screen; in schoolwork it is where annotations, corrections, and teacher comments often sit.",
+    "zh": "页边空白",
+    "syn": [
+      "page edge",
+      "border space",
+      "side space"
+    ],
+    "ant": [],
+    "col": [
+      "wide margin",
+      "notes in the margin",
+      "leave a margin"
+    ],
+    "fam": [
+      "margin",
+      "margins",
+      "marginal"
+    ],
+    "example": "Leave a wide margin on the left so the marker can write next to each paragraph.",
+    "basic": "Leave a wide blank edge on the left so the marker can write comments."
+  },
+  "paragraph": {
+    "simple": "A group of sentences about one idea, starting on a new line.",
+    "detailed": "A unit of prose that develops a single point or step, usually marked by a break or indent, and built around a topic sentence.",
+    "zh": "段落",
+    "syn": [
+      "block of sentences",
+      "prose unit",
+      "section of text"
+    ],
+    "ant": [],
+    "col": [
+      "topic paragraph",
+      "opening paragraph",
+      "paragraph break"
+    ],
+    "fam": [
+      "paragraph",
+      "paragraphs"
+    ],
+    "example": "The second paragraph explained the method, so the results table made sense.",
+    "basic": "The second block of sentences explained the method."
+  },
+  "quotation": {
+    "simple": "The exact words copied from a speaker or a text, usually shown inside inverted commas.",
+    "detailed": "A precise extract reproduced from another source, set off by punctuation or layout and normally accompanied by a reference.",
+    "zh": "引文",
+    "syn": [
+      "extract",
+      "cited words",
+      "quoted passage"
+    ],
+    "ant": [],
+    "col": [
+      "direct quotation",
+      "quotation from",
+      "use a quotation"
+    ],
+    "fam": [
+      "quotation",
+      "quotations",
+      "quote",
+      "quoted"
+    ],
+    "example": "A long quotation needs a page number; otherwise the marker cannot check it.",
+    "basic": "A long copied sentence needs a page number so the marker can check it."
+  },
+  "reference": {
+    "simple": "A note that shows where a piece of information came from.",
+    "detailed": "A citation of a book, article, website, or person that lets a reader find the original source; also the act of pointing to that source.",
+    "zh": "参考文献；出处",
+    "syn": [
+      "citation",
+      "source note",
+      "acknowledgement"
+    ],
+    "ant": [],
+    "col": [
+      "reference list",
+      "give a reference",
+      "reference to"
+    ],
+    "fam": [
+      "reference",
+      "references",
+      "refer",
+      "referee"
+    ],
+    "example": "Every graph in the report needed a reference so the marker knew which bureau supplied the data.",
+    "basic": "Every graph needed a source note so the marker knew who supplied the data."
+  },
+  "rubric": {
+    "simple": "A marking guide that shows how a piece of work will be scored.",
+    "detailed": "A published set of criteria and grade descriptions that tells students what quality looks like at each level of a task.",
+    "zh": "评分标准",
+    "syn": [
+      "marking guide",
+      "scoring grid",
+      "assessment criteria"
+    ],
+    "ant": [],
+    "col": [
+      "marking rubric",
+      "follow the rubric",
+      "rubric criteria"
+    ],
+    "fam": [
+      "rubric",
+      "rubrics"
+    ],
+    "example": "According to the rubric, a Level 5 answer had to use two sources, not just one website.",
+    "basic": "According to the marking guide, a top answer had to use two sources."
+  },
+  "skimming": {
+    "simple": "Reading quickly to get the main idea, not every word.",
+    "detailed": "A reading strategy that sweeps headings, first sentences, and key nouns to decide what a text is about before a slower, closer read.",
+    "zh": "略读",
+    "syn": [
+      "quick reading",
+      "glance-reading",
+      "surveying a text"
+    ],
+    "ant": [],
+    "col": [
+      "skimming a text",
+      "skimming for gist",
+      "practise skimming"
+    ],
+    "fam": [
+      "skimming",
+      "skim",
+      "skimmed"
+    ],
+    "example": "Skimming the introduction told Oliver the article was about salinity, so he slowed down at the data.",
+    "basic": "Reading the introduction quickly told Oliver the article was about salinity."
+  },
+  "subheading": {
+    "simple": "A smaller heading that splits a text into labelled parts.",
+    "detailed": "A secondary title under a main heading that signals the topic of the next section and helps a reader scan the structure.",
+    "zh": "小标题",
+    "syn": [
+      "section heading",
+      "minor heading",
+      "subsection title"
+    ],
+    "ant": [],
+    "col": [
+      "under the subheading",
+      "add a subheading",
+      "clear subheading"
+    ],
+    "fam": [
+      "subheading",
+      "subheadings"
+    ],
+    "example": "The subheading 'Method' saved her from mixing the equipment list into the conclusion.",
+    "basic": "The smaller heading 'Method' saved her from mixing the equipment list into the conclusion."
+  },
+  "timeline": {
+    "simple": "A line that shows events in the order they happened, often with dates.",
+    "detailed": "A graphic or list that places events along a chronological scale so causes, overlaps, and gaps in time become visible.",
+    "zh": "时间线",
+    "syn": [
+      "chronology line",
+      "date line",
+      "sequence chart"
+    ],
+    "ant": [],
+    "col": [
+      "historical timeline",
+      "draw a timeline",
+      "timeline of"
+    ],
+    "fam": [
+      "timeline",
+      "timelines"
+    ],
+    "example": "The Federation timeline showed the referendums before 1901, not just the opening of parliament.",
+    "basic": "The dated event line showed the referendums before 1901."
+  },
+  "wording": {
+    "simple": "The exact words someone chooses, which can change the tone or meaning.",
+    "detailed": "The particular phrasing of a sentence or question; small changes in the chosen words can make a claim fairer, vaguer, or more precise.",
+    "zh": "措辞",
+    "syn": [
+      "phrasing",
+      "diction",
+      "choice of words"
+    ],
+    "ant": [],
+    "col": [
+      "careful wording",
+      "change the wording",
+      "wording of"
+    ],
+    "fam": [
+      "wording",
+      "word",
+      "reword"
+    ],
+    "example": "Changing the wording from 'kids dumped rubbish' to 'litter increased' made the claim easier to support.",
+    "basic": "Changing the exact words from 'kids dumped rubbish' to 'litter increased' made the claim easier to support."
+  },
+  "coastline": {
+    "simple": "The edge where land meets the sea, including bays, cliffs, and beaches.",
+    "detailed": "The boundary between terrestrial and marine environments, shaped by waves, tides, and geology, and often mapped for planning and conservation.",
+    "zh": "海岸线",
+    "syn": [
+      "shoreline",
+      "coast edge",
+      "seaboard"
+    ],
+    "ant": [],
+    "col": [
+      "rocky coastline",
+      "stretch of coastline",
+      "map the coastline"
+    ],
+    "fam": [
+      "coastline",
+      "coastlines",
+      "coastal"
+    ],
+    "example": "Erosion had cut the coastline back so the old fence now stood in the high-tide zone.",
+    "basic": "Waves had cut the land's sea-edge back so the old fence stood in the high-tide zone."
+  },
+  "drought": {
+    "simple": "A long period with far less rain than usual, so land, rivers, and farms dry out.",
+    "detailed": "A prolonged shortage of precipitation relative to the local average, causing low soil moisture, stressed ecosystems, and hardship for communities.",
+    "zh": "干旱",
+    "syn": [
+      "dry spell",
+      "rainfall shortage",
+      "arid period"
+    ],
+    "ant": [
+      "flood"
+    ],
+    "col": [
+      "severe drought",
+      "during the drought",
+      "drought years"
+    ],
+    "fam": [
+      "drought",
+      "droughts",
+      "drought-stricken"
+    ],
+    "example": "During the drought the dam fell so low that the old bridge piles stood in air.",
+    "basic": "During the long dry period the dam fell so low that the old bridge piles stood in air."
+  },
+  "floodplain": {
+    "simple": "Flat land beside a river that floods when the river overflows.",
+    "detailed": "A low, relatively level area adjacent to a channel, built of sediment from past overflows and still liable to inundation in high flow.",
+    "zh": "洪泛平原；河漫滩",
+    "syn": [
+      "river flat",
+      "overflow plain",
+      "alluvial flat"
+    ],
+    "ant": [],
+    "col": [
+      "on the floodplain",
+      "floodplain soil",
+      "map the floodplain"
+    ],
+    "fam": [
+      "floodplain",
+      "floodplains"
+    ],
+    "example": "Houses on the floodplain had to be built on stilts after the 2022 floods.",
+    "basic": "Houses on the flat land beside the river had to be built on stilts."
+  },
+  "headland": {
+    "simple": "A high piece of land that juts out into the sea.",
+    "detailed": "A coastal promontory of resistant rock that projects into the ocean, often with cliffs, and that helps shape nearby bays.",
+    "zh": "海岬；岬角",
+    "syn": [
+      "promontory",
+      "cape",
+      "point of land"
+    ],
+    "ant": [],
+    "col": [
+      "rocky headland",
+      "on the headland",
+      "headland and bay"
+    ],
+    "fam": [
+      "headland",
+      "headlands"
+    ],
+    "example": "From the headland they could see both the sheltered bay and the open swell.",
+    "basic": "From the high point of land they could see both the sheltered bay and the open swell."
+  }
+}

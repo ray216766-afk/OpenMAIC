@@ -28,12 +28,12 @@ function isolatedPaths(): VocabularyEnginePaths {
   return { masterPath, progressPath };
 }
 
-describe('Oliver Scholarship Vocabulary Master V1.1 — Academic Core Batch 1', () => {
-  it('loads Academic Core Batch 1 as the live 100-word bank', () => {
+describe('Oliver Scholarship Vocabulary Master V1.1 — Academic Core Master', () => {
+  it('loads Academic Core Batch 1 plus the 101–1500 expansion as the live bank', () => {
     const master = loadMaster();
     const levels = new Set(master.map((entry) => entry.level));
     expect(master.length).toBe(ACTIVE_BANK.wordCount);
-    expect(master.length).toBe(100);
+    expect(master.length).toBe(1500);
     expect(levels).toEqual(new Set([1, 2, 3]));
     expect(master.every((entry) => entry.id.startsWith('VAC'))).toBe(true);
     expect(
@@ -50,6 +50,8 @@ describe('Oliver Scholarship Vocabulary Master V1.1 — Academic Core Batch 1', 
       'significant',
       'environment',
     ]);
+    expect(master.some((entry) => entry.id === 'VAC0101' && entry.word === 'adapt')).toBe(true);
+    expect(master.at(-1)?.id).toBe('VAC1500');
   });
 
   it('generates Day 1 from Academic Core (analyse, significant, environment)', () => {

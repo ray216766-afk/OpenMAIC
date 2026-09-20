@@ -1,0 +1,5185 @@
+{
+  "landform": {
+    "simple": "A natural feature of the Earth's surface, such as a mountain, valley, or plain.",
+    "detailed": "A distinct physical shape on the land, formed by processes such as erosion, weathering, or tectonic movement, and used in geography to describe terrain.",
+    "zh": "地貌；地形",
+    "syn": [
+      "terrain feature",
+      "land shape",
+      "physical feature"
+    ],
+    "ant": [],
+    "col": [
+      "coastal landform",
+      "major landform",
+      "map a landform"
+    ],
+    "fam": [
+      "landform",
+      "landforms",
+      "landscape",
+      "land"
+    ],
+    "example": "Uluru is a famous Australian landform that students often study in Year 6 geography.",
+    "basic": "Uluru is a well-known shape on the land."
+  },
+  "rainfall": {
+    "simple": "The amount of rain that falls in a place over a certain time.",
+    "detailed": "A measured quantity of rain, usually recorded in millimetres, that helps scientists and farmers understand climate, drought, and water supply.",
+    "zh": "降雨量",
+    "syn": [
+      "precipitation",
+      "rain total",
+      "rain measure"
+    ],
+    "ant": [],
+    "col": [
+      "annual rainfall",
+      "low rainfall",
+      "rainfall pattern"
+    ],
+    "fam": [
+      "rainfall",
+      "rain",
+      "rainy",
+      "raining"
+    ],
+    "example": "The graph showed that summer rainfall was much lower than usual in the wheat belt.",
+    "basic": "The graph showed that less rain fell in summer."
+  },
+  "runoff": {
+    "simple": "Water that flows over the ground instead of soaking in, often after heavy rain.",
+    "detailed": "Rainwater or melted water that travels across the land into creeks, drains, or rivers, carrying soil, nutrients, or pollution with it.",
+    "zh": "径流；地面径流",
+    "syn": [
+      "surface flow",
+      "stormwater",
+      "drainage flow"
+    ],
+    "ant": [],
+    "col": [
+      "stormwater runoff",
+      "surface runoff",
+      "reduce runoff"
+    ],
+    "fam": [
+      "runoff",
+      "run-off",
+      "run off"
+    ],
+    "example": "After the storm, runoff from the oval carried mud into the school drain.",
+    "basic": "After the storm, water ran off the oval into the drain."
+  },
+  "bushfire": {
+    "simple": "A dangerous fire that spreads through bushland, grass, or forest.",
+    "detailed": "An uncontrolled fire in vegetation, common in hot, dry Australian conditions, that can threaten habitats, towns, and air quality.",
+    "zh": "丛林大火",
+    "syn": [
+      "wildfire",
+      "grassfire",
+      "forest fire"
+    ],
+    "ant": [],
+    "col": [
+      "bushfire warning",
+      "bushfire season",
+      "prepare for bushfire"
+    ],
+    "fam": [
+      "bushfire",
+      "bushfires",
+      "bush",
+      "fire"
+    ],
+    "example": "The class studied how a bushfire can start from lightning on a dry summer day.",
+    "basic": "The class studied how a fire can start in the bush."
+  },
+  "cyclone": {
+    "simple": "A powerful spinning storm with very strong winds and heavy rain, often near the coast.",
+    "detailed": "A tropical low-pressure weather system that brings destructive winds, flooding rain, and storm surge; in Australia it is tracked closely in the north.",
+    "zh": "气旋；热带气旋",
+    "syn": [
+      "tropical storm",
+      "typhoon",
+      "hurricane"
+    ],
+    "ant": [],
+    "col": [
+      "tropical cyclone",
+      "cyclone warning",
+      "category-three cyclone"
+    ],
+    "fam": [
+      "cyclone",
+      "cyclones",
+      "cyclonic"
+    ],
+    "example": "A tropical cyclone can close schools across northern Queensland for several days.",
+    "basic": "A huge storm can close schools in the north."
+  },
+  "drought-resistant": {
+    "simple": "Able to survive and keep growing when there is very little rain.",
+    "detailed": "Describes plants, crops, or designs that cope with long dry periods by storing water, reducing water loss, or growing in harsh soil.",
+    "zh": "抗旱的",
+    "syn": [
+      "drought-tolerant",
+      "dry-adapted",
+      "water-wise"
+    ],
+    "ant": [
+      "drought-sensitive",
+      "water-hungry"
+    ],
+    "col": [
+      "drought-resistant plant",
+      "drought-resistant crop",
+      "drought-resistant species"
+    ],
+    "fam": [
+      "drought-resistant",
+      "drought",
+      "resist",
+      "resistance",
+      "resistant"
+    ],
+    "example": "The garden club chose a drought-resistant native shrub that needs little watering.",
+    "basic": "They chose a plant that can live with little rain."
+  },
+  "native": {
+    "simple": "Originally living or growing in a place, not brought from somewhere else.",
+    "detailed": "Describes plants, animals, or people that belong naturally to a region; in science it often contrasts with species introduced by humans.",
+    "zh": "本土的；原生的",
+    "syn": [
+      "indigenous",
+      "local",
+      "original"
+    ],
+    "ant": [
+      "introduced",
+      "exotic"
+    ],
+    "col": [
+      "native species",
+      "native plant",
+      "native habitat"
+    ],
+    "fam": [
+      "native",
+      "natively",
+      "nativeness"
+    ],
+    "example": "The science group planted native wattles because they suit the local soil and climate.",
+    "basic": "The group planted trees that already belong in this area."
+  },
+  "introduced": {
+    "simple": "Brought into a place by people, rather than living there naturally.",
+    "detailed": "Describes a species, plant, or practice that humans have moved into a new region, sometimes causing harm to local ecosystems.",
+    "zh": "引进的；外来的",
+    "syn": [
+      "non-native",
+      "exotic",
+      "imported"
+    ],
+    "ant": [
+      "native",
+      "indigenous"
+    ],
+    "col": [
+      "introduced species",
+      "introduced animal",
+      "introduced plant"
+    ],
+    "fam": [
+      "introduced",
+      "introduce",
+      "introduction"
+    ],
+    "example": "Rabbits are an introduced species that damaged Australian farmland and native plants.",
+    "basic": "Rabbits were brought here and then caused problems."
+  },
+  "endangered": {
+    "simple": "At serious risk of dying out if nothing is done to protect it.",
+    "detailed": "Describes a species whose numbers have fallen so low that extinction is a real threat without conservation, habitat protection, or careful laws.",
+    "zh": "濒危的",
+    "syn": [
+      "at risk",
+      "threatened",
+      "vanishing"
+    ],
+    "ant": [
+      "thriving",
+      "abundant"
+    ],
+    "col": [
+      "endangered species",
+      "endangered animal",
+      "list as endangered"
+    ],
+    "fam": [
+      "endangered",
+      "endanger",
+      "endangerment",
+      "danger"
+    ],
+    "example": "The bilby is an endangered Australian mammal that needs protected habitat to survive.",
+    "basic": "The bilby is an animal that might disappear if we do not help."
+  },
+  "invasive": {
+    "simple": "Spreading quickly in a new place and harming the plants or animals already there.",
+    "detailed": "Describes a non-native species that grows or breeds so successfully that it crowds out local species, damages habitats, or costs communities time and money.",
+    "zh": "入侵的；侵略性的",
+    "syn": [
+      "spreading",
+      "aggressive",
+      "uncontrolled"
+    ],
+    "ant": [
+      "contained",
+      "native"
+    ],
+    "col": [
+      "invasive species",
+      "invasive weed",
+      "invasive plant"
+    ],
+    "fam": [
+      "invasive",
+      "invade",
+      "invasion",
+      "invader"
+    ],
+    "example": "Lantana is an invasive weed that smothers native bush along many Australian creeks.",
+    "basic": "That weed spreads fast and crowds out other plants."
+  },
+  "sustainable": {
+    "simple": "Able to continue for a long time without using up resources or harming the environment.",
+    "detailed": "Describes a way of living, farming, or making energy that meets present needs while protecting ecosystems so future generations can still use them.",
+    "zh": "可持续的",
+    "syn": [
+      "renewable-minded",
+      "long-term",
+      "environmentally sound"
+    ],
+    "ant": [
+      "unsustainable",
+      "wasteful"
+    ],
+    "col": [
+      "sustainable energy",
+      "sustainable practice",
+      "sustainable future"
+    ],
+    "fam": [
+      "sustainable",
+      "sustainably",
+      "sustainability",
+      "sustain"
+    ],
+    "example": "Using rainwater tanks is a sustainable way for the school to water the garden.",
+    "basic": "Using rainwater is a way to look after water for the future."
+  },
+  "biodegradable": {
+    "simple": "Able to break down naturally so it does not stay as rubbish for years.",
+    "detailed": "Describes a material that microorganisms can decompose into simpler substances, reducing lasting waste compared with plastics that persist in soil and water.",
+    "zh": "可生物降解的",
+    "syn": [
+      "compostable",
+      "naturally breaking down",
+      "degradable"
+    ],
+    "ant": [
+      "non-biodegradable",
+      "permanent"
+    ],
+    "col": [
+      "biodegradable packaging",
+      "biodegradable waste",
+      "biodegradable material"
+    ],
+    "fam": [
+      "biodegradable",
+      "biodegrade",
+      "biodegradation",
+      "degrade"
+    ],
+    "example": "The canteen switched to biodegradable plates so picnic rubbish would break down more quickly.",
+    "basic": "The canteen chose plates that rot away instead of lasting forever."
+  },
+  "non-renewable": {
+    "simple": "Unable to be replaced once it has been used up, such as coal or oil.",
+    "detailed": "Describes a resource that forms so slowly that humans cannot replace it within a lifetime, so using it reduces what future people will have.",
+    "zh": "不可再生的",
+    "syn": [
+      "finite",
+      "limited",
+      "unreplaceable"
+    ],
+    "ant": [
+      "renewable",
+      "replaceable"
+    ],
+    "col": [
+      "non-renewable resource",
+      "non-renewable energy",
+      "non-renewable fuel"
+    ],
+    "fam": [
+      "non-renewable",
+      "renewable",
+      "renew",
+      "renewal"
+    ],
+    "example": "Coal is a non-renewable fuel, so burning it faster than it forms cannot last forever.",
+    "basic": "Coal cannot be made again quickly once we burn it."
+  },
+  "fair-minded": {
+    "simple": "Willing to listen to both sides and judge people or ideas without unfair favour.",
+    "detailed": "Describes a person who weighs evidence and other viewpoints calmly, rather than rushing to a biased or one-sided conclusion.",
+    "zh": "公正的；公平的",
+    "syn": [
+      "impartial",
+      "just",
+      "unbiased"
+    ],
+    "ant": [
+      "biased",
+      "prejudiced"
+    ],
+    "col": [
+      "fair-minded judge",
+      "fair-minded reader",
+      "fair-minded decision"
+    ],
+    "fam": [
+      "fair-minded",
+      "fair",
+      "fairly",
+      "fairness"
+    ],
+    "example": "A fair-minded marker reads both arguments before deciding which case is stronger.",
+    "basic": "A good marker listens to both sides before deciding."
+  },
+  "even-handed": {
+    "simple": "Treating each side of an argument or dispute with the same care and fairness.",
+    "detailed": "Describes a balanced approach that does not favour one person, group, or claim, especially when evidence or consequences must be compared.",
+    "zh": "不偏不倚的",
+    "syn": [
+      "balanced",
+      "impartial",
+      "even"
+    ],
+    "ant": [
+      "one-sided",
+      "biased"
+    ],
+    "col": [
+      "even-handed approach",
+      "even-handed treatment",
+      "even-handed review"
+    ],
+    "fam": [
+      "even-handed",
+      "even-handedly",
+      "even-handedness"
+    ],
+    "example": "The chairperson stayed even-handed so both debate teams received equal speaking time.",
+    "basic": "The chairperson treated both teams the same way."
+  },
+  "open-minded": {
+    "simple": "Ready to consider new ideas or evidence instead of sticking to one view.",
+    "detailed": "Describes a thinker who can revise a judgement when stronger reasons appear, which is essential in inquiry, debate, and scholarship reading.",
+    "zh": "思想开放的；虚心的",
+    "syn": [
+      "receptive",
+      "flexible",
+      "willing to consider"
+    ],
+    "ant": [
+      "closed-minded",
+      "narrow-minded"
+    ],
+    "col": [
+      "open-minded student",
+      "open-minded discussion",
+      "stay open-minded"
+    ],
+    "fam": [
+      "open-minded",
+      "open-mindedly",
+      "open-mindedness"
+    ],
+    "example": "An open-minded scientist changes a hypothesis when the results do not match the prediction.",
+    "basic": "A good scientist can change their idea when the results are different."
+  },
+  "well-supported": {
+    "simple": "Backed by clear reasons, facts, or evidence rather than guesswork.",
+    "detailed": "Describes a claim, answer, or argument that is strengthened by relevant proof, examples, or sources, so a reader can see why it is reliable.",
+    "zh": "有充分依据的",
+    "syn": [
+      "evidence-based",
+      "substantiated",
+      "backed up"
+    ],
+    "ant": [
+      "unsupported",
+      "baseless"
+    ],
+    "col": [
+      "well-supported argument",
+      "well-supported claim",
+      "well-supported conclusion"
+    ],
+    "fam": [
+      "well-supported",
+      "support",
+      "supported",
+      "supporting"
+    ],
+    "example": "A well-supported conclusion in a science report quotes the measurements, not just an opinion.",
+    "basic": "A strong conclusion uses the measurements, not only what you think."
+  },
+  "ill-informed": {
+    "simple": "Based on little knowledge, weak facts, or incomplete information.",
+    "detailed": "Describes a view, comment, or decision made without enough accurate information, so it is likely to be unfair, mistaken, or easy to challenge.",
+    "zh": "消息不灵的；了解不足的",
+    "syn": [
+      "uninformed",
+      "misinformed",
+      "poorly briefed"
+    ],
+    "ant": [
+      "well-informed",
+      "knowledgeable"
+    ],
+    "col": [
+      "ill-informed comment",
+      "ill-informed opinion",
+      "ill-informed decision"
+    ],
+    "fam": [
+      "ill-informed",
+      "inform",
+      "informed",
+      "information"
+    ],
+    "example": "An ill-informed opinion about recycling can spread if nobody checks the actual data.",
+    "basic": "A guess about recycling can spread if nobody checks the facts."
+  },
+  "one-sided": {
+    "simple": "Showing only one point of view and leaving out the other side.",
+    "detailed": "Describes an argument, report, or story that presents a single perspective as if it were the whole truth, which weakens fairness and persuasion.",
+    "zh": "片面的；一边倒的",
+    "syn": [
+      "biased",
+      "unbalanced",
+      "partial"
+    ],
+    "ant": [
+      "balanced",
+      "even-handed"
+    ],
+    "col": [
+      "one-sided argument",
+      "one-sided report",
+      "one-sided view"
+    ],
+    "fam": [
+      "one-sided",
+      "one-sidedness",
+      "side"
+    ],
+    "example": "A one-sided letter about the new bike path ignored residents who needed more parking.",
+    "basic": "The letter only told one side of the bike-path story."
+  },
+  "two-sided": {
+    "simple": "Looking at both sides of an issue instead of only one opinion.",
+    "detailed": "Describes a discussion or piece of writing that presents advantages and disadvantages, or competing views, before reaching a reasoned judgement.",
+    "zh": "正反两面的；兼顾双方的",
+    "syn": [
+      "balanced",
+      "both-sided",
+      "even"
+    ],
+    "ant": [
+      "one-sided",
+      "unbalanced"
+    ],
+    "col": [
+      "two-sided argument",
+      "two-sided debate",
+      "two-sided discussion"
+    ],
+    "fam": [
+      "two-sided",
+      "side",
+      "sides"
+    ],
+    "example": "The teacher asked for a two-sided discussion of homework so benefits and drawbacks were both heard.",
+    "basic": "The teacher asked us to talk about both good and bad points."
+  },
+  "long-lasting": {
+    "simple": "Continuing for a long time without wearing out or disappearing quickly.",
+    "detailed": "Describes an effect, material, or memory that remains useful or noticeable over an extended period, rather than fading after a short burst.",
+    "zh": "持久的；耐用的",
+    "syn": [
+      "enduring",
+      "durable",
+      "lasting"
+    ],
+    "ant": [
+      "short-lived",
+      "temporary"
+    ],
+    "col": [
+      "long-lasting effect",
+      "long-lasting material",
+      "long-lasting change"
+    ],
+    "fam": [
+      "long-lasting",
+      "last",
+      "lasting",
+      "lastingly"
+    ],
+    "example": "Plastic litter has a long-lasting impact on beaches because it breaks down so slowly.",
+    "basic": "Plastic rubbish stays on beaches for a very long time."
+  },
+  "fast-paced": {
+    "simple": "Moving or changing quickly, with little time to slow down.",
+    "detailed": "Describes a story, game, or lifestyle whose events happen in rapid succession, creating excitement but sometimes leaving little space for reflection.",
+    "zh": "节奏快的",
+    "syn": [
+      "rapid",
+      "brisk",
+      "high-tempo"
+    ],
+    "ant": [
+      "slow-moving",
+      "leisurely"
+    ],
+    "col": [
+      "fast-paced story",
+      "fast-paced game",
+      "fast-paced scene"
+    ],
+    "fam": [
+      "fast-paced",
+      "pace",
+      "paced",
+      "pacing"
+    ],
+    "example": "The opening chapter was so fast-paced that readers barely had time to breathe.",
+    "basic": "The opening chapter moved so quickly that readers had no time to rest."
+  },
+  "slow-moving": {
+    "simple": "Happening or travelling at a gentle, unhurried speed.",
+    "detailed": "Describes a plot, process, or object that advances gradually; in literature it can build tension, while in science it can describe glaciers, traffic, or change.",
+    "zh": "缓慢的；进展慢的",
+    "syn": [
+      "gradual",
+      "unhurried",
+      "sluggish"
+    ],
+    "ant": [
+      "fast-paced",
+      "swift"
+    ],
+    "col": [
+      "slow-moving story",
+      "slow-moving river",
+      "slow-moving traffic"
+    ],
+    "fam": [
+      "slow-moving",
+      "slow",
+      "slowly",
+      "moving"
+    ],
+    "example": "The slow-moving river deposited rich soil along the floodplain after each wet season.",
+    "basic": "The river moved slowly and left rich soil on the banks."
+  },
+  "closely": {
+    "simple": "With careful attention to small details, or in a near and connected way.",
+    "detailed": "Used when someone watches, reads, or studies something with precision, or when two ideas, people, or results are tightly linked.",
+    "zh": "仔细地；密切地",
+    "syn": [
+      "carefully",
+      "attentively",
+      "intently"
+    ],
+    "ant": [
+      "loosely",
+      "casually"
+    ],
+    "col": [
+      "look closely",
+      "study closely",
+      "work closely"
+    ],
+    "fam": [
+      "closely",
+      "close",
+      "closeness",
+      "closer"
+    ],
+    "example": "Oliver looked closely at the graph before deciding which variable had changed.",
+    "basic": "Oliver looked hard at the graph before deciding."
+  },
+  "carefully": {
+    "simple": "In a thoughtful way that tries to avoid mistakes or harm.",
+    "detailed": "Describes an action done with caution, accuracy, and attention, whether measuring in science, choosing words in an essay, or handling evidence.",
+    "zh": "小心地；认真地",
+    "syn": [
+      "cautiously",
+      "thoughtfully",
+      "precisely"
+    ],
+    "ant": [
+      "carelessly",
+      "hastily"
+    ],
+    "col": [
+      "read carefully",
+      "measure carefully",
+      "choose carefully"
+    ],
+    "fam": [
+      "carefully",
+      "careful",
+      "care",
+      "carefulness"
+    ],
+    "example": "Measure the liquid carefully so the experiment can be repeated by another group.",
+    "basic": "Measure the liquid with care so the test can be done again."
+  },
+  "correctly": {
+    "simple": "In the right way, without error or misunderstanding.",
+    "detailed": "Describes an action, answer, or procedure that matches the required rule, method, or fact, which matters in tests, science, and formal writing.",
+    "zh": "正确地",
+    "syn": [
+      "accurately",
+      "properly",
+      "rightly"
+    ],
+    "ant": [
+      "incorrectly",
+      "wrongly"
+    ],
+    "col": [
+      "answer correctly",
+      "spell correctly",
+      "use correctly"
+    ],
+    "fam": [
+      "correctly",
+      "correct",
+      "correction",
+      "correctness"
+    ],
+    "example": "Label the axes correctly or the line graph will be hard to interpret.",
+    "basic": "Put the right labels on the axes or the graph will be confusing."
+  },
+  "equally": {
+    "simple": "To the same degree, or in a way that treats each part or person the same.",
+    "detailed": "Used when amounts, importance, or treatment are shared without favouring one side; it also links two ideas that deserve the same weight.",
+    "zh": "同样地；平等地",
+    "syn": [
+      "evenly",
+      "alike",
+      "just as"
+    ],
+    "ant": [
+      "unequally",
+      "unevenly"
+    ],
+    "col": [
+      "share equally",
+      "equally important",
+      "treat equally"
+    ],
+    "fam": [
+      "equally",
+      "equal",
+      "equality",
+      "equalise"
+    ],
+    "example": "Both teams were equally responsible for keeping the sports equipment tidy.",
+    "basic": "Both teams had the same job of putting the equipment away."
+  },
+  "firmly": {
+    "simple": "In a strong, steady way that shows you will not easily give in.",
+    "detailed": "Describes speech or action that is decisive and stable, used in argument when a writer holds a position clearly without sounding rude or shaky.",
+    "zh": "坚定地；牢固地",
+    "syn": [
+      "strongly",
+      "decisively",
+      "steadily"
+    ],
+    "ant": [
+      "weakly",
+      "hesitantly"
+    ],
+    "col": [
+      "state firmly",
+      "believe firmly",
+      "hold firmly"
+    ],
+    "fam": [
+      "firmly",
+      "firm",
+      "firmness"
+    ],
+    "example": "In the debate she stated firmly that plastic bags should be banned at the canteen.",
+    "basic": "In the debate she said clearly that plastic bags should be banned."
+  },
+  "freely": {
+    "simple": "Without being blocked, forced, or tightly controlled.",
+    "detailed": "Describes movement, speech, or choice that is not restricted by rules, fear, or physical barriers; in HASS it often relates to rights and open discussion.",
+    "zh": "自由地",
+    "syn": [
+      "openly",
+      "without restriction",
+      "liberally"
+    ],
+    "ant": [
+      "restrictively",
+      "forcibly"
+    ],
+    "col": [
+      "speak freely",
+      "move freely",
+      "choose freely"
+    ],
+    "fam": [
+      "freely",
+      "free",
+      "freedom",
+      "freer"
+    ],
+    "example": "Citizens in a democracy should be able to speak freely about unfair laws.",
+    "basic": "People in a democracy should be able to talk about unfair laws."
+  },
+  "highly": {
+    "simple": "To a great degree; very much, especially when praising or ranking something.",
+    "detailed": "An intensifier used in academic writing to strengthen an adjective or adverb, as in a very effective method or an unusually striking result.",
+    "zh": "高度地；非常",
+    "syn": [
+      "greatly",
+      "extremely",
+      "very"
+    ],
+    "ant": [],
+    "col": [
+      "highly effective",
+      "highly likely",
+      "highly recommended"
+    ],
+    "fam": [
+      "highly",
+      "high",
+      "higher",
+      "highest"
+    ],
+    "example": "The scholarship paper is highly challenging, so careful planning of each paragraph helps.",
+    "basic": "The scholarship paper is very hard, so planning each paragraph helps."
+  },
+  "honestly": {
+    "simple": "In a truthful way, without hiding facts or pretending.",
+    "detailed": "Describes speech or behaviour that matches what a person really thinks or knows; in narrative it can reveal character, and in argument it builds trust.",
+    "zh": "诚实地",
+    "syn": [
+      "truthfully",
+      "frankly",
+      "sincerely"
+    ],
+    "ant": [
+      "dishonestly",
+      "deceitfully"
+    ],
+    "col": [
+      "speak honestly",
+      "answer honestly",
+      "admit honestly"
+    ],
+    "fam": [
+      "honestly",
+      "honest",
+      "honesty"
+    ],
+    "example": "The narrator honestly admits she was frightened when the river rose overnight.",
+    "basic": "The narrator tells us she was frightened when the river rose."
+  },
+  "largely": {
+    "simple": "For the most part; mainly, though not completely.",
+    "detailed": "Used to show that something is true in the main, while leaving room for smaller exceptions, which is useful when explaining causes or patterns.",
+    "zh": "主要地；大体上",
+    "syn": [
+      "mainly",
+      "mostly",
+      "chiefly"
+    ],
+    "ant": [
+      "slightly",
+      "partly"
+    ],
+    "col": [
+      "largely because",
+      "largely responsible",
+      "largely successful"
+    ],
+    "fam": [
+      "largely",
+      "large",
+      "larger",
+      "largeness"
+    ],
+    "example": "The crop failure was largely due to the long drought, not to poor seed quality.",
+    "basic": "The crop failed mainly because of the long dry spell."
+  },
+  "officially": {
+    "simple": "In a formal, public, or government-approved way.",
+    "detailed": "Describes an action or statement made with recognised authority, such as a parliament, school, or court, rather than as a private or unofficial comment.",
+    "zh": "正式地；官方地",
+    "syn": [
+      "formally",
+      "publicly",
+      "authoritatively"
+    ],
+    "ant": [
+      "unofficially",
+      "informally"
+    ],
+    "col": [
+      "officially announced",
+      "officially opened",
+      "officially recognised"
+    ],
+    "fam": [
+      "officially",
+      "official",
+      "office",
+      "officialdom"
+    ],
+    "example": "Australia officially became a federation on 1 January 1901.",
+    "basic": "Australia became one nation on 1 January 1901."
+  },
+  "partly": {
+    "simple": "To some extent, but not completely or in every way.",
+    "detailed": "Used when a cause, answer, or description is only a portion of the whole truth, which helps writers avoid overstating a claim.",
+    "zh": "部分地",
+    "syn": [
+      "partially",
+      "in part",
+      "somewhat"
+    ],
+    "ant": [
+      "wholly",
+      "completely"
+    ],
+    "col": [
+      "partly true",
+      "partly because",
+      "partly responsible"
+    ],
+    "fam": [
+      "partly",
+      "part",
+      "partial",
+      "partially"
+    ],
+    "example": "The flood was partly caused by blocked drains as well as the heavy rainfall.",
+    "basic": "The flood was caused in some ways by blocked drains."
+  },
+  "rapidly": {
+    "simple": "Very quickly; happening at a high speed in a short time.",
+    "detailed": "Describes a change or movement that happens in a short time, often used in science for growth, cooling, erosion, or the spread of a process.",
+    "zh": "迅速地",
+    "syn": [
+      "quickly",
+      "swiftly",
+      "speedily"
+    ],
+    "ant": [
+      "slowly",
+      "gradually"
+    ],
+    "col": [
+      "grow rapidly",
+      "change rapidly",
+      "spread rapidly"
+    ],
+    "fam": [
+      "rapidly",
+      "rapid",
+      "rapidity"
+    ],
+    "example": "Ice melts rapidly when it is placed in warm water during the heat investigation.",
+    "basic": "Ice melts quickly when it is put in warm water."
+  },
+  "safely": {
+    "simple": "In a way that avoids danger, injury, or damage.",
+    "detailed": "Describes an action carried out with proper care, equipment, or rules so people, animals, or materials are protected from harm.",
+    "zh": "安全地",
+    "syn": [
+      "securely",
+      "without harm",
+      "cautiously"
+    ],
+    "ant": [
+      "dangerously",
+      "recklessly"
+    ],
+    "col": [
+      "work safely",
+      "store safely",
+      "return safely"
+    ],
+    "fam": [
+      "safely",
+      "safe",
+      "safety",
+      "safer"
+    ],
+    "example": "Wear goggles so the class can heat the beaker safely during the inquiry.",
+    "basic": "Wear goggles so nobody gets hurt when the beaker is heated."
+  },
+  "steadily": {
+    "simple": "At a regular, even pace, without sudden stops or jumps.",
+    "detailed": "Describes a process that continues in a controlled, consistent way, such as a temperature rise, a heartbeat, or progress on a long task.",
+    "zh": "稳定地；持续地",
+    "syn": [
+      "constantly",
+      "evenly",
+      "continuously"
+    ],
+    "ant": [
+      "erratically",
+      "unevenly"
+    ],
+    "col": [
+      "rise steadily",
+      "grow steadily",
+      "work steadily"
+    ],
+    "fam": [
+      "steadily",
+      "steady",
+      "steadiness",
+      "steadier"
+    ],
+    "example": "The temperature rose steadily as the lamp stayed on the ice for ten minutes.",
+    "basic": "The temperature went up evenly while the lamp stayed on."
+  },
+  "strongly": {
+    "simple": "With force, confidence, or a high degree of feeling or evidence.",
+    "detailed": "Used in argument and science to show that a claim, reaction, or preference is powerful, well-backed, or intense rather than mild.",
+    "zh": "强烈地；有力地",
+    "syn": [
+      "powerfully",
+      "firmly",
+      "forcefully"
+    ],
+    "ant": [
+      "weakly",
+      "mildly"
+    ],
+    "col": [
+      "agree strongly",
+      "argue strongly",
+      "strongly support"
+    ],
+    "fam": [
+      "strongly",
+      "strong",
+      "strength",
+      "stronger"
+    ],
+    "example": "The team argued strongly that the school should ban single-use plastic bottles.",
+    "basic": "The team said with real force that plastic bottles should be banned."
+  },
+  "successfully": {
+    "simple": "In a way that achieves the result you wanted.",
+    "detailed": "Describes an action that meets its goal, whether completing an experiment, persuading an audience, or solving a problem without major failure.",
+    "zh": "成功地",
+    "syn": [
+      "effectively",
+      "well",
+      "productively"
+    ],
+    "ant": [
+      "unsuccessfully",
+      "poorly"
+    ],
+    "col": [
+      "complete successfully",
+      "argue successfully",
+      "grow successfully"
+    ],
+    "fam": [
+      "successfully",
+      "successful",
+      "success",
+      "succeed"
+    ],
+    "example": "The group successfully grew seedlings in the drier soil after changing the watering plan.",
+    "basic": "The group managed to grow seedlings after changing the watering plan."
+  },
+  "widely": {
+    "simple": "By many people or in many places; over a large area.",
+    "detailed": "Used when an idea, habit, or object is common across a broad group or region, or when something is spread out rather than limited to one spot.",
+    "zh": "广泛地",
+    "syn": [
+      "broadly",
+      "extensively",
+      "commonly"
+    ],
+    "ant": [
+      "narrowly",
+      "rarely"
+    ],
+    "col": [
+      "widely used",
+      "widely known",
+      "widely accepted"
+    ],
+    "fam": [
+      "widely",
+      "wide",
+      "widen",
+      "width"
+    ],
+    "example": "Solar panels are now widely used on Australian school roofs to cut electricity costs.",
+    "basic": "Many Australian schools now use solar panels on the roof."
+  },
+  "acknowledge": {
+    "simple": "To admit that something is true, or to show that you have noticed it.",
+    "detailed": "To accept a fact, source, feeling, or contribution openly, which is important when citing evidence, thanking helpers, or treating other views fairly.",
+    "zh": "承认；致谢",
+    "syn": [
+      "admit",
+      "recognise",
+      "accept"
+    ],
+    "ant": [
+      "deny",
+      "ignore"
+    ],
+    "col": [
+      "acknowledge the source",
+      "acknowledge a mistake",
+      "acknowledge the contribution"
+    ],
+    "fam": [
+      "acknowledge",
+      "acknowledgement",
+      "acknowledged",
+      "acknowledging"
+    ],
+    "example": "Good researchers acknowledge the source of every quotation in the bibliography.",
+    "basic": "Good researchers say where each quotation came from."
+  },
+  "advocate": {
+    "simple": "To speak or write in favour of an idea, person, or change.",
+    "detailed": "To support a cause publicly with reasons, asking others to accept a policy, right, or action; the same word can also name a person who does this.",
+    "zh": "倡导；主张",
+    "syn": [
+      "support",
+      "champion",
+      "recommend"
+    ],
+    "ant": [
+      "oppose",
+      "resist"
+    ],
+    "col": [
+      "advocate change",
+      "advocate for rights",
+      "strongly advocate"
+    ],
+    "fam": [
+      "advocate",
+      "advocacy",
+      "advocate's",
+      "advocating"
+    ],
+    "example": "The student council will advocate a later start time with evidence from sleep research.",
+    "basic": "The student council will speak up for a later start time."
+  },
+  "anticipate": {
+    "simple": "To expect something and get ready for it before it happens.",
+    "detailed": "To think ahead about a likely event, problem, or question so you can plan, warn others, or adjust a method in time.",
+    "zh": "预期；预料",
+    "syn": [
+      "expect",
+      "foresee",
+      "predict"
+    ],
+    "ant": [
+      "overlook",
+      "miss"
+    ],
+    "col": [
+      "anticipate a problem",
+      "anticipate the result",
+      "anticipate questions"
+    ],
+    "fam": [
+      "anticipate",
+      "anticipation",
+      "anticipated",
+      "anticipating"
+    ],
+    "example": "Good experimenters anticipate measurement error and write a way to reduce it.",
+    "basic": "Good experimenters think ahead about mistakes and plan how to reduce them."
+  },
+  "articulate": {
+    "simple": "To express an idea clearly in speech or writing so others can follow it.",
+    "detailed": "To put thoughts into precise words, which is a key scholarship skill when explaining a claim, a feeling, or a complex process.",
+    "zh": "清楚表达",
+    "syn": [
+      "express",
+      "voice",
+      "state"
+    ],
+    "ant": [
+      "mumble",
+      "obscure"
+    ],
+    "col": [
+      "articulate an idea",
+      "articulate a view",
+      "clearly articulate"
+    ],
+    "fam": [
+      "articulate",
+      "articulation",
+      "articulated",
+      "articulating"
+    ],
+    "example": "In the oral, she could articulate why the character's choice felt unfair.",
+    "basic": "In the oral, she could explain clearly why the choice felt unfair."
+  },
+  "ascertain": {
+    "simple": "To find something out for certain after checking carefully.",
+    "detailed": "To establish a fact through investigation, measurement, or reliable sources rather than guessing, which is central to inquiry and research.",
+    "zh": "查明；确定",
+    "syn": [
+      "determine",
+      "establish",
+      "confirm"
+    ],
+    "ant": [
+      "assume",
+      "guess"
+    ],
+    "col": [
+      "ascertain the cause",
+      "ascertain whether",
+      "ascertain the facts"
+    ],
+    "fam": [
+      "ascertain",
+      "ascertainment",
+      "ascertained",
+      "ascertaining"
+    ],
+    "example": "The class had to ascertain whether the tap water or the tank water was more acidic.",
+    "basic": "The class had to find out for sure which water was more acidic."
+  },
+  "assert": {
+    "simple": "To state something firmly as if it is true, especially in an argument.",
+    "detailed": "To put forward a claim with confidence; a strong writer then supports that statement with evidence rather than leaving it as a bare opinion.",
+    "zh": "断言；主张",
+    "syn": [
+      "declare",
+      "claim",
+      "maintain"
+    ],
+    "ant": [
+      "deny",
+      "withdraw"
+    ],
+    "col": [
+      "assert a claim",
+      "assert your view",
+      "assert that"
+    ],
+    "fam": [
+      "assert",
+      "assertion",
+      "assertive",
+      "assertively"
+    ],
+    "example": "Do not merely assert that the law is unfair; give two pieces of evidence.",
+    "basic": "Do not just say the law is unfair; give two pieces of evidence."
+  },
+  "attain": {
+    "simple": "To reach a goal, standard, or level after effort.",
+    "detailed": "To achieve something that required work, skill, or persistence, such as a score, a qualification, or a scientific result.",
+    "zh": "达到；获得",
+    "syn": [
+      "achieve",
+      "reach",
+      "gain"
+    ],
+    "ant": [
+      "miss",
+      "fail"
+    ],
+    "col": [
+      "attain a goal",
+      "attain a standard",
+      "attain a score"
+    ],
+    "fam": [
+      "attain",
+      "attainment",
+      "attainable",
+      "attained"
+    ],
+    "example": "Regular practice helped him attain a higher score on the scholarship reading paper.",
+    "basic": "Regular practice helped him reach a higher score."
+  },
+  "attribute": {
+    "simple": "To say that a result or quality comes from a particular cause or person.",
+    "detailed": "To assign responsibility, credit, or origin to something, as when scientists link a change to a variable or writers credit a quote to its author.",
+    "zh": "归因于；认为是……所为",
+    "syn": [
+      "ascribe",
+      "credit",
+      "trace to"
+    ],
+    "ant": [],
+    "col": [
+      "attribute the result to",
+      "attribute success to",
+      "attribute a quote to"
+    ],
+    "fam": [
+      "attribute",
+      "attribution",
+      "attributable",
+      "attributed"
+    ],
+    "example": "The students attribute the faster growth to extra sunlight, not to a new fertiliser.",
+    "basic": "The students say the faster growth came from extra sunlight."
+  },
+  "complement": {
+    "simple": "To go well with something else and make it more complete or effective.",
+    "detailed": "To add a quality or part that fills a gap or improves a whole, which is different from complimenting someone with praise.",
+    "zh": "补充；与……相配",
+    "syn": [
+      "complete",
+      "enhance",
+      "go with"
+    ],
+    "ant": [
+      "clash with",
+      "undermine"
+    ],
+    "col": [
+      "complement the evidence",
+      "complement each other",
+      "complement a diet"
+    ],
+    "fam": [
+      "complement",
+      "complementary",
+      "complementation",
+      "complemented"
+    ],
+    "example": "Clear diagrams complement a written explanation in a science report.",
+    "basic": "Clear diagrams make a written explanation stronger."
+  },
+  "comprise": {
+    "simple": "To be made up of particular parts, or to include those parts.",
+    "detailed": "To consist of listed elements that together form the whole, a precise verb for describing groups, texts, or systems without adding extra wording.",
+    "zh": "包含；由……组成",
+    "syn": [
+      "consist of",
+      "include",
+      "contain"
+    ],
+    "ant": [
+      "exclude",
+      "omit"
+    ],
+    "col": [
+      "comprise several parts",
+      "comprise the group",
+      "comprise three sections"
+    ],
+    "fam": [
+      "comprise",
+      "comprising",
+      "comprised"
+    ],
+    "example": "The inquiry team will comprise a note-taker, a timer, and two researchers.",
+    "basic": "The inquiry team will be made up of a note-taker, a timer, and two researchers."
+  },
+  "conceive": {
+    "simple": "To form an idea, plan, or picture in your mind.",
+    "detailed": "To invent or imagine something that did not exist yet, from a story plot to a scientific model or a civic proposal.",
+    "zh": "构想；设想",
+    "syn": [
+      "imagine",
+      "invent",
+      "devise"
+    ],
+    "ant": [],
+    "col": [
+      "conceive an idea",
+      "conceive a plan",
+      "hard to conceive"
+    ],
+    "fam": [
+      "conceive",
+      "conception",
+      "conceivable",
+      "inconceivable"
+    ],
+    "example": "The class had to conceive a fair way to share the oval at lunchtime.",
+    "basic": "The class had to think up a fair way to share the oval."
+  },
+  "condemn": {
+    "simple": "To say strongly that something is wrong and should be rejected.",
+    "detailed": "To judge an action, idea, or person as morally or legally unacceptable, often in public argument, news, or historical writing.",
+    "zh": "谴责",
+    "syn": [
+      "denounce",
+      "criticise",
+      "censure"
+    ],
+    "ant": [
+      "praise",
+      "endorse"
+    ],
+    "col": [
+      "condemn violence",
+      "condemn a decision",
+      "strongly condemn"
+    ],
+    "fam": [
+      "condemn",
+      "condemnation",
+      "condemned",
+      "condemning"
+    ],
+    "example": "Many citizens condemn littering in national parks because it harms wildlife.",
+    "basic": "Many people say littering in national parks is wrong."
+  },
+  "confine": {
+    "simple": "To keep something or someone within limits and not let it spread.",
+    "detailed": "To restrict movement, discussion, or activity to a set place, time, or topic, whether in a prison, a habitat, or a tightly focused paragraph.",
+    "zh": "限制；禁闭",
+    "syn": [
+      "restrict",
+      "limit",
+      "contain"
+    ],
+    "ant": [
+      "release",
+      "free"
+    ],
+    "col": [
+      "confine the discussion",
+      "confine to a topic",
+      "confine an animal"
+    ],
+    "fam": [
+      "confine",
+      "confinement",
+      "confined",
+      "confining"
+    ],
+    "example": "Please confine your speech to the water-saving topic so the debate stays fair.",
+    "basic": "Please keep your speech on the water-saving topic."
+  },
+  "consent": {
+    "simple": "To agree to something, especially after you understand what it involves.",
+    "detailed": "To give permission freely, which in HASS and civic life matters for laws, medical choices, and respectful treatment of other people's rights.",
+    "zh": "同意；许可",
+    "syn": [
+      "agree",
+      "permit",
+      "approve"
+    ],
+    "ant": [
+      "refuse",
+      "object"
+    ],
+    "col": [
+      "consent to a plan",
+      "give consent",
+      "informed consent"
+    ],
+    "fam": [
+      "consent",
+      "consensual",
+      "consensus",
+      "consenting"
+    ],
+    "example": "Researchers must consent to follow the safety rules before using the lab chemicals.",
+    "basic": "Researchers must agree to the safety rules before using the chemicals."
+  },
+  "contemplate": {
+    "simple": "To think about something quietly and carefully for a while.",
+    "detailed": "To consider an idea, feeling, or choice in a deep, unhurried way, often used in literary description of a character's inner thoughts.",
+    "zh": "沉思；考虑",
+    "syn": [
+      "ponder",
+      "consider",
+      "reflect on"
+    ],
+    "ant": [
+      "ignore",
+      "dismiss"
+    ],
+    "col": [
+      "contemplate a choice",
+      "contemplate the view",
+      "sit and contemplate"
+    ],
+    "fam": [
+      "contemplate",
+      "contemplation",
+      "contemplative",
+      "contemplating"
+    ],
+    "example": "At dusk the narrator sat on the jetty to contemplate whether she should tell the truth.",
+    "basic": "At dusk the narrator sat on the jetty and thought about telling the truth."
+  },
+  "contradict": {
+    "simple": "To say the opposite of another statement, or to clash with the facts.",
+    "detailed": "To deny or oppose a claim by offering a conflicting statement or evidence; contradictions weaken an argument unless they are resolved.",
+    "zh": "反驳；与……矛盾",
+    "syn": [
+      "oppose",
+      "deny",
+      "clash with"
+    ],
+    "ant": [
+      "confirm",
+      "support"
+    ],
+    "col": [
+      "contradict a claim",
+      "contradict the evidence",
+      "appear to contradict"
+    ],
+    "fam": [
+      "contradict",
+      "contradiction",
+      "contradictory",
+      "contradicted"
+    ],
+    "example": "Do not contradict your earlier sentence unless you explain why the new evidence is stronger.",
+    "basic": "Do not say the opposite of your earlier sentence without explaining why."
+  },
+  "cultivate": {
+    "simple": "To grow plants carefully, or to develop a skill, habit, or friendship.",
+    "detailed": "To tend something so it improves over time, from crops in a field to curiosity, kindness, or civic habits in a community.",
+    "zh": "培养；耕种",
+    "syn": [
+      "develop",
+      "foster",
+      "nurture"
+    ],
+    "ant": [
+      "neglect",
+      "abandon"
+    ],
+    "col": [
+      "cultivate a habit",
+      "cultivate crops",
+      "cultivate curiosity"
+    ],
+    "fam": [
+      "cultivate",
+      "cultivation",
+      "cultivated",
+      "cultivating"
+    ],
+    "example": "Good HASS teachers cultivate curiosity about how everyday laws were made.",
+    "basic": "Good HASS teachers help curiosity grow about how laws were made."
+  },
+  "dedicate": {
+    "simple": "To give your time, energy, or a work of art to a special purpose or person.",
+    "detailed": "To commit effort or honour something by setting it aside for a cause, a person, or a goal, often with a sense of loyalty.",
+    "zh": "奉献；致力于",
+    "syn": [
+      "devote",
+      "commit",
+      "offer"
+    ],
+    "ant": [
+      "withhold",
+      "neglect"
+    ],
+    "col": [
+      "dedicate time to",
+      "dedicate a book to",
+      "dedicate yourself to"
+    ],
+    "fam": [
+      "dedicate",
+      "dedication",
+      "dedicated",
+      "dedicating"
+    ],
+    "example": "She chose to dedicate her lunch breaks to finishing the scholarship writing task.",
+    "basic": "She used her lunch breaks to finish the writing task."
+  },
+  "deviate": {
+    "simple": "To move away from the usual path, plan, or expected result.",
+    "detailed": "To differ from a standard, rule, or predicted pattern, which in science can signal error, a new variable, or an interesting anomaly.",
+    "zh": "偏离；背离",
+    "syn": [
+      "diverge",
+      "depart",
+      "stray"
+    ],
+    "ant": [
+      "follow",
+      "conform"
+    ],
+    "col": [
+      "deviate from the plan",
+      "deviate from the mean",
+      "deviate slightly"
+    ],
+    "fam": [
+      "deviate",
+      "deviation",
+      "deviant",
+      "deviating"
+    ],
+    "example": "If the temperature readings deviate too far from the class average, check the thermometer.",
+    "basic": "If the temperature readings are far from the class average, check the thermometer."
+  },
+  "devote": {
+    "simple": "To give most of your attention, time, or care to one person or purpose.",
+    "detailed": "To apply yourself wholeheartedly to a task, relationship, or cause, a stronger, more personal commitment than simply spending time.",
+    "zh": "投入；献身",
+    "syn": [
+      "dedicate",
+      "commit",
+      "give"
+    ],
+    "ant": [
+      "withhold",
+      "spare"
+    ],
+    "col": [
+      "devote time to",
+      "devote energy to",
+      "devote yourself to"
+    ],
+    "fam": [
+      "devote",
+      "devotion",
+      "devoted",
+      "devoting"
+    ],
+    "example": "The coach asked players to devote ten minutes each night to practising free throws.",
+    "basic": "The coach asked players to give ten minutes each night to free throws."
+  },
+  "differentiate": {
+    "simple": "To show or tell the difference between two or more things.",
+    "detailed": "To distinguish items by their features so they are not treated as the same, a precise academic skill in science, grammar, and argument.",
+    "zh": "区分；辨别",
+    "syn": [
+      "distinguish",
+      "tell apart",
+      "separate"
+    ],
+    "ant": [
+      "confuse",
+      "lump together"
+    ],
+    "col": [
+      "differentiate between",
+      "differentiate ideas",
+      "clearly differentiate"
+    ],
+    "fam": [
+      "differentiate",
+      "differentiation",
+      "different",
+      "difference"
+    ],
+    "example": "Can you differentiate a fact from an opinion in this news paragraph?",
+    "basic": "Can you tell a fact from an opinion in this news paragraph?"
+  },
+  "disclose": {
+    "simple": "To make hidden information known, often because it should be shared.",
+    "detailed": "To reveal facts that were private, secret, or not yet public, which in civic life can involve honesty, safety, or legal duty.",
+    "zh": "披露；透露",
+    "syn": [
+      "reveal",
+      "divulge",
+      "make known"
+    ],
+    "ant": [
+      "conceal",
+      "withhold"
+    ],
+    "col": [
+      "disclose information",
+      "disclose a source",
+      "refuse to disclose"
+    ],
+    "fam": [
+      "disclose",
+      "disclosure",
+      "disclosed",
+      "disclosing"
+    ],
+    "example": "Witnesses must disclose what they saw if the council is investigating the accident.",
+    "basic": "Witnesses must tell what they saw if the council is investigating."
+  },
+  "displace": {
+    "simple": "To force something or someone out of its usual place.",
+    "detailed": "To push people, animals, or objects from the position they occupied, as when a flood displaces families or a new species displaces a native one.",
+    "zh": "取代；使流离失所",
+    "syn": [
+      "uproot",
+      "replace",
+      "shift"
+    ],
+    "ant": [
+      "restore",
+      "resettle"
+    ],
+    "col": [
+      "displace residents",
+      "displace a species",
+      "be displaced by"
+    ],
+    "fam": [
+      "displace",
+      "displacement",
+      "displaced",
+      "displacing"
+    ],
+    "example": "Rising floodwater can displace families from low-lying streets within hours.",
+    "basic": "Rising floodwater can force families out of low-lying streets."
+  },
+  "disrupt": {
+    "simple": "To interrupt a process so it cannot continue in a smooth, normal way.",
+    "detailed": "To break the regular order of a system, lesson, habitat, or plan, often causing delay, confusion, or unexpected change.",
+    "zh": "扰乱；中断",
+    "syn": [
+      "interrupt",
+      "disturb",
+      "upset"
+    ],
+    "ant": [
+      "stabilise",
+      "maintain"
+    ],
+    "col": [
+      "disrupt a lesson",
+      "disrupt the habitat",
+      "disrupt a process"
+    ],
+    "fam": [
+      "disrupt",
+      "disruption",
+      "disruptive",
+      "disrupted"
+    ],
+    "example": "A sudden power cut can disrupt the data logger in the middle of an experiment.",
+    "basic": "A sudden power cut can stop the data logger in the middle of a test."
+  },
+  "dominate": {
+    "simple": "To have the strongest control, influence, or share in a situation.",
+    "detailed": "To be the most powerful or most noticeable part of a group, landscape, market, or debate, sometimes fairly and sometimes unfairly.",
+    "zh": "主导；支配",
+    "syn": [
+      "control",
+      "overshadow",
+      "rule"
+    ],
+    "ant": [
+      "submit",
+      "yield"
+    ],
+    "col": [
+      "dominate the discussion",
+      "dominate a market",
+      "dominate the skyline"
+    ],
+    "fam": [
+      "dominate",
+      "domination",
+      "dominant",
+      "dominating"
+    ],
+    "example": "A few large companies can dominate the news if smaller voices are not heard.",
+    "basic": "A few large companies can take over the news if smaller voices are not heard."
+  },
+  "embody": {
+    "simple": "To show an idea or quality clearly through a person, object, or action.",
+    "detailed": "To give a visible or living form to an abstract value, such as courage or fairness, so readers can see the idea in concrete detail.",
+    "zh": "体现；使具体化",
+    "syn": [
+      "represent",
+      "personify",
+      "express"
+    ],
+    "ant": [],
+    "col": [
+      "embody an idea",
+      "embody a value",
+      "embody the theme"
+    ],
+    "fam": [
+      "embody",
+      "embodiment",
+      "embodied",
+      "embodying"
+    ],
+    "example": "The quiet hero seemed to embody loyalty when she stayed with her injured friend.",
+    "basic": "The quiet hero showed loyalty when she stayed with her injured friend."
+  },
+  "empower": {
+    "simple": "To give someone the confidence, skill, or right to take action.",
+    "detailed": "To increase a person's or group's ability to make choices and influence events, often by sharing knowledge, resources, or legal authority.",
+    "zh": "赋权；使能够",
+    "syn": [
+      "enable",
+      "strengthen",
+      "authorise"
+    ],
+    "ant": [
+      "disempower",
+      "restrict"
+    ],
+    "col": [
+      "empower students",
+      "empower a community",
+      "empower people to"
+    ],
+    "fam": [
+      "empower",
+      "empowerment",
+      "empowered",
+      "empowering"
+    ],
+    "example": "Teaching first aid can empower students to help safely before adults arrive.",
+    "basic": "Teaching first aid can help students act safely before adults arrive."
+  },
+  "enact": {
+    "simple": "To make a proposal into an official law or rule.",
+    "detailed": "To pass and put into force legislation or a formal policy, a key civic process in parliaments, councils, and school governance.",
+    "zh": "颁布；制定（法律）",
+    "syn": [
+      "pass",
+      "legislate",
+      "establish"
+    ],
+    "ant": [
+      "repeal",
+      "revoke"
+    ],
+    "col": [
+      "enact a law",
+      "enact a policy",
+      "enact reform"
+    ],
+    "fam": [
+      "enact",
+      "enactment",
+      "enacted",
+      "enacting"
+    ],
+    "example": "Parliament can enact a law only after both houses have agreed to the bill.",
+    "basic": "Parliament can make a law only after both houses have agreed."
+  },
+  "encompass": {
+    "simple": "To include a wide range of things within one idea, area, or group.",
+    "detailed": "To cover or contain several parts so they sit inside a larger whole, useful when defining a topic, a region, or a set of skills.",
+    "zh": "涵盖；包括",
+    "syn": [
+      "include",
+      "cover",
+      "embrace"
+    ],
+    "ant": [
+      "exclude",
+      "omit"
+    ],
+    "col": [
+      "encompass a range",
+      "encompass several topics",
+      "encompass the whole"
+    ],
+    "fam": [
+      "encompass",
+      "encompassing",
+      "encompassed"
+    ],
+    "example": "The inquiry will encompass water use at home, at school, and on local farms.",
+    "basic": "The inquiry will include water use at home, at school, and on farms."
+  },
+  "endorse": {
+    "simple": "To give public support or official approval to a person, idea, or product.",
+    "detailed": "To back something so others see that you judge it acceptable or worthwhile, from signing a petition to a principal approving a plan.",
+    "zh": "支持；认可",
+    "syn": [
+      "support",
+      "approve",
+      "back"
+    ],
+    "ant": [
+      "oppose",
+      "reject"
+    ],
+    "col": [
+      "endorse a plan",
+      "endorse a candidate",
+      "publicly endorse"
+    ],
+    "fam": [
+      "endorse",
+      "endorsement",
+      "endorsed",
+      "endorsing"
+    ],
+    "example": "The principal will endorse the recycling plan if the data show it reduces waste.",
+    "basic": "The principal will support the recycling plan if the data look strong."
+  },
+  "enforce": {
+    "simple": "To make sure a rule or law is actually followed.",
+    "detailed": "To apply authority so that people comply with a requirement, using reminders, penalties, or official action when needed.",
+    "zh": "执行；强制实施",
+    "syn": [
+      "apply",
+      "impose",
+      "carry out"
+    ],
+    "ant": [
+      "ignore",
+      "waive"
+    ],
+    "col": [
+      "enforce a rule",
+      "enforce the law",
+      "strictly enforce"
+    ],
+    "fam": [
+      "enforce",
+      "enforcement",
+      "enforceable",
+      "enforced"
+    ],
+    "example": "Rangers enforce fishing limits so fish populations can recover each season.",
+    "basic": "Rangers make people follow fishing limits so fish can recover."
+  },
+  "enhance": {
+    "simple": "To improve the quality, strength, or value of something.",
+    "detailed": "To make a feature better or more effective without replacing it entirely, such as enhancing a paragraph with sharper evidence.",
+    "zh": "提高；增强",
+    "syn": [
+      "improve",
+      "strengthen",
+      "boost"
+    ],
+    "ant": [
+      "weaken",
+      "diminish"
+    ],
+    "col": [
+      "enhance learning",
+      "enhance a skill",
+      "enhance the result"
+    ],
+    "fam": [
+      "enhance",
+      "enhancement",
+      "enhanced",
+      "enhancing"
+    ],
+    "example": "Clear topic sentences enhance a report because each paragraph then has a job.",
+    "basic": "Clear topic sentences make a report stronger."
+  },
+  "enrich": {
+    "simple": "To make something richer, more interesting, or more valuable.",
+    "detailed": "To add depth, nutrients, knowledge, or experience so a soil, a story, or a person's understanding becomes fuller than before.",
+    "zh": "丰富；充实",
+    "syn": [
+      "deepen",
+      "improve",
+      "nourish"
+    ],
+    "ant": [
+      "impoverish",
+      "strip"
+    ],
+    "col": [
+      "enrich the soil",
+      "enrich a story",
+      "enrich understanding"
+    ],
+    "fam": [
+      "enrich",
+      "enrichment",
+      "enriched",
+      "enriching"
+    ],
+    "example": "Vivid sensory details enrich a camp narrative and help the reader feel the cold.",
+    "basic": "Vivid details make a camp story more interesting."
+  },
+  "entitle": {
+    "simple": "To give someone a right to have or do something.",
+    "detailed": "To grant a legal or official claim, such as being entitled to a vote, a refund, or a fair hearing; also used when giving a text a title.",
+    "zh": "赋予权利；给……题名",
+    "syn": [
+      "authorise",
+      "qualify",
+      "allow"
+    ],
+    "ant": [
+      "disqualify",
+      "deny"
+    ],
+    "col": [
+      "entitle someone to",
+      "be entitled to",
+      "entitle a chapter"
+    ],
+    "fam": [
+      "entitle",
+      "entitlement",
+      "entitled",
+      "entitling"
+    ],
+    "example": "The new law will entitle every citizen aged 18 and over to vote in federal elections.",
+    "basic": "The new law will give every citizen aged 18 and over the right to vote."
+  },
+  "envisage": {
+    "simple": "To picture a future situation and think about how it could happen.",
+    "detailed": "To form a clear mental image of a plan, outcome, or possibility before it exists, a useful verb for design, policy, and academic planning.",
+    "zh": "设想；展望",
+    "syn": [
+      "imagine",
+      "foresee",
+      "picture"
+    ],
+    "ant": [],
+    "col": [
+      "envisage a future",
+      "envisage a plan",
+      "hard to envisage"
+    ],
+    "fam": [
+      "envisage",
+      "envisaged",
+      "envisaging"
+    ],
+    "example": "Can you envisage a playground that uses less water but still feels fun in summer?",
+    "basic": "Can you picture a playground that uses less water but still feels fun?"
+  },
+  "evoke": {
+    "simple": "To bring a feeling, memory, or image strongly into someone's mind.",
+    "detailed": "To call forth an emotional or sensory response through words, music, or images, a key literary technique in narrative and poetry.",
+    "zh": "唤起；引起",
+    "syn": [
+      "arouse",
+      "stir",
+      "call up"
+    ],
+    "ant": [
+      "suppress",
+      "dull"
+    ],
+    "col": [
+      "evoke a memory",
+      "evoke a feeling",
+      "evoke the atmosphere"
+    ],
+    "fam": [
+      "evoke",
+      "evocation",
+      "evocative",
+      "evoked"
+    ],
+    "example": "The smell of wet eucalyptus can evoke the bushwalk even months later.",
+    "basic": "The smell of wet eucalyptus can bring the bushwalk back to mind."
+  },
+  "exceed": {
+    "simple": "To go beyond a limit, amount, or expected level.",
+    "detailed": "To be greater than a number, rule, or standard, which in science often signals a result outside the safe or predicted range.",
+    "zh": "超过；超出",
+    "syn": [
+      "surpass",
+      "go beyond",
+      "outdo"
+    ],
+    "ant": [
+      "fall short",
+      "remain below"
+    ],
+    "col": [
+      "exceed the limit",
+      "exceed expectations",
+      "exceed a target"
+    ],
+    "fam": [
+      "exceed",
+      "excess",
+      "excessive",
+      "exceeding"
+    ],
+    "example": "If the temperature readings exceed 40 degrees, stop the lamp and record the time.",
+    "basic": "If the temperature goes past 40 degrees, stop the lamp and record the time."
+  },
+  "exhibit": {
+    "simple": "To show something clearly, such as a quality, result, or display.",
+    "detailed": "To present evidence of a feature or behaviour, or to put objects on view; in science it often means a sample displays a measurable property.",
+    "zh": "展示；表现出",
+    "syn": [
+      "show",
+      "display",
+      "present"
+    ],
+    "ant": [
+      "hide",
+      "conceal"
+    ],
+    "col": [
+      "exhibit a trait",
+      "exhibit results",
+      "exhibit a sample"
+    ],
+    "fam": [
+      "exhibit",
+      "exhibition",
+      "exhibitor",
+      "exhibited"
+    ],
+    "example": "Some metals exhibit magnetism, while others do not attract the compass needle.",
+    "basic": "Some metals show magnetism, while others do not attract the needle."
+  },
+  "exploit": {
+    "simple": "To use a resource or situation, sometimes unfairly, to get an advantage.",
+    "detailed": "To make use of something for gain; in HASS it can mean developing resources, but it often carries a warning about harming people or environments.",
+    "zh": "利用；剥削",
+    "syn": [
+      "use",
+      "take advantage of",
+      "harness"
+    ],
+    "ant": [
+      "protect",
+      "conserve"
+    ],
+    "col": [
+      "exploit a resource",
+      "exploit a weakness",
+      "exploit an opportunity"
+    ],
+    "fam": [
+      "exploit",
+      "exploitation",
+      "exploitative",
+      "exploited"
+    ],
+    "example": "Miners who exploit a river catchment must still protect drinking-water quality.",
+    "basic": "Miners who use a river area must still protect drinking water."
+  },
+  "expose": {
+    "simple": "To uncover something so it can be seen, tested, or judged.",
+    "detailed": "To leave a surface, idea, or person open to light, air, danger, or public view; in science, exposing a sample changes the conditions you are testing.",
+    "zh": "暴露；揭露",
+    "syn": [
+      "uncover",
+      "reveal",
+      "subject"
+    ],
+    "ant": [
+      "cover",
+      "shield"
+    ],
+    "col": [
+      "expose to sunlight",
+      "expose a problem",
+      "expose the truth"
+    ],
+    "fam": [
+      "expose",
+      "exposure",
+      "exposed",
+      "exposing"
+    ],
+    "example": "Expose one seedling to sunlight and keep the other in shade to compare growth.",
+    "basic": "Put one seedling in sunlight and keep the other in shade."
+  },
+  "facilitate": {
+    "simple": "To make a task or process easier so it can happen more smoothly.",
+    "detailed": "To help a discussion, experiment, or plan proceed by removing obstacles or providing structure, without necessarily doing the whole job yourself.",
+    "zh": "促进；使便利",
+    "syn": [
+      "enable",
+      "assist",
+      "ease"
+    ],
+    "ant": [
+      "hinder",
+      "obstruct"
+    ],
+    "col": [
+      "facilitate discussion",
+      "facilitate learning",
+      "facilitate a process"
+    ],
+    "fam": [
+      "facilitate",
+      "facilitation",
+      "facilitator",
+      "facilitated"
+    ],
+    "example": "Sentence starters can facilitate discussion when a group is unsure how to begin.",
+    "basic": "Sentence starters can make discussion easier when a group does not know how to begin."
+  },
+  "fluctuate": {
+    "simple": "To rise and fall, rather than staying at one steady level.",
+    "detailed": "To change repeatedly up and down, as temperatures, prices, or populations often do when conditions are not constant.",
+    "zh": "波动；起伏",
+    "syn": [
+      "vary",
+      "shift",
+      "oscillate"
+    ],
+    "ant": [
+      "stabilise",
+      "remain steady"
+    ],
+    "col": [
+      "fluctuate over time",
+      "temperatures fluctuate",
+      "prices fluctuate"
+    ],
+    "fam": [
+      "fluctuate",
+      "fluctuation",
+      "fluctuating",
+      "fluctuated"
+    ],
+    "example": "Creek levels fluctuate after storms, so one measurement is not enough.",
+    "basic": "Creek levels go up and down after storms, so one measurement is not enough."
+  },
+  "foster": {
+    "simple": "To encourage something good to grow, such as a skill, habit, or feeling.",
+    "detailed": "To support development over time through care and conditions, used in HASS for community strengths and in schools for curiosity or inclusion.",
+    "zh": "培养；促进",
+    "syn": [
+      "encourage",
+      "nurture",
+      "promote"
+    ],
+    "ant": [
+      "stifle",
+      "discourage"
+    ],
+    "col": [
+      "foster cooperation",
+      "foster a habit",
+      "foster understanding"
+    ],
+    "fam": [
+      "foster",
+      "fostering",
+      "fostered"
+    ],
+    "example": "Group roles can foster cooperation if every student has a clear job.",
+    "basic": "Group roles can help cooperation grow if every student has a job."
+  },
+  "hinder": {
+    "simple": "To make progress slower or more difficult.",
+    "detailed": "To get in the way of a process, argument, or plan so the intended result is delayed or weakened.",
+    "zh": "阻碍；妨碍",
+    "syn": [
+      "obstruct",
+      "hamper",
+      "slow"
+    ],
+    "ant": [
+      "help",
+      "facilitate"
+    ],
+    "col": [
+      "hinder progress",
+      "hinder learning",
+      "hinder growth"
+    ],
+    "fam": [
+      "hinder",
+      "hindrance",
+      "hindered",
+      "hindering"
+    ],
+    "example": "Missing units on a graph can hinder a reader's ability to compare the results.",
+    "basic": "Missing units on a graph can make it harder to compare the results."
+  },
+  "illuminate": {
+    "simple": "To light something up, or to make an idea much clearer.",
+    "detailed": "To shed light in a literal sense, or, in literary and academic writing, to explain a meaning so readers suddenly understand it.",
+    "zh": "阐明；照亮",
+    "syn": [
+      "clarify",
+      "explain",
+      "light up"
+    ],
+    "ant": [
+      "obscure",
+      "darken"
+    ],
+    "col": [
+      "illuminate a point",
+      "illuminate a scene",
+      "illuminate the meaning"
+    ],
+    "fam": [
+      "illuminate",
+      "illumination",
+      "illuminating",
+      "illuminated"
+    ],
+    "example": "One well-chosen quotation can illuminate the theme better than a long summary.",
+    "basic": "One well-chosen quotation can make the theme clearer than a long summary."
+  },
+  "implement": {
+    "simple": "To put a plan, rule, or method into action.",
+    "detailed": "To carry out a decision so it actually happens in the real world, not just on paper, which is a key academic and civic verb.",
+    "zh": "实施；执行",
+    "syn": [
+      "carry out",
+      "apply",
+      "enact"
+    ],
+    "ant": [
+      "abandon",
+      "shelve"
+    ],
+    "col": [
+      "implement a plan",
+      "implement a policy",
+      "implement a method"
+    ],
+    "fam": [
+      "implement",
+      "implementation",
+      "implemented",
+      "implementing"
+    ],
+    "example": "The student council will implement the new bin system after the assembly.",
+    "basic": "The student council will start using the new bin system after the assembly."
+  },
+  "impose": {
+    "simple": "To force a rule, cost, or decision onto people, whether they want it or not.",
+    "detailed": "To place a requirement, tax, penalty, or view on others by authority or pressure, a frequent idea in HASS when studying governments and power.",
+    "zh": "强加；征收",
+    "syn": [
+      "enforce",
+      "inflict",
+      "levy"
+    ],
+    "ant": [
+      "lift",
+      "remove"
+    ],
+    "col": [
+      "impose a rule",
+      "impose a fine",
+      "impose a view"
+    ],
+    "fam": [
+      "impose",
+      "imposition",
+      "imposed",
+      "imposing"
+    ],
+    "example": "Councils can impose a fine if garden waste is dumped in the creek.",
+    "basic": "Councils can give a fine if garden waste is dumped in the creek."
+  },
+  "incline": {
+    "simple": "To lean towards a particular opinion, choice, or direction.",
+    "detailed": "To tend to favour one option or interpretation, or to slope physically; in academic writing it usually signals a reasoned preference.",
+    "zh": "倾向于；倾斜",
+    "syn": [
+      "tend",
+      "lean",
+      "prefer"
+    ],
+    "ant": [
+      "resist",
+      "oppose"
+    ],
+    "col": [
+      "incline to agree",
+      "incline towards",
+      "incline a reader"
+    ],
+    "fam": [
+      "incline",
+      "inclination",
+      "inclined",
+      "inclining"
+    ],
+    "example": "The evidence may incline judges to support a later school start time.",
+    "basic": "The evidence may lead judges to support a later school start time."
+  },
+  "incorporate": {
+    "simple": "To include something as a working part of a larger whole.",
+    "detailed": "To build an idea, material, or method into a system so it belongs there, from incorporating a quote into a paragraph to adding a variable into a design.",
+    "zh": "纳入；包含",
+    "syn": [
+      "include",
+      "integrate",
+      "build in"
+    ],
+    "ant": [
+      "omit",
+      "exclude"
+    ],
+    "col": [
+      "incorporate evidence",
+      "incorporate a quote",
+      "incorporate feedback"
+    ],
+    "fam": [
+      "incorporate",
+      "incorporation",
+      "incorporated",
+      "incorporating"
+    ],
+    "example": "Incorporate one statistic into your introduction so the problem feels real.",
+    "basic": "Put one statistic into your introduction so the problem feels real."
+  },
+  "induce": {
+    "simple": "To cause a change or feeling to happen, often on purpose.",
+    "detailed": "To bring about a result by creating the right conditions, a precise science verb for causing a reaction, current, or behaviour.",
+    "zh": "引起；诱导",
+    "syn": [
+      "cause",
+      "bring about",
+      "trigger"
+    ],
+    "ant": [
+      "prevent",
+      "inhibit"
+    ],
+    "col": [
+      "induce a change",
+      "induce a reaction",
+      "induce a current"
+    ],
+    "fam": [
+      "induce",
+      "induction",
+      "induced",
+      "inducing"
+    ],
+    "example": "A moving magnet can induce a small current in the coil of wire.",
+    "basic": "A moving magnet can cause a small current in the coil of wire."
+  },
+  "inhibit": {
+    "simple": "To slow down or stop a process from happening as strongly as it could.",
+    "detailed": "To restrain a reaction, growth, or behaviour, often used in science when a chemical, condition, or rule holds something back.",
+    "zh": "抑制；阻止",
+    "syn": [
+      "restrain",
+      "hinder",
+      "suppress"
+    ],
+    "ant": [
+      "stimulate",
+      "encourage"
+    ],
+    "col": [
+      "inhibit growth",
+      "inhibit a reaction",
+      "inhibit learning"
+    ],
+    "fam": [
+      "inhibit",
+      "inhibition",
+      "inhibitor",
+      "inhibited"
+    ],
+    "example": "Low temperature can inhibit yeast activity, so the dough rises more slowly.",
+    "basic": "Low temperature can slow yeast, so the dough rises more slowly."
+  },
+  "initiate": {
+    "simple": "To start a process, plan, or action deliberately.",
+    "detailed": "To set something in motion as the first official or organised step, rather than waiting for it to happen by chance.",
+    "zh": "发起；开始",
+    "syn": [
+      "begin",
+      "launch",
+      "commence"
+    ],
+    "ant": [
+      "halt",
+      "conclude"
+    ],
+    "col": [
+      "initiate a project",
+      "initiate a discussion",
+      "initiate change"
+    ],
+    "fam": [
+      "initiate",
+      "initiation",
+      "initiative",
+      "initiated"
+    ],
+    "example": "Year 6 leaders will initiate a compost scheme in the first week of term.",
+    "basic": "Year 6 leaders will start a compost scheme in the first week of term."
+  },
+  "innovate": {
+    "simple": "To invent a new method, product, or way of doing something.",
+    "detailed": "To introduce a useful change that improves on the usual approach, a science and design verb linked to creativity and problem-solving.",
+    "zh": "创新",
+    "syn": [
+      "invent",
+      "create",
+      "pioneer"
+    ],
+    "ant": [
+      "copy",
+      "stagnate"
+    ],
+    "col": [
+      "innovate a method",
+      "innovate in design",
+      "need to innovate"
+    ],
+    "fam": [
+      "innovate",
+      "innovation",
+      "innovative",
+      "innovator"
+    ],
+    "example": "The design team had to innovate when the first water filter kept clogging.",
+    "basic": "The design team had to invent a new approach when the first filter clogged."
+  },
+  "insert": {
+    "simple": "To put something into a space, sentence, or system where it was not before.",
+    "detailed": "To place an object, word, or piece of data inside something else so it becomes part of that whole, from inserting a quote to inserting a sample.",
+    "zh": "插入",
+    "syn": [
+      "put in",
+      "place",
+      "add"
+    ],
+    "ant": [
+      "remove",
+      "extract"
+    ],
+    "col": [
+      "insert a quote",
+      "insert a sample",
+      "insert a sentence"
+    ],
+    "fam": [
+      "insert",
+      "insertion",
+      "inserted",
+      "inserting"
+    ],
+    "example": "Insert a short quotation after your claim so the evidence sits next to the idea.",
+    "basic": "Put a short quotation after your claim so the evidence sits next to the idea."
+  },
+  "institute": {
+    "simple": "To set up a new rule, system, or organisation so it officially begins.",
+    "detailed": "To establish a practice or body with authority, a formal HASS verb used when governments or schools create lasting arrangements.",
+    "zh": "设立；制定",
+    "syn": [
+      "establish",
+      "introduce",
+      "found"
+    ],
+    "ant": [
+      "abolish",
+      "discontinue"
+    ],
+    "col": [
+      "institute a rule",
+      "institute a programme",
+      "institute reform"
+    ],
+    "fam": [
+      "institute",
+      "institution",
+      "institutional",
+      "instituted"
+    ],
+    "example": "The council will institute a new water-saving programme after the drought report.",
+    "basic": "The council will start a new water-saving programme after the report."
+  },
+  "interact": {
+    "simple": "To act on each other so that each one affects the other.",
+    "detailed": "To have a two-way effect, whether people talking, chemicals reacting, or living things sharing a habitat.",
+    "zh": "相互作用；互动",
+    "syn": [
+      "connect",
+      "engage",
+      "affect one another"
+    ],
+    "ant": [
+      "isolate",
+      "ignore"
+    ],
+    "col": [
+      "interact with",
+      "interact in a group",
+      "species interact"
+    ],
+    "fam": [
+      "interact",
+      "interaction",
+      "interactive",
+      "interacting"
+    ],
+    "example": "In a food web, predators and prey interact, so a change in one group affects the other.",
+    "basic": "In a food web, predators and prey affect each other."
+  },
+  "intervene": {
+    "simple": "To step in and try to change what is happening.",
+    "detailed": "To become involved in a situation, often to prevent harm or to influence an outcome, a key idea in government, history, and conflict.",
+    "zh": "干预；介入",
+    "syn": [
+      "step in",
+      "mediate",
+      "interfere"
+    ],
+    "ant": [
+      "stand aside",
+      "ignore"
+    ],
+    "col": [
+      "intervene in a dispute",
+      "intervene early",
+      "government intervene"
+    ],
+    "fam": [
+      "intervene",
+      "intervention",
+      "intervening",
+      "intervened"
+    ],
+    "example": "Teachers may intervene if an argument on the oval looks as if it will turn unsafe.",
+    "basic": "Teachers may step in if an argument on the oval looks unsafe."
+  },
+  "manipulate": {
+    "simple": "To handle or control something skilfully, or sometimes unfairly.",
+    "detailed": "To operate variables, objects, or information so they change in a planned way; in science it can be neutral, but it can also mean dishonest control.",
+    "zh": "操控；操纵",
+    "syn": [
+      "control",
+      "handle",
+      "adjust"
+    ],
+    "ant": [],
+    "col": [
+      "manipulate a variable",
+      "manipulate data",
+      "manipulate an object"
+    ],
+    "fam": [
+      "manipulate",
+      "manipulation",
+      "manipulative",
+      "manipulated"
+    ],
+    "example": "In a fair test you manipulate only one variable and keep the others constant.",
+    "basic": "In a fair test you change only one thing and keep the others the same."
+  },
+  "mediate": {
+    "simple": "To help two sides talk and reach a fairer agreement.",
+    "detailed": "To act as a go-between in a disagreement so each party can be heard and a workable solution can be found.",
+    "zh": "调解；斡旋",
+    "syn": [
+      "arbitrate",
+      "negotiate",
+      "broker"
+    ],
+    "ant": [
+      "aggravate",
+      "inflame"
+    ],
+    "col": [
+      "mediate a dispute",
+      "mediate between",
+      "help mediate"
+    ],
+    "fam": [
+      "mediate",
+      "mediation",
+      "mediator",
+      "mediated"
+    ],
+    "example": "The year coordinator will mediate between the two teams after the unfair tackle.",
+    "basic": "The year coordinator will help the two teams talk after the unfair tackle."
+  },
+  "mitigate": {
+    "simple": "To make a problem less severe without removing it completely.",
+    "detailed": "To reduce harm, risk, or impact through planned actions, a precise science and civic verb used for drought, flooding, and pollution.",
+    "zh": "减轻；缓解",
+    "syn": [
+      "lessen",
+      "reduce",
+      "ease"
+    ],
+    "ant": [
+      "worsen",
+      "aggravate"
+    ],
+    "col": [
+      "mitigate the risk",
+      "mitigate the impact",
+      "mitigate harm"
+    ],
+    "fam": [
+      "mitigate",
+      "mitigation",
+      "mitigated",
+      "mitigating"
+    ],
+    "example": "Shade cloth can mitigate heat stress on seedlings during a heatwave.",
+    "basic": "Shade cloth can make heat less harmful for seedlings during a heatwave."
+  },
+  "negotiate": {
+    "simple": "To discuss a problem until both sides can accept a plan.",
+    "detailed": "To work through competing interests with talk and compromise, used in HASS for treaties, workplace deals, and everyday civic disagreements.",
+    "zh": "谈判；协商",
+    "syn": [
+      "bargain",
+      "discuss terms",
+      "come to terms"
+    ],
+    "ant": [
+      "dictate",
+      "refuse to talk"
+    ],
+    "col": [
+      "negotiate a deal",
+      "negotiate terms",
+      "negotiate a solution"
+    ],
+    "fam": [
+      "negotiate",
+      "negotiation",
+      "negotiator",
+      "negotiated"
+    ],
+    "example": "The two classes had to negotiate a timetable so both could use the library.",
+    "basic": "The two classes had to talk until they shared the library fairly."
+  },
+  "notify": {
+    "simple": "To tell someone official or important information so they know in time.",
+    "detailed": "To give formal notice of a fact, change, or requirement, usually in writing or a clear announcement rather than a casual remark.",
+    "zh": "通知",
+    "syn": [
+      "inform",
+      "alert",
+      "advise"
+    ],
+    "ant": [
+      "withhold",
+      "conceal"
+    ],
+    "col": [
+      "notify parents",
+      "notify the office",
+      "notify in writing"
+    ],
+    "fam": [
+      "notify",
+      "notification",
+      "notified",
+      "notifying"
+    ],
+    "example": "Please notify the office if a student will miss the excursion bus.",
+    "basic": "Please tell the office if a student will miss the excursion bus."
+  },
+  "offset": {
+    "simple": "To balance one effect with another so the overall harm or cost is smaller.",
+    "detailed": "To counteract a loss, emission, or disadvantage by creating an opposite benefit, a common idea in environmental science and budgeting.",
+    "zh": "抵消；补偿",
+    "syn": [
+      "counterbalance",
+      "make up for",
+      "compensate"
+    ],
+    "ant": [
+      "increase",
+      "worsen"
+    ],
+    "col": [
+      "offset the cost",
+      "offset emissions",
+      "offset a loss"
+    ],
+    "fam": [
+      "offset",
+      "offsets",
+      "offsetting"
+    ],
+    "example": "Planting trees can offset some of the carbon released by a school bus trip.",
+    "basic": "Planting trees can make up for some of the carbon from a bus trip."
+  },
+  "outweigh": {
+    "simple": "To be more important or greater than something else when you compare them.",
+    "detailed": "To tip the balance in a judgement so one benefit, risk, or reason counts more than the opposing side.",
+    "zh": "超过；比……更重要",
+    "syn": [
+      "exceed",
+      "override",
+      "count more than"
+    ],
+    "ant": [
+      "be outweighed by"
+    ],
+    "col": [
+      "outweigh the risks",
+      "outweigh the costs",
+      "benefits outweigh"
+    ],
+    "fam": [
+      "outweigh",
+      "outweighs",
+      "outweighing",
+      "outweighed"
+    ],
+    "example": "In the waste debate, long-term health benefits outweigh the short-term cost of new bins.",
+    "basic": "In the waste debate, long-term health benefits matter more than the cost of new bins."
+  },
+  "perceive": {
+    "simple": "To notice or understand something through your senses or mind.",
+    "detailed": "To become aware of a detail, mood, or meaning, which in literature often depends on a character's point of view as much as on the facts.",
+    "zh": "察觉；理解",
+    "syn": [
+      "notice",
+      "sense",
+      "recognise"
+    ],
+    "ant": [
+      "overlook",
+      "miss"
+    ],
+    "col": [
+      "perceive a change",
+      "perceive a threat",
+      "perceive the meaning"
+    ],
+    "fam": [
+      "perceive",
+      "perception",
+      "perceptive",
+      "perceived"
+    ],
+    "example": "Readers perceive the forest as threatening because the narrator describes every shadow.",
+    "basic": "Readers see the forest as threatening because the narrator describes every shadow."
+  },
+  "persist": {
+    "simple": "To continue for a long time, or to keep trying despite difficulty.",
+    "detailed": "To remain present or active instead of stopping, used in science for weather and symptoms, and in learning for determined effort.",
+    "zh": "持续；坚持",
+    "syn": [
+      "continue",
+      "endure",
+      "keep going"
+    ],
+    "ant": [
+      "cease",
+      "give up"
+    ],
+    "col": [
+      "persist over time",
+      "symptoms persist",
+      "persist with a task"
+    ],
+    "fam": [
+      "persist",
+      "persistence",
+      "persistent",
+      "persistently"
+    ],
+    "example": "If drought conditions persist, farmers may need to change what they plant.",
+    "basic": "If the dry weather keeps going, farmers may need to change what they plant."
+  },
+  "portray": {
+    "simple": "To show a person, place, or idea in a particular way in words or images.",
+    "detailed": "To represent a subject so readers or viewers receive a chosen impression, which can be fair, exaggerated, or biased.",
+    "zh": "描绘；刻画",
+    "syn": [
+      "depict",
+      "represent",
+      "show"
+    ],
+    "ant": [
+      "misrepresent"
+    ],
+    "col": [
+      "portray a character",
+      "portray a place",
+      "portray as"
+    ],
+    "fam": [
+      "portray",
+      "portrayal",
+      "portrayed",
+      "portraying"
+    ],
+    "example": "The novel does not portray the bush as empty; it is full of sound and danger.",
+    "basic": "The novel does not show the bush as empty; it is full of sound and danger."
+  },
+  "postpone": {
+    "simple": "To move an event to a later time instead of doing it now.",
+    "detailed": "To delay a planned action on purpose, usually because conditions, information, or people are not ready.",
+    "zh": "推迟；延期",
+    "syn": [
+      "delay",
+      "defer",
+      "put off"
+    ],
+    "ant": [
+      "bring forward",
+      "advance"
+    ],
+    "col": [
+      "postpone a meeting",
+      "postpone a test",
+      "postpone until"
+    ],
+    "fam": [
+      "postpone",
+      "postponement",
+      "postponed",
+      "postponing"
+    ],
+    "example": "The principal will postpone the sports carnival if the oval is still flooded.",
+    "basic": "The principal will move the sports carnival if the oval is still flooded."
+  },
+  "precede": {
+    "simple": "To happen or come before something else in time or order.",
+    "detailed": "To occupy an earlier position in a sequence, which helps writers explain cause, chronology, or the structure of a text.",
+    "zh": "先于；在……之前",
+    "syn": [
+      "come before",
+      "lead",
+      "go ahead of"
+    ],
+    "ant": [
+      "follow",
+      "succeed"
+    ],
+    "col": [
+      "precede the event",
+      "precede a chapter",
+      "events that precede"
+    ],
+    "fam": [
+      "precede",
+      "preceding",
+      "precedent",
+      "precedence"
+    ],
+    "example": "A clear aim should precede the method section in a scientific report.",
+    "basic": "A clear aim should come before the method section in a report."
+  },
+  "prescribe": {
+    "simple": "To set an official rule about what must be done, or to order a treatment.",
+    "detailed": "To lay down a required action, dose, or standard with authority, used in HASS for laws and procedures as well as in medicine.",
+    "zh": "规定；开处方",
+    "syn": [
+      "require",
+      "stipulate",
+      "order"
+    ],
+    "ant": [
+      "proscribe",
+      "forbid"
+    ],
+    "col": [
+      "prescribe a rule",
+      "prescribe a method",
+      "prescribe a treatment"
+    ],
+    "fam": [
+      "prescribe",
+      "prescription",
+      "prescribed",
+      "prescriptive"
+    ],
+    "example": "Safety guidelines prescribe how many adults must travel with each bus group.",
+    "basic": "Safety guidelines say how many adults must travel with each bus group."
+  },
+  "prevail": {
+    "simple": "To win out or become the most common or powerful result.",
+    "detailed": "To prove stronger than opposing forces, ideas, or conditions, whether a team prevails in a contest or a custom prevails in a community.",
+    "zh": "占上风；盛行",
+    "syn": [
+      "triumph",
+      "win",
+      "predominate"
+    ],
+    "ant": [
+      "fail",
+      "yield"
+    ],
+    "col": [
+      "prevail over",
+      "prevail in a dispute",
+      "calm prevail"
+    ],
+    "fam": [
+      "prevail",
+      "prevailing",
+      "prevalent",
+      "prevailed"
+    ],
+    "example": "In the end, the fairer argument should prevail if the judges weigh the evidence.",
+    "basic": "In the end, the fairer argument should win if the judges weigh the evidence."
+  },
+  "prohibit": {
+    "simple": "To officially forbid an action so it is not allowed.",
+    "detailed": "To ban something by law, rule, or authority, a precise civic verb that is stronger than simply discouraging a behaviour.",
+    "zh": "禁止",
+    "syn": [
+      "forbid",
+      "ban",
+      "outlaw"
+    ],
+    "ant": [
+      "permit",
+      "allow"
+    ],
+    "col": [
+      "prohibit smoking",
+      "prohibit access",
+      "rules prohibit"
+    ],
+    "fam": [
+      "prohibit",
+      "prohibition",
+      "prohibited",
+      "prohibitive"
+    ],
+    "example": "National park rules prohibit visitors from feeding the wildlife.",
+    "basic": "National park rules do not allow visitors to feed the wildlife."
+  },
+  "prompt": {
+    "simple": "To cause someone to act or speak, often quickly or as a reminder.",
+    "detailed": "To trigger a response, question, or action; in class a sentence starter can do this, while in argument a news story can spark a protest.",
+    "zh": "促使；引起",
+    "syn": [
+      "urge",
+      "spark",
+      "cause"
+    ],
+    "ant": [
+      "deter",
+      "discourage"
+    ],
+    "col": [
+      "prompt a response",
+      "prompt a question",
+      "prompt action"
+    ],
+    "fam": [
+      "prompt",
+      "promptly",
+      "prompting",
+      "prompted"
+    ],
+    "example": "The surprising graph will prompt students to ask what changed in the second week.",
+    "basic": "The surprising graph will make students ask what changed in the second week."
+  },
+  "provoke": {
+    "simple": "To stir a strong feeling or reaction, sometimes on purpose.",
+    "detailed": "To cause anger, thought, or action by words or events; in literature a sharp remark can start a conflict that reveals character.",
+    "zh": "激起；挑衅",
+    "syn": [
+      "incite",
+      "spark",
+      "irritate"
+    ],
+    "ant": [
+      "soothe",
+      "calm"
+    ],
+    "col": [
+      "provoke a reaction",
+      "provoke debate",
+      "provoke anger"
+    ],
+    "fam": [
+      "provoke",
+      "provocation",
+      "provocative",
+      "provoked"
+    ],
+    "example": "A careless joke can provoke an argument that the writer then has to resolve.",
+    "basic": "A careless joke can start an argument that the writer then has to resolve."
+  },
+  "qualify": {
+    "simple": "To meet the standard needed for a role, team, or prize.",
+    "detailed": "To become eligible by reaching a required level, or, in careful argument, to limit a statement so it is not too absolute.",
+    "zh": "取得资格；限定",
+    "syn": [
+      "become eligible",
+      "meet the standard",
+      "limit"
+    ],
+    "ant": [
+      "disqualify",
+      "fail"
+    ],
+    "col": [
+      "qualify for a team",
+      "qualify a statement",
+      "qualify as"
+    ],
+    "fam": [
+      "qualify",
+      "qualification",
+      "qualified",
+      "qualifying"
+    ],
+    "example": "Two more accurate times will help her qualify for the district athletics final.",
+    "basic": "Two more accurate times will help her reach the district athletics final."
+  },
+  "quantify": {
+    "simple": "To describe something with numbers so you can measure or compare it.",
+    "detailed": "To express an amount, change, or effect numerically rather than with vague words such as 'a lot' or 'some'.",
+    "zh": "量化",
+    "syn": [
+      "measure",
+      "count",
+      "calculate"
+    ],
+    "ant": [],
+    "col": [
+      "quantify the change",
+      "quantify the results",
+      "quantify the impact"
+    ],
+    "fam": [
+      "quantify",
+      "quantity",
+      "quantitative",
+      "quantification"
+    ],
+    "example": "The report must quantify the drop in waste, not just say the bins looked emptier.",
+    "basic": "The report must give a number for the drop in waste."
+  },
+  "reconcile": {
+    "simple": "To restore peace after a disagreement, or to make two facts fit together.",
+    "detailed": "To settle a conflict or resolve an apparent contradiction so relationships, records, or explanations become consistent again.",
+    "zh": "和解；调和",
+    "syn": [
+      "settle",
+      "resolve",
+      "make peace"
+    ],
+    "ant": [
+      "estrange",
+      "divide"
+    ],
+    "col": [
+      "reconcile differences",
+      "reconcile the accounts",
+      "reconcile two views"
+    ],
+    "fam": [
+      "reconcile",
+      "reconciliation",
+      "reconcilable",
+      "reconciled"
+    ],
+    "example": "The two captains tried to reconcile after the disputed try so the season could continue.",
+    "basic": "The two captains tried to make peace after the disputed try."
+  },
+  "reconstruct": {
+    "simple": "To build something again, or to piece the past together from clues.",
+    "detailed": "To restore a structure, event, or argument from remaining evidence, a key skill in history when original records are incomplete.",
+    "zh": "重建；复原",
+    "syn": [
+      "rebuild",
+      "restore",
+      "piece together"
+    ],
+    "ant": [
+      "demolish",
+      "destroy"
+    ],
+    "col": [
+      "reconstruct a building",
+      "reconstruct an event",
+      "reconstruct the past"
+    ],
+    "fam": [
+      "reconstruct",
+      "reconstruction",
+      "reconstructed",
+      "reconstructing"
+    ],
+    "example": "Historians reconstruct daily life in the colony from letters, tools, and maps.",
+    "basic": "Historians piece daily life in the colony together from letters, tools, and maps."
+  },
+  "reconsider": {
+    "simple": "To think about a decision again, in case it should change.",
+    "detailed": "To review a judgement with fresh attention or new evidence rather than clinging to the first idea.",
+    "zh": "重新考虑",
+    "syn": [
+      "rethink",
+      "review",
+      "reassess"
+    ],
+    "ant": [
+      "stick to",
+      "insist"
+    ],
+    "col": [
+      "reconsider a decision",
+      "reconsider your view",
+      "ask to reconsider"
+    ],
+    "fam": [
+      "reconsider",
+      "reconsideration",
+      "reconsidered",
+      "reconsidering"
+    ],
+    "example": "New rainfall data may make the council reconsider the dam-building plan.",
+    "basic": "New rainfall data may make the council think again about the dam plan."
+  },
+  "regulate": {
+    "simple": "To control an activity with rules so it stays safe, fair, or orderly.",
+    "detailed": "To manage a system through standards and oversight, from governments regulating industry to the body regulating temperature.",
+    "zh": "监管；调节",
+    "syn": [
+      "control",
+      "govern",
+      "manage"
+    ],
+    "ant": [
+      "deregulate",
+      "leave unchecked"
+    ],
+    "col": [
+      "regulate industry",
+      "regulate temperature",
+      "strictly regulate"
+    ],
+    "fam": [
+      "regulate",
+      "regulation",
+      "regulator",
+      "regulatory"
+    ],
+    "example": "The government can regulate fishing so species are not taken faster than they breed.",
+    "basic": "The government can set fishing rules so species are not taken too fast."
+  },
+  "reiterate": {
+    "simple": "To say the same important point again so it is not missed.",
+    "detailed": "To repeat a claim or instruction for emphasis, useful in argument when a writer wants the audience to remember a key reason.",
+    "zh": "重申",
+    "syn": [
+      "repeat",
+      "restate",
+      "emphasise"
+    ],
+    "ant": [],
+    "col": [
+      "reiterate a point",
+      "reiterate the rule",
+      "reiterate that"
+    ],
+    "fam": [
+      "reiterate",
+      "reiteration",
+      "reiterated",
+      "reiterating"
+    ],
+    "example": "Let me reiterate that every claim in the debate needs a source.",
+    "basic": "Let me say again that every claim in the debate needs a source."
+  },
+  "relinquish": {
+    "simple": "To give up a right, role, or object, usually on purpose.",
+    "detailed": "To surrender control or possession, often after a decision or under pressure, a formal HASS verb used for power, land, or claims.",
+    "zh": "放弃；交出",
+    "syn": [
+      "give up",
+      "surrender",
+      "hand over"
+    ],
+    "ant": [
+      "retain",
+      "keep"
+    ],
+    "col": [
+      "relinquish control",
+      "relinquish a claim",
+      "relinquish power"
+    ],
+    "fam": [
+      "relinquish",
+      "relinquishment",
+      "relinquished",
+      "relinquishing"
+    ],
+    "example": "A leader may relinquish a position if the community no longer supports the plan.",
+    "basic": "A leader may give up a position if the community no longer supports the plan."
+  },
+  "render": {
+    "simple": "To make someone or something become a certain way, or to present it vividly.",
+    "detailed": "In literary writing, to cause a state or to depict a scene so readers experience it; the verb can also mean to give a service or judgement.",
+    "zh": "使成为；呈现",
+    "syn": [
+      "make",
+      "depict",
+      "cause to become"
+    ],
+    "ant": [],
+    "col": [
+      "render a scene",
+      "render someone speechless",
+      "render a judgement"
+    ],
+    "fam": [
+      "render",
+      "rendering",
+      "rendered"
+    ],
+    "example": "The final image of empty streets can render the victory strangely sad.",
+    "basic": "The final image of empty streets can make the victory feel strangely sad."
+  },
+  "replicate": {
+    "simple": "To copy a result or method so you can check that it happens again.",
+    "detailed": "To repeat an experiment or process under similar conditions, which is how scientists test whether a finding is reliable.",
+    "zh": "复制；重做",
+    "syn": [
+      "repeat",
+      "reproduce",
+      "copy"
+    ],
+    "ant": [],
+    "col": [
+      "replicate an experiment",
+      "replicate the results",
+      "hard to replicate"
+    ],
+    "fam": [
+      "replicate",
+      "replication",
+      "replicable",
+      "replicated"
+    ],
+    "example": "Another group should replicate the test before we trust the unusual result.",
+    "basic": "Another group should do the test again before we trust the unusual result."
+  },
+  "resemble": {
+    "simple": "To look or seem like something else in an important way.",
+    "detailed": "To share noticeable features with another object, organism, or idea, which helps scientists classify and writers build comparisons.",
+    "zh": "类似；像",
+    "syn": [
+      "look like",
+      "be similar to",
+      "mirror"
+    ],
+    "ant": [
+      "differ from",
+      "contrast with"
+    ],
+    "col": [
+      "resemble a parent",
+      "closely resemble",
+      "resemble each other"
+    ],
+    "fam": [
+      "resemble",
+      "resemblance",
+      "resembling",
+      "resembled"
+    ],
+    "example": "The fossil teeth resemble those of a modern shark, so the diet may have been similar.",
+    "basic": "The fossil teeth look like those of a modern shark."
+  },
+  "resume": {
+    "simple": "To start again after a pause or interruption.",
+    "detailed": "To continue an activity from the point where it stopped, a precise academic verb for lessons, talks, and processes.",
+    "zh": "恢复；继续",
+    "syn": [
+      "restart",
+      "continue",
+      "recommence"
+    ],
+    "ant": [
+      "suspend",
+      "halt"
+    ],
+    "col": [
+      "resume work",
+      "resume a lesson",
+      "resume after a break"
+    ],
+    "fam": [
+      "resume",
+      "resumption",
+      "resumed",
+      "resuming"
+    ],
+    "example": "We will resume the investigation after lunch when the ice has been prepared.",
+    "basic": "We will start the investigation again after lunch."
+  },
+  "retrieve": {
+    "simple": "To get something back after it was stored, lost, or left behind.",
+    "detailed": "To recover an object, memory, or piece of information so it can be used again, from retrieving a file to retrieving a sample.",
+    "zh": "取回；检索",
+    "syn": [
+      "recover",
+      "fetch",
+      "regain"
+    ],
+    "ant": [
+      "lose",
+      "misplace"
+    ],
+    "col": [
+      "retrieve a file",
+      "retrieve information",
+      "retrieve a sample"
+    ],
+    "fam": [
+      "retrieve",
+      "retrieval",
+      "retrievable",
+      "retrieved"
+    ],
+    "example": "Students must retrieve their draft from the shared folder before the editing lesson.",
+    "basic": "Students must get their draft back from the shared folder before editing."
+  },
+  "sacrifice": {
+    "simple": "To give up something valuable so that a more important goal can succeed.",
+    "detailed": "To accept a loss of time, comfort, or possession for a person, cause, or greater good, a strong literary and moral idea.",
+    "zh": "牺牲",
+    "syn": [
+      "give up",
+      "forgo",
+      "surrender"
+    ],
+    "ant": [
+      "keep",
+      "retain"
+    ],
+    "col": [
+      "sacrifice time",
+      "sacrifice comfort",
+      "make a sacrifice"
+    ],
+    "fam": [
+      "sacrifice",
+      "sacrificial",
+      "sacrificed",
+      "sacrificing"
+    ],
+    "example": "The older sister chose to sacrifice her spare ticket so her brother could go.",
+    "basic": "The older sister gave up her spare ticket so her brother could go."
+  },
+  "scrutinise": {
+    "simple": "To examine something very closely to find strengths, errors, or hidden details.",
+    "detailed": "To inspect evidence, a text, or a plan with critical attention, a high-value academic verb for scholarship reading and scientific checking.",
+    "zh": "仔细审查",
+    "syn": [
+      "inspect",
+      "examine",
+      "study"
+    ],
+    "ant": [
+      "glance over",
+      "ignore"
+    ],
+    "col": [
+      "scrutinise the evidence",
+      "scrutinise a source",
+      "scrutinise the data"
+    ],
+    "fam": [
+      "scrutinise",
+      "scrutiny",
+      "scrutinised",
+      "scrutinising"
+    ],
+    "example": "Markers will scrutinise your conclusion to see whether it actually matches the table.",
+    "basic": "Markers will look very closely at your conclusion to see if it matches the table."
+  },
+  "simulate": {
+    "simple": "To copy a real process in a safer or simpler model so you can study it.",
+    "detailed": "To imitate conditions or behaviour, often with a diagram, role-play, or computer model, when the real event is too large, slow, or dangerous.",
+    "zh": "模拟",
+    "syn": [
+      "model",
+      "imitate",
+      "recreate"
+    ],
+    "ant": [],
+    "col": [
+      "simulate a process",
+      "simulate an experiment",
+      "simulate conditions"
+    ],
+    "fam": [
+      "simulate",
+      "simulation",
+      "simulator",
+      "simulated"
+    ],
+    "example": "The class used ice and a lamp to simulate how sunlight melts Antarctic ice.",
+    "basic": "The class used ice and a lamp to copy how sunlight melts Antarctic ice."
+  },
+  "stimulate": {
+    "simple": "To wake up or increase activity in a person, idea, or living system.",
+    "detailed": "To encourage a response so something works more strongly, from stimulating discussion to stimulating nerve cells or plant growth.",
+    "zh": "刺激；激发",
+    "syn": [
+      "encourage",
+      "activate",
+      "spark"
+    ],
+    "ant": [
+      "inhibit",
+      "dampen"
+    ],
+    "col": [
+      "stimulate growth",
+      "stimulate discussion",
+      "stimulate interest"
+    ],
+    "fam": [
+      "stimulate",
+      "stimulation",
+      "stimulus",
+      "stimulating"
+    ],
+    "example": "A surprising question can stimulate discussion more effectively than a yes-or-no prompt.",
+    "basic": "A surprising question can get discussion started better than a yes-or-no prompt."
+  },
+  "submit": {
+    "simple": "To hand in work for marking, or to give in to a stronger force.",
+    "detailed": "To present a document or proposal officially, or to yield after pressure; in school the first sense is the usual academic meaning.",
+    "zh": "提交；屈服",
+    "syn": [
+      "hand in",
+      "present",
+      "lodge"
+    ],
+    "ant": [
+      "withhold",
+      "withdraw"
+    ],
+    "col": [
+      "submit an assignment",
+      "submit a report",
+      "submit evidence"
+    ],
+    "fam": [
+      "submit",
+      "submission",
+      "submitted",
+      "submitting"
+    ],
+    "example": "Please submit the science report by Friday so feedback can arrive before the test.",
+    "basic": "Please hand in the science report by Friday so feedback can arrive before the test."
+  },
+  "substitute": {
+    "simple": "To use one thing in place of another when the first is missing or weaker.",
+    "detailed": "To replace a material, word, or person with an alternative that can do a similar job, a useful science and writing verb.",
+    "zh": "替代；替换",
+    "syn": [
+      "replace",
+      "swap",
+      "exchange"
+    ],
+    "ant": [],
+    "col": [
+      "substitute a material",
+      "substitute for",
+      "substitute a word"
+    ],
+    "fam": [
+      "substitute",
+      "substitution",
+      "substituted",
+      "substituting"
+    ],
+    "example": "You can substitute honey for sugar, but the browning time may change.",
+    "basic": "You can use honey instead of sugar, but the browning time may change."
+  },
+  "supplement": {
+    "simple": "To add something extra so the original is stronger or more complete.",
+    "detailed": "To provide an additional part that fills a gap, from extra evidence in an essay to extra nutrients in a diet.",
+    "zh": "补充",
+    "syn": [
+      "add to",
+      "top up",
+      "augment"
+    ],
+    "ant": [],
+    "col": [
+      "supplement a diet",
+      "supplement the evidence",
+      "supplement income"
+    ],
+    "fam": [
+      "supplement",
+      "supplementary",
+      "supplementation",
+      "supplemented"
+    ],
+    "example": "Photographs can supplement the written observations in a field journal.",
+    "basic": "Photographs can add extra detail to the written observations."
+  },
+  "suppress": {
+    "simple": "To hold something down so it does not spread, appear, or get heard.",
+    "detailed": "To prevent a feeling, report, protest, or process from becoming public or powerful, a strong HASS verb about control and power.",
+    "zh": "压制；镇压",
+    "syn": [
+      "stifle",
+      "quash",
+      "hold down"
+    ],
+    "ant": [
+      "release",
+      "encourage"
+    ],
+    "col": [
+      "suppress a report",
+      "suppress a protest",
+      "suppress a feeling"
+    ],
+    "fam": [
+      "suppress",
+      "suppression",
+      "suppressed",
+      "suppressing"
+    ],
+    "example": "A government that tries to suppress news of a disaster often loses public trust.",
+    "basic": "A government that tries to hide news of a disaster often loses public trust."
+  },
+  "surpass": {
+    "simple": "To do better than a person, record, or expected level.",
+    "detailed": "To go beyond a previous standard of quality or quantity, used for results, performances, and achievements.",
+    "zh": "超越；胜过",
+    "syn": [
+      "exceed",
+      "outdo",
+      "beat"
+    ],
+    "ant": [
+      "fall behind",
+      "trail"
+    ],
+    "col": [
+      "surpass a record",
+      "surpass expectations",
+      "surpass a rival"
+    ],
+    "fam": [
+      "surpass",
+      "surpassing",
+      "unsurpassed",
+      "surpassed"
+    ],
+    "example": "This year's recycling total may surpass last year's if every class uses the correct bin.",
+    "basic": "This year's recycling total may beat last year's if every class uses the correct bin."
+  },
+  "suspend": {
+    "simple": "To stop something for a time, with the idea that it may start again later.",
+    "detailed": "To pause an activity, rule, or person's participation temporarily, a formal civic and school verb different from ending something forever.",
+    "zh": "暂停；中止",
+    "syn": [
+      "pause",
+      "halt",
+      "put on hold"
+    ],
+    "ant": [
+      "resume",
+      "continue"
+    ],
+    "col": [
+      "suspend a lesson",
+      "suspend a rule",
+      "temporarily suspend"
+    ],
+    "fam": [
+      "suspend",
+      "suspension",
+      "suspended",
+      "suspending"
+    ],
+    "example": "The council will suspend outdoor sport if the air quality becomes unsafe.",
+    "basic": "The council will stop outdoor sport for a while if the air becomes unsafe."
+  },
+  "terminate": {
+    "simple": "To bring something to a complete end, rather than pausing it.",
+    "detailed": "To finish a process, contract, or activity so it does not continue, a formal academic verb stronger than simply stopping for a break.",
+    "zh": "终止；结束",
+    "syn": [
+      "end",
+      "finish",
+      "conclude"
+    ],
+    "ant": [
+      "begin",
+      "continue"
+    ],
+    "col": [
+      "terminate a process",
+      "terminate a contract",
+      "terminate the trial"
+    ],
+    "fam": [
+      "terminate",
+      "termination",
+      "terminal",
+      "terminated"
+    ],
+    "example": "The teacher will terminate the trial if any chemical spills outside the tray.",
+    "basic": "The teacher will end the trial if any chemical spills outside the tray."
+  },
+  "testify": {
+    "simple": "To give a formal statement about what you know or saw, especially as a witness.",
+    "detailed": "To speak as evidence before a court, inquiry, or official hearing, a key HASS verb about law, truth, and responsibility.",
+    "zh": "作证",
+    "syn": [
+      "bear witness",
+      "give evidence",
+      "attest"
+    ],
+    "ant": [],
+    "col": [
+      "testify in court",
+      "testify that",
+      "called to testify"
+    ],
+    "fam": [
+      "testify",
+      "testimony",
+      "testimonial",
+      "testified"
+    ],
+    "example": "A neighbour may testify about the flood height if the council holds an inquiry.",
+    "basic": "A neighbour may tell the inquiry how high the flood water rose."
+  },
+  "transcend": {
+    "simple": "To go beyond ordinary limits and reach something greater.",
+    "detailed": "To rise above a boundary of time, culture, or difficulty, a literary verb used when an idea or feeling seems larger than the moment.",
+    "zh": "超越",
+    "syn": [
+      "surpass",
+      "rise above",
+      "go beyond"
+    ],
+    "ant": [],
+    "col": [
+      "transcend a limit",
+      "transcend time",
+      "transcend differences"
+    ],
+    "fam": [
+      "transcend",
+      "transcendence",
+      "transcendent",
+      "transcended"
+    ],
+    "example": "The friendship in the novel seems to transcend the feud that divided the two families.",
+    "basic": "The friendship in the novel seems bigger than the feud that divided the families."
+  },
+  "transmit": {
+    "simple": "To send something from one place, person, or system to another.",
+    "detailed": "To pass on energy, information, disease, or a signal so it travels between points, a precise science and communication verb.",
+    "zh": "传播；传送",
+    "syn": [
+      "send",
+      "pass on",
+      "convey"
+    ],
+    "ant": [
+      "block",
+      "receive"
+    ],
+    "col": [
+      "transmit a signal",
+      "transmit heat",
+      "transmit a message"
+    ],
+    "fam": [
+      "transmit",
+      "transmission",
+      "transmitter",
+      "transmitted"
+    ],
+    "example": "Copper wires transmit electricity more efficiently than many other metals.",
+    "basic": "Copper wires send electricity more efficiently than many other metals."
+  },
+  "undermine": {
+    "simple": "To weaken something gradually, often from underneath or in a hidden way.",
+    "detailed": "To damage the strength, trust, or success of a plan, argument, or person, sometimes without an open attack.",
+    "zh": "削弱；暗中破坏",
+    "syn": [
+      "weaken",
+      "sabotage",
+      "erode"
+    ],
+    "ant": [
+      "support",
+      "strengthen"
+    ],
+    "col": [
+      "undermine an argument",
+      "undermine trust",
+      "undermine a plan"
+    ],
+    "fam": [
+      "undermine",
+      "undermining",
+      "undermined"
+    ],
+    "example": "A missing source can undermine an otherwise careful persuasive essay.",
+    "basic": "A missing source can weaken an otherwise careful persuasive essay."
+  },
+  "unify": {
+    "simple": "To bring separate parts or people together into one group or system.",
+    "detailed": "To create unity from difference, used in HASS for nations, movements, and communities that join under shared rules or goals.",
+    "zh": "统一；使团结",
+    "syn": [
+      "unite",
+      "combine",
+      "bring together"
+    ],
+    "ant": [
+      "divide",
+      "split"
+    ],
+    "col": [
+      "unify a nation",
+      "unify a team",
+      "unify the rules"
+    ],
+    "fam": [
+      "unify",
+      "unification",
+      "unified",
+      "unifying"
+    ],
+    "example": "Federation was meant to unify the colonies under one national parliament.",
+    "basic": "Federation was meant to bring the colonies together under one parliament."
+  },
+  "utilise": {
+    "simple": "To make practical use of something for a clear purpose.",
+    "detailed": "To put a resource, skill, or method to work, a formal academic verb that should replace 'use' only when the purpose is precise.",
+    "zh": "利用；使用",
+    "syn": [
+      "use",
+      "employ",
+      "apply"
+    ],
+    "ant": [
+      "waste",
+      "ignore"
+    ],
+    "col": [
+      "utilise a resource",
+      "utilise a method",
+      "utilise evidence"
+    ],
+    "fam": [
+      "utilise",
+      "utilisation",
+      "utilised",
+      "utility"
+    ],
+    "example": "The design brief asks students to utilise recycled materials in the model bridge.",
+    "basic": "The design brief asks students to use recycled materials in the model bridge."
+  },
+  "withstand": {
+    "simple": "To stay strong against force, pressure, or difficult conditions.",
+    "detailed": "To resist damage or collapse when something pushes, heats, or tests you, used for materials, buildings, and living things.",
+    "zh": "承受；经受住",
+    "syn": [
+      "resist",
+      "endure",
+      "stand up to"
+    ],
+    "ant": [
+      "collapse",
+      "give way"
+    ],
+    "col": [
+      "withstand pressure",
+      "withstand heat",
+      "withstand a storm"
+    ],
+    "fam": [
+      "withstand",
+      "withstanding",
+      "withstood"
+    ],
+    "example": "A seawall must withstand storm waves if the coastal road is to stay open.",
+    "basic": "A seawall must stay strong against storm waves if the coastal road is to stay open."
+  },
+  "yield": {
+    "simple": "To produce a result, crop, or amount, or to give way under pressure.",
+    "detailed": "In science, to give an output such as data, energy, or harvest; the same verb can also mean to surrender, so context matters.",
+    "zh": "产生；屈服",
+    "syn": [
+      "produce",
+      "give",
+      "generate"
+    ],
+    "ant": [
+      "withhold",
+      "resist"
+    ],
+    "col": [
+      "yield a result",
+      "yield a crop",
+      "high yield"
+    ],
+    "fam": [
+      "yield",
+      "yielding",
+      "yielded"
+    ],
+    "example": "The second trial should yield a clearer result if we keep the starting temperature the same.",
+    "basic": "The second trial should give a clearer result if we keep the starting temperature the same."
+  },
+  "abstract": {
+    "simple": "A short summary at the start of a report that tells the main aim and findings.",
+    "detailed": "A concise overview of a longer text, used so a reader can decide quickly what the study investigated and what it concluded.",
+    "zh": "摘要",
+    "syn": [
+      "summary",
+      "synopsis",
+      "overview"
+    ],
+    "ant": [],
+    "col": [
+      "write an abstract",
+      "read the abstract",
+      "abstract of a report"
+    ],
+    "fam": [
+      "abstract",
+      "abstracts",
+      "abstraction"
+    ],
+    "example": "Read the abstract first so you know the aim before you study the full method.",
+    "basic": "Read the short summary first so you know the aim before the full method."
+  },
+  "adaptation": {
+    "simple": "A feature or change that helps a living thing survive in its environment.",
+    "detailed": "A trait, behaviour, or adjustment that improves survival or success in particular conditions; the word can also mean a story changed for a new form.",
+    "zh": "适应；适应性特征",
+    "syn": [
+      "adjustment",
+      "trait",
+      "modification"
+    ],
+    "ant": [],
+    "col": [
+      "physical adaptation",
+      "behavioural adaptation",
+      "adaptation to climate"
+    ],
+    "fam": [
+      "adaptation",
+      "adapt",
+      "adapted",
+      "adaptive"
+    ],
+    "example": "A camel's ability to store fat in its hump is an adaptation to desert life.",
+    "basic": "A camel's hump is a feature that helps it live in the desert."
+  },
+  "agency": {
+    "simple": "An organisation that does a particular public job, or a person's power to act.",
+    "detailed": "In HASS it often names an official body that carries out work, and it can also mean the capacity of people to make choices that shape events.",
+    "zh": "机构；能动性",
+    "syn": [
+      "organisation",
+      "authority",
+      "capacity to act"
+    ],
+    "ant": [],
+    "col": [
+      "government agency",
+      "environmental agency",
+      "sense of agency"
+    ],
+    "fam": [
+      "agency",
+      "agencies",
+      "agent"
+    ],
+    "example": "The weather agency issued a heatwave warning two days before the carnival.",
+    "basic": "The weather office issued a heatwave warning two days before the carnival."
+  },
+  "allegiance": {
+    "simple": "Loyalty and support given to a person, group, country, or idea.",
+    "detailed": "A committed bond of duty or faithfulness, discussed in HASS when people choose sides in politics, history, or community life.",
+    "zh": "忠诚；效忠",
+    "syn": [
+      "loyalty",
+      "fidelity",
+      "devotion"
+    ],
+    "ant": [
+      "disloyalty",
+      "betrayal"
+    ],
+    "col": [
+      "pledge allegiance",
+      "allegiance to a country",
+      "shift allegiance"
+    ],
+    "fam": [
+      "allegiance",
+      "allegiances"
+    ],
+    "example": "Soldiers in the colony were expected to show allegiance to the Crown.",
+    "basic": "Soldiers in the colony were expected to stay loyal to the Crown."
+  },
+  "alliance": {
+    "simple": "An agreement between groups or countries to work together for a shared aim.",
+    "detailed": "A formal or informal partnership formed so members can support one another, often in politics, war, trade, or community campaigns.",
+    "zh": "联盟；同盟",
+    "syn": [
+      "partnership",
+      "coalition",
+      "union"
+    ],
+    "ant": [
+      "rivalry",
+      "opposition"
+    ],
+    "col": [
+      "form an alliance",
+      "military alliance",
+      "alliance between"
+    ],
+    "fam": [
+      "alliance",
+      "alliances",
+      "allied",
+      "ally"
+    ],
+    "example": "The two coastal towns formed an alliance to share the cost of a new seawall.",
+    "basic": "The two coastal towns agreed to work together to pay for a new seawall."
+  },
+  "allusion": {
+    "simple": "A brief mention of a well-known story, person, or event without explaining it fully.",
+    "detailed": "An indirect reference that expects the reader to recognise the original, adding meaning in literature if the audience shares that knowledge.",
+    "zh": "典故；暗指",
+    "syn": [
+      "reference",
+      "hint",
+      "nod"
+    ],
+    "ant": [],
+    "col": [
+      "literary allusion",
+      "make an allusion",
+      "biblical allusion"
+    ],
+    "fam": [
+      "allusion",
+      "allusions",
+      "allude",
+      "allusive"
+    ],
+    "example": "Calling the oval 'our Gallipoli' was an allusion that made the match sound like a hard battle.",
+    "basic": "Calling the oval 'our Gallipoli' hinted at a famous hard battle."
+  },
+  "analogy": {
+    "simple": "A comparison that explains a new idea by linking it to something familiar.",
+    "detailed": "A reasoned likeness between two things, used in teaching and argument to make an unfamiliar process easier to understand.",
+    "zh": "类比；比拟",
+    "syn": [
+      "comparison",
+      "parallel",
+      "likeness"
+    ],
+    "ant": [],
+    "col": [
+      "draw an analogy",
+      "useful analogy",
+      "by analogy"
+    ],
+    "fam": [
+      "analogy",
+      "analogies",
+      "analogous",
+      "analogically"
+    ],
+    "example": "The teacher used an analogy between a battery and a water tank to explain stored energy.",
+    "basic": "The teacher compared a battery to a water tank to explain stored energy."
+  },
+  "anomaly": {
+    "simple": "A result or fact that does not fit the usual pattern and needs checking.",
+    "detailed": "A departure from what is expected, which in science may signal an error, a new variable, or a genuine discovery.",
+    "zh": "异常；反常现象",
+    "syn": [
+      "irregularity",
+      "oddity",
+      "outlier"
+    ],
+    "ant": [],
+    "col": [
+      "statistical anomaly",
+      "explain the anomaly",
+      "unusual anomaly"
+    ],
+    "fam": [
+      "anomaly",
+      "anomalies",
+      "anomalous",
+      "anomalously"
+    ],
+    "example": "One very high reading was an anomaly, so the group repeated that trial.",
+    "basic": "One very high reading did not fit, so the group repeated that trial."
+  },
+  "anthology": {
+    "simple": "A book that collects chosen poems, stories, or extracts by one or more writers.",
+    "detailed": "A curated volume of literary pieces, useful in English when students compare different voices on a shared theme.",
+    "zh": "选集；文集",
+    "syn": [
+      "collection",
+      "selection",
+      "compendium"
+    ],
+    "ant": [],
+    "col": [
+      "poetry anthology",
+      "short-story anthology",
+      "school anthology"
+    ],
+    "fam": [
+      "anthology",
+      "anthologies",
+      "anthologist"
+    ],
+    "example": "Our class anthology includes bush poems beside modern city stories.",
+    "basic": "Our class collection includes bush poems beside modern city stories."
+  },
+  "appendix": {
+    "simple": "An extra section at the end of a book or report that holds useful extra detail.",
+    "detailed": "Supporting material placed after the main text, such as raw data, maps, or full questionnaires, so the argument stays clear.",
+    "zh": "附录",
+    "syn": [
+      "addendum",
+      "supplement",
+      "back section"
+    ],
+    "ant": [],
+    "col": [
+      "see the appendix",
+      "appendix of data",
+      "include an appendix"
+    ],
+    "fam": [
+      "appendix",
+      "appendices",
+      "appendixes"
+    ],
+    "example": "Put the full survey questions in the appendix so the report itself stays short.",
+    "basic": "Put the full survey questions at the end so the report itself stays short."
+  },
+  "architecture": {
+    "simple": "The design of buildings, or the way the parts of a system are arranged.",
+    "detailed": "The art and planning of structures, and by extension the organised design of institutions, cities, or ideas in HASS texts.",
+    "zh": "建筑；体系结构",
+    "syn": [
+      "building design",
+      "structure",
+      "construction style"
+    ],
+    "ant": [],
+    "col": [
+      "modern architecture",
+      "school architecture",
+      "architecture of a city"
+    ],
+    "fam": [
+      "architecture",
+      "architect",
+      "architectural",
+      "architecturally"
+    ],
+    "example": "Federation-era architecture in the main street still shows the town's early wealth.",
+    "basic": "The old buildings in the main street still show the town's early wealth."
+  },
+  "archive": {
+    "simple": "A collection of historical records stored so people can study them later.",
+    "detailed": "An organised store of documents, images, or data kept for evidence and research, often by libraries, councils, or museums.",
+    "zh": "档案；档案馆",
+    "syn": [
+      "record store",
+      "repository",
+      "collection"
+    ],
+    "ant": [],
+    "col": [
+      "town archive",
+      "search the archive",
+      "historical archive"
+    ],
+    "fam": [
+      "archive",
+      "archives",
+      "archivist",
+      "archival"
+    ],
+    "example": "The town archive still holds the original letters about the 1890s drought.",
+    "basic": "The town still keeps the original letters about the 1890s drought."
+  },
+  "article": {
+    "simple": "A piece of writing in a newspaper, magazine, or journal about one topic.",
+    "detailed": "A structured non-fiction text that reports, explains, or argues, a common academic reading type in scholarship papers.",
+    "zh": "文章；报道",
+    "syn": [
+      "piece",
+      "report",
+      "feature"
+    ],
+    "ant": [],
+    "col": [
+      "newspaper article",
+      "journal article",
+      "write an article"
+    ],
+    "fam": [
+      "article",
+      "articles"
+    ],
+    "example": "The newspaper article on river health used interviews as well as water-test results.",
+    "basic": "The newspaper piece on river health used interviews as well as water-test results."
+  },
+  "aspiration": {
+    "simple": "A strong hope to achieve something worthwhile in the future.",
+    "detailed": "An ambitious aim that guides effort over time, often revealing a character's values in literary and biographical writing.",
+    "zh": "志向；愿望",
+    "syn": [
+      "ambition",
+      "goal",
+      "hope"
+    ],
+    "ant": [],
+    "col": [
+      "career aspiration",
+      "high aspiration",
+      "share an aspiration"
+    ],
+    "fam": [
+      "aspiration",
+      "aspire",
+      "aspiring",
+      "aspirational"
+    ],
+    "example": "Her main aspiration was to become the first doctor in her family.",
+    "basic": "Her main hope was to become the first doctor in her family."
+  },
+  "assertion": {
+    "simple": "A statement that something is true, made firmly but not yet proved.",
+    "detailed": "A claim put forward with confidence; in argument it must be supported with evidence or it remains only an opinion.",
+    "zh": "断言；主张",
+    "syn": [
+      "claim",
+      "statement",
+      "declaration"
+    ],
+    "ant": [],
+    "col": [
+      "make an assertion",
+      "unsupported assertion",
+      "bold assertion"
+    ],
+    "fam": [
+      "assertion",
+      "assert",
+      "assertive",
+      "assertively"
+    ],
+    "example": "An assertion about homework is weaker than a claim backed by two studies.",
+    "basic": "A firm statement about homework is weaker than a claim backed by two studies."
+  },
+  "asset": {
+    "simple": "Something valuable that a person, group, or country owns or can use.",
+    "detailed": "A useful resource, skill, or possession that provides benefit, from money and land to a team's honesty or a wetland's wildlife.",
+    "zh": "资产；长处",
+    "syn": [
+      "resource",
+      "strength",
+      "possession"
+    ],
+    "ant": [
+      "liability",
+      "burden"
+    ],
+    "col": [
+      "valuable asset",
+      "community asset",
+      "natural asset"
+    ],
+    "fam": [
+      "asset",
+      "assets"
+    ],
+    "example": "The wetland is a community asset because it filters water and shelters birds.",
+    "basic": "The wetland is valuable to the community because it filters water and shelters birds."
+  },
+  "attitude": {
+    "simple": "The way a person usually thinks or feels about something, shown in words and actions.",
+    "detailed": "A settled outlook that shapes behaviour, tone, and choices; in literature it helps readers judge a character's values.",
+    "zh": "态度",
+    "syn": [
+      "outlook",
+      "stance",
+      "mindset"
+    ],
+    "ant": [],
+    "col": [
+      "positive attitude",
+      "change of attitude",
+      "attitude towards"
+    ],
+    "fam": [
+      "attitude",
+      "attitudes",
+      "attitudinal"
+    ],
+    "example": "The narrator's attitude towards the new town shifts from suspicion to belonging.",
+    "basic": "The narrator's feelings about the new town shift from suspicion to belonging."
+  },
+  "audit": {
+    "simple": "A careful official check of records, money, or how well a system is working.",
+    "detailed": "A systematic review that tests whether accounts, processes, or claims match the evidence, used in government, schools, and business.",
+    "zh": "审计；核查",
+    "syn": [
+      "inspection",
+      "review",
+      "check"
+    ],
+    "ant": [],
+    "col": [
+      "financial audit",
+      "energy audit",
+      "conduct an audit"
+    ],
+    "fam": [
+      "audit",
+      "auditor",
+      "auditing",
+      "audited"
+    ],
+    "example": "The energy audit showed that lights left on overnight wasted the most power.",
+    "basic": "The careful check showed that lights left on overnight wasted the most power."
+  },
+  "autonomy": {
+    "simple": "The freedom to make your own decisions without being controlled by others.",
+    "detailed": "The right or capacity of a person, group, or region to govern itself, a central idea in HASS discussions of rights and government.",
+    "zh": "自主权；自治",
+    "syn": [
+      "independence",
+      "self-rule",
+      "self-government"
+    ],
+    "ant": [
+      "dependence",
+      "control"
+    ],
+    "col": [
+      "student autonomy",
+      "political autonomy",
+      "greater autonomy"
+    ],
+    "fam": [
+      "autonomy",
+      "autonomous",
+      "autonomously"
+    ],
+    "example": "The new student council wants more autonomy over how fundraising money is spent.",
+    "basic": "The new student council wants more freedom over how fundraising money is spent."
+  },
+  "benchmark": {
+    "simple": "A clear standard used to judge how good a result or performance is.",
+    "detailed": "A reference point for comparison, so progress can be measured against an agreed level rather than a vague feeling.",
+    "zh": "基准；衡量标准",
+    "syn": [
+      "standard",
+      "yardstick",
+      "reference point"
+    ],
+    "ant": [],
+    "col": [
+      "set a benchmark",
+      "industry benchmark",
+      "benchmark score"
+    ],
+    "fam": [
+      "benchmark",
+      "benchmarks",
+      "benchmarking"
+    ],
+    "example": "Last year's recycling total became the benchmark for this term's waste target.",
+    "basic": "Last year's recycling total became the standard for this term's waste target."
+  },
+  "biodiversity": {
+    "simple": "The variety of living things in a place, from tiny insects to large plants and animals.",
+    "detailed": "The range of species, genes, and ecosystems in an area; a rich mix of living things usually makes a habitat more resilient to change.",
+    "zh": "生物多样性",
+    "syn": [
+      "variety of life",
+      "species richness",
+      "living diversity"
+    ],
+    "ant": [],
+    "col": [
+      "protect biodiversity",
+      "loss of biodiversity",
+      "local biodiversity"
+    ],
+    "fam": [
+      "biodiversity",
+      "diverse",
+      "diversity"
+    ],
+    "example": "Clearing the creek bank reduced biodiversity because fewer insects and birds remained.",
+    "basic": "Clearing the creek bank left fewer kinds of insects and birds."
+  },
+  "biography": {
+    "simple": "A true account of a real person's life, written by someone else.",
+    "detailed": "A non-fiction narrative that selects key events, influences, and achievements to explain how a life unfolded and why it matters.",
+    "zh": "传记",
+    "syn": [
+      "life story",
+      "profile",
+      "memoir of another"
+    ],
+    "ant": [],
+    "col": [
+      "write a biography",
+      "short biography",
+      "biography of a leader"
+    ],
+    "fam": [
+      "biography",
+      "biographical",
+      "biographer",
+      "biographies"
+    ],
+    "example": "The biography of Eddie Mabo explains why his legal fight changed land rights.",
+    "basic": "The life story of Eddie Mabo explains why his legal fight changed land rights."
+  },
+  "bureaucracy": {
+    "simple": "A system of officials and rules that manages government or a large organisation.",
+    "detailed": "The administrative structure that applies procedures, paperwork, and hierarchy; it can keep work orderly or make it slow.",
+    "zh": "官僚制度；行政体系",
+    "syn": [
+      "administration",
+      "official system",
+      "civil service"
+    ],
+    "ant": [],
+    "col": [
+      "government bureaucracy",
+      "reduce bureaucracy",
+      "layers of bureaucracy"
+    ],
+    "fam": [
+      "bureaucracy",
+      "bureaucratic",
+      "bureaucrat",
+      "bureaucratically"
+    ],
+    "example": "A slow bureaucracy delayed the flood-relief payments for several weeks.",
+    "basic": "Slow official paperwork delayed the flood-relief payments for several weeks."
+  },
+  "capability": {
+    "simple": "The skill or power to do a particular kind of work well.",
+    "detailed": "A developed capacity, whether of a person, team, or system, to achieve a task under given conditions.",
+    "zh": "能力；才能",
+    "syn": [
+      "ability",
+      "capacity",
+      "competence"
+    ],
+    "ant": [
+      "inability",
+      "weakness"
+    ],
+    "col": [
+      "scientific capability",
+      "build capability",
+      "demonstrate capability"
+    ],
+    "fam": [
+      "capability",
+      "capable",
+      "capably",
+      "capabilities"
+    ],
+    "example": "The design task tested each group's capability to build a bridge that held one kilogram.",
+    "basic": "The design task tested whether each group could build a bridge that held one kilogram."
+  },
+  "catalyst": {
+    "simple": "Something that speeds up a change without being used up, or that starts a bigger event.",
+    "detailed": "In science, a substance that increases the rate of a reaction; in wider writing, a person or event that triggers rapid change.",
+    "zh": "催化剂；促成因素",
+    "syn": [
+      "trigger",
+      "accelerator",
+      "spark"
+    ],
+    "ant": [],
+    "col": [
+      "chemical catalyst",
+      "catalyst for change",
+      "act as a catalyst"
+    ],
+    "fam": [
+      "catalyst",
+      "catalyse",
+      "catalytic",
+      "catalysis"
+    ],
+    "example": "The enzyme acted as a catalyst and the reaction finished in half the time.",
+    "basic": "The enzyme sped up the reaction so it finished in half the time."
+  },
+  "census": {
+    "simple": "An official count of all the people living in a country or area, plus key facts about them.",
+    "detailed": "A nationwide survey used by governments to plan services, representation, and resources from the collected population data.",
+    "zh": "人口普查",
+    "syn": [
+      "population count",
+      "official survey",
+      "headcount"
+    ],
+    "ant": [],
+    "col": [
+      "national census",
+      "census data",
+      "complete the census"
+    ],
+    "fam": [
+      "census",
+      "censuses"
+    ],
+    "example": "Census data help councils decide how many new classrooms a suburb may need.",
+    "basic": "The official population count helps councils decide how many new classrooms a suburb may need."
+  },
+  "chronicle": {
+    "simple": "A record of events written in the order they happened.",
+    "detailed": "A historical account organised by time rather than by argument, useful for seeing sequence even when causes are still debated.",
+    "zh": "编年史；纪事",
+    "syn": [
+      "record",
+      "annals",
+      "timeline account"
+    ],
+    "ant": [],
+    "col": [
+      "historical chronicle",
+      "chronicle of events",
+      "keep a chronicle"
+    ],
+    "fam": [
+      "chronicle",
+      "chronicles",
+      "chronicler",
+      "chronicled"
+    ],
+    "example": "The ship's chronicle listed every port from London to Sydney in date order.",
+    "basic": "The ship's record listed every port from London to Sydney in date order."
+  },
+  "civilisation": {
+    "simple": "A large, organised society with cities, shared rules, and lasting culture.",
+    "detailed": "A complex community marked by government, writing or records, specialised work, and cultural achievements that can be studied across time.",
+    "zh": "文明",
+    "syn": [
+      "society",
+      "culture",
+      "advanced society"
+    ],
+    "ant": [],
+    "col": [
+      "ancient civilisation",
+      "river civilisation",
+      "rise of a civilisation"
+    ],
+    "fam": [
+      "civilisation",
+      "civilisations",
+      "civilise",
+      "civilised"
+    ],
+    "example": "River valleys helped an early civilisation grow because the soil could feed many people.",
+    "basic": "River valleys helped an early organised society grow because the soil could feed many people."
+  },
+  "classification": {
+    "simple": "The act of sorting things into groups that share important features.",
+    "detailed": "A system for naming and organising items so scientists, librarians, or writers can compare them accurately.",
+    "zh": "分类",
+    "syn": [
+      "grouping",
+      "sorting",
+      "taxonomy"
+    ],
+    "ant": [],
+    "col": [
+      "scientific classification",
+      "classification system",
+      "method of classification"
+    ],
+    "fam": [
+      "classification",
+      "classify",
+      "classified",
+      "classifying"
+    ],
+    "example": "The classification of leaves by vein pattern helped the class identify each tree.",
+    "basic": "Sorting the leaves by vein pattern helped the class identify each tree."
+  },
+  "coalition": {
+    "simple": "A temporary partnership of groups that join to achieve a shared political or civic goal.",
+    "detailed": "An alliance formed so separate parties or organisations can pool power, often to pass a law, win an election, or run a campaign.",
+    "zh": "联盟；联合",
+    "syn": [
+      "alliance",
+      "bloc",
+      "partnership"
+    ],
+    "ant": [
+      "split",
+      "opposition"
+    ],
+    "col": [
+      "form a coalition",
+      "coalition government",
+      "community coalition"
+    ],
+    "fam": [
+      "coalition",
+      "coalitions"
+    ],
+    "example": "A coalition of parents and shop owners asked the council for a safer crossing.",
+    "basic": "A group of parents and shop owners asked the council for a safer crossing."
+  },
+  "code": {
+    "simple": "A set of rules that tells people how they are expected to behave.",
+    "detailed": "An organised collection of laws, standards, or principles, such as a conduct rulebook or a set of legal rules, used to guide civic life.",
+    "zh": "准则；法规",
+    "syn": [
+      "rules",
+      "standard",
+      "protocol"
+    ],
+    "ant": [],
+    "col": [
+      "code of conduct",
+      "legal code",
+      "follow the code"
+    ],
+    "fam": [
+      "code",
+      "codes",
+      "coded",
+      "codify"
+    ],
+    "example": "The school's code of conduct requires students to report bullying to a teacher.",
+    "basic": "The school's behaviour rules require students to report bullying to a teacher."
+  },
+  "collaboration": {
+    "simple": "Working with others on a shared task so the result is better than working alone.",
+    "detailed": "A planned partnership in which people combine skills, ideas, and effort, valued in academic group work and civic projects.",
+    "zh": "合作；协作",
+    "syn": [
+      "teamwork",
+      "partnership",
+      "cooperation"
+    ],
+    "ant": [
+      "isolation",
+      "rivalry"
+    ],
+    "col": [
+      "close collaboration",
+      "collaboration between",
+      "encourage collaboration"
+    ],
+    "fam": [
+      "collaboration",
+      "collaborate",
+      "collaborative",
+      "collaborator"
+    ],
+    "example": "The science prize rewarded collaboration because no single student could collect all the data.",
+    "basic": "The science prize rewarded teamwork because no single student could collect all the data."
+  },
+  "colleague": {
+    "simple": "A person you work with, especially in a professional or school setting.",
+    "detailed": "A fellow worker who shares duties or a workplace, a precise academic word for adults and older students in formal writing.",
+    "zh": "同事",
+    "syn": [
+      "co-worker",
+      "associate",
+      "workmate"
+    ],
+    "ant": [],
+    "col": [
+      "close colleague",
+      "research colleague",
+      "ask a colleague"
+    ],
+    "fam": [
+      "colleague",
+      "colleagues",
+      "collegial"
+    ],
+    "example": "The ranger asked a colleague to check the trap while she recorded the bird calls.",
+    "basic": "The ranger asked a workmate to check the trap while she recorded the bird calls."
+  },
+  "colonist": {
+    "simple": "A person who settles in a new land that is controlled by another country.",
+    "detailed": "Someone who lives in a colony, often taking land and resources already used by First Nations peoples, a key HASS figure in Australian history.",
+    "zh": "殖民者",
+    "syn": [
+      "settler",
+      "newcomer",
+      "colonial resident"
+    ],
+    "ant": [],
+    "col": [
+      "early colonist",
+      "British colonist",
+      "colonist in Australia"
+    ],
+    "fam": [
+      "colonist",
+      "colony",
+      "colonial",
+      "colonisation"
+    ],
+    "example": "A British colonist in 1788 arrived in a land already cared for by Aboriginal nations.",
+    "basic": "A British settler in 1788 arrived in a land already cared for by Aboriginal nations."
+  },
+  "commentary": {
+    "simple": "Spoken or written remarks that explain, judge, or describe what is happening.",
+    "detailed": "An interpretive layer added to events or a text, from sports description to a literary essay that comments on a writer's choices.",
+    "zh": "评述；解说",
+    "syn": [
+      "remark",
+      "analysis",
+      "explanation"
+    ],
+    "ant": [],
+    "col": [
+      "written commentary",
+      "sports commentary",
+      "provide commentary"
+    ],
+    "fam": [
+      "commentary",
+      "commentaries",
+      "comment",
+      "commentator"
+    ],
+    "example": "Your literary commentary should explain why the author repeats the word 'dust'.",
+    "basic": "Your written remarks should explain why the author repeats the word 'dust'."
+  },
+  "commission": {
+    "simple": "An official group given a special job, or a formal request to create something.",
+    "detailed": "A body appointed to investigate or manage an issue, and also the act of ordering work such as a report, artwork, or inquiry.",
+    "zh": "委员会；委任",
+    "syn": [
+      "committee",
+      "inquiry body",
+      "assignment"
+    ],
+    "ant": [],
+    "col": [
+      "royal commission",
+      "commission a report",
+      "independent commission"
+    ],
+    "fam": [
+      "commission",
+      "commissioner",
+      "commissioned",
+      "commissioning"
+    ],
+    "example": "A royal commission can examine a national problem that ordinary courts have not settled.",
+    "basic": "A special official group can examine a national problem that ordinary courts have not settled."
+  },
+  "commitment": {
+    "simple": "A promise to stay with a person, task, or idea and give it real effort.",
+    "detailed": "A durable obligation or dedication, whether legal, personal, or civic, that shows someone will not drop a responsibility lightly.",
+    "zh": "承诺；投入",
+    "syn": [
+      "dedication",
+      "promise",
+      "obligation"
+    ],
+    "ant": [
+      "indifference",
+      "neglect"
+    ],
+    "col": [
+      "show commitment",
+      "strong commitment",
+      "commitment to a cause"
+    ],
+    "fam": [
+      "commitment",
+      "commit",
+      "committed",
+      "committing"
+    ],
+    "example": "Cleaning the creek each term shows a real commitment to the local environment.",
+    "basic": "Cleaning the creek each term shows a real promise to look after the local environment."
+  },
+  "commodity": {
+    "simple": "A useful product that is bought, sold, or traded, such as wheat, wool, or oil.",
+    "detailed": "A good that has market value and can be exchanged, a key HASS term when studying trade, farming, and resources.",
+    "zh": "商品；大宗商品",
+    "syn": [
+      "product",
+      "goods",
+      "trade item"
+    ],
+    "ant": [],
+    "col": [
+      "farm commodity",
+      "trade a commodity",
+      "price of a commodity"
+    ],
+    "fam": [
+      "commodity",
+      "commodities",
+      "commodify"
+    ],
+    "example": "Wheat is an important Australian commodity because so much of it is exported.",
+    "basic": "Wheat is an important Australian product because so much of it is exported."
+  },
+  "commonwealth": {
+    "simple": "A political community formed for the common good, and the official name of Australia as a nation.",
+    "detailed": "A union of states or peoples organised for shared government; Australians use it for the national level of government after Federation.",
+    "zh": "联邦；共同体",
+    "syn": [
+      "federation",
+      "union",
+      "nation"
+    ],
+    "ant": [],
+    "col": [
+      "Commonwealth of Australia",
+      "Commonwealth government",
+      "Commonwealth law"
+    ],
+    "fam": [
+      "commonwealth",
+      "common",
+      "wealth"
+    ],
+    "example": "After 1901 the Commonwealth government could make laws for the whole nation.",
+    "basic": "After 1901 the national government could make laws for the whole country."
+  },
+  "communication": {
+    "simple": "The sharing of information, ideas, or feelings between people or systems.",
+    "detailed": "The process of sending and receiving meaning through speech, writing, images, or signals, essential in academic group work and civic life.",
+    "zh": "交流；沟通",
+    "syn": [
+      "exchange",
+      "contact",
+      "messaging"
+    ],
+    "ant": [],
+    "col": [
+      "clear communication",
+      "written communication",
+      "communication skills"
+    ],
+    "fam": [
+      "communication",
+      "communicate",
+      "communicative",
+      "communicator"
+    ],
+    "example": "Clear communication between group members stopped the experiment from being repeated twice.",
+    "basic": "Clear talking and notes between group members stopped the experiment from being repeated twice."
+  },
+  "compensation": {
+    "simple": "Something given to make up for a loss, injury, or extra effort.",
+    "detailed": "Payment or another benefit provided to restore fairness after harm, work, or sacrifice, a common HASS idea in law and employment.",
+    "zh": "补偿；赔偿",
+    "syn": [
+      "repayment",
+      "recompense",
+      "make-up payment"
+    ],
+    "ant": [],
+    "col": [
+      "fair compensation",
+      "claim compensation",
+      "compensation for loss"
+    ],
+    "fam": [
+      "compensation",
+      "compensate",
+      "compensatory",
+      "compensated"
+    ],
+    "example": "Farmers sought compensation after the flood destroyed the winter crop.",
+    "basic": "Farmers asked to be paid back after the flood destroyed the winter crop."
+  },
+  "competence": {
+    "simple": "The ability to do a task to a required standard.",
+    "detailed": "A reliable level of skill and understanding that lets someone perform work correctly and independently.",
+    "zh": "胜任能力；能力",
+    "syn": [
+      "ability",
+      "proficiency",
+      "capability"
+    ],
+    "ant": [
+      "incompetence",
+      "inability"
+    ],
+    "col": [
+      "show competence",
+      "scientific competence",
+      "level of competence"
+    ],
+    "fam": [
+      "competence",
+      "competent",
+      "competently",
+      "competency"
+    ],
+    "example": "The swimming test checks competence in deep water before the beach excursion.",
+    "basic": "The swimming test checks that students can manage in deep water before the beach excursion."
+  },
+  "compliance": {
+    "simple": "The act of following a rule, request, or law.",
+    "detailed": "Behaviour that matches required standards, often checked by officials; it can be willing or forced.",
+    "zh": "遵守；合规",
+    "syn": [
+      "obedience",
+      "observance",
+      "adherence"
+    ],
+    "ant": [
+      "defiance",
+      "non-compliance"
+    ],
+    "col": [
+      "compliance with rules",
+      "safety compliance",
+      "check compliance"
+    ],
+    "fam": [
+      "compliance",
+      "comply",
+      "compliant",
+      "complying"
+    ],
+    "example": "The building inspection checked compliance with the fire-exit rules.",
+    "basic": "The building inspection checked that the fire-exit rules were being followed."
+  },
+  "composition": {
+    "simple": "A piece of writing or music, or the way the parts of something are put together.",
+    "detailed": "In literary study it usually means a crafted text; it can also name the makeup of a mixture, group, or image.",
+    "zh": "作品；构成",
+    "syn": [
+      "piece",
+      "work",
+      "makeup"
+    ],
+    "ant": [],
+    "col": [
+      "written composition",
+      "musical composition",
+      "composition of a group"
+    ],
+    "fam": [
+      "composition",
+      "compose",
+      "composer",
+      "composite"
+    ],
+    "example": "Her composition used short sentences to make the storm feel sudden.",
+    "basic": "Her piece of writing used short sentences to make the storm feel sudden."
+  },
+  "compromise": {
+    "simple": "An agreement in which each side gives up part of what it wanted.",
+    "detailed": "A negotiated middle position that settles a conflict without a total win, a practical civic skill in families, councils, and parliaments.",
+    "zh": "妥协；折中",
+    "syn": [
+      "middle ground",
+      "settlement",
+      "trade-off"
+    ],
+    "ant": [
+      "deadlock",
+      "stalemate"
+    ],
+    "col": [
+      "reach a compromise",
+      "fair compromise",
+      "compromise between"
+    ],
+    "fam": [
+      "compromise",
+      "compromises",
+      "compromising",
+      "compromised"
+    ],
+    "example": "A compromise let one class use the hall on Monday and the other on Wednesday.",
+    "basic": "A middle-ground deal let one class use the hall on Monday and the other on Wednesday."
+  },
+  "computation": {
+    "simple": "The process of working out an answer using numbers or a clear method.",
+    "detailed": "A calculated procedure that turns data into a result, whether done by hand, on paper, or with a machine.",
+    "zh": "计算",
+    "syn": [
+      "calculation",
+      "working-out",
+      "reckoning"
+    ],
+    "ant": [],
+    "col": [
+      "accurate computation",
+      "method of computation",
+      "computation of the mean"
+    ],
+    "fam": [
+      "computation",
+      "compute",
+      "computer",
+      "computational"
+    ],
+    "example": "Show every step of the computation so the marker can see how the mean was found.",
+    "basic": "Show every step of the working so the marker can see how the mean was found."
+  },
+  "concession": {
+    "simple": "Something you admit or give up, often to be fair or to help a deal succeed.",
+    "detailed": "In argument, an acknowledgement of a weaker point or an opposing truth; in civic life, a right or benefit granted after negotiation.",
+    "zh": "让步；承认",
+    "syn": [
+      "admission",
+      "yield",
+      "allowance"
+    ],
+    "ant": [
+      "refusal",
+      "insistence"
+    ],
+    "col": [
+      "make a concession",
+      "important concession",
+      "concession to the other side"
+    ],
+    "fam": [
+      "concession",
+      "concede",
+      "concessions"
+    ],
+    "example": "A fair essay includes a concession before explaining why the main claim is still stronger.",
+    "basic": "A fair essay admits one weaker point before explaining why the main claim is still stronger."
+  },
+  "confidence": {
+    "simple": "A calm belief that you can do something, or that someone or something can be trusted.",
+    "detailed": "Trust in a person, process, or one's own ability; in literature it can rise or collapse and change a character's choices.",
+    "zh": "信心；信任",
+    "syn": [
+      "self-belief",
+      "assurance",
+      "trust"
+    ],
+    "ant": [
+      "doubt",
+      "insecurity"
+    ],
+    "col": [
+      "gain confidence",
+      "public confidence",
+      "confidence in"
+    ],
+    "fam": [
+      "confidence",
+      "confident",
+      "confidently",
+      "confide"
+    ],
+    "example": "The shy narrator gains confidence after the first successful speech.",
+    "basic": "The shy narrator feels braver after the first successful speech."
+  },
+  "consensus": {
+    "simple": "General agreement reached by a group after discussion.",
+    "detailed": "A shared decision or view that most members can accept, even if it is not everyone's first choice.",
+    "zh": "共识",
+    "syn": [
+      "agreement",
+      "common ground",
+      "shared view"
+    ],
+    "ant": [
+      "disagreement",
+      "division"
+    ],
+    "col": [
+      "reach a consensus",
+      "scientific consensus",
+      "group consensus"
+    ],
+    "fam": [
+      "consensus",
+      "consensual"
+    ],
+    "example": "After three meetings the class reached a consensus to ban balloons at the fete.",
+    "basic": "After three meetings the class agreed together to ban balloons at the fete."
+  },
+  "consistency": {
+    "simple": "The quality of staying the same in quality, method, or message over time.",
+    "detailed": "Reliability and internal agreement, so results, rules, or arguments do not jump about without reason.",
+    "zh": "一致性；连贯性",
+    "syn": [
+      "steadiness",
+      "uniformity",
+      "reliability"
+    ],
+    "ant": [
+      "inconsistency",
+      "variation"
+    ],
+    "col": [
+      "show consistency",
+      "consistency of results",
+      "lack of consistency"
+    ],
+    "fam": [
+      "consistency",
+      "consistent",
+      "consistently",
+      "inconsistent"
+    ],
+    "example": "Consistency in measuring the plants at the same time each day made the graph fairer.",
+    "basic": "Measuring the plants at the same time each day made the graph fairer."
+  },
+  "constituency": {
+    "simple": "The group of voters, or the area, that an elected representative serves.",
+    "detailed": "An electoral district and the people who live there, a core HASS term for understanding democracy and representation.",
+    "zh": "选区；选民",
+    "syn": [
+      "electorate",
+      "district",
+      "voters"
+    ],
+    "ant": [],
+    "col": [
+      "local constituency",
+      "represent a constituency",
+      "constituency office"
+    ],
+    "fam": [
+      "constituency",
+      "constituencies",
+      "constituent"
+    ],
+    "example": "Each member of parliament must listen to the needs of their own constituency.",
+    "basic": "Each member of parliament must listen to the needs of their own voting area."
+  },
+  "constraint": {
+    "simple": "A limit that stops you from doing whatever you like.",
+    "detailed": "A restriction of time, money, space, or rules that shapes what is possible in a design, argument, or investigation.",
+    "zh": "限制；约束",
+    "syn": [
+      "limitation",
+      "restriction",
+      "bound"
+    ],
+    "ant": [
+      "freedom",
+      "latitude"
+    ],
+    "col": [
+      "time constraint",
+      "budget constraint",
+      "work within a constraint"
+    ],
+    "fam": [
+      "constraint",
+      "constrain",
+      "constrained",
+      "constraining"
+    ],
+    "example": "A time constraint of twenty minutes forced the group to choose one test only.",
+    "basic": "Having only twenty minutes forced the group to choose one test only."
+  },
+  "construction": {
+    "simple": "The process of building something, or the way a text or idea is put together.",
+    "detailed": "Physical building work, and also the crafted structure of an argument, identity, or historical account in HASS and English.",
+    "zh": "建设；建构",
+    "syn": [
+      "building",
+      "assembly",
+      "structure"
+    ],
+    "ant": [
+      "demolition",
+      "destruction"
+    ],
+    "col": [
+      "under construction",
+      "construction of an argument",
+      "road construction"
+    ],
+    "fam": [
+      "construction",
+      "construct",
+      "constructive",
+      "constructor"
+    ],
+    "example": "Road construction near the school changed the walking route for a whole term.",
+    "basic": "Road building near the school changed the walking route for a whole term."
+  },
+  "consultant": {
+    "simple": "A person paid for specialist advice because they know a field well.",
+    "detailed": "An expert who is invited to examine a problem and recommend action, common in government, schools, and business projects.",
+    "zh": "顾问",
+    "syn": [
+      "adviser",
+      "specialist",
+      "expert"
+    ],
+    "ant": [],
+    "col": [
+      "education consultant",
+      "hire a consultant",
+      "consultant report"
+    ],
+    "fam": [
+      "consultant",
+      "consult",
+      "consultation",
+      "consulting"
+    ],
+    "example": "The school hired a traffic consultant to design a safer kiss-and-drop zone.",
+    "basic": "The school hired an expert to design a safer kiss-and-drop zone."
+  }
+}

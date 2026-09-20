@@ -85,8 +85,8 @@ If any answer is “no,” replace the word before approval.
 ## H. Approval Gate
 
 - [ ] Parent/teacher has reviewed sample (first 10 + last 5) and spot-checked Chinese
-- [ ] Batch 1 approved **before** generating Academic Core 101–400
-- [ ] No OpenMAIC repo files modified as part of this vocabulary work
+- [ ] Batch 1 remains the untouched source of truth for VAC0001–VAC0100
+- [ ] Expansion VAC0101–VAC1500 is delivered as one complete pack with unified QA/Sources
 
 ---
 

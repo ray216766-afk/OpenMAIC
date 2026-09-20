@@ -6,16 +6,16 @@ This is **not ESL**. Oliver is a native English speaker. Student-facing content 
 
 ## Active bank
 
-The live lesson bank is **Academic Core Batch 1 (100 words, VAC0001–VAC0100)**.
+The live lesson bank is **Academic Core Master (~1500 words, VAC0001–VAC1500)**.
 
 | Item | Value |
 | --- | --- |
-| Source of truth | `Y5Y6_Academic_Vocabulary_Master/data/Academic_Core_Batch_001_words_001-100.json` |
-| Compiled snapshot | `Vocabulary_Master.json` (rebuilt with `pnpm oliver:build-master`) |
+| Batch 1 source of truth | `Y5Y6_Academic_Vocabulary_Master/data/Academic_Core_Batch_001_words_001-100.json` (VAC0001–VAC0100; do not edit) |
+| Expansion pack | `Y5Y6_Academic_Vocabulary_Master/data/Academic_Core_Expansion_101-1500.json` (VAC0101–VAC1500) |
+| Compiled snapshot | `Vocabulary_Master.json` (rebuilt with `pnpm oliver:expand` or `pnpm oliver:build-master`) |
 | Archived V1.0 seed | `archive/Vocabulary_Master_seed_v1_309.json` (not used for lessons) |
-| Expansion path | Later approved batches toward **~1500** words. Do not generate Batch 2+ here. |
 
-Day 1 new words are the first ten unused Level 1 Academic Core lemmas (analyse, significant, environment, …). A word already shown as New / with `first_seen` never appears in New Vocabulary again — only in Review Vocabulary. The 100-word batch does **not** wrap.
+Day 1 new words are still the first ten unused Level 1 Academic Core lemmas (analyse, significant, environment, …). A word already shown as New / with `first_seen` never appears in New Vocabulary again — only in Review Vocabulary. The bank does **not** wrap when unused New words run out.
 
 ## Progress reset
 
@@ -119,10 +119,11 @@ pnpm oliver:lesson -- --day 1 --reset
 ```
 Oliver_Vocabulary_System/
 ├── Y5Y6_Academic_Vocabulary_Master/
-│   ├── data/Academic_Core_Batch_001_words_001-100.json   # live canonical bank
-│   ├── data/Vocabulary_Master_from_Batch001.json         # mapped engine view
-│   └── Documentation/                                    # selection / lesson / QC rules
-├── Vocabulary_Master.json      # compiled runtime snapshot of Batch 1
+│   ├── data/Academic_Core_Batch_001_words_001-100.json   # Batch 1 source of truth
+│   ├── data/Academic_Core_Expansion_101-1500.json        # VAC0101–VAC1500
+│   ├── data/Vocabulary_Master_from_Batch001.json         # Batch-1-only mapped snapshot
+│   └── Documentation/                                    # selection / lesson / QC / expansion QA
+├── Vocabulary_Master.json      # compiled runtime snapshot (Batch 1 + expansion)
 ├── archive/Vocabulary_Master_seed_v1_309.json
 ├── Vocabulary_Progress.json    # live mastery store (reset for Batch 1)
 ├── Daily_Lesson_Generator/     # Day N curriculum + orchestration
@@ -183,11 +184,13 @@ pnpm oliver:build-master
 
 ### Expand toward ~1500
 
-Do not auto-generate filler lists or Batch 2+ words here. After a later batch is approved, merge a curated pack:
+The curated Academic Core expansion (VAC0101–VAC1500) is merged into the compiled runtime master with:
 
 ```bash
-pnpm oliver:expand -- --pack Oliver_Vocabulary_System/Y5Y6_Academic_Vocabulary_Master/data/Academic_Core_Batch_002.json
+pnpm oliver:expand -- --pack Oliver_Vocabulary_System/Y5Y6_Academic_Vocabulary_Master/data/Academic_Core_Expansion_101-1500.json
 ```
+
+`pnpm oliver:build-master` also compiles Batch 1 + the expansion pack when that file is present. Neither command rewrites Batch 1 JSON or student progress.
 
 ## Progress schema and mastery
 

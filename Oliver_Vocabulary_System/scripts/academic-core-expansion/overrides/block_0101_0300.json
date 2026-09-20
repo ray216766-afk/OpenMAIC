@@ -1,0 +1,5124 @@
+{
+  "adapt": {
+    "simple": "To change the way you do something so it works better in a new situation.",
+    "detailed": "Living things and people adapt when they alter habits, tools, or features to suit a new habitat, climate, or problem.",
+    "zh": "适应；调整自身以适合新环境",
+    "syn": [
+      "adjust",
+      "modify",
+      "alter"
+    ],
+    "ant": [],
+    "col": [
+      "adapt to change",
+      "adapt a method",
+      "adapt to the habitat"
+    ],
+    "fam": [
+      "adapt",
+      "adaptation",
+      "adaptable",
+      "adaptive",
+      "adapter"
+    ],
+    "example": "Desert plants adapt to dry soil by storing water in thick leaves.",
+    "basic": "The plants change so they can live there."
+  },
+  "adjust": {
+    "simple": "To make a small change so something fits, works, or reads correctly.",
+    "detailed": "You adjust a setting, measurement, or plan by shifting it slightly until the result is accurate or comfortable.",
+    "zh": "调节；微调使合适或准确",
+    "syn": [
+      "tweak",
+      "modify",
+      "alter"
+    ],
+    "ant": [],
+    "col": [
+      "adjust the temperature",
+      "adjust a setting",
+      "adjust the focus"
+    ],
+    "fam": [
+      "adjust",
+      "adjustment",
+      "adjustable",
+      "readjust",
+      "adjusted"
+    ],
+    "example": "We adjust the microscope so the pond-water cells come into clear focus.",
+    "basic": "We move the knob a little so we can see."
+  },
+  "apply": {
+    "simple": "To use a skill, rule, or idea in a real task or new problem.",
+    "detailed": "Students apply knowledge when they take what they have learnt and use it to solve a question, write a text, or complete a practical job.",
+    "zh": "应用；把知识或规则用到实际问题上",
+    "syn": [
+      "use",
+      "employ",
+      "implement"
+    ],
+    "ant": [],
+    "col": [
+      "apply a rule",
+      "apply your knowledge",
+      "apply for a place"
+    ],
+    "fam": [
+      "apply",
+      "application",
+      "applicant",
+      "applied",
+      "applicable"
+    ],
+    "example": "On the scholarship paper, apply the same fraction rule to every worded problem.",
+    "basic": "Use what you learnt on the new questions."
+  },
+  "argue": {
+    "simple": "To give reasons that support a point of view in a careful way.",
+    "detailed": "In academic writing, you argue when you state a claim and back it with evidence, not when you just shout or disagree.",
+    "zh": "论证；提出理由来支持一种看法",
+    "syn": [
+      "contend",
+      "reason",
+      "maintain"
+    ],
+    "ant": [
+      "agree"
+    ],
+    "col": [
+      "argue a case",
+      "argue that",
+      "argue against"
+    ],
+    "fam": [
+      "argue",
+      "argument",
+      "argumentative",
+      "arguably",
+      "arguable"
+    ],
+    "example": "In the waste debate, argue that the canteen should stop selling single-use bottles.",
+    "basic": "Say what you think and why."
+  },
+  "arrange": {
+    "simple": "To put things in a clear order or to plan how they will happen.",
+    "detailed": "You arrange objects, ideas, or events so they follow a useful sequence, grouping, or timetable.",
+    "zh": "安排；整理成有序的样子",
+    "syn": [
+      "organise",
+      "order",
+      "sort"
+    ],
+    "ant": [
+      "scatter"
+    ],
+    "col": [
+      "arrange the notes",
+      "arrange a meeting",
+      "arrange in order"
+    ],
+    "fam": [
+      "arrange",
+      "arrangement",
+      "arranged",
+      "rearrange",
+      "arranger"
+    ],
+    "example": "Arrange your research notes under headings before you write the inquiry report.",
+    "basic": "Put the notes in a tidy order."
+  },
+  "assemble": {
+    "simple": "To put separate parts together so they make a whole.",
+    "detailed": "In science and design, you assemble equipment or a model by joining pieces in the correct order so the system can work.",
+    "zh": "组装；把零部件拼成整体",
+    "syn": [
+      "construct",
+      "build",
+      "put together"
+    ],
+    "ant": [
+      "dismantle"
+    ],
+    "col": [
+      "assemble the circuit",
+      "assemble a model",
+      "assemble the equipment"
+    ],
+    "fam": [
+      "assemble",
+      "assembly",
+      "assembled",
+      "assembler",
+      "disassemble"
+    ],
+    "example": "Assemble the circuit in the order shown before you test the bulb.",
+    "basic": "Put the pieces together."
+  },
+  "calculate": {
+    "simple": "To work out a number by using maths, not by guessing.",
+    "detailed": "You calculate when you use an operation, formula, or measured values to find an exact or estimated numerical answer.",
+    "zh": "计算；用数学求出数值",
+    "syn": [
+      "compute",
+      "work out",
+      "reckon"
+    ],
+    "ant": [],
+    "col": [
+      "calculate the average",
+      "calculate the total",
+      "calculate the difference"
+    ],
+    "fam": [
+      "calculate",
+      "calculation",
+      "calculator",
+      "calculated",
+      "miscalculate"
+    ],
+    "example": "Calculate the average height of the bean plants after two weeks.",
+    "basic": "Work out the number with maths."
+  },
+  "categorise": {
+    "simple": "To sort things into groups that share the same kind of feature.",
+    "detailed": "You categorise information when you place items into named groups so patterns are easier to compare and explain.",
+    "zh": "归类；按共同特征分成类别",
+    "syn": [
+      "classify",
+      "group",
+      "sort"
+    ],
+    "ant": [],
+    "col": [
+      "categorise the words",
+      "categorise sources",
+      "categorise by type"
+    ],
+    "fam": [
+      "categorise",
+      "category",
+      "categorisation",
+      "categorical",
+      "uncategorised"
+    ],
+    "example": "Categorise the library books as fiction, information, or poetry before shelving them.",
+    "basic": "Put the books into groups."
+  },
+  "challenge": {
+    "simple": "To question an idea and ask for stronger reasons or evidence.",
+    "detailed": "You challenge a claim when you test it, point out a weakness, or ask whether the proof is good enough.",
+    "zh": "质疑；对观点提出异议并要求更好的理由",
+    "syn": [
+      "question",
+      "dispute",
+      "contest"
+    ],
+    "ant": [
+      "accept"
+    ],
+    "col": [
+      "challenge a claim",
+      "challenge the evidence",
+      "challenge an idea"
+    ],
+    "fam": [
+      "challenge",
+      "challenging",
+      "challenger",
+      "unchallenged",
+      "challengeable"
+    ],
+    "example": "Challenge the claim that plastic bags are harmless if the article gives no data.",
+    "basic": "Ask if that opinion is really true."
+  },
+  "clarify": {
+    "simple": "To make an idea clearer so other people can understand it.",
+    "detailed": "You clarify writing or speech by adding detail, defining a word, or removing anything that confuses the reader.",
+    "zh": "澄清；把意思说清楚",
+    "syn": [
+      "explain",
+      "clear up",
+      "simplify"
+    ],
+    "ant": [
+      "confuse"
+    ],
+    "col": [
+      "clarify the meaning",
+      "clarify a point",
+      "clarify your answer"
+    ],
+    "fam": [
+      "clarify",
+      "clarification",
+      "clarity",
+      "clarified",
+      "clarifying"
+    ],
+    "example": "Clarify the last sentence so the marker knows which creek site you measured.",
+    "basic": "Make the sentence easier to understand."
+  },
+  "classify": {
+    "simple": "To sort living things or objects into scientific groups.",
+    "detailed": "Scientists classify organisms or materials by shared features so they can be named, compared, and studied in an organised way.",
+    "zh": "分类；按科学标准划分种类",
+    "syn": [
+      "categorise",
+      "group",
+      "sort"
+    ],
+    "ant": [],
+    "col": [
+      "classify animals",
+      "classify rocks",
+      "classify by feature"
+    ],
+    "fam": [
+      "classify",
+      "classification",
+      "classified",
+      "classifier",
+      "unclassified"
+    ],
+    "example": "Classify the creek animals as insects, fish, or crustaceans using the identification key.",
+    "basic": "Sort the animals into groups."
+  },
+  "collect": {
+    "simple": "To bring things together so you can use or study them.",
+    "detailed": "You collect samples, data, or objects by gathering them carefully, often following a method so the set is useful.",
+    "zh": "收集；把东西或数据聚集起来",
+    "syn": [
+      "gather",
+      "bring in",
+      "pick up"
+    ],
+    "ant": [
+      "scatter"
+    ],
+    "col": [
+      "collect data",
+      "collect samples",
+      "collect evidence"
+    ],
+    "fam": [
+      "collect",
+      "collection",
+      "collector",
+      "collective",
+      "collected"
+    ],
+    "example": "Collect water samples from three points along the creek after the rain.",
+    "basic": "Pick up the things you need."
+  },
+  "combine": {
+    "simple": "To join two or more things so they work or appear as one.",
+    "detailed": "You combine materials, ideas, or results when you put them together to make a mixture, a stronger point, or a new whole.",
+    "zh": "结合；把几样东西合在一起",
+    "syn": [
+      "join",
+      "merge",
+      "unite"
+    ],
+    "ant": [
+      "separate"
+    ],
+    "col": [
+      "combine the ingredients",
+      "combine ideas",
+      "combine the results"
+    ],
+    "fam": [
+      "combine",
+      "combination",
+      "combined",
+      "combiner",
+      "recombine"
+    ],
+    "example": "Combine the two data tables so the class can compare morning and afternoon temperatures.",
+    "basic": "Put the two lists together."
+  },
+  "communicate": {
+    "simple": "To share information, ideas, or feelings so others understand.",
+    "detailed": "You communicate when you speak, write, draw, or signal clearly enough that another person can follow your meaning.",
+    "zh": "交流；把信息或想法清楚地传达给别人",
+    "syn": [
+      "convey",
+      "share",
+      "report"
+    ],
+    "ant": [],
+    "col": [
+      "communicate ideas",
+      "communicate clearly",
+      "communicate findings"
+    ],
+    "fam": [
+      "communicate",
+      "communication",
+      "communicator",
+      "communicative",
+      "uncommunicative"
+    ],
+    "example": "Communicate your findings in a short talk so Year 5 can follow the method.",
+    "basic": "Tell people what you found out."
+  },
+  "compose": {
+    "simple": "To create a piece of writing, music, or art with care.",
+    "detailed": "You compose when you invent and shape sentences, a poem, or a tune so the parts fit together as a finished work.",
+    "zh": "创作；写出或谱出完整作品",
+    "syn": [
+      "write",
+      "create",
+      "craft"
+    ],
+    "ant": [],
+    "col": [
+      "compose a poem",
+      "compose a paragraph",
+      "compose a melody"
+    ],
+    "fam": [
+      "compose",
+      "composition",
+      "composer",
+      "composed",
+      "composite"
+    ],
+    "example": "Compose a camp narrative that shows, rather than tells, how the storm began.",
+    "basic": "Write a story about camp."
+  },
+  "confirm": {
+    "simple": "To check that something is true or that a result is reliable.",
+    "detailed": "You confirm a finding when a second test, source, or measurement matches the first one and removes doubt.",
+    "zh": "确认；核实某事属实或结果可靠",
+    "syn": [
+      "verify",
+      "check",
+      "double-check"
+    ],
+    "ant": [
+      "deny"
+    ],
+    "col": [
+      "confirm the result",
+      "confirm a booking",
+      "confirm the hypothesis"
+    ],
+    "fam": [
+      "confirm",
+      "confirmation",
+      "confirmed",
+      "confirmatory",
+      "unconfirmed"
+    ],
+    "example": "Confirm the pH reading by testing the same creek sample a second time.",
+    "basic": "Check that the answer is right."
+  },
+  "connect": {
+    "simple": "To join ideas, people, or things so they link together.",
+    "detailed": "You connect when you show a relationship between facts, or when you physically join parts so they work as a system.",
+    "zh": "连接；把事物或想法联系起来",
+    "syn": [
+      "link",
+      "join",
+      "relate"
+    ],
+    "ant": [
+      "disconnect"
+    ],
+    "col": [
+      "connect the ideas",
+      "connect to the topic",
+      "connect the wires"
+    ],
+    "fam": [
+      "connect",
+      "connection",
+      "connected",
+      "connector",
+      "disconnect"
+    ],
+    "example": "Connect each heading in your plan to a piece of evidence from the article.",
+    "basic": "Show how the ideas go together."
+  },
+  "construct": {
+    "simple": "To build something carefully, such as a model, sentence, or argument.",
+    "detailed": "You construct when you put parts together in a planned way so the finished object or piece of writing is solid and clear.",
+    "zh": "构建；有计划地建造或组织起来",
+    "syn": [
+      "build",
+      "create",
+      "assemble"
+    ],
+    "ant": [
+      "demolish"
+    ],
+    "col": [
+      "construct an argument",
+      "construct a model",
+      "construct a sentence"
+    ],
+    "fam": [
+      "construct",
+      "construction",
+      "constructive",
+      "constructor",
+      "reconstruct"
+    ],
+    "example": "Construct an argument with a claim, two reasons, and a short conclusion.",
+    "basic": "Build your answer step by step."
+  },
+  "consult": {
+    "simple": "To ask a person or check a trusted source before you decide.",
+    "detailed": "You consult when you seek advice or information from an expert, elder, map, or document so your decision is better informed.",
+    "zh": "咨询；向人或可靠资料请教后再决定",
+    "syn": [
+      "ask",
+      "refer to",
+      "check"
+    ],
+    "ant": [],
+    "col": [
+      "consult a map",
+      "consult an expert",
+      "consult the source"
+    ],
+    "fam": [
+      "consult",
+      "consultation",
+      "consultant",
+      "consultative",
+      "consulted"
+    ],
+    "example": "Consult the 1901 Federation timeline before you date the photograph.",
+    "basic": "Look it up before you decide."
+  },
+  "convert": {
+    "simple": "To change something from one form, unit, or use into another.",
+    "detailed": "You convert when you turn energy, units, materials, or ideas into a different but related form without losing the core amount or meaning.",
+    "zh": "转换；把一种形式或单位变成另一种",
+    "syn": [
+      "change",
+      "transform",
+      "turn"
+    ],
+    "ant": [],
+    "col": [
+      "convert units",
+      "convert energy",
+      "convert to centimetres"
+    ],
+    "fam": [
+      "convert",
+      "conversion",
+      "converter",
+      "convertible",
+      "converted"
+    ],
+    "example": "Convert the creek depth from centimetres to metres before you graph it.",
+    "basic": "Change the number into another unit."
+  },
+  "convey": {
+    "simple": "To get a feeling, idea, or message across to the reader.",
+    "detailed": "Writers convey meaning through word choice, imagery, and tone so the audience understands more than the bare facts.",
+    "zh": "传达；把情感或意思传递给读者",
+    "syn": [
+      "communicate",
+      "express",
+      "carry"
+    ],
+    "ant": [],
+    "col": [
+      "convey a feeling",
+      "convey meaning",
+      "convey the message"
+    ],
+    "fam": [
+      "convey",
+      "conveyance",
+      "conveyor",
+      "conveyed",
+      "conveying"
+    ],
+    "example": "The camp narrative should convey how tense the bush track felt after dusk.",
+    "basic": "Show the reader how it felt."
+  },
+  "criticise": {
+    "simple": "To point out weaknesses in an idea, using reasons rather than insults.",
+    "detailed": "You criticise a text or plan when you judge its faults fairly and explain what should be stronger or clearer.",
+    "zh": "批评；有根据地指出缺点，而非辱骂",
+    "syn": [
+      "critique",
+      "judge",
+      "fault"
+    ],
+    "ant": [
+      "praise"
+    ],
+    "col": [
+      "criticise a claim",
+      "criticise the plan",
+      "fairly criticise"
+    ],
+    "fam": [
+      "criticise",
+      "criticism",
+      "critic",
+      "critical",
+      "uncritical"
+    ],
+    "example": "Criticise the poster if it uses slogans but gives no facts about recycling.",
+    "basic": "Say what is weak about the idea."
+  },
+  "debate": {
+    "simple": "To discuss opposite views in an organised way, using reasons.",
+    "detailed": "You debate when two or more sides present arguments, listen, and test which case is better supported.",
+    "zh": "辩论；双方有条理地陈述对立观点",
+    "syn": [
+      "discuss",
+      "dispute",
+      "argue"
+    ],
+    "ant": [],
+    "col": [
+      "debate the issue",
+      "debate a motion",
+      "class debate"
+    ],
+    "fam": [
+      "debate",
+      "debater",
+      "debatable",
+      "debating",
+      "undebatable"
+    ],
+    "example": "Debate whether the school oval should be watered every day in a drought.",
+    "basic": "Talk about both sides of the idea."
+  },
+  "defend": {
+    "simple": "To protect a claim or person by giving reasons or support.",
+    "detailed": "You defend a view when you show why it is fair or true, using evidence against criticism or attack.",
+    "zh": "辩护；用理由或证据维护某种立场",
+    "syn": [
+      "justify",
+      "support",
+      "uphold"
+    ],
+    "ant": [
+      "attack"
+    ],
+    "col": [
+      "defend a claim",
+      "defend your view",
+      "defend a decision"
+    ],
+    "fam": [
+      "defend",
+      "defence",
+      "defender",
+      "defensive",
+      "defensible"
+    ],
+    "example": "Defend your view on school uniforms with two facts, not only personal taste.",
+    "basic": "Stand up for your opinion with reasons."
+  },
+  "describe": {
+    "simple": "To say what something is like using clear, specific details.",
+    "detailed": "You describe a person, place, or process by naming features a reader could picture or recognise, not by giving a vague label.",
+    "zh": "描述；用具体细节说明某事物是什么样的",
+    "syn": [
+      "portray",
+      "outline",
+      "depict"
+    ],
+    "ant": [],
+    "col": [
+      "describe the setting",
+      "describe a process",
+      "describe in detail"
+    ],
+    "fam": [
+      "describe",
+      "description",
+      "descriptive",
+      "describable",
+      "indescribable"
+    ],
+    "example": "Describe the billabong so a reader can picture the still water and paperbarks.",
+    "basic": "Say what it looked like."
+  },
+  "design": {
+    "simple": "To plan how something will look or work before you make it.",
+    "detailed": "You design a product, test, or layout by choosing materials, steps, and features that fit a purpose.",
+    "zh": "设计；在动手前规划外观或工作方式",
+    "syn": [
+      "plan",
+      "devise",
+      "invent"
+    ],
+    "ant": [],
+    "col": [
+      "design an experiment",
+      "design a model",
+      "design a poster"
+    ],
+    "fam": [
+      "design",
+      "designer",
+      "designed",
+      "redesign",
+      "designing"
+    ],
+    "example": "Design an experiment that fairly tests which soil holds the most water.",
+    "basic": "Plan how the test will work."
+  },
+  "develop": {
+    "simple": "To grow or improve an idea, skill, or piece of work over time.",
+    "detailed": "You develop writing or thinking when you add depth, fix weaknesses, and make the result more complete than the first attempt.",
+    "zh": "发展；逐步完善想法、技能或作品",
+    "syn": [
+      "improve",
+      "build",
+      "expand"
+    ],
+    "ant": [],
+    "col": [
+      "develop an idea",
+      "develop a skill",
+      "develop the plot"
+    ],
+    "fam": [
+      "develop",
+      "development",
+      "developer",
+      "developing",
+      "undeveloped"
+    ],
+    "example": "Develop your first sentence into a full paragraph with a reason and an example.",
+    "basic": "Make the idea longer and better."
+  },
+  "discuss": {
+    "simple": "To talk or write about a topic from more than one angle.",
+    "detailed": "You discuss an issue when you examine reasons for and against, or several explanations, instead of giving only one short opinion.",
+    "zh": "讨论；从多个角度谈一个问题",
+    "syn": [
+      "examine",
+      "consider",
+      "debate"
+    ],
+    "ant": [],
+    "col": [
+      "discuss the issue",
+      "discuss both sides",
+      "discuss in pairs"
+    ],
+    "fam": [
+      "discuss",
+      "discussion",
+      "discussant",
+      "discussed",
+      "undiscussed"
+    ],
+    "example": "Discuss both sides of the canteen menu change before you vote.",
+    "basic": "Talk about the topic together."
+  },
+  "document": {
+    "simple": "To write down what happened so there is a clear record.",
+    "detailed": "You document a test or observation by noting dates, methods, and results that another person could check later.",
+    "zh": "记录；把过程或结果写成可查的资料",
+    "syn": [
+      "record",
+      "log",
+      "note"
+    ],
+    "ant": [],
+    "col": [
+      "document the results",
+      "document a method",
+      "document the change"
+    ],
+    "fam": [
+      "document",
+      "documentation",
+      "documentary",
+      "documented",
+      "undocumented"
+    ],
+    "example": "Document every change you make to the model boat so the class can repeat the test.",
+    "basic": "Write down what you did."
+  },
+  "draft": {
+    "simple": "To write a first version that you expect to improve later.",
+    "detailed": "You draft a story or essay when you get ideas onto the page in order, knowing you will revise wording and structure afterwards.",
+    "zh": "起草；写出准备以后修改的初稿",
+    "syn": [
+      "sketch",
+      "outline",
+      "compose"
+    ],
+    "ant": [],
+    "col": [
+      "draft a story",
+      "draft an essay",
+      "first draft"
+    ],
+    "fam": [
+      "draft",
+      "redraft",
+      "drafted",
+      "drafting",
+      "drafter"
+    ],
+    "example": "Draft the camp scene tonight, then tighten the verbs tomorrow.",
+    "basic": "Write the first version of the story."
+  },
+  "edit": {
+    "simple": "To check and change writing so it is clearer, correct, and stronger.",
+    "detailed": "You edit when you fix grammar, cut extra words, and improve word choice after the ideas are already on the page.",
+    "zh": "编辑；检查并修改文字使更清楚、正确",
+    "syn": [
+      "revise",
+      "correct",
+      "polish"
+    ],
+    "ant": [],
+    "col": [
+      "edit a draft",
+      "edit for clarity",
+      "edit the paragraph"
+    ],
+    "fam": [
+      "edit",
+      "editor",
+      "edition",
+      "editorial",
+      "uneditable"
+    ],
+    "example": "Edit the camp narrative so every sentence earns its place.",
+    "basic": "Fix the writing and make it neater."
+  },
+  "eliminate": {
+    "simple": "To remove something that is not needed or that causes a problem.",
+    "detailed": "You eliminate a variable, error, or option when you take it out so the remaining test or choice is fairer and clearer.",
+    "zh": "排除；去掉不需要或会造成干扰的部分",
+    "syn": [
+      "remove",
+      "exclude",
+      "discard"
+    ],
+    "ant": [
+      "include"
+    ],
+    "col": [
+      "eliminate a variable",
+      "eliminate errors",
+      "eliminate waste"
+    ],
+    "fam": [
+      "eliminate",
+      "elimination",
+      "eliminator",
+      "eliminated"
+    ],
+    "example": "Eliminate draughts from the window so the candle test stays fair.",
+    "basic": "Take out the thing that spoils the test."
+  },
+  "encourage": {
+    "simple": "To give someone support so they feel able to keep trying.",
+    "detailed": "You encourage a person or group when your words or actions make them more confident, willing, or hopeful.",
+    "zh": "鼓励；给予支持使人更有信心继续努力",
+    "syn": [
+      "urge",
+      "support",
+      "cheer"
+    ],
+    "ant": [
+      "discourage"
+    ],
+    "col": [
+      "encourage participation",
+      "encourage a classmate",
+      "encourage debate"
+    ],
+    "fam": [
+      "encourage",
+      "encouragement",
+      "encouraging",
+      "encouraged",
+      "unencouraged"
+    ],
+    "example": "Local leaders encourage families to vote in the council election.",
+    "basic": "Tell people they can keep going."
+  },
+  "examine": {
+    "simple": "To look at something closely so you can understand it.",
+    "detailed": "You examine a text, object, or result when you study the details carefully instead of glancing and guessing.",
+    "zh": "审视；仔细查看以便理解",
+    "syn": [
+      "inspect",
+      "study",
+      "scrutinise"
+    ],
+    "ant": [],
+    "col": [
+      "examine the evidence",
+      "examine a source",
+      "examine the results"
+    ],
+    "fam": [
+      "examine",
+      "examination",
+      "examiner",
+      "exam",
+      "unexamined"
+    ],
+    "example": "Examine the graph before you write which week the seedlings grew fastest.",
+    "basic": "Look at it carefully."
+  },
+  "expand": {
+    "simple": "To make an idea longer or wider by adding useful detail.",
+    "detailed": "You expand a sentence or plan when you add examples, reasons, or extra steps so the meaning is fuller, not just wordier.",
+    "zh": "扩展；补充有用细节使内容更充分",
+    "syn": [
+      "extend",
+      "enlarge",
+      "develop"
+    ],
+    "ant": [
+      "reduce"
+    ],
+    "col": [
+      "expand an idea",
+      "expand the paragraph",
+      "expand on a point"
+    ],
+    "fam": [
+      "expand",
+      "expansion",
+      "expansive",
+      "expandable",
+      "expanded"
+    ],
+    "example": "Expand your topic sentence with one fact from the Federation article.",
+    "basic": "Add more useful detail."
+  },
+  "explain": {
+    "simple": "To make something understandable by showing how or why it happens.",
+    "detailed": "You explain when you give causes, steps, or reasons that help another person follow an idea without guessing.",
+    "zh": "解释；说明某事如何发生或为什么如此",
+    "syn": [
+      "clarify",
+      "account for",
+      "show"
+    ],
+    "ant": [],
+    "col": [
+      "explain the cause",
+      "explain a process",
+      "explain your reasoning"
+    ],
+    "fam": [
+      "explain",
+      "explanation",
+      "explanatory",
+      "explainable",
+      "unexplained"
+    ],
+    "example": "Explain why the ice melted faster on the black tray than on the white one.",
+    "basic": "Say how it works and why."
+  },
+  "explore": {
+    "simple": "To look into a place, topic, or idea to find out more.",
+    "detailed": "You explore when you investigate with curiosity—walking a site, reading sources, or trying questions—before you decide what matters.",
+    "zh": "探索；深入了解一个地方、主题或想法",
+    "syn": [
+      "investigate",
+      "examine",
+      "probe"
+    ],
+    "ant": [],
+    "col": [
+      "explore a topic",
+      "explore the site",
+      "explore ideas"
+    ],
+    "fam": [
+      "explore",
+      "exploration",
+      "explorer",
+      "exploratory",
+      "unexplored"
+    ],
+    "example": "Explore the old maps to see how the harbour changed after Federation.",
+    "basic": "Look around and find out more."
+  },
+  "express": {
+    "simple": "To show a thought or feeling in words, art, or action.",
+    "detailed": "You express an idea when you choose language or images that let other people share what you mean or feel.",
+    "zh": "表达；用语言、艺术或行动说出想法或感受",
+    "syn": [
+      "voice",
+      "convey",
+      "state"
+    ],
+    "ant": [
+      "conceal"
+    ],
+    "col": [
+      "express a feeling",
+      "express an idea",
+      "express yourself"
+    ],
+    "fam": [
+      "express",
+      "expression",
+      "expressive",
+      "expressly",
+      "inexpressible"
+    ],
+    "example": "Express the character’s fear through short sentences, not by naming the emotion.",
+    "basic": "Show what the character feels."
+  },
+  "extend": {
+    "simple": "To make something longer, wider, or more complete.",
+    "detailed": "You extend a line, deadline, or argument when you add length or reach so it covers more ground.",
+    "zh": "延伸；使更长、更广或更完整",
+    "syn": [
+      "lengthen",
+      "stretch",
+      "expand"
+    ],
+    "ant": [
+      "shorten"
+    ],
+    "col": [
+      "extend a deadline",
+      "extend the argument",
+      "extend a line"
+    ],
+    "fam": [
+      "extend",
+      "extension",
+      "extensive",
+      "extended",
+      "extensible"
+    ],
+    "example": "Extend the number line past 100 so the class can plot the extra scores.",
+    "basic": "Make it longer."
+  },
+  "extract": {
+    "simple": "To take a needed part out of a larger whole.",
+    "detailed": "You extract a quote, sample, or substance when you pull the useful piece from a text, mixture, or site.",
+    "zh": "提取；从整体中取出需要的部分",
+    "syn": [
+      "remove",
+      "draw out",
+      "take out"
+    ],
+    "ant": [],
+    "col": [
+      "extract a quote",
+      "extract a sample",
+      "extract information"
+    ],
+    "fam": [
+      "extract",
+      "extraction",
+      "extractor",
+      "extracted",
+      "extractable"
+    ],
+    "example": "Extract chlorophyll from the spinach leaves using the method in the lab sheet.",
+    "basic": "Take the useful part out."
+  },
+  "gather": {
+    "simple": "To bring people, facts, or objects together in one place.",
+    "detailed": "You gather information or materials when you collect them from different spots so you can use the set as a whole.",
+    "zh": "收集；把人或资料聚到一起",
+    "syn": [
+      "collect",
+      "assemble",
+      "round up"
+    ],
+    "ant": [
+      "scatter"
+    ],
+    "col": [
+      "gather evidence",
+      "gather data",
+      "gather the class"
+    ],
+    "fam": [
+      "gather",
+      "gathering",
+      "gathered",
+      "gatherer"
+    ],
+    "example": "Gather leaf samples from both banks of the creek before you compare colour.",
+    "basic": "Bring the things together."
+  },
+  "generate": {
+    "simple": "To make or produce something new, such as power, ideas, or heat.",
+    "detailed": "You generate a result when a process creates energy, data, or possibilities that were not there before.",
+    "zh": "产生；制造出能量、想法或结果",
+    "syn": [
+      "produce",
+      "create",
+      "yield"
+    ],
+    "ant": [],
+    "col": [
+      "generate electricity",
+      "generate ideas",
+      "generate heat"
+    ],
+    "fam": [
+      "generate",
+      "generation",
+      "generator",
+      "generative",
+      "generated"
+    ],
+    "example": "The small turbine can generate enough electricity to light one classroom lamp.",
+    "basic": "Make something new happen."
+  },
+  "highlight": {
+    "simple": "To point out the most important part so it stands out.",
+    "detailed": "You highlight a fact or phrase when you draw attention to it because it matters most for the task.",
+    "zh": "突出；标出最重要的部分",
+    "syn": [
+      "emphasise",
+      "stress",
+      "underline"
+    ],
+    "ant": [],
+    "col": [
+      "highlight a point",
+      "highlight key words",
+      "highlight the difference"
+    ],
+    "fam": [
+      "highlight",
+      "highlighted",
+      "highlighter",
+      "highlighting"
+    ],
+    "example": "Highlight the command words on the scholarship paper before you start writing.",
+    "basic": "Mark the important bits."
+  },
+  "improve": {
+    "simple": "To make something better than it was before.",
+    "detailed": "You improve work when you change it so it is clearer, fairer, stronger, or more accurate.",
+    "zh": "改进；使比原来更好",
+    "syn": [
+      "enhance",
+      "upgrade",
+      "better"
+    ],
+    "ant": [
+      "worsen"
+    ],
+    "col": [
+      "improve a draft",
+      "improve accuracy",
+      "improve the result"
+    ],
+    "fam": [
+      "improve",
+      "improvement",
+      "improved",
+      "improvable",
+      "unimproved"
+    ],
+    "example": "Improve the conclusion by naming the variable that actually changed the growth.",
+    "basic": "Make the work better."
+  },
+  "include": {
+    "simple": "To put something in as part of a group, list, or text.",
+    "detailed": "You include a detail when you make sure it is present, not left out, because it belongs in the whole.",
+    "zh": "包括；把某部分放进整体之中",
+    "syn": [
+      "contain",
+      "add",
+      "incorporate"
+    ],
+    "ant": [
+      "exclude"
+    ],
+    "col": [
+      "include evidence",
+      "include an example",
+      "include everyone"
+    ],
+    "fam": [
+      "include",
+      "inclusion",
+      "inclusive",
+      "included",
+      "including"
+    ],
+    "example": "Include one quotation from the article in your inquiry paragraph.",
+    "basic": "Put that part in as well."
+  },
+  "inform": {
+    "simple": "To give someone facts they need to know.",
+    "detailed": "You inform an audience when you pass on accurate information so they can understand or decide.",
+    "zh": "告知；把需要知道的事实告诉别人",
+    "syn": [
+      "tell",
+      "notify",
+      "brief"
+    ],
+    "ant": [],
+    "col": [
+      "inform the class",
+      "inform parents",
+      "inform a decision"
+    ],
+    "fam": [
+      "inform",
+      "information",
+      "informative",
+      "informant",
+      "uninformed"
+    ],
+    "example": "Inform the class about the excursion times in a short, factual notice.",
+    "basic": "Tell people the facts."
+  },
+  "inspect": {
+    "simple": "To look over something carefully to check its condition.",
+    "detailed": "You inspect equipment, a site, or a sample when you check each part for safety, damage, or accuracy.",
+    "zh": "检查；仔细察看状态或是否合格",
+    "syn": [
+      "examine",
+      "check",
+      "survey"
+    ],
+    "ant": [],
+    "col": [
+      "inspect the equipment",
+      "inspect a sample",
+      "inspect for damage"
+    ],
+    "fam": [
+      "inspect",
+      "inspection",
+      "inspector",
+      "inspected",
+      "uninspected"
+    ],
+    "example": "Inspect the beakers for cracks before you heat the water.",
+    "basic": "Look over it to check it is safe."
+  },
+  "instruct": {
+    "simple": "To tell someone clearly how to do a task.",
+    "detailed": "You instruct when you give ordered steps or rules that another person can follow without guessing.",
+    "zh": "指导；清楚地告诉别人如何完成任务",
+    "syn": [
+      "direct",
+      "teach",
+      "guide"
+    ],
+    "ant": [],
+    "col": [
+      "instruct the class",
+      "instruct students",
+      "clearly instruct"
+    ],
+    "fam": [
+      "instruct",
+      "instruction",
+      "instructor",
+      "instructive",
+      "uninstructed"
+    ],
+    "example": "Instruct the group to measure twice and record both readings.",
+    "basic": "Tell them how to do the job."
+  },
+  "introduce": {
+    "simple": "To bring a new person, idea, or topic in for the first time.",
+    "detailed": "You introduce something when you present it so others know what it is and why it matters before you go deeper.",
+    "zh": "介绍；首次引出一个人、想法或主题",
+    "syn": [
+      "present",
+      "begin",
+      "launch"
+    ],
+    "ant": [],
+    "col": [
+      "introduce a topic",
+      "introduce a character",
+      "introduce a guest"
+    ],
+    "fam": [
+      "introduce",
+      "introduction",
+      "introductory",
+      "introduced",
+      "reintroduce"
+    ],
+    "example": "Introduce your main idea in the first sentence of the scholarship essay.",
+    "basic": "Start by saying what the topic is."
+  },
+  "invent": {
+    "simple": "To make a new thing or method that did not exist before.",
+    "detailed": "You invent when you design an original tool, story device, or solution rather than copying one that already exists.",
+    "zh": "发明；创造出以前没有的东西或方法",
+    "syn": [
+      "create",
+      "devise",
+      "originate"
+    ],
+    "ant": [],
+    "col": [
+      "invent a device",
+      "invent a method",
+      "invent a solution"
+    ],
+    "fam": [
+      "invent",
+      "invention",
+      "inventor",
+      "inventive",
+      "reinvent"
+    ],
+    "example": "Invent a simple filter that can clean muddy water from the school tank.",
+    "basic": "Make up a new way to do it."
+  },
+  "locate": {
+    "simple": "To find the exact place of a person, object, or site.",
+    "detailed": "You locate something when you work out where it is on a map, in a text, or in the real landscape.",
+    "zh": "定位；找出确切位置",
+    "syn": [
+      "find",
+      "pinpoint",
+      "place"
+    ],
+    "ant": [],
+    "col": [
+      "locate a place",
+      "locate on the map",
+      "locate the source"
+    ],
+    "fam": [
+      "locate",
+      "location",
+      "located",
+      "locator",
+      "relocate"
+    ],
+    "example": "Locate the goldfield towns on the outline map of Victoria.",
+    "basic": "Find where it is."
+  },
+  "measure": {
+    "simple": "To find out the size, amount, or degree of something using units.",
+    "detailed": "You measure when you use a tool and a unit so a length, mass, time, or temperature can be compared fairly.",
+    "zh": "测量；用单位求出大小、数量或程度",
+    "syn": [
+      "gauge",
+      "quantify",
+      "assess"
+    ],
+    "ant": [],
+    "col": [
+      "measure the length",
+      "measure temperature",
+      "measure carefully"
+    ],
+    "fam": [
+      "measure",
+      "measurement",
+      "measurable",
+      "measured",
+      "immeasurable"
+    ],
+    "example": "Measure the creek width at the same rock each week.",
+    "basic": "Find out how big or how much it is."
+  },
+  "modify": {
+    "simple": "To change part of something so it works better or fits a new need.",
+    "detailed": "You modify a design or method when you alter one feature on purpose, then check whether the result improves.",
+    "zh": "修改；有针对地改动一部分使更合适",
+    "syn": [
+      "alter",
+      "adjust",
+      "adapt"
+    ],
+    "ant": [],
+    "col": [
+      "modify the design",
+      "modify a method",
+      "modify the variables"
+    ],
+    "fam": [
+      "modify",
+      "modification",
+      "modified",
+      "modifier",
+      "unmodified"
+    ],
+    "example": "Modify the paper-plane wing and test whether the flight lasts longer.",
+    "basic": "Change one part and try again."
+  },
+  "monitor": {
+    "simple": "To watch something over time so you notice changes.",
+    "detailed": "You monitor a system when you check it regularly and record what happens, rather than looking only once.",
+    "zh": "监测；持续观察以便发现变化",
+    "syn": [
+      "track",
+      "watch",
+      "observe"
+    ],
+    "ant": [],
+    "col": [
+      "monitor the temperature",
+      "monitor progress",
+      "monitor water quality"
+    ],
+    "fam": [
+      "monitor",
+      "monitoring",
+      "monitored",
+      "monitorable"
+    ],
+    "example": "Monitor the tank level each morning during the dry spell.",
+    "basic": "Keep checking how it changes."
+  },
+  "participate": {
+    "simple": "To take part in an activity instead of only watching.",
+    "detailed": "You participate when you join a discussion, vote, game, or community event and contribute as a member.",
+    "zh": "参与；加入活动而不是旁观",
+    "syn": [
+      "join",
+      "take part",
+      "engage"
+    ],
+    "ant": [
+      "withdraw"
+    ],
+    "col": [
+      "participate in a discussion",
+      "participate fully",
+      "participate in the vote"
+    ],
+    "fam": [
+      "participate",
+      "participation",
+      "participant",
+      "participatory",
+      "unparticipating"
+    ],
+    "example": "Every student should participate in the class vote on the new playground rules.",
+    "basic": "Join in instead of sitting out."
+  },
+  "perform": {
+    "simple": "To carry out a task, test, or action, often in front of others.",
+    "detailed": "You perform a procedure when you complete the steps correctly; you also perform when you present music or drama.",
+    "zh": "进行；执行一项任务、实验或表演",
+    "syn": [
+      "carry out",
+      "execute",
+      "conduct"
+    ],
+    "ant": [],
+    "col": [
+      "perform an experiment",
+      "perform a test",
+      "perform a role"
+    ],
+    "fam": [
+      "perform",
+      "performance",
+      "performer",
+      "performing",
+      "underperform"
+    ],
+    "example": "Perform the dissolving test three times so the class can trust the pattern.",
+    "basic": "Do the steps of the test."
+  },
+  "persuade": {
+    "simple": "To get someone to agree by using reasons, not force.",
+    "detailed": "You persuade an audience when your evidence and wording make them change or strengthen their view.",
+    "zh": "说服；用理由使人同意，而非强迫",
+    "syn": [
+      "convince",
+      "sway",
+      "win over"
+    ],
+    "ant": [
+      "dissuade"
+    ],
+    "col": [
+      "persuade the reader",
+      "persuade the class",
+      "persuade with evidence"
+    ],
+    "fam": [
+      "persuade",
+      "persuasion",
+      "persuasive",
+      "persuader",
+      "unpersuaded"
+    ],
+    "example": "Persuade the council that the creek path needs a bin at each bend.",
+    "basic": "Try to get people to agree with you."
+  },
+  "present": {
+    "simple": "To show information to an audience in a clear, organised way.",
+    "detailed": "You present findings when you speak or display them so others can follow the method, results, and conclusion.",
+    "zh": "呈现；有条理地向听众展示信息",
+    "syn": [
+      "show",
+      "deliver",
+      "display"
+    ],
+    "ant": [],
+    "col": [
+      "present findings",
+      "present an argument",
+      "present to the class"
+    ],
+    "fam": [
+      "present",
+      "presentation",
+      "presenter",
+      "presented",
+      "unpresented"
+    ],
+    "example": "Present your inquiry findings in under three minutes, using one graph.",
+    "basic": "Show the class what you found."
+  },
+  "produce": {
+    "simple": "To make or create a result, object, or piece of work.",
+    "detailed": "A process produces an outcome when it generates a product, sound, gas, or finished text that can be observed.",
+    "zh": "产生；制造出结果、物品或作品",
+    "syn": [
+      "make",
+      "create",
+      "generate"
+    ],
+    "ant": [],
+    "col": [
+      "produce a result",
+      "produce oxygen",
+      "produce a report"
+    ],
+    "fam": [
+      "produce",
+      "production",
+      "producer",
+      "product",
+      "reproductive"
+    ],
+    "example": "Green leaves produce oxygen during photosynthesis on a sunny day.",
+    "basic": "Make the thing that comes out at the end."
+  },
+  "propose": {
+    "simple": "To put forward a plan or idea for other people to consider.",
+    "detailed": "You propose a solution when you offer it formally and invite others to accept, change, or reject it.",
+    "zh": "提议；提出供他人考虑的计划或想法",
+    "syn": [
+      "suggest",
+      "offer",
+      "recommend"
+    ],
+    "ant": [],
+    "col": [
+      "propose a solution",
+      "propose a change",
+      "propose a motion"
+    ],
+    "fam": [
+      "propose",
+      "proposal",
+      "proposed",
+      "proposer",
+      "proposition"
+    ],
+    "example": "Propose a fair roster so every house team shares the oval after school.",
+    "basic": "Put your plan forward."
+  },
+  "prove": {
+    "simple": "To show that something is true using evidence that others can check.",
+    "detailed": "You prove a claim when tests, measurements, or logical steps leave little reasonable doubt.",
+    "zh": "证明；用可核查的证据表明某事为真",
+    "syn": [
+      "demonstrate",
+      "establish",
+      "verify"
+    ],
+    "ant": [
+      "disprove"
+    ],
+    "col": [
+      "prove a claim",
+      "prove the rule",
+      "prove that"
+    ],
+    "fam": [
+      "prove",
+      "proof",
+      "proven",
+      "disprove",
+      "unproven"
+    ],
+    "example": "Prove that salt water freezes at a lower temperature than tap water.",
+    "basic": "Show that it is true."
+  },
+  "provide": {
+    "simple": "To give something that is needed or useful.",
+    "detailed": "You provide help, evidence, or materials when you make them available so a task can succeed.",
+    "zh": "提供；给出所需要或有用的东西",
+    "syn": [
+      "supply",
+      "give",
+      "offer"
+    ],
+    "ant": [
+      "withhold"
+    ],
+    "col": [
+      "provide evidence",
+      "provide examples",
+      "provide support"
+    ],
+    "fam": [
+      "provide",
+      "provision",
+      "provider",
+      "provided",
+      "unprovided"
+    ],
+    "example": "Provide two examples from the text when you answer the long question.",
+    "basic": "Give people what they need."
+  },
+  "publish": {
+    "simple": "To share finished writing or results so other people can read them.",
+    "detailed": "You publish work when you make it public in a newsletter, journal, website, or display after it has been checked.",
+    "zh": "发表；把完成的文字或结果公开给他人阅读",
+    "syn": [
+      "issue",
+      "release",
+      "print"
+    ],
+    "ant": [],
+    "col": [
+      "publish a report",
+      "publish findings",
+      "publish a story"
+    ],
+    "fam": [
+      "publish",
+      "publication",
+      "publisher",
+      "published",
+      "unpublished"
+    ],
+    "example": "The Year 6 team will publish their creek report in the school newsletter.",
+    "basic": "Share the finished writing with others."
+  },
+  "record": {
+    "simple": "To write or save information so it is not forgotten.",
+    "detailed": "You record data when you note numbers, times, or observations in a table or log that can be checked later.",
+    "zh": "记录；把信息写下来或保存下来",
+    "syn": [
+      "log",
+      "note",
+      "document"
+    ],
+    "ant": [],
+    "col": [
+      "record the data",
+      "record observations",
+      "record the time"
+    ],
+    "fam": [
+      "record",
+      "recording",
+      "recorder",
+      "recorded",
+      "unrecorded"
+    ],
+    "example": "Record the water temperature every hour in the same column of the table.",
+    "basic": "Write the numbers down."
+  },
+  "reduce": {
+    "simple": "To make something smaller in size, number, or strength.",
+    "detailed": "You reduce waste, risk, or an amount when you cut it down on purpose so there is less than before.",
+    "zh": "减少；使数量、体积或强度变小",
+    "syn": [
+      "decrease",
+      "lessen",
+      "cut"
+    ],
+    "ant": [
+      "increase"
+    ],
+    "col": [
+      "reduce waste",
+      "reduce the amount",
+      "reduce risk"
+    ],
+    "fam": [
+      "reduce",
+      "reduction",
+      "reducer",
+      "reduced",
+      "irreducible"
+    ],
+    "example": "Reduce the plastic in packed lunches by using a reusable bottle.",
+    "basic": "Make there be less of it."
+  },
+  "refer": {
+    "simple": "To mention a source or send someone to it for information.",
+    "detailed": "You refer to a text when you point the reader there; you also refer a question to a person who can help.",
+    "zh": "提及；指向某资料或请人查阅",
+    "syn": [
+      "mention",
+      "cite",
+      "point to"
+    ],
+    "ant": [],
+    "col": [
+      "refer to the text",
+      "refer to a source",
+      "refer the reader"
+    ],
+    "fam": [
+      "refer",
+      "reference",
+      "referral",
+      "referee",
+      "referable"
+    ],
+    "example": "Refer to page 12 of the atlas when you name the river system.",
+    "basic": "Point people to the right page."
+  },
+  "refine": {
+    "simple": "To improve something by making small, careful changes.",
+    "detailed": "You refine a draft, method, or model when you polish details so the result is more exact or elegant.",
+    "zh": "改进；通过细致改动使更精确完善",
+    "syn": [
+      "polish",
+      "improve",
+      "hone"
+    ],
+    "ant": [],
+    "col": [
+      "refine a draft",
+      "refine the method",
+      "refine your answer"
+    ],
+    "fam": [
+      "refine",
+      "refinement",
+      "refined",
+      "refinery",
+      "unrefined"
+    ],
+    "example": "Refine the hypothesis after the first trial so it names one clear variable.",
+    "basic": "Make the wording a bit more exact."
+  },
+  "reflect": {
+    "simple": "To think carefully about what happened and what it means.",
+    "detailed": "You reflect when you look back on work or behaviour and explain what you learnt, not just what you did.",
+    "zh": "反思；认真回想经过并思考其意义",
+    "syn": [
+      "consider",
+      "ponder",
+      "review"
+    ],
+    "ant": [],
+    "col": [
+      "reflect on learning",
+      "reflect on a decision",
+      "reflect carefully"
+    ],
+    "fam": [
+      "reflect",
+      "reflection",
+      "reflective",
+      "reflector",
+      "unreflective"
+    ],
+    "example": "Reflect on why your first estimate was so far from the measured length.",
+    "basic": "Think back about what you learnt."
+  },
+  "relate": {
+    "simple": "To show how two things are connected, or to tell what happened.",
+    "detailed": "You relate ideas when you explain the link between them; you also relate an event when you recount it clearly.",
+    "zh": "联系；说明两者如何相关，或讲述经过",
+    "syn": [
+      "connect",
+      "link",
+      "associate"
+    ],
+    "ant": [],
+    "col": [
+      "relate to the topic",
+      "relate two ideas",
+      "relate the events"
+    ],
+    "fam": [
+      "relate",
+      "relation",
+      "relative",
+      "related",
+      "unrelated"
+    ],
+    "example": "Relate the drought map to the drop in dam levels on the graph.",
+    "basic": "Show how the two things go together."
+  },
+  "report": {
+    "simple": "To tell what you found or what happened, using facts.",
+    "detailed": "You report results when you present them in an organised way so others can trust what you observed.",
+    "zh": "报告；如实陈述发现或经过",
+    "syn": [
+      "announce",
+      "recount",
+      "notify"
+    ],
+    "ant": [],
+    "col": [
+      "report the results",
+      "report findings",
+      "report an incident"
+    ],
+    "fam": [
+      "report",
+      "reporter",
+      "reported",
+      "reporting",
+      "unreported"
+    ],
+    "example": "Report the unexpected result even if it does not match your prediction.",
+    "basic": "Tell people the facts you found."
+  },
+  "research": {
+    "simple": "To look for information from reliable sources before you decide.",
+    "detailed": "You research a question when you search, read, and compare sources so your answer is based on evidence.",
+    "zh": "研究；从可靠资料中查找并比较信息",
+    "syn": [
+      "investigate",
+      "study",
+      "inquire"
+    ],
+    "ant": [],
+    "col": [
+      "research a topic",
+      "research the question",
+      "research a source"
+    ],
+    "fam": [
+      "research",
+      "researcher",
+      "researched",
+      "researching"
+    ],
+    "example": "Research two reliable sources before you write about the First Fleet.",
+    "basic": "Look things up before you write."
+  },
+  "resolve": {
+    "simple": "To settle a problem or disagreement so it can end fairly.",
+    "detailed": "You resolve a conflict when the people involved reach a workable decision, not when the argument is only paused.",
+    "zh": "解决；把问题或分歧公正地了结",
+    "syn": [
+      "settle",
+      "solve",
+      "fix"
+    ],
+    "ant": [],
+    "col": [
+      "resolve a conflict",
+      "resolve the issue",
+      "resolve a dispute"
+    ],
+    "fam": [
+      "resolve",
+      "resolution",
+      "resolved",
+      "unresolved",
+      "resolvable"
+    ],
+    "example": "The captains meet at lunch to resolve the dispute about the final score.",
+    "basic": "Sort the argument out fairly."
+  },
+  "review": {
+    "simple": "To look over work again so you can check or improve it.",
+    "detailed": "You review notes, a draft, or a performance when you examine it with a purpose, such as finding errors or preparing for a test.",
+    "zh": "审阅；再看一遍以便检查或改进",
+    "syn": [
+      "revisit",
+      "check",
+      "reassess"
+    ],
+    "ant": [],
+    "col": [
+      "review your notes",
+      "review a draft",
+      "review the evidence"
+    ],
+    "fam": [
+      "review",
+      "reviewer",
+      "reviewed",
+      "reviewable",
+      "unreviewed"
+    ],
+    "example": "Review your notes the night before the scholarship maths paper.",
+    "basic": "Look over the work again."
+  },
+  "revise": {
+    "simple": "To change a piece of writing so the ideas and wording are stronger.",
+    "detailed": "You revise when you rewrite parts of a draft after rereading, not just when you fix a few spelling slips.",
+    "zh": "修订；改写内容使想法和措辞更有力",
+    "syn": [
+      "rewrite",
+      "edit",
+      "rework"
+    ],
+    "ant": [],
+    "col": [
+      "revise a draft",
+      "revise the ending",
+      "revise for meaning"
+    ],
+    "fam": [
+      "revise",
+      "revision",
+      "revised",
+      "reviser",
+      "unrevised"
+    ],
+    "example": "Revise the ending of the camp story so the last image matches the opening.",
+    "basic": "Change the writing to make it stronger."
+  },
+  "separate": {
+    "simple": "To take things apart or keep them in different groups.",
+    "detailed": "You separate mixtures or ideas when you divide them so each part can be studied or used on its own.",
+    "zh": "分开；把混在一起的东西拆开或分组",
+    "syn": [
+      "divide",
+      "split",
+      "isolate"
+    ],
+    "ant": [
+      "combine"
+    ],
+    "col": [
+      "separate the mixture",
+      "separate into groups",
+      "separate solids"
+    ],
+    "fam": [
+      "separate",
+      "separation",
+      "separately",
+      "separator",
+      "inseparable"
+    ],
+    "example": "Separate the sand from the salt water by filtering, then evaporating.",
+    "basic": "Take the parts apart."
+  },
+  "simplify": {
+    "simple": "To make something easier to understand without losing the main idea.",
+    "detailed": "You simplify a sentence, fraction, or explanation when you remove extra difficulty while keeping the meaning true.",
+    "zh": "简化；去掉多余难度但仍保留要点",
+    "syn": [
+      "clarify",
+      "streamline",
+      "ease"
+    ],
+    "ant": [
+      "complicate"
+    ],
+    "col": [
+      "simplify a sentence",
+      "simplify a fraction",
+      "simplify the steps"
+    ],
+    "fam": [
+      "simplify",
+      "simplification",
+      "simplified",
+      "simplicity",
+      "oversimplify"
+    ],
+    "example": "Simplify the long sentence so a Year 5 reader can follow each step.",
+    "basic": "Make it easier to follow."
+  },
+  "solve": {
+    "simple": "To find the answer to a problem by thinking or calculating.",
+    "detailed": "You solve a question when you use a method that leads to a correct, checkable result.",
+    "zh": "解决；通过思考或计算求出答案",
+    "syn": [
+      "work out",
+      "crack",
+      "resolve"
+    ],
+    "ant": [],
+    "col": [
+      "solve a problem",
+      "solve an equation",
+      "solve the puzzle"
+    ],
+    "fam": [
+      "solve",
+      "solution",
+      "solver",
+      "solvable",
+      "unsolved"
+    ],
+    "example": "Solve the worded problem by writing the operation before you calculate.",
+    "basic": "Find the right answer."
+  },
+  "specify": {
+    "simple": "To say exactly which one, how much, or what kind you mean.",
+    "detailed": "You specify details when you name precise conditions so nobody has to guess what you intended.",
+    "zh": "明确说明；精确指出是哪一个、多少或何种",
+    "syn": [
+      "state",
+      "detail",
+      "name"
+    ],
+    "ant": [],
+    "col": [
+      "specify the amount",
+      "specify a time",
+      "specify the conditions"
+    ],
+    "fam": [
+      "specify",
+      "specification",
+      "specific",
+      "specifically",
+      "unspecified"
+    ],
+    "example": "Specify the units in every answer on the science test.",
+    "basic": "Say exactly what you mean."
+  },
+  "state": {
+    "simple": "To say something clearly and directly as a fact or claim.",
+    "detailed": "You state a view when you put it in plain words at the start, before you explain or prove it.",
+    "zh": "陈述；清楚直接地说出事实或主张",
+    "syn": [
+      "declare",
+      "assert",
+      "express"
+    ],
+    "ant": [],
+    "col": [
+      "state a claim",
+      "state the facts",
+      "state your view"
+    ],
+    "fam": [
+      "state",
+      "statement",
+      "stated",
+      "overstate",
+      "understate"
+    ],
+    "example": "State your main claim in the first sentence of the persuasive text.",
+    "basic": "Say the point in a clear way."
+  },
+  "support": {
+    "simple": "To back an idea with reasons, help, or evidence.",
+    "detailed": "You support a claim when you give facts or examples that make it stronger and harder to dismiss.",
+    "zh": "支持；用理由、帮助或证据来支撑",
+    "syn": [
+      "back",
+      "uphold",
+      "bolster"
+    ],
+    "ant": [
+      "oppose"
+    ],
+    "col": [
+      "support a claim",
+      "support with evidence",
+      "support an argument"
+    ],
+    "fam": [
+      "support",
+      "supporter",
+      "supportive",
+      "unsupported",
+      "supporting"
+    ],
+    "example": "Support each reason with a fact from the recycling audit.",
+    "basic": "Give reasons that back the idea."
+  },
+  "suggest": {
+    "simple": "To offer an idea that other people might use or consider.",
+    "detailed": "You suggest a solution or meaning when you put it forward gently, without forcing others to accept it.",
+    "zh": "建议；提出供他人考虑的想法",
+    "syn": [
+      "propose",
+      "recommend",
+      "hint"
+    ],
+    "ant": [],
+    "col": [
+      "suggest a solution",
+      "suggest a reason",
+      "suggest an improvement"
+    ],
+    "fam": [
+      "suggest",
+      "suggestion",
+      "suggestive",
+      "suggested",
+      "unsuggested"
+    ],
+    "example": "Suggest one change that would make the canteen queue safer at lunch.",
+    "basic": "Offer an idea people could try."
+  },
+  "survey": {
+    "simple": "To ask a group the same questions, or to look over an area, to gather facts.",
+    "detailed": "You survey people or a site when you collect comparable information so you can describe a pattern.",
+    "zh": "调查；用同样的问题或观察收集可比较的事实",
+    "syn": [
+      "poll",
+      "question",
+      "inspect"
+    ],
+    "ant": [],
+    "col": [
+      "survey the class",
+      "survey the site",
+      "survey opinions"
+    ],
+    "fam": [
+      "survey",
+      "surveyor",
+      "surveyed",
+      "surveying"
+    ],
+    "example": "Survey every Year 6 class about how they travel to school.",
+    "basic": "Ask the same questions to a group."
+  },
+  "trace": {
+    "simple": "To follow something back to find where it began or how it moved.",
+    "detailed": "You trace a route, family, or idea when you follow the path through time or space using clues and sources.",
+    "zh": "追溯；顺着线索找出起源或经过",
+    "syn": [
+      "track",
+      "follow",
+      "map"
+    ],
+    "ant": [],
+    "col": [
+      "trace a route",
+      "trace the history",
+      "trace a family"
+    ],
+    "fam": [
+      "trace",
+      "tracing",
+      "tracer",
+      "traceable",
+      "untraceable"
+    ],
+    "example": "Trace the Murray River from the Snowy Mountains to the sea on the atlas.",
+    "basic": "Follow it back to the start."
+  },
+  "transfer": {
+    "simple": "To move something from one place, person, or form to another.",
+    "detailed": "Heat, energy, or information can transfer when it leaves one object or setting and arrives in another.",
+    "zh": "转移；从一处、一人或一种形式移到另一处",
+    "syn": [
+      "move",
+      "shift",
+      "pass"
+    ],
+    "ant": [],
+    "col": [
+      "transfer heat",
+      "transfer energy",
+      "transfer information"
+    ],
+    "fam": [
+      "transfer",
+      "transference",
+      "transferable",
+      "transferred",
+      "nontransferable"
+    ],
+    "example": "Heat will transfer from the warm rock into the cooler water around it.",
+    "basic": "Move it from one place to another."
+  },
+  "verify": {
+    "simple": "To check that a fact or result is correct and can be trusted.",
+    "detailed": "You verify data when you test it again, or compare it with another source, before you treat it as true.",
+    "zh": "核实；检查事实或结果是否正确可信",
+    "syn": [
+      "check",
+      "confirm",
+      "validate"
+    ],
+    "ant": [],
+    "col": [
+      "verify the result",
+      "verify a fact",
+      "verify the data"
+    ],
+    "fam": [
+      "verify",
+      "verification",
+      "verified",
+      "verifiable",
+      "unverified"
+    ],
+    "example": "Verify the compass bearing before you mark the creek site on the map.",
+    "basic": "Check that the fact is right."
+  },
+  "acquire": {
+    "simple": "To get a skill, fact, or object through effort or learning.",
+    "detailed": "You acquire knowledge when you gain it on purpose, by study, practice, or careful collecting, not by accident alone.",
+    "zh": "获得；通过努力或学习得到技能、知识或物品",
+    "syn": [
+      "gain",
+      "obtain",
+      "get"
+    ],
+    "ant": [
+      "lose"
+    ],
+    "col": [
+      "acquire knowledge",
+      "acquire a skill",
+      "acquire evidence"
+    ],
+    "fam": [
+      "acquire",
+      "acquisition",
+      "acquired",
+      "acquirer",
+      "unacquired"
+    ],
+    "example": "You acquire a new spelling pattern only if you practise it in real sentences.",
+    "basic": "Get the skill by working at it."
+  },
+  "address": {
+    "simple": "To deal with a problem or topic in a direct, useful way.",
+    "detailed": "You address an issue when you turn your attention to it and try to handle it, rather than leaving it unspoken.",
+    "zh": "处理；正面应对某个问题或议题",
+    "syn": [
+      "tackle",
+      "handle",
+      "confront"
+    ],
+    "ant": [
+      "ignore"
+    ],
+    "col": [
+      "address the issue",
+      "address a concern",
+      "address the question"
+    ],
+    "fam": [
+      "address",
+      "addressee",
+      "addressed",
+      "unaddressed",
+      "readdress"
+    ],
+    "example": "The speech should address the crowding in the bike racks, not only praise the new shed.",
+    "basic": "Talk about the real problem."
+  },
+  "advance": {
+    "simple": "To move an idea, plan, or group forward so it makes progress.",
+    "detailed": "People or causes advance when they go ahead in time, place, or influence, often after effort or a decision.",
+    "zh": "推进；使计划、想法或群体向前发展",
+    "syn": [
+      "progress",
+      "promote",
+      "further"
+    ],
+    "ant": [
+      "retreat"
+    ],
+    "col": [
+      "advance a cause",
+      "advance an idea",
+      "advance the plan"
+    ],
+    "fam": [
+      "advance",
+      "advancement",
+      "advanced",
+      "advancing"
+    ],
+    "example": "Petitions can advance a local cause if the council agrees to hear them.",
+    "basic": "Help the plan move forward."
+  },
+  "advise": {
+    "simple": "To tell someone what you think they should do, based on knowledge.",
+    "detailed": "You advise when you offer a reasoned recommendation, not just an order or a guess.",
+    "zh": "建议；根据所知提出该怎么做",
+    "syn": [
+      "recommend",
+      "counsel",
+      "guide"
+    ],
+    "ant": [],
+    "col": [
+      "advise the class",
+      "advise against",
+      "advise a student"
+    ],
+    "fam": [
+      "advise",
+      "advice",
+      "adviser",
+      "advisory",
+      "unadvised"
+    ],
+    "example": "The teacher will advise you to show working on every scholarship maths question.",
+    "basic": "Tell someone a sensible next step."
+  },
+  "allocate": {
+    "simple": "To give a share of time, money, or space to a particular use.",
+    "detailed": "Leaders allocate resources when they decide how much each group or task will receive.",
+    "zh": "分配；把时间、金钱或空间分给特定用途",
+    "syn": [
+      "assign",
+      "allot",
+      "distribute"
+    ],
+    "ant": [],
+    "col": [
+      "allocate funds",
+      "allocate time",
+      "allocate resources"
+    ],
+    "fam": [
+      "allocate",
+      "allocation",
+      "allocated",
+      "allocator",
+      "unallocated"
+    ],
+    "example": "The council must allocate funds for both the library and the sports field.",
+    "basic": "Decide how to share the money or time."
+  },
+  "alter": {
+    "simple": "To change something so it is different from before.",
+    "detailed": "You alter a method, object, or plan when you make a real change to its form or details.",
+    "zh": "改变；使与原来不同",
+    "syn": [
+      "change",
+      "modify",
+      "adjust"
+    ],
+    "ant": [],
+    "col": [
+      "alter the method",
+      "alter a plan",
+      "alter the result"
+    ],
+    "fam": [
+      "alter",
+      "alteration",
+      "altered",
+      "unaltered",
+      "alterable"
+    ],
+    "example": "Alter only one variable if you want a fair science test.",
+    "basic": "Change it so it is not the same."
+  },
+  "announce": {
+    "simple": "To tell a group official news in a clear, public way.",
+    "detailed": "You announce a decision when you make it known to everyone who needs to hear it, often at a set time.",
+    "zh": "宣布；向公众清楚告知正式消息",
+    "syn": [
+      "declare",
+      "proclaim",
+      "broadcast"
+    ],
+    "ant": [],
+    "col": [
+      "announce a decision",
+      "announce the result",
+      "announce a change"
+    ],
+    "fam": [
+      "announce",
+      "announcement",
+      "announcer",
+      "announced",
+      "unannounced"
+    ],
+    "example": "The mayor will announce the new park rules at Monday’s assembly.",
+    "basic": "Tell everyone the news."
+  },
+  "appreciate": {
+    "simple": "To understand the value of something and feel grateful for it.",
+    "detailed": "You appreciate a person, place, or piece of writing when you notice what makes it worthwhile, not only when you like it lightly.",
+    "zh": "欣赏；理解其价值并心怀感激",
+    "syn": [
+      "value",
+      "treasure",
+      "recognise"
+    ],
+    "ant": [],
+    "col": [
+      "appreciate a poem",
+      "appreciate the effort",
+      "appreciate beauty"
+    ],
+    "fam": [
+      "appreciate",
+      "appreciation",
+      "appreciative",
+      "appreciated",
+      "unappreciated"
+    ],
+    "example": "Good readers appreciate how the last line of the camp story echoes the first.",
+    "basic": "Notice why it matters and feel thankful."
+  },
+  "approve": {
+    "simple": "To officially agree that a plan or action may go ahead.",
+    "detailed": "A person in authority approves something when they judge it acceptable and give permission.",
+    "zh": "批准；正式同意某计划可以实行",
+    "syn": [
+      "authorise",
+      "endorse",
+      "accept"
+    ],
+    "ant": [
+      "reject"
+    ],
+    "col": [
+      "approve a plan",
+      "approve the budget",
+      "approve a request"
+    ],
+    "fam": [
+      "approve",
+      "approval",
+      "approved",
+      "disapprove",
+      "unapproved"
+    ],
+    "example": "The principal must approve the excursion before notes go home.",
+    "basic": "Say yes to the plan."
+  },
+  "assist": {
+    "simple": "To help someone complete a task so the work is easier or safer.",
+    "detailed": "You assist when you give useful support so another person can succeed more easily or safely.",
+    "zh": "协助；帮助别人完成任务",
+    "syn": [
+      "help",
+      "aid",
+      "support"
+    ],
+    "ant": [
+      "hinder"
+    ],
+    "col": [
+      "assist a classmate",
+      "assist with research",
+      "assist the teacher"
+    ],
+    "fam": [
+      "assist",
+      "assistance",
+      "assistant",
+      "assisted",
+      "unassisted"
+    ],
+    "example": "Older students assist the Year 5 groups during the library research hour.",
+    "basic": "Help someone do the job."
+  },
+  "attempt": {
+    "simple": "To try to do something, even if you might not succeed yet.",
+    "detailed": "You attempt a hard task when you make a genuine effort, then learn from the result.",
+    "zh": "尝试；努力去做，即使未必立刻成功",
+    "syn": [
+      "try",
+      "endeavour",
+      "strive"
+    ],
+    "ant": [],
+    "col": [
+      "attempt a question",
+      "attempt a solution",
+      "first attempt"
+    ],
+    "fam": [
+      "attempt",
+      "attempted",
+      "attempting",
+      "unattempted"
+    ],
+    "example": "Attempt every scholarship question, even the last, hardest one.",
+    "basic": "Have a go at the hard task."
+  },
+  "avoid": {
+    "simple": "To stay away from something that could cause trouble or error.",
+    "detailed": "You avoid a mistake or danger when you take care not to meet it, often by planning ahead.",
+    "zh": "避免；躲开可能造成麻烦或错误的事物",
+    "syn": [
+      "evade",
+      "dodge",
+      "shun"
+    ],
+    "ant": [
+      "face"
+    ],
+    "col": [
+      "avoid a mistake",
+      "avoid danger",
+      "avoid repetition"
+    ],
+    "fam": [
+      "avoid",
+      "avoidance",
+      "avoidable",
+      "unavoidable",
+      "avoided"
+    ],
+    "example": "Avoid copying the sample sentence word for word in your own paragraph.",
+    "basic": "Stay away from that problem."
+  },
+  "capture": {
+    "simple": "To catch a moment, feeling, or image so others can share it.",
+    "detailed": "Writers capture a scene when their words hold the look, sound, or emotion so a reader feels present.",
+    "zh": "捕捉；把瞬间、感受或画面固定下来让人感知",
+    "syn": [
+      "catch",
+      "seize",
+      "record"
+    ],
+    "ant": [],
+    "col": [
+      "capture a moment",
+      "capture a feeling",
+      "capture the scene"
+    ],
+    "fam": [
+      "capture",
+      "captive",
+      "captivity",
+      "recapture",
+      "captured"
+    ],
+    "example": "The first paragraph should capture the smell of wet gum leaves after rain.",
+    "basic": "Get the feeling down on the page."
+  },
+  "claim": {
+    "simple": "To say that something is true and be ready to support it.",
+    "detailed": "You claim a point when you state it as your position, knowing a reader may ask for proof.",
+    "zh": "声称；提出有待证明的主张",
+    "syn": [
+      "assert",
+      "maintain",
+      "hold"
+    ],
+    "ant": [
+      "deny"
+    ],
+    "col": [
+      "claim that",
+      "make a claim",
+      "claim the prize"
+    ],
+    "fam": [
+      "claim",
+      "claimant",
+      "claimed",
+      "reclaim",
+      "unclaimed"
+    ],
+    "example": "Claim that shorter lines at the canteen would reduce wasted lunch time.",
+    "basic": "Say what you believe is true."
+  },
+  "collaborate": {
+    "simple": "To work with other people on the same task and share the effort.",
+    "detailed": "Teams collaborate when each person contributes and the group shapes the result together.",
+    "zh": "协作；与他人共同完成同一项任务",
+    "syn": [
+      "cooperate",
+      "team up",
+      "work together"
+    ],
+    "ant": [],
+    "col": [
+      "collaborate on a project",
+      "collaborate with peers",
+      "collaborate closely"
+    ],
+    "fam": [
+      "collaborate",
+      "collaboration",
+      "collaborative",
+      "collaborator"
+    ],
+    "example": "Year 6 classes collaborate on one Federation display for the hall.",
+    "basic": "Work on it together."
+  },
+  "compile": {
+    "simple": "To gather pieces of information and put them into one organised set.",
+    "detailed": "You compile notes, data, or a list when you collect items from several places and arrange them as a whole.",
+    "zh": "汇编；把分散资料整理成一套",
+    "syn": [
+      "assemble",
+      "collect",
+      "put together"
+    ],
+    "ant": [],
+    "col": [
+      "compile a list",
+      "compile the data",
+      "compile notes"
+    ],
+    "fam": [
+      "compile",
+      "compilation",
+      "compiler",
+      "compiled",
+      "uncompiled"
+    ],
+    "example": "Compile the group’s notes into one shared page before you write.",
+    "basic": "Put all the bits into one list."
+  },
+  "concentrate": {
+    "simple": "To give all your attention to one task for a stretch of time.",
+    "detailed": "You concentrate when you shut out distractions so your thinking stays on the work in front of you.",
+    "zh": "集中注意力；把心思放在一件事上",
+    "syn": [
+      "focus",
+      "attend",
+      "fix"
+    ],
+    "ant": [],
+    "col": [
+      "concentrate on the task",
+      "concentrate hard",
+      "concentrate in silence"
+    ],
+    "fam": [
+      "concentrate",
+      "concentration",
+      "concentrated",
+      "concentrating"
+    ],
+    "example": "Concentrate on the reading paper for the full forty minutes.",
+    "basic": "Keep your mind on the work."
+  },
+  "conduct": {
+    "simple": "To carry out a test, survey, or activity in an organised way.",
+    "detailed": "You conduct an investigation when you lead the steps, keep them fair, and take responsibility for how it is done.",
+    "zh": "进行；有组织地实施实验、调查或活动",
+    "syn": [
+      "carry out",
+      "run",
+      "perform"
+    ],
+    "ant": [],
+    "col": [
+      "conduct an experiment",
+      "conduct a survey",
+      "conduct a test"
+    ],
+    "fam": [
+      "conduct",
+      "conductor",
+      "conduction",
+      "conductive",
+      "misconduct"
+    ],
+    "example": "Conduct the dissolving test at the same temperature each time.",
+    "basic": "Run the experiment carefully."
+  },
+  "convince": {
+    "simple": "To make someone believe that an idea is true or worth doing.",
+    "detailed": "You convince a reader when your reasons are strong enough to change their mind or remove their doubt.",
+    "zh": "使信服；用理由让人相信某想法",
+    "syn": [
+      "persuade",
+      "assure",
+      "satisfy"
+    ],
+    "ant": [],
+    "col": [
+      "convince the reader",
+      "convince a friend",
+      "convince the panel"
+    ],
+    "fam": [
+      "convince",
+      "convincing",
+      "convinced",
+      "unconvinced",
+      "convincible"
+    ],
+    "example": "Use two graphs if you want to convince the panel that the creek is cleaner.",
+    "basic": "Get them to believe you."
+  },
+  "cooperate": {
+    "simple": "To work helpfully with others toward the same goal.",
+    "detailed": "People cooperate when they follow shared rules and help one another instead of competing or blocking the task.",
+    "zh": "合作；为同一目标互相配合",
+    "syn": [
+      "collaborate",
+      "work together",
+      "unite"
+    ],
+    "ant": [],
+    "col": [
+      "cooperate with others",
+      "cooperate fully",
+      "cooperate on a plan"
+    ],
+    "fam": [
+      "cooperate",
+      "cooperation",
+      "cooperative",
+      "uncooperative"
+    ],
+    "example": "Houses cooperate to keep the oval tidy after Friday sport.",
+    "basic": "Help each other get the job done."
+  },
+  "coordinate": {
+    "simple": "To organise people or parts so they work together smoothly.",
+    "detailed": "You coordinate a project when you time the jobs, share roles, and keep the pieces from clashing.",
+    "zh": "协调；安排人员或环节使配合顺利",
+    "syn": [
+      "organise",
+      "arrange",
+      "synchronise"
+    ],
+    "ant": [],
+    "col": [
+      "coordinate a project",
+      "coordinate the teams",
+      "coordinate the timetable"
+    ],
+    "fam": [
+      "coordinate",
+      "coordination",
+      "coordinator",
+      "coordinated",
+      "uncoordinated"
+    ],
+    "example": "Two captains coordinate the stalls so the fete queues stay short.",
+    "basic": "Get the parts working at the same time."
+  },
+  "create": {
+    "simple": "To make something new that was not there before.",
+    "detailed": "You create a text, model, or solution when you invent it with purpose, rather than only copying a sample.",
+    "zh": "创造；做出以前没有的新事物",
+    "syn": [
+      "make",
+      "invent",
+      "produce"
+    ],
+    "ant": [
+      "destroy"
+    ],
+    "col": [
+      "create a model",
+      "create a text",
+      "create a solution"
+    ],
+    "fam": [
+      "create",
+      "creation",
+      "creative",
+      "creator",
+      "uncreative"
+    ],
+    "example": "Create a labelled diagram that shows how the water cycle works.",
+    "basic": "Make a new thing of your own."
+  },
+  "deduce": {
+    "simple": "To work out an answer from clues, even if nobody states it.",
+    "detailed": "You deduce a fact when you use evidence and logic to reach a conclusion that is not written in one sentence.",
+    "zh": "推断；根据线索合乎逻辑地得出结论",
+    "syn": [
+      "infer",
+      "conclude",
+      "reason"
+    ],
+    "ant": [],
+    "col": [
+      "deduce the cause",
+      "deduce from clues",
+      "deduce a conclusion"
+    ],
+    "fam": [
+      "deduce",
+      "deduction",
+      "deductive",
+      "deduced",
+      "undeduced"
+    ],
+    "example": "From the muddy prints, deduce which animal visited the creek overnight.",
+    "basic": "Work it out from the clues."
+  },
+  "depict": {
+    "simple": "To show a person, place, or event in words or pictures.",
+    "detailed": "A writer or artist depicts a scene when the details let an audience picture it as if they were there.",
+    "zh": "描绘；用文字或图画表现人物、地点或事件",
+    "syn": [
+      "portray",
+      "show",
+      "represent"
+    ],
+    "ant": [],
+    "col": [
+      "depict a scene",
+      "depict a character",
+      "depict the setting"
+    ],
+    "fam": [
+      "depict",
+      "depiction",
+      "depicted",
+      "depicting"
+    ],
+    "example": "The poem should depict the storm without using the word scary.",
+    "basic": "Show what it looked like."
+  },
+  "detect": {
+    "simple": "To notice something that is small, hidden, or just beginning.",
+    "detailed": "You detect a change when a careful test or observation picks it up before it is obvious to everyone.",
+    "zh": "探测；发现细微、隐藏或刚出现的事物",
+    "syn": [
+      "notice",
+      "spot",
+      "identify"
+    ],
+    "ant": [
+      "overlook"
+    ],
+    "col": [
+      "detect a change",
+      "detect a gas",
+      "detect an error"
+    ],
+    "fam": [
+      "detect",
+      "detection",
+      "detector",
+      "detective",
+      "undetected"
+    ],
+    "example": "The sensor can detect a tiny rise in carbon dioxide in the jar.",
+    "basic": "Notice the small change."
+  },
+  "differ": {
+    "simple": "To be not the same as something else in an important way.",
+    "detailed": "Two results differ when a feature such as size, cause, or opinion is not identical and the gap can be described.",
+    "zh": "不同；在重要方面与另一事物不一样",
+    "syn": [
+      "vary",
+      "contrast",
+      "diverge"
+    ],
+    "ant": [
+      "match"
+    ],
+    "col": [
+      "differ from",
+      "opinions differ",
+      "results differ"
+    ],
+    "fam": [
+      "differ",
+      "difference",
+      "different",
+      "differently",
+      "indifferent"
+    ],
+    "example": "The two graphs differ in scale, so compare the units before you judge.",
+    "basic": "They are not the same."
+  },
+  "discover": {
+    "simple": "To find something that you did not know or see before.",
+    "detailed": "You discover a fact or object when investigation or chance reveals it, and you can then describe what it is.",
+    "zh": "发现；找到以前不知道或未见过的事物",
+    "syn": [
+      "find",
+      "uncover",
+      "detect"
+    ],
+    "ant": [],
+    "col": [
+      "discover a pattern",
+      "discover a source",
+      "discover the cause"
+    ],
+    "fam": [
+      "discover",
+      "discovery",
+      "discoverer",
+      "discovered",
+      "undiscovered"
+    ],
+    "example": "The class may discover a pattern if they line the shells up by size.",
+    "basic": "Find something new."
+  },
+  "distribute": {
+    "simple": "To give things out so each person or place gets a share.",
+    "detailed": "You distribute goods, papers, or information when you pass them around according to a fair or planned system.",
+    "zh": "分发；按计划把物品或信息发给各人",
+    "syn": [
+      "hand out",
+      "share",
+      "allocate"
+    ],
+    "ant": [
+      "collect"
+    ],
+    "col": [
+      "distribute the papers",
+      "distribute food",
+      "distribute information"
+    ],
+    "fam": [
+      "distribute",
+      "distribution",
+      "distributor",
+      "distributed",
+      "undistributed"
+    ],
+    "example": "Volunteers distribute water bottles at the community fun run.",
+    "basic": "Give a share to each person."
+  },
+  "estimate": {
+    "simple": "To judge an amount closely when you cannot measure it exactly yet.",
+    "detailed": "You estimate when you use experience or rounding to give a sensible approximate number, then check later if you can.",
+    "zh": "估算；在无法精确测量时作出合理约数",
+    "syn": [
+      "approximate",
+      "guess",
+      "judge"
+    ],
+    "ant": [],
+    "col": [
+      "estimate the length",
+      "estimate a total",
+      "rough estimate"
+    ],
+    "fam": [
+      "estimate",
+      "estimation",
+      "estimated",
+      "estimator",
+      "underestimate"
+    ],
+    "example": "Estimate the volume of the tank before you calculate it with the formula.",
+    "basic": "Give a sensible close number."
+  },
+  "exclude": {
+    "simple": "To leave something out on purpose so it is not part of the group.",
+    "detailed": "You exclude an item, person, or idea when you decide it does not belong in the set you are using.",
+    "zh": "排除；有意不把某项列入其中",
+    "syn": [
+      "omit",
+      "leave out",
+      "bar"
+    ],
+    "ant": [
+      "include"
+    ],
+    "col": [
+      "exclude a result",
+      "exclude outliers",
+      "exclude from the list"
+    ],
+    "fam": [
+      "exclude",
+      "exclusion",
+      "exclusive",
+      "excluding",
+      "unexcluded"
+    ],
+    "example": "Exclude any trial where the timer failed, and say why in your report.",
+    "basic": "Leave that one out on purpose."
+  },
+  "influence": {
+    "simple": "To have an effect on what someone thinks or what happens next.",
+    "detailed": "A person, law, or event can influence choices when it shapes them without using force.",
+    "zh": "影响；使他人想法或后续事情发生变化",
+    "syn": [
+      "affect",
+      "shape",
+      "sway"
+    ],
+    "ant": [],
+    "col": [
+      "influence a decision",
+      "influence opinion",
+      "strong influence"
+    ],
+    "fam": [
+      "influence",
+      "influential",
+      "influencer",
+      "influenced",
+      "uninfluenced"
+    ],
+    "example": "Newspaper cartoons can influence how voters feel about a new tax.",
+    "basic": "Have an effect on what people choose."
+  },
+  "intend": {
+    "simple": "To mean to do something, or to have a plan in mind.",
+    "detailed": "You intend an action when you have decided it should happen, even if you have not done it yet.",
+    "zh": "打算；心里已有要做某事的计划",
+    "syn": [
+      "mean",
+      "plan",
+      "aim"
+    ],
+    "ant": [],
+    "col": [
+      "intend to write",
+      "intend a meaning",
+      "originally intend"
+    ],
+    "fam": [
+      "intend",
+      "intention",
+      "intended",
+      "intentional",
+      "unintended"
+    ],
+    "example": "The narrator did not intend to frighten the younger campers.",
+    "basic": "Have a plan to do it."
+  },
+  "limit": {
+    "simple": "To set a point that something is not allowed to go beyond.",
+    "detailed": "You limit time, length, or choice when you place a boundary so the amount stays within a range.",
+    "zh": "限制；设定不可超过的界限",
+    "syn": [
+      "restrict",
+      "cap",
+      "bound"
+    ],
+    "ant": [
+      "extend"
+    ],
+    "col": [
+      "limit the time",
+      "limit the length",
+      "limit the choice"
+    ],
+    "fam": [
+      "limit",
+      "limitation",
+      "limited",
+      "unlimited",
+      "limiter"
+    ],
+    "example": "Limit the speech to two minutes so every speaker gets a turn.",
+    "basic": "Do not let it go past that point."
+  },
+  "omit": {
+    "simple": "To leave out a word, fact, or step, sometimes by mistake.",
+    "detailed": "You omit something when it is missing from the final version, whether you chose to drop it or forgot it.",
+    "zh": "省略；漏掉或故意不写某个词、事实或步骤",
+    "syn": [
+      "leave out",
+      "exclude",
+      "skip"
+    ],
+    "ant": [
+      "include"
+    ],
+    "col": [
+      "omit a word",
+      "omit a step",
+      "omit details"
+    ],
+    "fam": [
+      "omit",
+      "omission",
+      "omitted",
+      "omitting"
+    ],
+    "example": "Do not omit the units when you copy the measurements into the table.",
+    "basic": "Leave that part out."
+  },
+  "oppose": {
+    "simple": "To be against a plan or idea and say why it should not happen.",
+    "detailed": "You oppose a proposal when you argue on the other side and try to stop it or change it.",
+    "zh": "反对；不赞成某计划并说明不该实行的理由",
+    "syn": [
+      "resist",
+      "contest",
+      "counter"
+    ],
+    "ant": [
+      "support"
+    ],
+    "col": [
+      "oppose a plan",
+      "oppose a motion",
+      "strongly oppose"
+    ],
+    "fam": [
+      "oppose",
+      "opposition",
+      "opposite",
+      "opponent",
+      "unopposed"
+    ],
+    "example": "Several parents oppose the later start time because buses would miss the new bell.",
+    "basic": "Be against the idea."
+  },
+  "overcome": {
+    "simple": "To get past a difficulty so it no longer stops you.",
+    "detailed": "A character or person overcomes a problem when they face it and find a way through, not when they simply avoid it.",
+    "zh": "克服；战胜困难使其不再阻挡自己",
+    "syn": [
+      "conquer",
+      "defeat",
+      "surmount"
+    ],
+    "ant": [],
+    "col": [
+      "overcome a fear",
+      "overcome a problem",
+      "overcome an obstacle"
+    ],
+    "fam": [
+      "overcome",
+      "overcame",
+      "overcoming",
+      "unovercome"
+    ],
+    "example": "The narrator must overcome her fear of the dark ridge before dawn.",
+    "basic": "Get past the hard thing."
+  },
+  "overlook": {
+    "simple": "To miss something important because you did not notice it.",
+    "detailed": "You overlook a detail when it is there but your attention slides past it, which can weaken an answer.",
+    "zh": "忽略；因未注意到而漏掉重要之处",
+    "syn": [
+      "miss",
+      "ignore",
+      "neglect"
+    ],
+    "ant": [
+      "notice"
+    ],
+    "col": [
+      "overlook a detail",
+      "overlook an error",
+      "easily overlook"
+    ],
+    "fam": [
+      "overlook",
+      "overlooked",
+      "overlooking"
+    ],
+    "example": "Do not overlook the command word compare on the last question.",
+    "basic": "Miss it because you did not look carefully."
+  },
+  "preserve": {
+    "simple": "To keep something safe so it lasts and is not damaged or lost.",
+    "detailed": "Communities preserve places, languages, or artefacts when they protect them for people now and in the future.",
+    "zh": "保护；妥善保存使不被损坏或失传",
+    "syn": [
+      "protect",
+      "conserve",
+      "maintain"
+    ],
+    "ant": [
+      "destroy"
+    ],
+    "col": [
+      "preserve a site",
+      "preserve artefacts",
+      "preserve a language"
+    ],
+    "fam": [
+      "preserve",
+      "preservation",
+      "preservative",
+      "preserved",
+      "unpreserved"
+    ],
+    "example": "The museum works to preserve the rock-art photographs in a dark, dry room.",
+    "basic": "Keep it safe so it lasts."
+  },
+  "prevent": {
+    "simple": "To stop something unwanted from happening in the first place.",
+    "detailed": "You prevent harm when you act early enough that the problem never starts, rather than only fixing it later.",
+    "zh": "防止；事先阻止不好的事情发生",
+    "syn": [
+      "stop",
+      "block",
+      "avert"
+    ],
+    "ant": [
+      "allow"
+    ],
+    "col": [
+      "prevent an accident",
+      "prevent disease",
+      "prevent waste"
+    ],
+    "fam": [
+      "prevent",
+      "prevention",
+      "preventive",
+      "preventable",
+      "unprevented"
+    ],
+    "example": "A lid will prevent the sample from evaporating overnight.",
+    "basic": "Stop it before it happens."
+  },
+  "protect": {
+    "simple": "To keep a person, place, or living thing safe from harm.",
+    "detailed": "You protect something when you put a barrier, rule, or habit in place so it is less likely to be damaged.",
+    "zh": "保护；使免受伤害或破坏",
+    "syn": [
+      "safeguard",
+      "shield",
+      "guard"
+    ],
+    "ant": [
+      "endanger"
+    ],
+    "col": [
+      "protect the habitat",
+      "protect wildlife",
+      "protect a sample"
+    ],
+    "fam": [
+      "protect",
+      "protection",
+      "protective",
+      "protector",
+      "unprotected"
+    ],
+    "example": "Fencing can protect the nesting birds from dogs on the beach.",
+    "basic": "Keep it safe from harm."
+  },
+  "quote": {
+    "simple": "To use someone’s exact words and show that they are not yours.",
+    "detailed": "You quote a text when you copy a short stretch word for word and mark it so the reader knows the source.",
+    "zh": "引用；原样使用他人的话并标明出处",
+    "syn": [
+      "cite",
+      "extract",
+      "repeat"
+    ],
+    "ant": [],
+    "col": [
+      "quote a source",
+      "quote the author",
+      "direct quote"
+    ],
+    "fam": [
+      "quote",
+      "quotation",
+      "quoted",
+      "quotable",
+      "misquote"
+    ],
+    "example": "Quote one line from the poem, then explain the image in your own words.",
+    "basic": "Use the writer’s exact words."
+  },
+  "recommend": {
+    "simple": "To say that a choice is a good one and explain why.",
+    "detailed": "You recommend a book, method, or action when you advise others to use it because you have reasons.",
+    "zh": "推荐；说明某选择为何值得采纳",
+    "syn": [
+      "suggest",
+      "advise",
+      "endorse"
+    ],
+    "ant": [],
+    "col": [
+      "recommend a book",
+      "recommend a change",
+      "strongly recommend"
+    ],
+    "fam": [
+      "recommend",
+      "recommendation",
+      "recommended",
+      "recommendable"
+    ],
+    "example": "Recommend one change to the uniform policy and give two reasons.",
+    "basic": "Say which choice you think is best."
+  },
+  "recover": {
+    "simple": "To get back to a healthy or normal state after harm or loss.",
+    "detailed": "A person, habitat, or system recovers when it slowly returns toward the condition it had before damage.",
+    "zh": "恢复；在受损或生病之后回到正常状态",
+    "syn": [
+      "heal",
+      "regain",
+      "bounce back"
+    ],
+    "ant": [],
+    "col": [
+      "recover from drought",
+      "recover strength",
+      "recover from illness"
+    ],
+    "fam": [
+      "recover",
+      "recovery",
+      "recoverable",
+      "recovered",
+      "irrecoverable"
+    ],
+    "example": "The wetland may recover if cattle are kept off the banks for a year.",
+    "basic": "Get better after the damage."
+  },
+  "replace": {
+    "simple": "To put a new thing in the place of an old or missing one.",
+    "detailed": "You replace a part when you take the first one away and use another that can do the same job.",
+    "zh": "替换；用新的代替旧的或缺失的",
+    "syn": [
+      "substitute",
+      "swap",
+      "change"
+    ],
+    "ant": [],
+    "col": [
+      "replace a part",
+      "replace the battery",
+      "replace with"
+    ],
+    "fam": [
+      "replace",
+      "replacement",
+      "replaceable",
+      "replaced",
+      "irreplaceable"
+    ],
+    "example": "Replace the flat battery before you start the second trial.",
+    "basic": "Put a new one in its place."
+  },
+  "restore": {
+    "simple": "To bring something back to the condition it used to have.",
+    "detailed": "Communities restore a building, creek, or artwork when they repair damage so it is close to its earlier state.",
+    "zh": "修复；使恢复到原先的状态",
+    "syn": [
+      "repair",
+      "reinstate",
+      "return"
+    ],
+    "ant": [
+      "damage"
+    ],
+    "col": [
+      "restore a building",
+      "restore a creek",
+      "restore a painting"
+    ],
+    "fam": [
+      "restore",
+      "restoration",
+      "restorer",
+      "restored",
+      "unrestored"
+    ],
+    "example": "Volunteers restore the old school well so visitors can see how it worked.",
+    "basic": "Fix it so it is like it used to be."
+  },
+  "retain": {
+    "simple": "To keep something instead of losing it or giving it away.",
+    "detailed": "You retain facts, rights, or materials when they stay with you after time has passed.",
+    "zh": "保留；继续持有而不失去或放弃",
+    "syn": [
+      "keep",
+      "hold",
+      "maintain"
+    ],
+    "ant": [
+      "discard"
+    ],
+    "col": [
+      "retain information",
+      "retain heat",
+      "retain a right"
+    ],
+    "fam": [
+      "retain",
+      "retention",
+      "retained",
+      "retainer",
+      "unretained"
+    ],
+    "example": "A glossary helps you retain the new science words after the test.",
+    "basic": "Keep it so you do not lose it."
+  },
+  "secure": {
+    "simple": "To make something safe, or to succeed in getting what is needed.",
+    "detailed": "A group can secure a place by locking or guarding it; they can also secure funding or agreement after effort.",
+    "zh": "确保安全；或经过努力得到所需之物",
+    "syn": [
+      "obtain",
+      "safeguard",
+      "lock"
+    ],
+    "ant": [],
+    "col": [
+      "secure the site",
+      "secure funding",
+      "secure an agreement"
+    ],
+    "fam": [
+      "secure",
+      "security",
+      "securely",
+      "insecure",
+      "unsecured"
+    ],
+    "example": "The rangers secure the nesting area with a temporary fence before holidays.",
+    "basic": "Make it safe, or manage to get it."
+  },
+  "seek": {
+    "simple": "To look for something you need, such as help, facts, or a place.",
+    "detailed": "You seek an answer when you go after it on purpose, by asking, reading, or searching.",
+    "zh": "寻求；有目的地寻找帮助、事实或处所",
+    "syn": [
+      "search for",
+      "look for",
+      "pursue"
+    ],
+    "ant": [
+      "avoid"
+    ],
+    "col": [
+      "seek help",
+      "seek advice",
+      "seek an answer"
+    ],
+    "fam": [
+      "seek",
+      "sought",
+      "seeker",
+      "seeking",
+      "unseeking"
+    ],
+    "example": "Seek a second source if the first website does not name its author.",
+    "basic": "Go looking for what you need."
+  },
+  "shift": {
+    "simple": "To move something from one place, time, or state to another.",
+    "detailed": "A load, opinion, or weather pattern can shift when it changes position or direction.",
+    "zh": "转移；从一处、一时或一种状态移到另一种",
+    "syn": [
+      "move",
+      "slide",
+      "transfer"
+    ],
+    "ant": [],
+    "col": [
+      "shift the load",
+      "shift position",
+      "shift the focus"
+    ],
+    "fam": [
+      "shift",
+      "shifter",
+      "shifting",
+      "shifted"
+    ],
+    "example": "The wind can shift the smoke across the oval within minutes.",
+    "basic": "Move it to a new place."
+  },
+  "strengthen": {
+    "simple": "To make an idea, body, or structure more powerful or solid.",
+    "detailed": "You strengthen an argument when you add better evidence; a beam strengthens a bridge when it bears more force.",
+    "zh": "加强；使论点、身体或结构更有力更牢固",
+    "syn": [
+      "reinforce",
+      "fortify",
+      "bolster"
+    ],
+    "ant": [
+      "weaken"
+    ],
+    "col": [
+      "strengthen an argument",
+      "strengthen a case",
+      "strengthen a joint"
+    ],
+    "fam": [
+      "strengthen",
+      "strength",
+      "strong",
+      "stronger",
+      "unstrengthened"
+    ],
+    "example": "Strengthen your case with a statistic from the council’s waste report.",
+    "basic": "Make the argument stronger."
+  },
+  "supply": {
+    "simple": "To give what is needed, such as food, water, or materials.",
+    "detailed": "A person or system supplies goods when it provides them regularly so others can use them.",
+    "zh": "供应；提供所需的食物、水或材料",
+    "syn": [
+      "provide",
+      "furnish",
+      "deliver"
+    ],
+    "ant": [
+      "withhold"
+    ],
+    "col": [
+      "supply water",
+      "supply materials",
+      "supply food"
+    ],
+    "fam": [
+      "supply",
+      "supplier",
+      "supplied",
+      "supplies",
+      "resupply"
+    ],
+    "example": "Tankers supply drinking water to the town when the reservoir is low.",
+    "basic": "Give people the things they need."
+  },
+  "sustain": {
+    "simple": "To keep something going so it does not collapse or run out.",
+    "detailed": "A system sustains life or effort when it provides enough support over time, not only for a moment.",
+    "zh": "维持；使某事物持续而不崩溃或耗尽",
+    "syn": [
+      "maintain",
+      "uphold",
+      "keep up"
+    ],
+    "ant": [],
+    "col": [
+      "sustain life",
+      "sustain effort",
+      "sustain a population"
+    ],
+    "fam": [
+      "sustain",
+      "sustainable",
+      "sustainability",
+      "sustained",
+      "unsustainable"
+    ],
+    "example": "A healthy reef can sustain a large population of fish if water quality stays high.",
+    "basic": "Keep it going for a long time."
+  },
+  "target": {
+    "simple": "To aim effort at a particular goal, group, or problem.",
+    "detailed": "You target a weakness when you choose it on purpose and put your work there, rather than spreading effort thinly.",
+    "zh": "针对；把努力对准特定目标或问题",
+    "syn": [
+      "aim at",
+      "focus on",
+      "direct"
+    ],
+    "ant": [],
+    "col": [
+      "target a goal",
+      "target a weakness",
+      "target the audience"
+    ],
+    "fam": [
+      "target",
+      "targeted",
+      "targeting",
+      "untargeted"
+    ],
+    "example": "Target the questions you usually miss, not the ones you already find easy.",
+    "basic": "Aim your work at that one thing."
+  },
+  "translate": {
+    "simple": "To change words from one language into another, keeping the meaning.",
+    "detailed": "You translate a text when you rewrite it so a new audience can understand the same ideas in their own language.",
+    "zh": "翻译；在保持原意的前提下换成另一种语言",
+    "syn": [
+      "interpret",
+      "render",
+      "convert"
+    ],
+    "ant": [],
+    "col": [
+      "translate a poem",
+      "translate a sentence",
+      "translate into English"
+    ],
+    "fam": [
+      "translate",
+      "translation",
+      "translator",
+      "translated",
+      "untranslated"
+    ],
+    "example": "Translate the chorus into English, then check that the feeling still matches.",
+    "basic": "Put the words into another language."
+  },
+  "unite": {
+    "simple": "To bring people or parts together so they act as one group.",
+    "detailed": "Communities unite when they join around a shared purpose instead of remaining separate.",
+    "zh": "团结；使人们或各部分联合成一体",
+    "syn": [
+      "join",
+      "combine",
+      "unify"
+    ],
+    "ant": [
+      "divide"
+    ],
+    "col": [
+      "unite the class",
+      "unite a community",
+      "unite behind a cause"
+    ],
+    "fam": [
+      "unite",
+      "unity",
+      "united",
+      "reunion",
+      "disunite"
+    ],
+    "example": "The towns unite to fund a shared bushfire siren after the dry summer.",
+    "basic": "Bring everyone together."
+  },
+  "warn": {
+    "simple": "To tell someone about a danger so they can stay safe.",
+    "detailed": "You warn an audience when you give a clear signal of risk and what they should do next.",
+    "zh": "警告；告知危险以便对方可以避开",
+    "syn": [
+      "alert",
+      "caution",
+      "forewarn"
+    ],
+    "ant": [],
+    "col": [
+      "warn the public",
+      "warn of danger",
+      "warn against"
+    ],
+    "fam": [
+      "warn",
+      "warning",
+      "warned",
+      "forewarn",
+      "unwarned"
+    ],
+    "example": "Signs warn swimmers that the current is strong after heavy rain.",
+    "basic": "Tell people there is danger."
+  },
+  "weaken": {
+    "simple": "To make something less strong, clear, or convincing.",
+    "detailed": "A leaky reason can weaken an argument; rust or heat can weaken a material so it holds less force.",
+    "zh": "削弱；使力量、清晰度或说服力变弱",
+    "syn": [
+      "undermine",
+      "lessen",
+      "reduce"
+    ],
+    "ant": [
+      "strengthen"
+    ],
+    "col": [
+      "weaken an argument",
+      "weaken a structure",
+      "weaken the case"
+    ],
+    "fam": [
+      "weaken",
+      "weak",
+      "weakness",
+      "weaker",
+      "weakened"
+    ],
+    "example": "A fact that does not match your claim will weaken the whole paragraph.",
+    "basic": "Make it less strong."
+  },
+  "withdraw": {
+    "simple": "To take something back, or to step away from a place or plan.",
+    "detailed": "A person or group withdraws when they remove support, money, or themselves after being involved.",
+    "zh": "撤回；收回某物或退出某地、某计划",
+    "syn": [
+      "pull out",
+      "retreat",
+      "remove"
+    ],
+    "ant": [
+      "advance"
+    ],
+    "col": [
+      "withdraw support",
+      "withdraw from a contest",
+      "withdraw troops"
+    ],
+    "fam": [
+      "withdraw",
+      "withdrawal",
+      "withdrawn",
+      "withdrawing"
+    ],
+    "example": "The club may withdraw from the Saturday fixture if the oval is flooded.",
+    "basic": "Take it back, or step away."
+  },
+  "witness": {
+    "simple": "To see an event happen and be able to say what occurred.",
+    "detailed": "You witness something when you are present as it takes place, so your account can later be used as evidence.",
+    "zh": "目击；亲眼看见事件发生并能陈述经过",
+    "syn": [
+      "see",
+      "observe",
+      "watch"
+    ],
+    "ant": [],
+    "col": [
+      "witness an event",
+      "witness a change",
+      "witness history"
+    ],
+    "fam": [
+      "witness",
+      "eyewitness",
+      "witnessed",
+      "witnessing"
+    ],
+    "example": "Many children witness the Anzac march from the footpath each April.",
+    "basic": "Be there and see it happen."
+  },
+  "accept": {
+    "simple": "To agree to take something that is offered, or to agree it is true.",
+    "detailed": "You accept an idea, apology, or result when you receive it as valid instead of pushing it away.",
+    "zh": "接受；同意收下所给之物，或承认某事属实",
+    "syn": [
+      "agree to",
+      "receive",
+      "admit"
+    ],
+    "ant": [
+      "reject"
+    ],
+    "col": [
+      "accept an offer",
+      "accept responsibility",
+      "accept a result"
+    ],
+    "fam": [
+      "accept",
+      "acceptance",
+      "acceptable",
+      "accepted",
+      "unacceptable"
+    ],
+    "example": "Accept the marker’s feedback, then change the paragraph that lost marks.",
+    "basic": "Agree to take it."
+  },
+  "adopt": {
+    "simple": "To take up a new idea, rule, or habit and use it as your own.",
+    "detailed": "A group adopts a policy when it officially chooses that way of working and begins to follow it.",
+    "zh": "采纳；把新想法、规则或习惯当作自己的来用",
+    "syn": [
+      "take up",
+      "embrace",
+      "choose"
+    ],
+    "ant": [
+      "reject"
+    ],
+    "col": [
+      "adopt a policy",
+      "adopt a method",
+      "adopt a habit"
+    ],
+    "fam": [
+      "adopt",
+      "adoption",
+      "adoptive",
+      "adopted",
+      "unadopted"
+    ],
+    "example": "The council voted to adopt a ban on single-use cups at sports grounds.",
+    "basic": "Start using the new rule as your own."
+  },
+  "broaden": {
+    "simple": "To make something wider in range, such as knowledge or choice.",
+    "detailed": "You broaden understanding when you add new kinds of examples or views, not just more of the same.",
+    "zh": "拓宽；使知识、选择或范围变得更广",
+    "syn": [
+      "widen",
+      "expand",
+      "extend"
+    ],
+    "ant": [
+      "narrow"
+    ],
+    "col": [
+      "broaden your knowledge",
+      "broaden the topic",
+      "broaden the range"
+    ],
+    "fam": [
+      "broaden",
+      "broad",
+      "breadth",
+      "broadly",
+      "unbroadened"
+    ],
+    "example": "Reading both sides of the Federation debate will broaden your view.",
+    "basic": "Make the range of ideas wider."
+  },
+  "collapse": {
+    "simple": "To fall down suddenly because the support is not strong enough.",
+    "detailed": "A structure or system collapses when it fails all at once, often after hidden weakness or extra load.",
+    "zh": "倒塌；因支撑不足而突然倒下或崩溃",
+    "syn": [
+      "fall",
+      "crumble",
+      "give way"
+    ],
+    "ant": [],
+    "col": [
+      "collapse under pressure",
+      "collapse of a bridge",
+      "suddenly collapse"
+    ],
+    "fam": [
+      "collapse",
+      "collapsed",
+      "collapsible",
+      "collapsing"
+    ],
+    "example": "The sand wall will collapse if the tide reaches the undercut base.",
+    "basic": "Fall down all at once."
+  },
+  "comply": {
+    "simple": "To follow a rule or request as you are required to do.",
+    "detailed": "People comply when they act in line with a law, safety sign, or instruction, even if they did not write it.",
+    "zh": "遵守；按规则或要求去做",
+    "syn": [
+      "obey",
+      "follow",
+      "observe"
+    ],
+    "ant": [
+      "refuse"
+    ],
+    "col": [
+      "comply with the rule",
+      "comply with a request",
+      "fail to comply"
+    ],
+    "fam": [
+      "comply",
+      "compliance",
+      "compliant",
+      "noncompliant"
+    ],
+    "example": "Visitors must comply with the quiet-zone signs in the memorial garden.",
+    "basic": "Do what the rule says."
+  },
+  "conceal": {
+    "simple": "To hide something so other people cannot see or know it.",
+    "detailed": "A character conceals a feeling or object when they keep it out of sight on purpose.",
+    "zh": "隐瞒；故意把事物或感受藏起来",
+    "syn": [
+      "hide",
+      "cover",
+      "mask"
+    ],
+    "ant": [
+      "reveal"
+    ],
+    "col": [
+      "conceal a secret",
+      "conceal a feeling",
+      "conceal the truth"
+    ],
+    "fam": [
+      "conceal",
+      "concealment",
+      "concealed",
+      "unconcealed"
+    ],
+    "example": "The narrator tries to conceal her homesickness behind jokes at camp.",
+    "basic": "Hide it so nobody notices."
+  },
+  "consume": {
+    "simple": "To use up food, fuel, or resources so they are gone.",
+    "detailed": "Living things consume energy when they take it in; a process consumes materials when it uses them until little remains.",
+    "zh": "消耗；把食物、燃料或资源用掉",
+    "syn": [
+      "use up",
+      "eat",
+      "deplete"
+    ],
+    "ant": [
+      "produce"
+    ],
+    "col": [
+      "consume energy",
+      "consume resources",
+      "consume food"
+    ],
+    "fam": [
+      "consume",
+      "consumption",
+      "consumer",
+      "consumable",
+      "unconsumed"
+    ],
+    "example": "The heater will consume less gas if we seal the gaps around the door.",
+    "basic": "Use it until it is gone."
+  },
+  "contain": {
+    "simple": "To have something inside, or to hold it so it does not spread.",
+    "detailed": "A container contains a substance when that substance is held within it; a report contains facts when they are included.",
+    "zh": "包含；内有某物，或将其控制住不扩散",
+    "syn": [
+      "hold",
+      "include",
+      "enclose"
+    ],
+    "ant": [],
+    "col": [
+      "contain water",
+      "contain a sample",
+      "contain the spill"
+    ],
+    "fam": [
+      "contain",
+      "container",
+      "containment",
+      "contained",
+      "uncontained"
+    ],
+    "example": "The jar must contain only pond water, with no extra soil from the bank.",
+    "basic": "Have it inside."
+  },
+  "declare": {
+    "simple": "To say something officially and publicly so everyone hears it.",
+    "detailed": "Leaders declare a result, law, or state of affairs when they announce it as settled and official.",
+    "zh": "宣布；正式公开说明某事已确定",
+    "syn": [
+      "announce",
+      "proclaim",
+      "state"
+    ],
+    "ant": [],
+    "col": [
+      "declare a result",
+      "declare war",
+      "declare a winner"
+    ],
+    "fam": [
+      "declare",
+      "declaration",
+      "declared",
+      "undeclared"
+    ],
+    "example": "In 1901, the colonies could declare themselves one nation after the vote.",
+    "basic": "Say it officially for everyone to hear."
+  },
+  "decline": {
+    "simple": "To become smaller in number, strength, or quality over time.",
+    "detailed": "A population, trade, or empire declines when it grows weaker or fewer, not when it suddenly stops.",
+    "zh": "下降；数量、力量或品质逐渐减弱",
+    "syn": [
+      "decrease",
+      "fall",
+      "diminish"
+    ],
+    "ant": [
+      "increase"
+    ],
+    "col": [
+      "decline in number",
+      "decline over time",
+      "numbers decline"
+    ],
+    "fam": [
+      "decline",
+      "declining",
+      "declined",
+      "undeclined"
+    ],
+    "example": "Frog numbers decline when the creek banks lose their shade trees.",
+    "basic": "There are fewer of them than before."
+  },
+  "demand": {
+    "simple": "To ask for something firmly, as if it must be given.",
+    "detailed": "People demand a change when they insist on it because they believe it is their right or a serious need.",
+    "zh": "要求；强硬地提出必须得到的事物",
+    "syn": [
+      "insist on",
+      "require",
+      "call for"
+    ],
+    "ant": [],
+    "col": [
+      "demand a change",
+      "demand an answer",
+      "public demand"
+    ],
+    "fam": [
+      "demand",
+      "demanding",
+      "demanded",
+      "undemanded"
+    ],
+    "example": "Residents demand a crossing after three near-misses outside the school.",
+    "basic": "Ask for it in a very firm way."
+  },
+  "deny": {
+    "simple": "To say that something is not true, or to refuse to give it.",
+    "detailed": "You deny a claim when you reject it as false; a person can also deny someone access or permission.",
+    "zh": "否认；说某事不真实，或拒绝给予",
+    "syn": [
+      "reject",
+      "refuse",
+      "contradict"
+    ],
+    "ant": [
+      "admit"
+    ],
+    "col": [
+      "deny a claim",
+      "deny the charge",
+      "deny access"
+    ],
+    "fam": [
+      "deny",
+      "denial",
+      "denied",
+      "undeniable",
+      "undenied"
+    ],
+    "example": "Do not deny the counter-argument; answer it with a fact.",
+    "basic": "Say that it is not true."
+  },
+  "depend": {
+    "simple": "To need something else in order to work or stay safe.",
+    "detailed": "One thing depends on another when the first cannot succeed unless the second is present or true.",
+    "zh": "依赖；需要另一事物才能运作或安全",
+    "syn": [
+      "rely",
+      "hinge",
+      "count on"
+    ],
+    "ant": [],
+    "col": [
+      "depend on rainfall",
+      "depend on a result",
+      "depend upon"
+    ],
+    "fam": [
+      "depend",
+      "dependent",
+      "dependence",
+      "independent",
+      "interdepend"
+    ],
+    "example": "Wheat crops depend on winter rain in this part of the wheatbelt.",
+    "basic": "Need that other thing to work."
+  },
+  "deserve": {
+    "simple": "To have earned something by what you have done or who you are.",
+    "detailed": "A person deserves praise, blame, or a reward when their actions make that outcome fair.",
+    "zh": "应得；因其行为或品质而配得上某结果",
+    "syn": [
+      "earn",
+      "merit",
+      "rate"
+    ],
+    "ant": [],
+    "col": [
+      "deserve praise",
+      "deserve a chance",
+      "deserve better"
+    ],
+    "fam": [
+      "deserve",
+      "deserving",
+      "undeserved",
+      "deservedly"
+    ],
+    "example": "Quiet helpers deserve credit for packing the whole camp kitchen.",
+    "basic": "Have earned that result."
+  },
+  "dismiss": {
+    "simple": "To refuse to take an idea seriously, or to send someone away.",
+    "detailed": "You dismiss a suggestion when you reject it without a fair look; a leader can also dismiss a group from a meeting.",
+    "zh": "驳回；不予认真考虑，或让人离开",
+    "syn": [
+      "reject",
+      "brush aside",
+      "discard"
+    ],
+    "ant": [
+      "consider"
+    ],
+    "col": [
+      "dismiss an idea",
+      "dismiss a claim",
+      "dismiss the class"
+    ],
+    "fam": [
+      "dismiss",
+      "dismissal",
+      "dismissed",
+      "dismissive"
+    ],
+    "example": "Do not dismiss the other team’s point until you have tested it.",
+    "basic": "Push the idea aside too quickly."
+  },
+  "enable": {
+    "simple": "To make it possible for someone to do something.",
+    "detailed": "A tool, rule, or person enables an action when it removes a barrier or gives the means to succeed.",
+    "zh": "使能够；创造条件让某人做成某事",
+    "syn": [
+      "allow",
+      "permit",
+      "empower"
+    ],
+    "ant": [
+      "prevent"
+    ],
+    "col": [
+      "enable students",
+      "enable access",
+      "enable a change"
+    ],
+    "fam": [
+      "enable",
+      "enabling",
+      "enabled",
+      "disable"
+    ],
+    "example": "Captioned videos enable more students to follow the science demo.",
+    "basic": "Make it possible for them to do it."
+  },
+  "endure": {
+    "simple": "To last through hardship without giving up.",
+    "detailed": "A person or thing endures when they remain through pain, weather, or time that would usually break them.",
+    "zh": "忍受；在艰苦中坚持而不放弃",
+    "syn": [
+      "withstand",
+      "last",
+      "bear"
+    ],
+    "ant": [],
+    "col": [
+      "endure hardship",
+      "endure the heat",
+      "endure for years"
+    ],
+    "fam": [
+      "endure",
+      "endurance",
+      "enduring",
+      "endurable",
+      "unendurable"
+    ],
+    "example": "The walkers endure the last steep ridge in silence, one step at a time.",
+    "basic": "Keep going through the hard part."
+  },
+  "engage": {
+    "simple": "To take a real interest and join in with attention.",
+    "detailed": "You engage with a text or task when you think actively, ask questions, and stay involved.",
+    "zh": "投入；真正产生兴趣并专心参与",
+    "syn": [
+      "involve",
+      "interest",
+      "occupy"
+    ],
+    "ant": [
+      "ignore"
+    ],
+    "col": [
+      "engage with a text",
+      "engage the class",
+      "engage in discussion"
+    ],
+    "fam": [
+      "engage",
+      "engagement",
+      "engaging",
+      "disengage",
+      "unengaged"
+    ],
+    "example": "Good questions help the class engage with a difficult historical source.",
+    "basic": "Get involved and pay attention."
+  },
+  "ensure": {
+    "simple": "To make certain that something will happen or is true.",
+    "detailed": "You ensure a result when you take the steps that leave little chance of failure or error.",
+    "zh": "确保；采取措施使某事必定发生或属实",
+    "syn": [
+      "make sure",
+      "guarantee",
+      "confirm"
+    ],
+    "ant": [],
+    "col": [
+      "ensure accuracy",
+      "ensure safety",
+      "ensure that"
+    ],
+    "fam": [
+      "ensure",
+      "ensured",
+      "ensuring"
+    ],
+    "example": "Number the beakers to ensure nobody mixes the two solutions.",
+    "basic": "Make sure it really happens."
+  },
+  "exist": {
+    "simple": "To be real; to be present in the world or in a situation.",
+    "detailed": "Something exists when it is not only imagined—it can be found, observed, or shown to be there.",
+    "zh": "存在；真实地在世界上或某种情况中",
+    "syn": [
+      "occur",
+      "live",
+      "be"
+    ],
+    "ant": [],
+    "col": [
+      "exist in nature",
+      "exist today",
+      "continue to exist"
+    ],
+    "fam": [
+      "exist",
+      "existence",
+      "existing",
+      "existent",
+      "nonexistent"
+    ],
+    "example": "Fossils prove that these sea creatures did exist in inland Australia.",
+    "basic": "Be real, not only imagined."
+  },
+  "favour": {
+    "simple": "To support one side, person, or choice more than the others.",
+    "detailed": "A voter or judge may favour a plan when they prefer it and want it to succeed.",
+    "zh": "支持；较偏向某一方、某人或某一选择",
+    "syn": [
+      "prefer",
+      "support",
+      "back"
+    ],
+    "ant": [
+      "oppose"
+    ],
+    "col": [
+      "favour a plan",
+      "favour one side",
+      "in favour of"
+    ],
+    "fam": [
+      "favour",
+      "favourite",
+      "favourable",
+      "favoured",
+      "unfavourable"
+    ],
+    "example": "Most of the class favour a later lunch so sport can finish first.",
+    "basic": "Like one choice more than the others."
+  },
+  "forecast": {
+    "simple": "To say what is likely to happen, using patterns you already know.",
+    "detailed": "You forecast weather or results when you use data to predict a future condition, knowing it may still be wrong.",
+    "zh": "预报；根据已有规律预测可能发生的事",
+    "syn": [
+      "predict",
+      "project",
+      "anticipate"
+    ],
+    "ant": [],
+    "col": [
+      "forecast the weather",
+      "forecast a result",
+      "seasonal forecast"
+    ],
+    "fam": [
+      "forecast",
+      "forecasting",
+      "forecaster",
+      "forecasted"
+    ],
+    "example": "The bureau can forecast a cool change two days before it reaches the coast.",
+    "basic": "Say what you think will happen next."
+  },
+  "found": {
+    "simple": "To start an organisation, town, or institution for the first time.",
+    "detailed": "People found a school, club, or colony when they establish it so it can continue after the opening day.",
+    "zh": "创立；首次建立起机构、城镇或组织",
+    "syn": [
+      "establish",
+      "start",
+      "set up"
+    ],
+    "ant": [],
+    "col": [
+      "found a school",
+      "found a colony",
+      "found an organisation"
+    ],
+    "fam": [
+      "found",
+      "foundation",
+      "founder",
+      "founding",
+      "unfounded"
+    ],
+    "example": "The six colonies found a federal parliament after the 1901 vote.",
+    "basic": "They start a new organisation that can last."
+  },
+  "grant": {
+    "simple": "To officially give permission, money, or a right.",
+    "detailed": "An authority grants a request when it allows it after considering the case.",
+    "zh": "准予；正式给予许可、资金或权利",
+    "syn": [
+      "award",
+      "allow",
+      "give"
+    ],
+    "ant": [
+      "refuse"
+    ],
+    "col": [
+      "grant permission",
+      "grant a request",
+      "grant funding"
+    ],
+    "fam": [
+      "grant",
+      "grantee",
+      "granted",
+      "granting"
+    ],
+    "example": "The council may grant permission for the night market on the foreshore.",
+    "basic": "Officially say yes and give it."
+  },
+  "guide": {
+    "simple": "To show someone the way, or to help them make a good choice.",
+    "detailed": "You guide a reader or visitor when you lead them step by step so they do not get lost.",
+    "zh": "引导；指路或帮助别人作出妥当选择",
+    "syn": [
+      "lead",
+      "direct",
+      "steer"
+    ],
+    "ant": [],
+    "col": [
+      "guide the reader",
+      "guide a visitor",
+      "guide the discussion"
+    ],
+    "fam": [
+      "guide",
+      "guidance",
+      "guided",
+      "guidebook",
+      "unguided"
+    ],
+    "example": "Headings guide the reader through each stage of the inquiry report.",
+    "basic": "Show them the way."
+  },
+  "hesitate": {
+    "simple": "To pause because you are unsure or a little afraid.",
+    "detailed": "A person hesitates when they delay a decision or action while they weigh risk, manners, or doubt.",
+    "zh": "犹豫；因不确定或害怕而停顿",
+    "syn": [
+      "pause",
+      "waver",
+      "falter"
+    ],
+    "ant": [],
+    "col": [
+      "hesitate to speak",
+      "hesitate before",
+      "do not hesitate"
+    ],
+    "fam": [
+      "hesitate",
+      "hesitation",
+      "hesitant",
+      "unhesitating"
+    ],
+    "example": "The youngest camper did hesitate at the creek stones, then stepped across.",
+    "basic": "Stop for a moment because you are unsure."
+  },
+  "honour": {
+    "simple": "To show deep respect for a person, promise, or memory.",
+    "detailed": "Communities honour someone when they treat their name, service, or word as worthy of public respect.",
+    "zh": "尊敬；对人或承诺表示郑重敬意",
+    "syn": [
+      "respect",
+      "esteem",
+      "admire"
+    ],
+    "ant": [
+      "dishonour"
+    ],
+    "col": [
+      "honour a promise",
+      "honour the fallen",
+      "honour a tradition"
+    ],
+    "fam": [
+      "honour",
+      "honourable",
+      "honorary",
+      "dishonour",
+      "honoured"
+    ],
+    "example": "The town gathers to honour the volunteers who fought the summer fires.",
+    "basic": "Show great respect."
+  },
+  "ignore": {
+    "simple": "To pay no attention to something, even though it is there.",
+    "detailed": "You ignore a fact or person when you choose not to notice or respond, which can be unfair or unsafe.",
+    "zh": "忽视；明明存在却故意不予理会",
+    "syn": [
+      "disregard",
+      "overlook",
+      "neglect"
+    ],
+    "ant": [
+      "notice"
+    ],
+    "col": [
+      "ignore a warning",
+      "ignore the evidence",
+      "ignore advice"
+    ],
+    "fam": [
+      "ignore",
+      "ignorance",
+      "ignorant",
+      "ignored",
+      "unignorable"
+    ],
+    "example": "Do not ignore the opposite view if you want a balanced discussion.",
+    "basic": "Pretend it is not there."
+  },
+  "increase": {
+    "simple": "To make or become larger in number, size, or strength.",
+    "detailed": "An amount increases when more is added, or when a process causes growth over time.",
+    "zh": "增加；使数量、体积或强度变大",
+    "syn": [
+      "grow",
+      "raise",
+      "rise"
+    ],
+    "ant": [
+      "decrease"
+    ],
+    "col": [
+      "increase the temperature",
+      "increase in number",
+      "increase the speed"
+    ],
+    "fam": [
+      "increase",
+      "increasing",
+      "increased",
+      "increasingly"
+    ],
+    "example": "We increase the lamp height and watch whether the shadows grow longer.",
+    "basic": "Make it bigger or more."
+  },
+  "insist": {
+    "simple": "To keep saying something must happen, and refuse to drop it.",
+    "detailed": "You insist when you repeat a demand or belief firmly, even after others hesitate or disagree.",
+    "zh": "坚持；反复强调某事必须如此，不肯放弃",
+    "syn": [
+      "maintain",
+      "urge",
+      "press"
+    ],
+    "ant": [],
+    "col": [
+      "insist on fairness",
+      "insist that",
+      "insist on evidence"
+    ],
+    "fam": [
+      "insist",
+      "insistence",
+      "insistent",
+      "insistently"
+    ],
+    "example": "The umpire will insist on a replay if the scoreboard does not match the book.",
+    "basic": "Keep saying it has to be that way."
+  },
+  "inspire": {
+    "simple": "To fill someone with ideas, courage, or the wish to do well.",
+    "detailed": "A person, story, or place can inspire others when it sparks new effort or imagination.",
+    "zh": "激励；使人产生想法、勇气或向上的愿望",
+    "syn": [
+      "motivate",
+      "encourage",
+      "stir"
+    ],
+    "ant": [],
+    "col": [
+      "inspire the class",
+      "inspire a story",
+      "inspire courage"
+    ],
+    "fam": [
+      "inspire",
+      "inspiration",
+      "inspirational",
+      "inspired",
+      "uninspired"
+    ],
+    "example": "Her letter from the Antarctic base can inspire the class to finish the science fair.",
+    "basic": "Give people a reason to try harder."
+  },
+  "invade": {
+    "simple": "To enter a place by force and try to take control of it.",
+    "detailed": "An army or pest can invade when it crosses a border or habitat and occupies land that was not its own.",
+    "zh": "入侵；强行进入并企图控制某地",
+    "syn": [
+      "enter",
+      "occupy",
+      "overrun"
+    ],
+    "ant": [
+      "withdraw"
+    ],
+    "col": [
+      "invade a country",
+      "invade a habitat",
+      "invade territory"
+    ],
+    "fam": [
+      "invade",
+      "invasion",
+      "invader",
+      "invasive",
+      "uninvaded"
+    ],
+    "example": "Cane toads invade new creeks when floodwater carries the tadpoles downstream.",
+    "basic": "Push in and take over the place."
+  },
+  "isolate": {
+    "simple": "To keep something apart so it does not mix with the rest.",
+    "detailed": "Scientists isolate a sample or variable when they separate it, so they can study it without extra effects.",
+    "zh": "隔离；使单独分开以免与其他部分混合",
+    "syn": [
+      "separate",
+      "set apart",
+      "quarantine"
+    ],
+    "ant": [
+      "connect"
+    ],
+    "col": [
+      "isolate a sample",
+      "isolate a variable",
+      "isolate a chemical"
+    ],
+    "fam": [
+      "isolate",
+      "isolation",
+      "isolated",
+      "isolating"
+    ],
+    "example": "Isolate the infected seedling so the fungus does not spread along the tray.",
+    "basic": "Keep it away from the others."
+  },
+  "launch": {
+    "simple": "To start something new in a public, planned way, or to send it off.",
+    "detailed": "You launch a project, boat, or rocket when you set it going after preparation.",
+    "zh": "启动；有计划地公开开始，或把某物发射出去",
+    "syn": [
+      "start",
+      "begin",
+      "initiate"
+    ],
+    "ant": [],
+    "col": [
+      "launch a project",
+      "launch a rocket",
+      "launch a campaign"
+    ],
+    "fam": [
+      "launch",
+      "launcher",
+      "launched",
+      "launching"
+    ],
+    "example": "The science club will launch a weather balloon on the oval at recess.",
+    "basic": "Start it and send it off."
+  },
+  "manage": {
+    "simple": "To run a task or group so it stays organised and on track.",
+    "detailed": "You manage time, people, or materials when you make decisions that keep the work under control.",
+    "zh": "管理；有条理地安排任务或群体",
+    "syn": [
+      "run",
+      "handle",
+      "oversee"
+    ],
+    "ant": [],
+    "col": [
+      "manage your time",
+      "manage a team",
+      "manage resources"
+    ],
+    "fam": [
+      "manage",
+      "management",
+      "manager",
+      "manageable",
+      "unmanaged"
+    ],
+    "example": "Manage your time on the exam so the last page is not rushed.",
+    "basic": "Keep the job under control."
+  },
+  "migrate": {
+    "simple": "To move from one region to another, usually for a season or a new home.",
+    "detailed": "Birds, people, or animals migrate when they travel a long way and settle, at least for a time, in a different place.",
+    "zh": "迁徙；从一个地区移到另一个地区生活或过季",
+    "syn": [
+      "relocate",
+      "move",
+      "journey"
+    ],
+    "ant": [],
+    "col": [
+      "migrate south",
+      "migrate for winter",
+      "people migrate"
+    ],
+    "fam": [
+      "migrate",
+      "migration",
+      "migrant",
+      "migratory",
+      "unmigrated"
+    ],
+    "example": "Many shorebirds migrate from Siberia to Australian mudflats each spring.",
+    "basic": "Move to a new place for a while."
+  },
+  "occupy": {
+    "simple": "To take and hold a place, or to fill time and space.",
+    "detailed": "A group occupies land when it stays there and uses it; a hobby can occupy your afternoon.",
+    "zh": "占据；占有并使用某地，或占满时间空间",
+    "syn": [
+      "inhabit",
+      "hold",
+      "fill"
+    ],
+    "ant": [
+      "vacate"
+    ],
+    "col": [
+      "occupy a territory",
+      "occupy a building",
+      "occupy the land"
+    ],
+    "fam": [
+      "occupy",
+      "occupation",
+      "occupant",
+      "occupied",
+      "unoccupied"
+    ],
+    "example": "The new railway yards occupy the flats that once held market gardens.",
+    "basic": "Take the place and stay there."
+  },
+  "operate": {
+    "simple": "To make a machine or system work, or to be in working order.",
+    "detailed": "You operate equipment when you control it correctly; a system operates when its parts function as planned.",
+    "zh": "操作；使机器或系统运转，或处于工作状态",
+    "syn": [
+      "run",
+      "work",
+      "control"
+    ],
+    "ant": [],
+    "col": [
+      "operate a machine",
+      "operate the system",
+      "safely operate"
+    ],
+    "fam": [
+      "operate",
+      "operation",
+      "operator",
+      "operational",
+      "inoperative"
+    ],
+    "example": "Only trained students may operate the bench drill in the design room.",
+    "basic": "Make the machine work."
+  },
+  "permit": {
+    "simple": "To allow something to happen, often by official agreement.",
+    "detailed": "A rule or person permits an action when they give permission and do not block it.",
+    "zh": "允许；常指经正式同意让某事发生",
+    "syn": [
+      "allow",
+      "authorise",
+      "let"
+    ],
+    "ant": [
+      "forbid"
+    ],
+    "col": [
+      "permit access",
+      "permit a change",
+      "not permit"
+    ],
+    "fam": [
+      "permit",
+      "permission",
+      "permitted",
+      "permissible",
+      "unpermitted"
+    ],
+    "example": "The rangers do not permit dogs on the nesting beach in spring.",
+    "basic": "Allow it to happen."
+  },
+  "pollute": {
+    "simple": "To make air, water, or land dirty and harmful.",
+    "detailed": "People or industries pollute an environment when they add waste that damages living things.",
+    "zh": "污染；使空气、水或土地变脏并有害",
+    "syn": [
+      "contaminate",
+      "foul",
+      "soil"
+    ],
+    "ant": [],
+    "col": [
+      "pollute the river",
+      "pollute the air",
+      "pollute a habitat"
+    ],
+    "fam": [
+      "pollute",
+      "pollution",
+      "pollutant",
+      "polluted",
+      "unpolluted"
+    ],
+    "example": "Oil from the slipway can pollute the harbour if it washes off the ramp.",
+    "basic": "Make the water or air dirty."
+  },
+  "practise": {
+    "simple": "To do a skill many times so you become more accurate and fluent.",
+    "detailed": "You practise when you repeat a task on purpose, watching for errors, until the skill is reliable.",
+    "zh": "练习；反复操练使技能更准确熟练（动词）",
+    "syn": [
+      "rehearse",
+      "drill",
+      "train"
+    ],
+    "ant": [],
+    "col": [
+      "practise a skill",
+      "practise regularly",
+      "practise the method"
+    ],
+    "fam": [
+      "practise",
+      "practice",
+      "practised",
+      "practitioner",
+      "unpractised"
+    ],
+    "example": "Practise the long-division steps every night this week before the test.",
+    "basic": "Do it again and again to get better."
+  },
+  "promote": {
+    "simple": "To support an idea so more people notice and take it up.",
+    "detailed": "A campaign promotes a cause when it spreads the message and tries to increase support or use.",
+    "zh": "推广；宣传并推动某想法被更多人接受",
+    "syn": [
+      "encourage",
+      "advance",
+      "publicise"
+    ],
+    "ant": [],
+    "col": [
+      "promote a cause",
+      "promote safety",
+      "promote a product"
+    ],
+    "fam": [
+      "promote",
+      "promotion",
+      "promoter",
+      "promotional",
+      "unpromoted"
+    ],
+    "example": "Student leaders promote SunSmart hats at every outdoor carnival.",
+    "basic": "Help more people take up the idea."
+  },
+  "protest": {
+    "simple": "To show publicly that you disagree with a decision or action.",
+    "detailed": "People protest when they speak, march, or write to oppose a rule they believe is unfair.",
+    "zh": "抗议；公开表示不赞成某决定或行为",
+    "syn": [
+      "object",
+      "demonstrate",
+      "oppose"
+    ],
+    "ant": [],
+    "col": [
+      "protest a decision",
+      "protest against",
+      "peaceful protest"
+    ],
+    "fam": [
+      "protest",
+      "protester",
+      "protestation",
+      "protested"
+    ],
+    "example": "Families protest the planned freeway that would cut through the wetlands.",
+    "basic": "Show that you do not agree."
+  },
+  "purchase": {
+    "simple": "To buy something by paying money for it.",
+    "detailed": "A person or group purchases goods when they exchange money for ownership or use.",
+    "zh": "购买；付钱买下某物",
+    "syn": [
+      "buy",
+      "acquire",
+      "obtain"
+    ],
+    "ant": [
+      "sell"
+    ],
+    "col": [
+      "purchase supplies",
+      "purchase a ticket",
+      "purchase equipment"
+    ],
+    "fam": [
+      "purchase",
+      "purchaser",
+      "purchased",
+      "repurchase"
+    ],
+    "example": "The committee will purchase extra shade cloth for the summer fete.",
+    "basic": "Pay money and take it home."
+  },
+  "pursue": {
+    "simple": "To keep going after a goal, question, or path for a long time.",
+    "detailed": "You pursue an interest when you follow it with effort, not only when you try it once.",
+    "zh": "追求；长期持续地朝目标或问题努力",
+    "syn": [
+      "follow",
+      "chase",
+      "seek"
+    ],
+    "ant": [
+      "abandon"
+    ],
+    "col": [
+      "pursue a goal",
+      "pursue a question",
+      "pursue an interest"
+    ],
+    "fam": [
+      "pursue",
+      "pursuit",
+      "pursuant",
+      "pursued",
+      "unpursued"
+    ],
+    "example": "She wants to pursue marine science after she finishes primary school.",
+    "basic": "Keep going after that goal."
+  },
+  "react": {
+    "simple": "To change or respond when something else happens first.",
+    "detailed": "Chemicals react when they form new substances; people react when an event causes a feeling or action.",
+    "zh": "反应；因另一事物先发生而改变或回应",
+    "syn": [
+      "respond",
+      "act",
+      "change"
+    ],
+    "ant": [],
+    "col": [
+      "react with acid",
+      "react to a change",
+      "chemicals react"
+    ],
+    "fam": [
+      "react",
+      "reaction",
+      "reactive",
+      "reactor",
+      "unreactive"
+    ],
+    "example": "The metal will react with the vinegar and you should see bubbles.",
+    "basic": "Do something because of what just happened."
+  },
+  "recall": {
+    "simple": "To bring a fact or event back into your mind.",
+    "detailed": "You recall information when you remember it accurately enough to use it in speaking or writing.",
+    "zh": "回忆；把事实或经历重新想起来",
+    "syn": [
+      "remember",
+      "recollect",
+      "retrieve"
+    ],
+    "ant": [
+      "forget"
+    ],
+    "col": [
+      "recall a fact",
+      "recall an event",
+      "recall the steps"
+    ],
+    "fam": [
+      "recall",
+      "recalled",
+      "recalling",
+      "recallable"
+    ],
+    "example": "Recall the three states of matter before you start the heat questions.",
+    "basic": "Bring it back to mind."
+  },
+  "recycle": {
+    "simple": "To turn used materials into something that can be used again.",
+    "detailed": "People recycle paper, glass, or plastic when they collect it so it can be processed into new products instead of rubbish.",
+    "zh": "回收利用；把用过的材料再加工后重新使用",
+    "syn": [
+      "reuse",
+      "reprocess",
+      "reclaim"
+    ],
+    "ant": [],
+    "col": [
+      "recycle paper",
+      "recycle plastic",
+      "recycle at home"
+    ],
+    "fam": [
+      "recycle",
+      "recycling",
+      "recyclable",
+      "recycled",
+      "unrecycled"
+    ],
+    "example": "The canteen will recycle every clean aluminium can after the fete.",
+    "basic": "Turn old stuff into something usable again."
+  },
+  "regard": {
+    "simple": "To think of someone or something in a particular way.",
+    "detailed": "You regard a person as a leader when that is the view you hold; you also regard a rule when you take it seriously.",
+    "zh": "视为；以某种方式看待某人或某事",
+    "syn": [
+      "consider",
+      "view",
+      "see as"
+    ],
+    "ant": [],
+    "col": [
+      "regard as important",
+      "regard with respect",
+      "highly regard"
+    ],
+    "fam": [
+      "regard",
+      "regardless",
+      "regarded",
+      "disregard",
+      "unregarded"
+    ],
+    "example": "Many historians regard the secret ballot as a key Australian reform.",
+    "basic": "Think of it in that way."
+  },
+  "rely": {
+    "simple": "To trust that someone or something will do what is needed.",
+    "detailed": "You rely on a tool, person, or fact when your plan will fail if that support is missing.",
+    "zh": "依靠；信任某人或某物会起到所需作用",
+    "syn": [
+      "depend",
+      "count on",
+      "trust"
+    ],
+    "ant": [],
+    "col": [
+      "rely on evidence",
+      "rely on a friend",
+      "rely upon"
+    ],
+    "fam": [
+      "rely",
+      "reliable",
+      "reliability",
+      "reliance",
+      "unreliable"
+    ],
+    "example": "Do not rely on one website if the article names no author or date.",
+    "basic": "Count on it to be there."
+  },
+  "remain": {
+    "simple": "To stay in the same place, state, or group after other things change.",
+    "detailed": "Something remains when it continues to be present or true while the situation around it moves on.",
+    "zh": "保持；在其他事物变化后仍然留下或依旧如此",
+    "syn": [
+      "stay",
+      "continue",
+      "persist"
+    ],
+    "ant": [
+      "leave"
+    ],
+    "col": [
+      "remain the same",
+      "remain silent",
+      "remain in place"
+    ],
+    "fam": [
+      "remain",
+      "remainder",
+      "remaining",
+      "remains"
+    ],
+    "example": "Three questions remain after you finish the first page of the paper.",
+    "basic": "Stay as it is."
+  },
+  "request": {
+    "simple": "To ask for something in a polite or official way.",
+    "detailed": "You request help, permission, or information when you ask clearly, often in writing, rather than demanding.",
+    "zh": "请求；礼貌或正式地提出要求",
+    "syn": [
+      "ask for",
+      "seek",
+      "apply for"
+    ],
+    "ant": [],
+    "col": [
+      "request permission",
+      "request help",
+      "request information"
+    ],
+    "fam": [
+      "request",
+      "requested",
+      "requesting",
+      "unrequested"
+    ],
+    "example": "Request an extra source if the library copy of the atlas is already on loan.",
+    "basic": "Ask for it politely."
+  },
+  "resist": {
+    "simple": "To push back against force, pressure, or an unwelcome change.",
+    "detailed": "People or materials resist when they do not give way easily to attack, temptation, or a new rule.",
+    "zh": "抵抗；顶住压力、外力或不愿接受的改变",
+    "syn": [
+      "oppose",
+      "withstand",
+      "defy"
+    ],
+    "ant": [
+      "yield"
+    ],
+    "col": [
+      "resist pressure",
+      "resist change",
+      "resist an invasion"
+    ],
+    "fam": [
+      "resist",
+      "resistance",
+      "resistant",
+      "irresistible",
+      "unresisting"
+    ],
+    "example": "Some towns resist the new highway because it would split the main street.",
+    "basic": "Push back and do not give in."
+  },
+  "respect": {
+    "simple": "To treat a person, place, or rule as worthy of care and fairness.",
+    "detailed": "You respect someone when your words and actions show that their rights, culture, or feelings matter.",
+    "zh": "尊重；把人或规则当作值得认真对待的对象",
+    "syn": [
+      "honour",
+      "esteem",
+      "value"
+    ],
+    "ant": [
+      "disrespect"
+    ],
+    "col": [
+      "respect a culture",
+      "respect the rules",
+      "respect others"
+    ],
+    "fam": [
+      "respect",
+      "respectful",
+      "respectable",
+      "disrespect",
+      "unrespected"
+    ],
+    "example": "Visitors must respect the request not to climb on the carved stones.",
+    "basic": "Treat it as important and fair."
+  },
+  "restrict": {
+    "simple": "To keep something within a smaller range than it could have.",
+    "detailed": "A law or sign can restrict access, speed, or choice so behaviour stays inside set limits.",
+    "zh": "限制；把范围收窄，使不能任意扩大",
+    "syn": [
+      "limit",
+      "curb",
+      "confine"
+    ],
+    "ant": [
+      "allow"
+    ],
+    "col": [
+      "restrict access",
+      "restrict the speed",
+      "restrict the number"
+    ],
+    "fam": [
+      "restrict",
+      "restriction",
+      "restrictive",
+      "restricted",
+      "unrestricted"
+    ],
+    "example": "Dry-season rules restrict campfires in the national park.",
+    "basic": "Keep it inside a smaller limit."
+  },
+  "satisfy": {
+    "simple": "To meet a need, rule, or standard so it is no longer short.",
+    "detailed": "Work satisfies a criterion when it is complete enough; a meal satisfies hunger when the need is met.",
+    "zh": "满足；达到需求、规则或标准而不再欠缺",
+    "syn": [
+      "fulfil",
+      "meet",
+      "please"
+    ],
+    "ant": [
+      "disappoint"
+    ],
+    "col": [
+      "satisfy a requirement",
+      "satisfy the criteria",
+      "satisfy curiosity"
+    ],
+    "fam": [
+      "satisfy",
+      "satisfaction",
+      "satisfactory",
+      "satisfied",
+      "unsatisfied"
+    ],
+    "example": "Two labelled diagrams will satisfy the last criterion on the marking sheet.",
+    "basic": "Give enough to meet the need."
+  }
+}
