@@ -1,10 +1,19 @@
-import { readFileSync } from 'node:fs';
+import { mkdtempSync, readFileSync, writeFileSync } from 'node:fs';
+import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 
 import { describe, expect, it } from 'vitest';
 
+import { generateOliverVocabularyLessonDay } from '../../Oliver_Vocabulary_System/Daily_Lesson_Generator';
 import { ACTIVE_BANK } from '../../Oliver_Vocabulary_System/normalize';
-import { loadMaster } from '../../Oliver_Vocabulary_System/store';
+import { runReadingPassageQa, runReadingQuestionQa, runVocabQa } from '../../Oliver_Vocabulary_System/quality';
+import {
+  emptyProgressFile,
+  loadMaster,
+  markFirstSeen,
+  saveProgress,
+} from '../../Oliver_Vocabulary_System/store';
+import type { VocabularyEnginePaths } from '../../Oliver_Vocabulary_System/types';
 
 const expansionPath = join(
   process.cwd(),
@@ -73,5 +82,54 @@ describe('Academic Core expansion VAC0101–VAC1500', () => {
       'environment',
     ]);
     expect(master.filter((entry) => /^VAC01\d\d$/.test(entry.id)).length).toBeGreaterThan(0);
+  });
+
+  it('generates a new-day lesson whose New words come from the expansion pack', () => {
+    const dir = mkdtempSync(join(tmpdir(), 'oliver-expand-lesson-'));
+    const master = loadMaster();
+    const paths: VocabularyEnginePaths = {
+      masterPath: join(dir, 'Vocabulary_Master.json'),
+      progressPath: join(dir, 'Vocabulary_Progress.json'),
+    };
+    writeFileSync(paths.masterPath, JSON.stringify({ words: master }), 'utf8');
+    let progress = emptyProgressFile();
+    for (const entry of master.filter((word) => word.level === 1 && /^VAC00/.test(word.id))) {
+      progress = markFirstSeen(progress, entry.word, 1);
+    }
+    saveProgress(progress, paths);
+
+    const result = generateOliverVocabularyLessonDay(7, paths, { persist: true });
+    const newWords = result.lesson.new_vocabulary;
+    expect(newWords.map((card) => card.word)).toEqual([
+      'adapt',
+      'adjust',
+      'apply',
+      'argue',
+      'arrange',
+      'assemble',
+      'calculate',
+      'categorise',
+      'challenge',
+      'clarify',
+    ]);
+    expect(newWords.every((card) => card.id >= 'VAC0101')).toBe(true);
+    expect(result.lesson.mini_reading.word_count).toBeGreaterThanOrEqual(180);
+    expect(result.lesson.mini_reading.word_count).toBeLessThanOrEqual(220);
+    const featured =
+      result.lesson.mini_reading.featured_new_words.length +
+      result.lesson.mini_reading.featured_review_words.length;
+    expect(featured).toBeGreaterThanOrEqual(5);
+    expect(featured).toBeLessThanOrEqual(8);
+    expect(
+      result.lesson.reading_questions.every(
+        (question) =>
+          question.options.length === 4 && new Set(question.options).size === 4 && question.options.includes(question.answer),
+      ),
+    ).toBe(true);
+    expect(runVocabQa(result.lesson.review_exercises, master, master).ok).toBe(true);
+    expect(runReadingPassageQa(result.lesson.mini_reading, master).ok).toBe(true);
+    expect(runReadingQuestionQa(result.lesson.reading_questions, result.lesson.mini_reading).ok).toBe(
+      true,
+    );
   });
 });

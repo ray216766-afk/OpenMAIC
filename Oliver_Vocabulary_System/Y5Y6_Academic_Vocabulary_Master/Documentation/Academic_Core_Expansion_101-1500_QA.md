@@ -246,6 +246,7 @@ Stratified across ID ranges, levels (~60/30/10), POS, and themes.
 - Concept nouns keep `antonyms: []` so review items cannot force antonym questions.
 - Lesson generation after expand must still pass vocab / reading / MCQ quality gates.
 - Batch 1 JSON, Batch-1-only snapshots, and student progress files were not modified by this compile.
+- Smoke (temp dir, no live `Lesson_Day_*.json`): Day 1 still teaches `analyse` / `significant` / `environment`. After Batch 1 Level 1 is marked taught, Day 7 New words are `adapt` … `clarify` (VAC0101–VAC0110). Mini Reading 183 words, 5–8 featured targets, five MCQs with 4 unique options; vocab / passage / question QA passed.
 
 ## Final review conclusion
 
