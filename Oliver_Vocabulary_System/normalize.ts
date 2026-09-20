@@ -6,11 +6,15 @@
 import type { VocabularyEntry, VocabularyLevel, WordFamily } from './types';
 
 export const ACTIVE_BANK = {
-  id: 'Academic_Core_Batch_001',
-  label: 'Academic Core Batch 1 (100)',
-  wordCount: 100,
+  /** Progress files may still say Academic_Core_Batch_001; do not wipe them. */
+  id: 'Academic_Core_Master',
+  label: 'Academic Core Master (1500)',
+  wordCount: 1500,
+  batch1WordCount: 100,
   expansionTarget: 1500,
   relativePath: 'Y5Y6_Academic_Vocabulary_Master/data/Academic_Core_Batch_001_words_001-100.json',
+  expansionRelativePath:
+    'Y5Y6_Academic_Vocabulary_Master/data/Academic_Core_Expansion_101-1500.json',
   defaultReviewSchedule: ['Day 1', 'Day 3', 'Day 7', 'Day 14', 'Day 30'] as const,
 } as const;
 

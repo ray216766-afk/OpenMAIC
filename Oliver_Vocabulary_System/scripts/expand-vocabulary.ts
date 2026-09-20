@@ -35,8 +35,8 @@ function main(): void {
       [
         `Live bank: ${ACTIVE_BANK.label} (${current.length} words)`,
         `Expansion target: ~${ACTIVE_BANK.expansionTarget}`,
-        'To add a later approved batch (do not invent Batch 2+ here):',
-        '  pnpm oliver:expand -- --pack Oliver_Vocabulary_System/Y5Y6_Academic_Vocabulary_Master/data/Academic_Core_Batch_002.json',
+        'To merge the curated Academic Core expansion:',
+        '  pnpm oliver:expand -- --pack Oliver_Vocabulary_System/Y5Y6_Academic_Vocabulary_Master/data/Academic_Core_Expansion_101-1500.json',
         'Pack entries must be high-quality Academic Core / scholarship vocabulary.',
         '',
       ].join('\n'),

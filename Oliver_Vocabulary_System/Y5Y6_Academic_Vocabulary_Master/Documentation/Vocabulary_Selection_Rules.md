@@ -119,6 +119,6 @@ Before locking a batch:
 
 ## 7. Batch Approval Gate
 
-- **Batch 1 (words 001–100):** Generate → parent/teacher review → **wait for approval** before 101–400.
-- Do not generate further Academic Core or other-category batches until Batch 1 is approved.
+- **Batch 1 (words 001–100):** Live and validated (VAC0001–VAC0100). Do not rewrite those IDs.
+- **Expansion (words 101–1500):** Parent/user authorised a single complete pack (`Academic_Core_Expansion_101-1500.json`) rather than staged Batch 2/3/4 approvals.
 

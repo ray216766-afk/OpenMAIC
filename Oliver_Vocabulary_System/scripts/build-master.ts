@@ -1,16 +1,30 @@
 /**
- * Compile the live vocabulary bank from Academic Core Batch 1.
- * Does not invent Batch 2+ words. The archived V1.0 seed is not the source.
+ * Compile the live vocabulary bank from Academic Core Batch 1 plus any
+ * expansion pack (VAC0101+). Batch 1 source files are not rewritten.
  */
 
-import { writeFileSync } from 'node:fs';
+import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 
-import { ACTIVE_BANK, defaultModuleRoot, loadMaster } from '../store';
+import { normalizeMasterWords } from '../normalize';
+import { ACTIVE_BANK, defaultModuleRoot } from '../store';
 import { MODULE_NAME, MODULE_VERSION, VOCABULARY_LEVELS } from '../types';
 
 const root = defaultModuleRoot();
-const words = loadMaster();
+const batch1Path = join(root, ACTIVE_BANK.relativePath);
+const expansionPath = join(root, ACTIVE_BANK.expansionRelativePath);
+const batch1 = normalizeMasterWords(JSON.parse(readFileSync(batch1Path, 'utf8')));
+const extra = existsSync(expansionPath)
+  ? normalizeMasterWords(JSON.parse(readFileSync(expansionPath, 'utf8')))
+  : [];
+const seen = new Set<string>();
+const words = [];
+for (const entry of [...batch1, ...extra]) {
+  const key = entry.word.trim().toLowerCase();
+  if (seen.has(key)) continue;
+  seen.add(key);
+  words.push(entry);
+}
 const counts = words.reduce<Record<string, number>>((acc, word) => {
   acc[String(word.level)] = (acc[word.level] ?? 0) + 1;
   return acc;
@@ -45,7 +59,9 @@ const payload = {
   },
   word_count: words.length,
   level_counts: counts,
-  source: ACTIVE_BANK.relativePath,
+  source: extra.length
+    ? `${ACTIVE_BANK.relativePath} + ${ACTIVE_BANK.expansionRelativePath}`
+    : ACTIVE_BANK.relativePath,
   words,
 };
 

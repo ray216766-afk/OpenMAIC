@@ -1,0 +1,4785 @@
+{
+  "settle": {
+    "simple": "To go and live in a place and make it a lasting home.",
+    "detailed": "In HASS, people settle when they stay in a new area, build homes, and start a community. In Australian history this often happened on Country already cared for by First Nations peoples.",
+    "zh": "定居；在某地安顿下来并长期居住",
+    "syn": [
+      "inhabit",
+      "occupy",
+      "establish"
+    ],
+    "ant": [],
+    "col": [
+      "settle a colony",
+      "settle beside a river",
+      "settle in a new town"
+    ],
+    "fam": [
+      "settle",
+      "settles",
+      "settling",
+      "settled",
+      "settlement",
+      "settler"
+    ],
+    "example": "Many families from Britain chose to settle near rivers because the soil was good for farming.",
+    "basic": "They went to live by the river."
+  },
+  "spread": {
+    "simple": "To move outwards and cover a wider area.",
+    "detailed": "In science, heat, light, disease, or a substance can spread from one place to another. You watch how far and how fast it travels.",
+    "zh": "扩散；蔓延；向外扩展",
+    "syn": [
+      "extend",
+      "expand",
+      "circulate"
+    ],
+    "ant": [
+      "contain",
+      "confine"
+    ],
+    "col": [
+      "spread through the metal",
+      "spread across the reef",
+      "spread rapidly"
+    ],
+    "fam": [
+      "spread",
+      "spreads",
+      "spreading"
+    ],
+    "example": "Heat can spread along the metal spoon and warm your fingers at the other end.",
+    "basic": "The heat moved along the spoon."
+  },
+  "struggle": {
+    "simple": "To try very hard when something is difficult.",
+    "detailed": "In stories, a character may struggle against weather, fear, or another person. The effort matters as much as the result.",
+    "zh": "挣扎；奋力应对困难",
+    "syn": [
+      "strive",
+      "wrestle",
+      "labour"
+    ],
+    "ant": [],
+    "col": [
+      "struggle against the current",
+      "struggle to stay calm",
+      "struggle with fear"
+    ],
+    "fam": [
+      "struggle",
+      "struggles",
+      "struggling",
+      "struggled"
+    ],
+    "example": "In the camp narrative, the lost walker had to struggle through wet scrub before reaching the track.",
+    "basic": "The walker found the bush hard going."
+  },
+  "succeed": {
+    "simple": "To achieve the result you set out to do.",
+    "detailed": "You succeed when a plan, test, or goal works as intended. Scholarship writing often asks what helped a person or method succeed.",
+    "zh": "成功；达到预期目标",
+    "syn": [
+      "achieve",
+      "triumph",
+      "prosper"
+    ],
+    "ant": [
+      "fail"
+    ],
+    "col": [
+      "succeed in a task",
+      "succeed against the odds",
+      "succeed at the trial"
+    ],
+    "fam": [
+      "succeed",
+      "succeeds",
+      "succeeding",
+      "succeeded",
+      "success",
+      "successful"
+    ],
+    "example": "Oliver will succeed in the inquiry if he backs every claim with a clear source.",
+    "basic": "He will do well if he uses sources."
+  },
+  "survive": {
+    "simple": "To stay alive through danger, hardship, or change.",
+    "detailed": "Living things survive when they get what they need and cope with threats such as drought, fire, or predators.",
+    "zh": "存活；幸存；熬过危险或艰苦",
+    "syn": [
+      "endure",
+      "persist",
+      "live on"
+    ],
+    "ant": [
+      "perish",
+      "die"
+    ],
+    "col": [
+      "survive a drought",
+      "survive in the wild",
+      "survive harsh conditions"
+    ],
+    "fam": [
+      "survive",
+      "survives",
+      "surviving",
+      "survived",
+      "survival",
+      "survivor"
+    ],
+    "example": "Some eucalypts survive a bushfire because new shoots grow from protected buds.",
+    "basic": "Some trees stay alive after a fire."
+  },
+  "suspect": {
+    "simple": "To think something is likely, even without full proof.",
+    "detailed": "A reader may suspect a character is hiding the truth from clues in dialogue or action. You still need evidence before you treat the idea as fact.",
+    "zh": "怀疑；猜想某事可能属实",
+    "syn": [
+      "doubt",
+      "question",
+      "mistrust"
+    ],
+    "ant": [
+      "trust"
+    ],
+    "col": [
+      "suspect the truth",
+      "suspect a motive",
+      "begin to suspect"
+    ],
+    "fam": [
+      "suspect",
+      "suspects",
+      "suspecting",
+      "suspected",
+      "suspicion",
+      "suspicious"
+    ],
+    "example": "Readers start to suspect the narrator is leaving out the real reason she left camp.",
+    "basic": "Readers think the narrator is hiding something."
+  },
+  "symbolise": {
+    "simple": "To stand for an idea using an object, colour, or action.",
+    "detailed": "Writers symbolise feelings or themes so a simple image carries extra meaning, such as a wilting plant standing for lost hope.",
+    "zh": "象征；用事物代表某种意义",
+    "syn": [
+      "represent",
+      "signify",
+      "embody"
+    ],
+    "ant": [],
+    "col": [
+      "symbolise hope",
+      "symbolise freedom",
+      "symbolise the theme"
+    ],
+    "fam": [
+      "symbolise",
+      "symbolises",
+      "symbolising",
+      "symbolised",
+      "symbol",
+      "symbolic"
+    ],
+    "example": "In Mia's poem, the empty water tank can symbolise a town waiting for rain.",
+    "basic": "The empty tank stands for waiting."
+  },
+  "threaten": {
+    "simple": "To put someone or something in danger, or to warn of harm.",
+    "detailed": "A drought can threaten crops, and a speaker can threaten a group with a penalty. In HASS, look at who has power and what is at risk.",
+    "zh": "威胁；危及；扬言要伤害",
+    "syn": [
+      "endanger",
+      "menace",
+      "intimidate"
+    ],
+    "ant": [
+      "protect",
+      "reassure"
+    ],
+    "col": [
+      "threaten a habitat",
+      "threaten public safety",
+      "threaten to close"
+    ],
+    "fam": [
+      "threaten",
+      "threatens",
+      "threatening",
+      "threatened",
+      "threat"
+    ],
+    "example": "Rising salt levels threaten farmland along parts of the Murray River.",
+    "basic": "Salt is bad for the farms."
+  },
+  "tolerate": {
+    "simple": "To accept something you dislike without fighting it.",
+    "detailed": "Communities tolerate different customs when people can live together fairly. It does not mean you must agree with every idea.",
+    "zh": "容忍；宽容；接受自己并不喜欢的事物",
+    "syn": [
+      "accept",
+      "endure",
+      "allow"
+    ],
+    "ant": [
+      "reject",
+      "forbid"
+    ],
+    "col": [
+      "tolerate different views",
+      "tolerate noise",
+      "refuse to tolerate"
+    ],
+    "fam": [
+      "tolerate",
+      "tolerates",
+      "tolerating",
+      "tolerated",
+      "tolerance",
+      "tolerant"
+    ],
+    "example": "A fair classroom must tolerate honest disagreement so long as no one is belittled.",
+    "basic": "The class lets people disagree politely."
+  },
+  "trade": {
+    "simple": "To exchange goods, services, or ideas with others.",
+    "detailed": "People trade when both sides give something and receive something. Australian colonies traded wool, gold, and food with other places.",
+    "zh": "贸易；交换货物或服务",
+    "syn": [
+      "exchange",
+      "barter",
+      "deal"
+    ],
+    "ant": [],
+    "col": [
+      "trade goods",
+      "trade with another colony",
+      "trade across the ocean"
+    ],
+    "fam": [
+      "trade",
+      "trades",
+      "trading",
+      "traded",
+      "trader"
+    ],
+    "example": "Coastal towns used to trade wool and wheat for tools brought by sailing ships.",
+    "basic": "Towns swapped wool for tools."
+  },
+  "transport": {
+    "simple": "To move people or goods from one place to another.",
+    "detailed": "Roads, railways, rivers, and ships transport freight and passengers. HASS inquiries ask how new transport changed towns and trade.",
+    "zh": "运输；把人或货物从一地运到另一地",
+    "syn": [
+      "carry",
+      "convey",
+      "haul"
+    ],
+    "ant": [],
+    "col": [
+      "transport goods",
+      "transport passengers",
+      "transport by rail"
+    ],
+    "fam": [
+      "transport",
+      "transports",
+      "transporting",
+      "transported",
+      "transportation"
+    ],
+    "example": "The new railway could transport wheat to the port far faster than bullock wagons.",
+    "basic": "The train moved the wheat to the port."
+  },
+  "trust": {
+    "simple": "To believe a person or idea is honest and reliable.",
+    "detailed": "Characters trust someone when they share secrets or follow advice. A broken promise can change the whole mood of a story.",
+    "zh": "信任；信赖某人诚实可靠",
+    "syn": [
+      "rely on",
+      "believe",
+      "confide in"
+    ],
+    "ant": [
+      "distrust",
+      "doubt"
+    ],
+    "col": [
+      "trust a friend",
+      "trust the narrator",
+      "learn to trust"
+    ],
+    "fam": [
+      "trust",
+      "trusts",
+      "trusting",
+      "trusted",
+      "trustworthy",
+      "trustworthiness"
+    ],
+    "example": "By the last chapter, readers no longer trust the charming guide who hid the map.",
+    "basic": "Readers stop believing the guide."
+  },
+  "urge": {
+    "simple": "To strongly encourage someone to take a particular action.",
+    "detailed": "In persuasive writing you urge an audience toward a choice by giving reasons, not by shouting. A mayor might urge residents to save water.",
+    "zh": "力劝；敦促某人采取行动",
+    "syn": [
+      "press",
+      "encourage",
+      "implore"
+    ],
+    "ant": [
+      "discourage",
+      "dissuade"
+    ],
+    "col": [
+      "urge the council",
+      "urge readers to act",
+      "urge a change"
+    ],
+    "fam": [
+      "urge",
+      "urges",
+      "urging",
+      "urged",
+      "urgent",
+      "urgency"
+    ],
+    "example": "In the waste debate, speakers urge the school to ban single-use plastic at the canteen.",
+    "basic": "Speakers want the school to drop plastic."
+  },
+  "weigh": {
+    "simple": "To measure how heavy something is on a scale.",
+    "detailed": "In an investigation you weigh a sample on a scale or balance so you can compare masses fairly and record accurate data.",
+    "zh": "称重；测量物体有多重",
+    "syn": [
+      "measure",
+      "gauge"
+    ],
+    "ant": [],
+    "col": [
+      "weigh the sample",
+      "weigh each bag",
+      "weigh the soil"
+    ],
+    "fam": [
+      "weigh",
+      "weighs",
+      "weighing",
+      "weighed",
+      "weight"
+    ],
+    "example": "Before the creek test, the group had to weigh each soil sample on the same balance.",
+    "basic": "They checked how heavy the soil was."
+  },
+  "absorb": {
+    "simple": "To take in liquid, heat, or energy the way a sponge takes in water.",
+    "detailed": "A material can absorb water, sound, or sunlight. Dark cloth absorbs more heat than pale cloth, which is why playground seats feel hotter.",
+    "zh": "吸收（液体、热或能量）",
+    "syn": [
+      "soak up",
+      "take in"
+    ],
+    "ant": [
+      "release",
+      "emit"
+    ],
+    "col": [
+      "absorb water",
+      "absorb heat",
+      "absorb sunlight"
+    ],
+    "fam": [
+      "absorb",
+      "absorbs",
+      "absorbing",
+      "absorbed",
+      "absorption",
+      "absorbent"
+    ],
+    "example": "The black paper will absorb more sunlight than the white paper in the same tray.",
+    "basic": "The black paper takes in more sun."
+  },
+  "decay": {
+    "simple": "To break down slowly and lose strength or freshness.",
+    "detailed": "Food, wood, and teeth can decay when microbes or weather damage them over time. Scientists record how fast the change happens.",
+    "zh": "腐烂；衰败；逐渐损坏",
+    "syn": [
+      "rot",
+      "decompose",
+      "break down"
+    ],
+    "ant": [
+      "preserve",
+      "keep fresh"
+    ],
+    "col": [
+      "decay over time",
+      "decay in damp soil",
+      "begin to decay"
+    ],
+    "fam": [
+      "decay",
+      "decays",
+      "decaying",
+      "decayed"
+    ],
+    "example": "Apple pieces decay faster in the warm compost than in the fridge.",
+    "basic": "The apple bits go bad more quickly outside."
+  },
+  "decompose": {
+    "simple": "To break into simpler parts, often with help from living microbes.",
+    "detailed": "Leaves and food scraps decompose when bacteria and fungi turn them into soil nutrients. It is a key step in many natural cycles.",
+    "zh": "分解；在微生物作用下变成更简单的物质",
+    "syn": [
+      "break down",
+      "rot",
+      "decay"
+    ],
+    "ant": [],
+    "col": [
+      "decompose into soil",
+      "decompose quickly",
+      "decompose after rainfall"
+    ],
+    "fam": [
+      "decompose",
+      "decomposes",
+      "decomposing",
+      "decomposed",
+      "decomposition"
+    ],
+    "example": "By term four, the garden scraps should decompose into dark, crumbly compost.",
+    "basic": "The scraps will turn into compost."
+  },
+  "imitate": {
+    "simple": "To copy the way someone speaks, acts, or writes.",
+    "detailed": "Young writers sometimes imitate a favourite author's sentence patterns to learn craft. In a story, a character may imitate another person to tease or to fit in.",
+    "zh": "模仿；照着别人的样子做",
+    "syn": [
+      "copy",
+      "mimic",
+      "echo"
+    ],
+    "ant": [],
+    "col": [
+      "imitate a voice",
+      "imitate the narrator",
+      "imitate a style"
+    ],
+    "fam": [
+      "imitate",
+      "imitates",
+      "imitating",
+      "imitated",
+      "imitation"
+    ],
+    "example": "For Book Week, the class tried to imitate Banjo Paterson's galloping rhythm without copying a whole poem.",
+    "basic": "They tried to write in a similar rhythm."
+  },
+  "counter": {
+    "simple": "To answer a claim with an opposite point.",
+    "detailed": "In a debate you counter an idea by giving a reason that weakens it. A fair speaker still treats the other side accurately.",
+    "zh": "反驳；用相反论点回应",
+    "syn": [
+      "rebut",
+      "oppose",
+      "answer"
+    ],
+    "ant": [
+      "support",
+      "concede"
+    ],
+    "col": [
+      "counter a claim",
+      "counter the argument",
+      "counter with evidence"
+    ],
+    "fam": [
+      "counter",
+      "counters",
+      "countering",
+      "countered"
+    ],
+    "example": "Aisha used recycling figures to counter the claim that students would not sort their rubbish.",
+    "basic": "Aisha spoke against that claim."
+  },
+  "refute": {
+    "simple": "To show that a claim is wrong using clear evidence.",
+    "detailed": "You refute an idea when your facts leave little room for it to stand. It is stronger than simply disagreeing.",
+    "zh": "驳斥；用证据证明某说法不成立",
+    "syn": [
+      "disprove",
+      "rebut",
+      "overturn"
+    ],
+    "ant": [
+      "confirm",
+      "support"
+    ],
+    "col": [
+      "refute a claim",
+      "refute the rumour",
+      "refute with data"
+    ],
+    "fam": [
+      "refute",
+      "refutes",
+      "refuting",
+      "refuted",
+      "refutation"
+    ],
+    "example": "The water-test results refute the rumour that the creek is too dirty for yabbies.",
+    "basic": "The results show the rumour is wrong."
+  },
+  "commence": {
+    "simple": "To begin something in a planned or formal way.",
+    "detailed": "Schools, inquiries, and ceremonies commence at a set time. The word sounds more official than everyday 'start'.",
+    "zh": "开始；正式着手进行",
+    "syn": [
+      "begin",
+      "start",
+      "open"
+    ],
+    "ant": [
+      "cease",
+      "finish"
+    ],
+    "col": [
+      "commence the inquiry",
+      "commence work",
+      "commence at nine"
+    ],
+    "fam": [
+      "commence",
+      "commences",
+      "commencing",
+      "commenced",
+      "commencement"
+    ],
+    "example": "The scholarship reading paper will commence after the supervisor checks every desk.",
+    "basic": "The test will start after desks are checked."
+  },
+  "cease": {
+    "simple": "To stop happening or to stop doing something.",
+    "detailed": "Rain may cease after a storm, or a council may cease a noisy activity. The word marks a clear end, not a pause.",
+    "zh": "停止；终止",
+    "syn": [
+      "stop",
+      "halt",
+      "end"
+    ],
+    "ant": [
+      "commence",
+      "continue"
+    ],
+    "col": [
+      "cease fire",
+      "cease the activity",
+      "cease immediately"
+    ],
+    "fam": [
+      "cease",
+      "ceases",
+      "ceasing",
+      "ceased",
+      "cessation"
+    ],
+    "example": "Play must cease the moment the siren sounds so the oval can be cleared.",
+    "basic": "Play has to stop when the siren goes."
+  },
+  "prioritise": {
+    "simple": "To treat the most important task or idea first.",
+    "detailed": "When time is short, you prioritise work that will have the biggest effect. Good notes show what you put first and why.",
+    "zh": "优先处理；把最重要的事放在前面",
+    "syn": [
+      "rank",
+      "put first",
+      "order"
+    ],
+    "ant": [],
+    "col": [
+      "prioritise safety",
+      "prioritise the main idea",
+      "prioritise your time"
+    ],
+    "fam": [
+      "prioritise",
+      "prioritises",
+      "prioritising",
+      "prioritised",
+      "priority"
+    ],
+    "example": "For the group project, we should prioritise the graph before decorating the poster.",
+    "basic": "We should do the graph first."
+  },
+  "specialise": {
+    "simple": "To focus on one area and become especially skilled in it.",
+    "detailed": "A scientist may specialise in insects, and a writer may specialise in mystery stories. Narrow focus can produce deeper knowledge.",
+    "zh": "专门从事；专攻某一领域",
+    "syn": [
+      "focus",
+      "concentrate"
+    ],
+    "ant": [
+      "generalise"
+    ],
+    "col": [
+      "specialise in science",
+      "specialise in one sport",
+      "specialise later"
+    ],
+    "fam": [
+      "specialise",
+      "specialises",
+      "specialising",
+      "specialised",
+      "specialist",
+      "specialisation"
+    ],
+    "example": "In Year 6, some students already specialise in coding while others explore several clubs.",
+    "basic": "Some students stick to one main interest."
+  },
+  "familiarise": {
+    "simple": "To make yourself know a place, text, or idea well.",
+    "detailed": "Before a test or excursion you familiarise yourself with the map, rules, or key words so fewer surprises slow you down.",
+    "zh": "使熟悉；让自己了解某事物",
+    "syn": [
+      "acquaint",
+      "orient",
+      "brief"
+    ],
+    "ant": [],
+    "col": [
+      "familiarise yourself with",
+      "familiarise the class",
+      "familiarise with the rules"
+    ],
+    "fam": [
+      "familiarise",
+      "familiarises",
+      "familiarising",
+      "familiarised",
+      "familiar",
+      "familiarity"
+    ],
+    "example": "Please familiarise yourself with the library catalogue before Monday's research lesson.",
+    "basic": "Please get to know the catalogue first."
+  },
+  "generalise": {
+    "simple": "To make a broad statement from a few examples.",
+    "detailed": "Scientists generalise carefully after several trials. A weak writer may generalise from one story and treat it as a rule for everyone.",
+    "zh": "概括；从个别例子推出普遍说法",
+    "syn": [
+      "broaden",
+      "infer"
+    ],
+    "ant": [
+      "specify"
+    ],
+    "col": [
+      "generalise from results",
+      "generalise too quickly",
+      "generalise about a group"
+    ],
+    "fam": [
+      "generalise",
+      "generalises",
+      "generalising",
+      "generalised",
+      "general",
+      "generalisation"
+    ],
+    "example": "You cannot generalise about all birds from watching one magpie on the oval.",
+    "basic": "One magpie does not prove a rule for every bird."
+  },
+  "minimise": {
+    "simple": "To make something as small or as slight as possible.",
+    "detailed": "In science and design you minimise waste, error, or risk by changing a method. The aim is a smaller unwanted effect, not zero thinking.",
+    "zh": "使减到最小；尽量降低",
+    "syn": [
+      "reduce",
+      "lessen",
+      "shrink"
+    ],
+    "ant": [
+      "maximise"
+    ],
+    "col": [
+      "minimise waste",
+      "minimise error",
+      "minimise risk"
+    ],
+    "fam": [
+      "minimise",
+      "minimises",
+      "minimising",
+      "minimised",
+      "minimum",
+      "minimal"
+    ],
+    "example": "We changed the funnel design to minimise spills during the oil-and-water test.",
+    "basic": "We changed the funnel so less liquid spilled."
+  },
+  "maximise": {
+    "simple": "To make something as large or as strong as possible.",
+    "detailed": "You maximise a result when you adjust conditions to get the greatest useful effect, such as more sunlight on a solar panel.",
+    "zh": "使增加到最大；尽量提高",
+    "syn": [
+      "increase",
+      "enlarge",
+      "boost"
+    ],
+    "ant": [
+      "minimise"
+    ],
+    "col": [
+      "maximise sunlight",
+      "maximise the yield",
+      "maximise efficiency"
+    ],
+    "fam": [
+      "maximise",
+      "maximises",
+      "maximising",
+      "maximised",
+      "maximum",
+      "maximal"
+    ],
+    "example": "The class tilted the panels to maximise sunlight during the winter midday test.",
+    "basic": "They tilted the panels to catch more sun."
+  },
+  "realise": {
+    "simple": "To become clearly aware of a fact or idea.",
+    "detailed": "You realise something when understanding clicks into place after clues, results, or reflection. It is more than guessing.",
+    "zh": "意识到；明白过来",
+    "syn": [
+      "understand",
+      "recognise",
+      "grasp"
+    ],
+    "ant": [],
+    "col": [
+      "realise a mistake",
+      "realise the truth",
+      "suddenly realise"
+    ],
+    "fam": [
+      "realise",
+      "realises",
+      "realising",
+      "realised",
+      "realisation"
+    ],
+    "example": "Halfway through the proof, Maya began to realise the missing step was in the first line.",
+    "basic": "Maya finally saw the missing step."
+  },
+  "civilise": {
+    "simple": "To try to make a society match one group's idea of 'proper' order.",
+    "detailed": "Older texts used civilise as if some cultures were unfinished. Australian HASS now treats the word carefully because it judged First Nations societies unfairly.",
+    "zh": "使文明化（旧时带偏见，现需审慎理解）",
+    "syn": [
+      "refine",
+      "educate"
+    ],
+    "ant": [],
+    "col": [
+      "civilise a colony",
+      "claim to civilise",
+      "civilise by force"
+    ],
+    "fam": [
+      "civilise",
+      "civilises",
+      "civilising",
+      "civilised",
+      "civilisation",
+      "civil"
+    ],
+    "example": "Our HASS booklet asks why some colonists claimed they could civilise people who already had law and culture.",
+    "basic": "Some colonists said their way of life was better."
+  },
+  "authorise": {
+    "simple": "To give official permission for an action.",
+    "detailed": "A council, principal, or parliament can authorise a plan so it is allowed by the rules. Without that permission the action may be unlawful.",
+    "zh": "授权；正式批准",
+    "syn": [
+      "permit",
+      "approve",
+      "sanction"
+    ],
+    "ant": [
+      "forbid",
+      "ban"
+    ],
+    "col": [
+      "authorise a plan",
+      "authorise spending",
+      "authorise the trip"
+    ],
+    "fam": [
+      "authorise",
+      "authorises",
+      "authorising",
+      "authorised",
+      "authorisation",
+      "authority"
+    ],
+    "example": "Only the principal can authorise an excursion that leaves the school grounds.",
+    "basic": "Only the principal can allow that trip."
+  },
+  "standardise": {
+    "simple": "To make things follow the same agreed rule or measure.",
+    "detailed": "Scientists standardise a method so every group uses the same steps and units. That makes results fairer to compare.",
+    "zh": "使标准化；统一做法或标准",
+    "syn": [
+      "regularise",
+      "unify",
+      "normalise"
+    ],
+    "ant": [],
+    "col": [
+      "standardise the method",
+      "standardise units",
+      "standardise the test"
+    ],
+    "fam": [
+      "standardise",
+      "standardises",
+      "standardising",
+      "standardised",
+      "standard"
+    ],
+    "example": "We need to standardise the timing so every group stirs the mixture for two minutes.",
+    "basic": "Everyone should stir for the same time."
+  },
+  "characterise": {
+    "simple": "To describe the typical qualities of a person, place, or text.",
+    "detailed": "You characterise a hero as brave or a setting as bleak by pointing to details. The word also means those qualities are typical of something.",
+    "zh": "刻画；描述典型特征",
+    "syn": [
+      "describe",
+      "portray",
+      "depict"
+    ],
+    "ant": [],
+    "col": [
+      "characterise the hero",
+      "characterise the setting",
+      "characterise a period"
+    ],
+    "fam": [
+      "characterise",
+      "characterises",
+      "characterising",
+      "characterised",
+      "characteristic",
+      "character"
+    ],
+    "example": "Short, snapped sentences characterise the panic in the last scene of the camp story.",
+    "basic": "The last scene feels panicked because the sentences are short."
+  },
+  "advantage": {
+    "simple": "A feature that helps you or makes one option stronger than another.",
+    "detailed": "In an argument, an advantage is a real gain, such as lower cost or greater safety. Name it clearly and show who benefits.",
+    "zh": "优势；有利之处",
+    "syn": [
+      "benefit",
+      "plus",
+      "edge"
+    ],
+    "ant": [
+      "disadvantage",
+      "drawback"
+    ],
+    "col": [
+      "main advantage",
+      "advantage of solar power",
+      "clear advantage"
+    ],
+    "fam": [
+      "advantage",
+      "advantages",
+      "advantageous",
+      "disadvantage"
+    ],
+    "example": "One advantage of the new bins is that food scraps no longer sit in the classroom.",
+    "basic": "The new bins help because scraps are gone."
+  },
+  "agreement": {
+    "simple": "A shared decision that people accept and follow.",
+    "detailed": "An agreement can be a handshake, a class rule, or a written treaty. HASS texts ask who signed, who was left out, and whether it was kept.",
+    "zh": "协议；共识；一致同意",
+    "syn": [
+      "pact",
+      "deal",
+      "accord"
+    ],
+    "ant": [
+      "disagreement",
+      "dispute"
+    ],
+    "col": [
+      "reach an agreement",
+      "written agreement",
+      "break an agreement"
+    ],
+    "fam": [
+      "agreement",
+      "agreements",
+      "agree",
+      "agreeing",
+      "agreed"
+    ],
+    "example": "The two classes reached an agreement about sharing the oval at lunch.",
+    "basic": "The two classes decided how to share the oval."
+  },
+  "aim": {
+    "simple": "The result you are trying to achieve on purpose.",
+    "detailed": "An aim is the target of a lesson, experiment, or piece of writing. Keep it short enough that you can check whether you met it.",
+    "zh": "目标；意图；想要达成的结果",
+    "syn": [
+      "goal",
+      "purpose",
+      "objective"
+    ],
+    "ant": [],
+    "col": [
+      "main aim",
+      "aim of the experiment",
+      "clear aim"
+    ],
+    "fam": [
+      "aim",
+      "aims",
+      "aimed",
+      "aiming"
+    ],
+    "example": "The aim of our investigation was to find which material kept ice solid the longest.",
+    "basic": "We wanted to see which material kept ice frozen."
+  },
+  "alternative": {
+    "simple": "Another possible choice instead of the first idea.",
+    "detailed": "An alternative is a real option you can take. Strong arguments compare at least one alternative, not only the plan you already like.",
+    "zh": "备选方案；另一种选择",
+    "syn": [
+      "option",
+      "choice",
+      "substitute"
+    ],
+    "ant": [],
+    "col": [
+      "an alternative plan",
+      "consider an alternative",
+      "safer alternative"
+    ],
+    "fam": [
+      "alternative",
+      "alternatives",
+      "alternatively"
+    ],
+    "example": "A reusable bottle is a practical alternative to buying juice in the canteen each day.",
+    "basic": "You could take a bottle instead of buying juice."
+  },
+  "argument": {
+    "simple": "A reasoned case for a claim, backed by reasons and evidence.",
+    "detailed": "An argument is not a shouting match. In scholarship writing it has a clear position, supporting points, and a response to the other side.",
+    "zh": "论点；有理据的论述",
+    "syn": [
+      "case",
+      "claim",
+      "reasoning"
+    ],
+    "ant": [],
+    "col": [
+      "construct an argument",
+      "strong argument",
+      "central argument"
+    ],
+    "fam": [
+      "argument",
+      "arguments",
+      "argue",
+      "arguable",
+      "argumentative"
+    ],
+    "example": "Her argument for a quieter library used noise counts from three lunchtimes.",
+    "basic": "She gave reasons for a quieter library."
+  },
+  "audience": {
+    "simple": "The people who watch, listen to, or read a text.",
+    "detailed": "Writers change tone and detail to suit an audience. A speech for Year 1 sounds different from a letter to the local council.",
+    "zh": "读者；听众；观众",
+    "syn": [
+      "readers",
+      "listeners",
+      "viewers"
+    ],
+    "ant": [],
+    "col": [
+      "target audience",
+      "live audience",
+      "audience of parents"
+    ],
+    "fam": [
+      "audience",
+      "audiences"
+    ],
+    "example": "The play's audience gasped when the lights dropped for the storm scene.",
+    "basic": "The people watching gasped at the storm scene."
+  },
+  "author": {
+    "simple": "The person who writes a book, play, or other text.",
+    "detailed": "An author shapes plot, voice, and point of view. Naming the author helps you discuss choices instead of treating a book as if it wrote itself.",
+    "zh": "作者；写作者",
+    "syn": [
+      "writer",
+      "novelist"
+    ],
+    "ant": [],
+    "col": [
+      "the author writes",
+      "Australian author",
+      "author of the novel"
+    ],
+    "fam": [
+      "author",
+      "authors",
+      "authorship",
+      "authorial"
+    ],
+    "example": "The author leaves the last letter unfinished so readers must infer the ending.",
+    "basic": "The writer does not finish the last letter."
+  },
+  "background": {
+    "simple": "The earlier facts or setting that help you understand an event.",
+    "detailed": "Background information explains what happened before the main story, such as why a town already had a water shortage.",
+    "zh": "背景；先前的相关情况",
+    "syn": [
+      "context",
+      "setting",
+      "backstory"
+    ],
+    "ant": [],
+    "col": [
+      "historical background",
+      "family background",
+      "background information"
+    ],
+    "fam": [
+      "background",
+      "backgrounds"
+    ],
+    "example": "The background to the strike was a long drought that had already cut farm jobs.",
+    "basic": "The strike happened after a long dry time."
+  },
+  "barrier": {
+    "simple": "Something that blocks movement, access, or progress.",
+    "detailed": "A barrier can be a fence, a language, or an unfair rule. HASS writing asks who built it and who is kept out.",
+    "zh": "障碍；壁垒；阻挡通行或进展的事物",
+    "syn": [
+      "obstacle",
+      "block",
+      "hindrance"
+    ],
+    "ant": [
+      "opening",
+      "access"
+    ],
+    "col": [
+      "language barrier",
+      "barrier to trade",
+      "natural barrier"
+    ],
+    "fam": [
+      "barrier",
+      "barriers"
+    ],
+    "example": "The Great Dividing Range was a barrier to early travel between the coast and inland farms.",
+    "basic": "The mountains made inland travel hard."
+  },
+  "basis": {
+    "simple": "The main idea or evidence that something is built on.",
+    "detailed": "A conclusion needs a sound basis, such as repeated trials or a reliable source. If the basis is weak, the whole claim wobbles.",
+    "zh": "基础；依据；根据",
+    "syn": [
+      "foundation",
+      "ground",
+      "footing"
+    ],
+    "ant": [],
+    "col": [
+      "on the basis of",
+      "scientific basis",
+      "basis for the claim"
+    ],
+    "fam": [
+      "basis",
+      "bases",
+      "basic"
+    ],
+    "example": "The basis for our conclusion was three trials with the same thermometer.",
+    "basic": "We used three trials to back the conclusion."
+  },
+  "behaviour": {
+    "simple": "The way a person, animal, or system usually acts.",
+    "detailed": "Scientists record behaviour they can see, such as how magpies defend a nest. In class, behaviour also means how people treat others.",
+    "zh": "行为；表现；活动方式",
+    "syn": [
+      "conduct",
+      "actions",
+      "habits"
+    ],
+    "ant": [],
+    "col": [
+      "animal behaviour",
+      "observe behaviour",
+      "change in behaviour"
+    ],
+    "fam": [
+      "behaviour",
+      "behaviours",
+      "behave",
+      "behavioural"
+    ],
+    "example": "We recorded magpie behaviour on the oval for ten minutes after the bell.",
+    "basic": "We watched what the magpies did after the bell."
+  },
+  "boundary": {
+    "simple": "A line that marks the edge of a place or a rule.",
+    "detailed": "A boundary can be a river, a fence, or a limit on what is allowed. Maps and laws both use boundaries to show where one area ends.",
+    "zh": "边界；界限",
+    "syn": [
+      "border",
+      "limit",
+      "edge"
+    ],
+    "ant": [],
+    "col": [
+      "state boundary",
+      "boundary line",
+      "cross a boundary"
+    ],
+    "fam": [
+      "boundary",
+      "boundaries"
+    ],
+    "example": "The creek forms the boundary between the school oval and the reserve.",
+    "basic": "The creek sits on the edge of the oval."
+  },
+  "campaign": {
+    "simple": "An organised set of actions meant to win support or cause change.",
+    "detailed": "A campaign can be for school captain, for recycling, or for a new law. It uses messages, events, and people working together over time.",
+    "zh": "运动；有组织的宣传或行动",
+    "syn": [
+      "drive",
+      "movement",
+      "crusade"
+    ],
+    "ant": [],
+    "col": [
+      "election campaign",
+      "awareness campaign",
+      "launch a campaign"
+    ],
+    "fam": [
+      "campaign",
+      "campaigns",
+      "campaigning",
+      "campaigned",
+      "campaigner"
+    ],
+    "example": "The student campaign for tap-water stations used posters in every stairwell.",
+    "basic": "Students put up posters about drinking tap water."
+  },
+  "category": {
+    "simple": "A group of things that share a common feature.",
+    "detailed": "You sort ideas, animals, or books into a category so patterns are easier to see. Name the shared feature, not just the group label.",
+    "zh": "类别；分类",
+    "syn": [
+      "group",
+      "class",
+      "type"
+    ],
+    "ant": [],
+    "col": [
+      "each category",
+      "sort into a category",
+      "new category"
+    ],
+    "fam": [
+      "category",
+      "categories",
+      "categorise",
+      "categorical"
+    ],
+    "example": "Put each waste item into a category before you mark the tally chart.",
+    "basic": "Sort the rubbish into groups first."
+  },
+  "cause": {
+    "simple": "The reason something happens, coming before the result.",
+    "detailed": "A cause comes before an effect. Science writing looks for a real cause you can test, not just something that happened at the same time.",
+    "zh": "原因；导致某事发生的因素",
+    "syn": [
+      "reason",
+      "source",
+      "origin"
+    ],
+    "ant": [],
+    "col": [
+      "cause of the change",
+      "main cause",
+      "cause and effect"
+    ],
+    "fam": [
+      "cause",
+      "causes",
+      "caused",
+      "causing",
+      "causal"
+    ],
+    "example": "The likely cause of the wilted seedlings was the weekend heatwave.",
+    "basic": "The seedlings wilted because it was so hot."
+  },
+  "character": {
+    "simple": "A person or creature in a story, or the kind of person someone is.",
+    "detailed": "A character has motives, relationships, and a way of speaking. In literary work you study how the writer builds that person on the page.",
+    "zh": "人物；角色；品性",
+    "syn": [
+      "figure",
+      "persona",
+      "role"
+    ],
+    "ant": [],
+    "col": [
+      "main character",
+      "character development",
+      "character's motive"
+    ],
+    "fam": [
+      "character",
+      "characters",
+      "characterise",
+      "characteristic"
+    ],
+    "example": "The quietest character in the play makes the bravest choice in the last scene.",
+    "basic": "The quiet person in the play does something brave."
+  },
+  "characteristic": {
+    "simple": "A typical feature that helps you recognise something.",
+    "detailed": "A characteristic of a metal might be that it conducts heat. Scientists list characteristics so living things or materials can be compared fairly.",
+    "zh": "特征；特性；典型特点",
+    "syn": [
+      "feature",
+      "trait",
+      "quality"
+    ],
+    "ant": [],
+    "col": [
+      "key characteristic",
+      "characteristic of a metal",
+      "shared characteristic"
+    ],
+    "fam": [
+      "characteristic",
+      "characteristics",
+      "characterise",
+      "character"
+    ],
+    "example": "A key characteristic of the mystery rock was that it scratched glass.",
+    "basic": "The rock was hard enough to scratch glass."
+  },
+  "choice": {
+    "simple": "The act of picking one option, or the option you pick.",
+    "detailed": "A choice has consequences. Academic writing explains why a choice was made and what else could have been selected.",
+    "zh": "选择；所选的方案",
+    "syn": [
+      "option",
+      "selection",
+      "decision"
+    ],
+    "ant": [],
+    "col": [
+      "make a choice",
+      "difficult choice",
+      "choice of materials"
+    ],
+    "fam": [
+      "choice",
+      "choices",
+      "choose",
+      "choosing",
+      "chosen"
+    ],
+    "example": "Our choice of cardboard instead of foam reduced waste from the model bridge.",
+    "basic": "We picked cardboard instead of foam."
+  },
+  "circumstance": {
+    "simple": "A fact or condition that surrounds an event and helps explain it.",
+    "detailed": "Circumstances include time, place, weather, and people's needs. Historians judge an action by the circumstance people faced, not only by today's rules.",
+    "zh": "情况；环境；围绕事件的具体条件",
+    "syn": [
+      "situation",
+      "condition",
+      "context"
+    ],
+    "ant": [],
+    "col": [
+      "in this circumstance",
+      "special circumstance",
+      "change of circumstance"
+    ],
+    "fam": [
+      "circumstance",
+      "circumstances"
+    ],
+    "example": "The circumstance of a long drought made the water restrictions easier to understand.",
+    "basic": "The long dry spell helped explain the water rules."
+  },
+  "citizen": {
+    "simple": "A person who belongs to a country or town and has rights and duties there.",
+    "detailed": "A citizen can vote, follow laws, and take part in community life. HASS lessons ask how people become citizens and what fairness requires.",
+    "zh": "公民；享有权利并承担义务的成员",
+    "syn": [
+      "resident",
+      "national",
+      "inhabitant"
+    ],
+    "ant": [],
+    "col": [
+      "Australian citizen",
+      "responsible citizen",
+      "citizen of a town"
+    ],
+    "fam": [
+      "citizen",
+      "citizens",
+      "citizenship",
+      "civic"
+    ],
+    "example": "Every citizen in the town could speak at the council meeting about the new path.",
+    "basic": "People from the town could speak at the meeting."
+  },
+  "community": {
+    "simple": "A group of people who live in the same place or share a common interest.",
+    "detailed": "A community can be a suburb, a sporting club, or a language group. It is held together by shared places, rules, and care for one another.",
+    "zh": "社区；群体；有共同生活或兴趣的一群人",
+    "syn": [
+      "neighbourhood",
+      "group",
+      "society"
+    ],
+    "ant": [],
+    "col": [
+      "local community",
+      "school community",
+      "community meeting"
+    ],
+    "fam": [
+      "community",
+      "communities"
+    ],
+    "example": "The local community planted trees along the creek after the last flood.",
+    "basic": "People from the area planted trees after the flood."
+  },
+  "concept": {
+    "simple": "An idea that helps you understand a bigger topic.",
+    "detailed": "A concept such as fairness or energy is more than one example. You explain a concept by defining it and showing how it works in new cases.",
+    "zh": "概念；帮助理解主题的核心想法",
+    "syn": [
+      "idea",
+      "notion",
+      "principle"
+    ],
+    "ant": [],
+    "col": [
+      "key concept",
+      "difficult concept",
+      "concept of energy"
+    ],
+    "fam": [
+      "concept",
+      "concepts",
+      "conceptual",
+      "conceptualise"
+    ],
+    "example": "The concept of a fair test means only one variable changes at a time.",
+    "basic": "A fair test changes only one thing."
+  },
+  "condition": {
+    "simple": "The state something is in, or a requirement that must be met.",
+    "detailed": "Scientists describe the condition of a habitat, such as wet or polluted. A condition can also be a rule: you may go if a condition is satisfied.",
+    "zh": "状况；条件",
+    "syn": [
+      "state",
+      "shape",
+      "requirement"
+    ],
+    "ant": [],
+    "col": [
+      "weather condition",
+      "poor condition",
+      "condition of the sample"
+    ],
+    "fam": [
+      "condition",
+      "conditions",
+      "conditional"
+    ],
+    "example": "The dry condition of the soil explained why the seedlings needed extra water.",
+    "basic": "The soil was so dry that the plants needed water."
+  },
+  "conflict": {
+    "simple": "A serious disagreement or struggle between people or ideas.",
+    "detailed": "Conflict can be a war, a family argument, or two goals that cannot both be met. HASS writing looks at causes, power, and how conflict is resolved.",
+    "zh": "冲突；争执；对立",
+    "syn": [
+      "clash",
+      "dispute",
+      "struggle"
+    ],
+    "ant": [
+      "peace",
+      "harmony"
+    ],
+    "col": [
+      "resolve a conflict",
+      "armed conflict",
+      "conflict of ideas"
+    ],
+    "fam": [
+      "conflict",
+      "conflicts",
+      "conflicting"
+    ],
+    "example": "The conflict over river water grew after both towns needed more for irrigation.",
+    "basic": "The two towns argued about river water."
+  },
+  "connection": {
+    "simple": "A link that joins people, ideas, places, or events.",
+    "detailed": "A connection can be a trade route, a family tie, or a cause linked to an effect. Good writing makes the connection explicit.",
+    "zh": "联系；关联；连接",
+    "syn": [
+      "link",
+      "tie",
+      "relationship"
+    ],
+    "ant": [
+      "separation"
+    ],
+    "col": [
+      "make a connection",
+      "clear connection",
+      "connection between ideas"
+    ],
+    "fam": [
+      "connection",
+      "connections",
+      "connect",
+      "connected"
+    ],
+    "example": "There is a clear connection between extra shade and cooler playground seats.",
+    "basic": "More shade makes the seats cooler."
+  },
+  "content": {
+    "simple": "The information or ideas inside a text, not the cover or layout.",
+    "detailed": "When you judge content, you look at what a page actually says. A colourful poster can still have thin content if the facts are missing.",
+    "zh": "内容；文本中的信息或思想",
+    "syn": [
+      "material",
+      "substance",
+      "subject matter"
+    ],
+    "ant": [],
+    "col": [
+      "content of the chapter",
+      "digital content",
+      "review the content"
+    ],
+    "fam": [
+      "content",
+      "contents"
+    ],
+    "example": "The marker praised the content of the report even though the diagrams were plain.",
+    "basic": "The report had good information inside."
+  },
+  "control": {
+    "simple": "The part of a test you keep the same so the comparison is fair.",
+    "detailed": "In a fair test, a control is the unchanged comparison, or a variable you hold steady. It helps you see whether the one thing you changed really mattered.",
+    "zh": "对照；控制（实验中保持不变的部分）",
+    "syn": [
+      "check",
+      "comparison",
+      "restraint"
+    ],
+    "ant": [],
+    "col": [
+      "experimental control",
+      "control group",
+      "keep under control"
+    ],
+    "fam": [
+      "control",
+      "controls",
+      "controlled",
+      "controlling",
+      "controller"
+    ],
+    "example": "The pot with no fertiliser was the control in our seedling trial.",
+    "basic": "One pot had no fertiliser so we could compare."
+  },
+  "culture": {
+    "simple": "The shared customs, stories, languages, and ways of life of a group.",
+    "detailed": "Culture includes food, ceremony, art, and daily habits. Australian HASS studies many cultures, including Aboriginal and Torres Strait Islander cultures.",
+    "zh": "文化；一个群体共享的习俗、语言与生活方式",
+    "syn": [
+      "traditions",
+      "customs",
+      "way of life"
+    ],
+    "ant": [],
+    "col": [
+      "local culture",
+      "culture of a group",
+      "share a culture"
+    ],
+    "fam": [
+      "culture",
+      "cultures",
+      "cultural",
+      "culturally"
+    ],
+    "example": "Dance, language, and fishing knowledge are all part of the culture of that island community.",
+    "basic": "Dance and language are part of how that community lives."
+  },
+  "cycle": {
+    "simple": "A sequence of events that repeats in a set order.",
+    "detailed": "The water cycle and life cycles are repeating systems. A diagram of a cycle should show how the last step leads back to the first.",
+    "zh": "循环；按固定顺序重复的过程",
+    "syn": [
+      "loop",
+      "round",
+      "circuit"
+    ],
+    "ant": [],
+    "col": [
+      "water cycle",
+      "life cycle",
+      "repeat the cycle"
+    ],
+    "fam": [
+      "cycle",
+      "cycles",
+      "cyclic",
+      "cyclical"
+    ],
+    "example": "Our poster showed how evaporation starts the next turn of the water cycle.",
+    "basic": "The poster showed water changing and coming back again."
+  },
+  "data": {
+    "simple": "Facts or measurements you collect to answer a question.",
+    "detailed": "Data can be numbers, yes/no tallies, or careful notes. You do not change data to fit a guess; you explain what the data actually show.",
+    "zh": "数据；为回答问题而收集的事实或测量值",
+    "syn": [
+      "measurements",
+      "figures",
+      "information"
+    ],
+    "ant": [],
+    "col": [
+      "collect data",
+      "analyse data",
+      "data from the trial"
+    ],
+    "fam": [
+      "data",
+      "datum",
+      "database"
+    ],
+    "example": "Our data showed the shaded thermometer stayed two degrees cooler at noon.",
+    "basic": "The numbers showed the shaded spot was cooler."
+  },
+  "decision": {
+    "simple": "A choice you make after thinking about the options.",
+    "detailed": "A decision can be personal or official. Academic writing explains the reasons for a decision and who is affected by it.",
+    "zh": "决定；决策",
+    "syn": [
+      "choice",
+      "ruling",
+      "resolution"
+    ],
+    "ant": [],
+    "col": [
+      "make a decision",
+      "final decision",
+      "decision of the council"
+    ],
+    "fam": [
+      "decision",
+      "decisions",
+      "decide",
+      "decisive"
+    ],
+    "example": "The council's decision to close the track followed three rockfalls in one month.",
+    "basic": "The council closed the track after the rockfalls."
+  },
+  "detail": {
+    "simple": "A small, precise piece of information that makes an idea clearer.",
+    "detailed": "A useful detail is specific: a time, a colour, a measurement. Too few details make writing vague; too many can hide the main point.",
+    "zh": "细节；具体而精确的信息",
+    "syn": [
+      "particular",
+      "point",
+      "specific"
+    ],
+    "ant": [],
+    "col": [
+      "important detail",
+      "add a detail",
+      "detail in the diagram"
+    ],
+    "fam": [
+      "detail",
+      "details",
+      "detailed",
+      "detailing"
+    ],
+    "example": "One telling detail was the muddy watermark halfway up the classroom wall.",
+    "basic": "The muddy line on the wall was a useful clue."
+  },
+  "device": {
+    "simple": "A writing technique an author uses to shape meaning or feeling.",
+    "detailed": "A literary device might be repetition, a metaphor, or a sudden short sentence. Name the device and explain the effect on the reader.",
+    "zh": "手法；作者用来制造效果的写作技巧",
+    "syn": [
+      "technique",
+      "method",
+      "tool"
+    ],
+    "ant": [],
+    "col": [
+      "literary device",
+      "narrative device",
+      "use a device"
+    ],
+    "fam": [
+      "device",
+      "devices"
+    ],
+    "example": "Repetition is the device that makes the last stanza feel like a drumbeat.",
+    "basic": "Repeating words makes the last stanza sound like a drum."
+  },
+  "difference": {
+    "simple": "A way in which two things are not the same.",
+    "detailed": "You describe a difference by naming both sides and the feature you compared. In data, a difference should be large enough to notice.",
+    "zh": "差异；不同之处",
+    "syn": [
+      "contrast",
+      "distinction",
+      "variation"
+    ],
+    "ant": [
+      "similarity"
+    ],
+    "col": [
+      "key difference",
+      "difference between groups",
+      "noticeable difference"
+    ],
+    "fam": [
+      "difference",
+      "differences",
+      "different",
+      "differ"
+    ],
+    "example": "The main difference between the two soils was how quickly water drained away.",
+    "basic": "The two soils did not drain at the same speed."
+  },
+  "difficulty": {
+    "simple": "Something that makes a task hard to complete.",
+    "detailed": "A difficulty can be a missing tool, a confusing question, or a steep slope. Name the difficulty so you can plan a way around it.",
+    "zh": "困难；难点",
+    "syn": [
+      "problem",
+      "obstacle",
+      "challenge"
+    ],
+    "ant": [
+      "ease"
+    ],
+    "col": [
+      "main difficulty",
+      "difficulty of the task",
+      "face a difficulty"
+    ],
+    "fam": [
+      "difficulty",
+      "difficulties",
+      "difficult"
+    ],
+    "example": "The main difficulty was keeping the rain gauge level on the sloping roof.",
+    "basic": "It was hard to keep the rain gauge level."
+  },
+  "disadvantage": {
+    "simple": "A feature that makes an option weaker or less helpful.",
+    "detailed": "In an argument, a disadvantage is a real cost or drawback. Fair writing admits a disadvantage of your own plan, then explains why it is still worth choosing.",
+    "zh": "劣势；不利之处；缺点",
+    "syn": [
+      "drawback",
+      "downside",
+      "weakness"
+    ],
+    "ant": [
+      "advantage",
+      "benefit"
+    ],
+    "col": [
+      "main disadvantage",
+      "disadvantage of the plan",
+      "clear disadvantage"
+    ],
+    "fam": [
+      "disadvantage",
+      "disadvantages",
+      "disadvantaged"
+    ],
+    "example": "A disadvantage of extra canteen packaging is the extra bin overflow after sport.",
+    "basic": "Extra packaging makes the bins overflow."
+  },
+  "discussion": {
+    "simple": "A careful talk or written exchange of ideas on a topic.",
+    "detailed": "A discussion lets people share reasons, ask questions, and test ideas. It is more organised than a chat and fairer than a one-person speech.",
+    "zh": "讨论；就某一主题交换看法",
+    "syn": [
+      "conversation",
+      "debate",
+      "exchange"
+    ],
+    "ant": [],
+    "col": [
+      "class discussion",
+      "open a discussion",
+      "discussion of the results"
+    ],
+    "fam": [
+      "discussion",
+      "discussions",
+      "discuss",
+      "discussed"
+    ],
+    "example": "Our discussion of the novel focused on whether the narrator could be trusted.",
+    "basic": "We talked about whether to trust the narrator."
+  },
+  "effect": {
+    "simple": "What happens afterwards as a result of a cause.",
+    "detailed": "An effect comes after a cause and can be measured or observed. Science writing keeps cause and effect in a clear order.",
+    "zh": "结果；效应；由原因引起的变化",
+    "syn": [
+      "result",
+      "outcome",
+      "impact"
+    ],
+    "ant": [],
+    "col": [
+      "effect of heat",
+      "cause and effect",
+      "unexpected effect"
+    ],
+    "fam": [
+      "effect",
+      "effects",
+      "effective",
+      "effectively"
+    ],
+    "example": "The effect of the extra mulch was cooler, damper soil under the tomato plants.",
+    "basic": "The mulch made the soil cooler and damper."
+  },
+  "effort": {
+    "simple": "The hard work and attention you put into a task.",
+    "detailed": "Effort is energy and attention, not just luck. Teachers and coaches notice sustained effort even before the final mark appears.",
+    "zh": "努力；付出的心力或体力",
+    "syn": [
+      "work",
+      "exertion",
+      "try"
+    ],
+    "ant": [],
+    "col": [
+      "great effort",
+      "make an effort",
+      "effort of the team"
+    ],
+    "fam": [
+      "effort",
+      "efforts",
+      "effortless"
+    ],
+    "example": "The team's effort in rehearsals showed on the night of the drama performance.",
+    "basic": "The team had worked hard before the play."
+  },
+  "element": {
+    "simple": "A pure substance made of only one kind of atom.",
+    "detailed": "Oxygen and iron are elements because each is made of one type of atom. Water is not an element because it is made of hydrogen and oxygen joined together.",
+    "zh": "元素；只由一种原子构成的纯净物",
+    "syn": [
+      "pure substance",
+      "chemical element"
+    ],
+    "ant": [],
+    "col": [
+      "key element",
+      "element of the system",
+      "pure element"
+    ],
+    "fam": [
+      "element",
+      "elements",
+      "elemental"
+    ],
+    "example": "Water is not a pure element because it is made of hydrogen and oxygen.",
+    "basic": "Water is made from more than one simple substance."
+  },
+  "energy": {
+    "simple": "The capacity to make things move, heat up, or change.",
+    "detailed": "Energy can be stored, transferred, or transformed, but it is not created from nothing. Year 5–6 science tracks where energy goes in a system.",
+    "zh": "能量；使物体运动、发热或变化的能力",
+    "syn": [
+      "power",
+      "force"
+    ],
+    "ant": [],
+    "col": [
+      "solar energy",
+      "transfer energy",
+      "energy of motion"
+    ],
+    "fam": [
+      "energy",
+      "energies",
+      "energetic"
+    ],
+    "example": "The spinning turbine changed moving water into electrical energy for the model town.",
+    "basic": "The moving water helped make electricity."
+  },
+  "error": {
+    "simple": "A mistake in a measurement, method, or calculation.",
+    "detailed": "An error can come from a misread scale or a skipped step. Scientists look for error so they can improve the method next time.",
+    "zh": "误差；错误",
+    "syn": [
+      "mistake",
+      "fault",
+      "inaccuracy"
+    ],
+    "ant": [
+      "accuracy"
+    ],
+    "col": [
+      "measurement error",
+      "human error",
+      "correct an error"
+    ],
+    "fam": [
+      "error",
+      "errors",
+      "err",
+      "erroneous"
+    ],
+    "example": "A parallax error made the first meniscus reading look higher than it was.",
+    "basic": "We read the water line from the wrong angle."
+  },
+  "event": {
+    "simple": "Something that happens, especially something notable.",
+    "detailed": "An event can be a flood, an election, or a sports carnival. Historians ask when the event occurred, who was involved, and why it mattered.",
+    "zh": "事件；发生的事情",
+    "syn": [
+      "happening",
+      "occasion",
+      "incident"
+    ],
+    "ant": [],
+    "col": [
+      "historical event",
+      "major event",
+      "sequence of the event"
+    ],
+    "fam": [
+      "event",
+      "events",
+      "eventful"
+    ],
+    "example": "Federation was the event that joined six colonies into one nation in 1901.",
+    "basic": "In 1901 the colonies joined to make one nation."
+  },
+  "example": {
+    "simple": "A specific case that shows what a general idea means.",
+    "detailed": "A strong example is concrete and relevant. One clear example often teaches more than a vague list of claims.",
+    "zh": "例子；例证",
+    "syn": [
+      "instance",
+      "case",
+      "illustration"
+    ],
+    "ant": [],
+    "col": [
+      "for example",
+      "clear example",
+      "example of a fair test"
+    ],
+    "fam": [
+      "example",
+      "examples",
+      "exemplify",
+      "exemplary"
+    ],
+    "example": "A yabby in the creek sample is one example of an animal that needs clean water.",
+    "basic": "A yabby shows that the water must be fairly clean."
+  },
+  "exchange": {
+    "simple": "The act of giving one thing and receiving another.",
+    "detailed": "People exchange goods, letters, or ideas. In HASS, an exchange can be trade, a treaty gift, or the sharing of knowledge.",
+    "zh": "交换；交流",
+    "syn": [
+      "swap",
+      "trade",
+      "interchange"
+    ],
+    "ant": [],
+    "col": [
+      "exchange of goods",
+      "cultural exchange",
+      "fair exchange"
+    ],
+    "fam": [
+      "exchange",
+      "exchanges",
+      "exchanged",
+      "exchanging"
+    ],
+    "example": "The museum display showed an exchange of fish hooks for woven bags between coastal groups.",
+    "basic": "People swapped fish hooks for woven bags."
+  },
+  "experience": {
+    "simple": "Something you have lived through, or the knowledge gained from it.",
+    "detailed": "A character's experience shapes how they see danger or friendship. First-hand experience is different from something you only read about.",
+    "zh": "经历；经验；亲身体验",
+    "syn": [
+      "ordeal",
+      "background",
+      "practice"
+    ],
+    "ant": [],
+    "col": [
+      "personal experience",
+      "experience of camp",
+      "learn from experience"
+    ],
+    "fam": [
+      "experience",
+      "experiences",
+      "experienced",
+      "experiencing"
+    ],
+    "example": "The narrator's experience of getting lost makes later jokes about maps feel sharper.",
+    "basic": "Because she got lost, the map jokes feel more serious."
+  },
+  "experiment": {
+    "simple": "A planned test used to answer a scientific question.",
+    "detailed": "An experiment changes one factor, keeps others steady, and records what happens. It is more than a casual try.",
+    "zh": "实验；为回答科学问题而做的有计划测试",
+    "syn": [
+      "trial",
+      "test",
+      "investigation"
+    ],
+    "ant": [],
+    "col": [
+      "fair experiment",
+      "design an experiment",
+      "results of the experiment"
+    ],
+    "fam": [
+      "experiment",
+      "experiments",
+      "experimental",
+      "experimenting"
+    ],
+    "example": "The ice-cube experiment compared wrapping, shade, and foil under the same sun.",
+    "basic": "We tested three ways of keeping ice from melting."
+  },
+  "explanation": {
+    "simple": "A clear account of why something happens or what it means.",
+    "detailed": "A good explanation uses reasons and evidence, not only a label. Science and reading tasks both ask you to write the explanation in your own words.",
+    "zh": "解释；说明原因或含义",
+    "syn": [
+      "account",
+      "clarification",
+      "interpretation"
+    ],
+    "ant": [],
+    "col": [
+      "scientific explanation",
+      "give an explanation",
+      "explanation of the results"
+    ],
+    "fam": [
+      "explanation",
+      "explanations",
+      "explain",
+      "explanatory"
+    ],
+    "example": "Her explanation of the rust used both the wet cotton wool and the exposed iron.",
+    "basic": "She said the iron rusted because it stayed wet."
+  },
+  "feature": {
+    "simple": "A noticeable part or quality of a place, object, or living thing.",
+    "detailed": "A feature might be a river bend, a bird's beak, or a heading on a page. Describing features helps you classify and compare.",
+    "zh": "特征；显著的部分或性状",
+    "syn": [
+      "characteristic",
+      "aspect",
+      "trait"
+    ],
+    "ant": [],
+    "col": [
+      "key feature",
+      "natural feature",
+      "feature of the landscape"
+    ],
+    "fam": [
+      "feature",
+      "features",
+      "featured"
+    ],
+    "example": "A sharp ridge was the most obvious feature on the contour map of the reserve.",
+    "basic": "The map showed a sharp ridge most clearly."
+  },
+  "figure": {
+    "simple": "A number, or a labelled diagram in a science text.",
+    "detailed": "In reports, a figure is often a graph or drawing with a caption. The word can also mean a number you have measured or calculated.",
+    "zh": "数字；图表；科学文本中的图示",
+    "syn": [
+      "number",
+      "diagram",
+      "amount"
+    ],
+    "ant": [],
+    "col": [
+      "see figure two",
+      "exact figure",
+      "figure in the report"
+    ],
+    "fam": [
+      "figure",
+      "figures"
+    ],
+    "example": "The figure numbered 3 in the booklet shows how the shadow shortened toward midday.",
+    "basic": "The third picture shows the shadow getting shorter."
+  },
+  "finding": {
+    "simple": "A result you discover after an investigation.",
+    "detailed": "A finding is more than a guess; it is what the evidence showed. Write findings in plain language before you add extra interpretation.",
+    "zh": "发现；调查得出的结果",
+    "syn": [
+      "result",
+      "discovery",
+      "conclusion"
+    ],
+    "ant": [],
+    "col": [
+      "key finding",
+      "finding of the study",
+      "share a finding"
+    ],
+    "fam": [
+      "finding",
+      "findings",
+      "find"
+    ],
+    "example": "Our main finding was that the shaded tray lost far less water by Friday.",
+    "basic": "We found that the shaded tray stayed wetter."
+  },
+  "force": {
+    "simple": "A push or pull that can change an object's motion or shape.",
+    "detailed": "Forces include gravity, friction, and magnetism. A force has size and direction, which you can show with arrows on a diagram.",
+    "zh": "力；能改变物体运动或形状的推或拉",
+    "syn": [
+      "push",
+      "pull"
+    ],
+    "ant": [],
+    "col": [
+      "apply a force",
+      "force of gravity",
+      "unbalanced force"
+    ],
+    "fam": [
+      "force",
+      "forces",
+      "forceful",
+      "forcefully"
+    ],
+    "example": "A greater force on the trolley made it travel farther across the smooth floor.",
+    "basic": "A harder push made the trolley go farther."
+  },
+  "function": {
+    "simple": "The job something is designed or adapted to do.",
+    "detailed": "The function of roots is to take in water; the function of a heading is to guide a reader. Form and function often fit together.",
+    "zh": "功能；作用；某物被用来做的事",
+    "syn": [
+      "purpose",
+      "role",
+      "job"
+    ],
+    "ant": [],
+    "col": [
+      "main function",
+      "function of the heart",
+      "serve a function"
+    ],
+    "fam": [
+      "function",
+      "functions",
+      "functional",
+      "functioning"
+    ],
+    "example": "The function of the waxy coating is to reduce water loss from the leaf.",
+    "basic": "The waxy coating helps the leaf keep water."
+  },
+  "goal": {
+    "simple": "A result you plan carefully and work toward.",
+    "detailed": "A goal is specific enough to check. Academic tasks often ask you to set a goal, then review whether your method reached it.",
+    "zh": "目标；努力要达到的结果",
+    "syn": [
+      "aim",
+      "target",
+      "objective"
+    ],
+    "ant": [],
+    "col": [
+      "set a goal",
+      "learning goal",
+      "reach a goal"
+    ],
+    "fam": [
+      "goal",
+      "goals"
+    ],
+    "example": "Our goal for the reading week was to finish one non-fiction book each.",
+    "basic": "We each wanted to finish a non-fiction book."
+  },
+  "growth": {
+    "simple": "An increase in size, number, or development.",
+    "detailed": "Growth can be a seedling getting taller or a town gaining people. Science writing measures growth instead of only saying something 'got bigger'.",
+    "zh": "生长；增长；发展",
+    "syn": [
+      "increase",
+      "development",
+      "expansion"
+    ],
+    "ant": [
+      "decline"
+    ],
+    "col": [
+      "plant growth",
+      "growth of a city",
+      "rate of growth"
+    ],
+    "fam": [
+      "growth",
+      "grow",
+      "growing",
+      "grown"
+    ],
+    "example": "The graph of plant growth flattened after we stopped watering in week three.",
+    "basic": "The plants stopped getting taller when we stopped watering."
+  },
+  "habit": {
+    "simple": "An action you repeat so often it becomes usual.",
+    "detailed": "A habit can help, such as washing hands, or harm, such as wasting paper. Scientists also study feeding habits of animals.",
+    "zh": "习惯；惯常的行为",
+    "syn": [
+      "routine",
+      "practice",
+      "custom"
+    ],
+    "ant": [],
+    "col": [
+      "daily habit",
+      "feeding habit",
+      "break a habit"
+    ],
+    "fam": [
+      "habit",
+      "habits",
+      "habitual",
+      "habitually"
+    ],
+    "example": "The possum's night-time habit of raiding the fruit bowl showed up on the camera.",
+    "basic": "The possum kept taking fruit at night."
+  },
+  "image": {
+    "simple": "A picture in words or in the mind that a text creates.",
+    "detailed": "An image can be a photograph or a phrase such as 'a sky the colour of tin'. Literary study asks what the image makes the reader feel or notice.",
+    "zh": "意象；画面；文字在头脑中形成的图景",
+    "syn": [
+      "picture",
+      "scene",
+      "impression"
+    ],
+    "ant": [],
+    "col": [
+      "vivid image",
+      "mental image",
+      "image of the storm"
+    ],
+    "fam": [
+      "image",
+      "images",
+      "imagery"
+    ],
+    "example": "The image of boots filling with creek water made the crossing feel colder.",
+    "basic": "The line about wet boots made the crossing feel cold."
+  },
+  "importance": {
+    "simple": "The quality of mattering or making a real difference.",
+    "detailed": "You show importance by explaining who is affected and what would change if the thing were missing. Do not just call something important.",
+    "zh": "重要性；关键程度",
+    "syn": [
+      "significance",
+      "value",
+      "weight"
+    ],
+    "ant": [
+      "insignificance"
+    ],
+    "col": [
+      "importance of evidence",
+      "stress the importance",
+      "growing importance"
+    ],
+    "fam": [
+      "importance",
+      "important",
+      "importantly"
+    ],
+    "example": "The report explained the importance of shade for younger students at lunch.",
+    "basic": "The report said shade really matters at lunch."
+  },
+  "individual": {
+    "simple": "One person, considered separately from the group.",
+    "detailed": "Laws and stories often balance the rights of an individual with the needs of a community. The word stresses one person, not a crowd.",
+    "zh": "个人；个体",
+    "syn": [
+      "person",
+      "someone",
+      "human"
+    ],
+    "ant": [],
+    "col": [
+      "each individual",
+      "rights of the individual",
+      "individual student"
+    ],
+    "fam": [
+      "individual",
+      "individuals",
+      "individually",
+      "individuality"
+    ],
+    "example": "Each individual in the survey gave a different reason for walking to school.",
+    "basic": "Each person had a different reason for walking."
+  },
+  "industry": {
+    "simple": "The businesses that make or provide the same kind of goods or services.",
+    "detailed": "The wool industry, mining industry, or tourism industry groups related work. HASS asks how an industry changes jobs, land, and towns.",
+    "zh": "产业；行业",
+    "syn": [
+      "sector",
+      "trade",
+      "business"
+    ],
+    "ant": [],
+    "col": [
+      "wool industry",
+      "local industry",
+      "growth of industry"
+    ],
+    "fam": [
+      "industry",
+      "industries",
+      "industrial",
+      "industrialise"
+    ],
+    "example": "The gold industry turned quiet valleys into crowded tent towns almost overnight.",
+    "basic": "Gold mining quickly filled the valleys with tents."
+  },
+  "information": {
+    "simple": "Facts or details that tell you about something.",
+    "detailed": "Information can be spoken, written, or shown in a graph. Useful information is accurate, relevant, and from a source you can check.",
+    "zh": "信息；关于某事物的事实或资料",
+    "syn": [
+      "facts",
+      "details",
+      "data"
+    ],
+    "ant": [],
+    "col": [
+      "accurate information",
+      "information from a source",
+      "gather information"
+    ],
+    "fam": [
+      "information",
+      "inform",
+      "informative",
+      "informing"
+    ],
+    "example": "We gathered information from the Bureau of Meteorology, not from a random blog.",
+    "basic": "We used weather facts from a trusted site."
+  },
+  "inquiry": {
+    "simple": "A careful investigation that seeks answers to a question.",
+    "detailed": "An inquiry uses sources, evidence, and follow-up questions. Australian classrooms run inquiries in HASS and science, not just one-off quizzes.",
+    "zh": "探究；为回答问题而进行的调查",
+    "syn": [
+      "investigation",
+      "study",
+      "probe"
+    ],
+    "ant": [],
+    "col": [
+      "historical inquiry",
+      "inquiry question",
+      "scientific inquiry"
+    ],
+    "fam": [
+      "inquiry",
+      "inquiries",
+      "inquire"
+    ],
+    "example": "Our Federation inquiry asked why some colonies were slower to join than others.",
+    "basic": "We asked why some colonies joined later."
+  },
+  "instruction": {
+    "simple": "A direction that tells you how to do a task.",
+    "detailed": "An instruction should be clear enough to follow without guessing. In tests, missing one instruction can change the whole answer.",
+    "zh": "说明；指令；操作步骤",
+    "syn": [
+      "direction",
+      "order",
+      "command"
+    ],
+    "ant": [],
+    "col": [
+      "follow the instruction",
+      "written instruction",
+      "safety instruction"
+    ],
+    "fam": [
+      "instruction",
+      "instructions",
+      "instruct",
+      "instructor"
+    ],
+    "example": "The first instruction on the paper was to read the whole question before writing.",
+    "basic": "The paper said to read the whole question first."
+  },
+  "issue": {
+    "simple": "An important problem or topic people disagree about.",
+    "detailed": "An issue such as water use or housing has more than one side. HASS writing names the issue, the groups involved, and possible responses.",
+    "zh": "议题；有争议的重要问题",
+    "syn": [
+      "matter",
+      "problem",
+      "topic"
+    ],
+    "ant": [],
+    "col": [
+      "local issue",
+      "raise an issue",
+      "issue of water use"
+    ],
+    "fam": [
+      "issue",
+      "issues"
+    ],
+    "example": "Rubbish in the harbour became a public issue after the storm washed bins into the water.",
+    "basic": "People started worrying about harbour rubbish after the storm."
+  },
+  "judgement": {
+    "simple": "A careful opinion formed after weighing evidence.",
+    "detailed": "A judgement is more than a quick like or dislike. In argument writing you make a judgement and show the reasons that support it.",
+    "zh": "判断；在权衡证据后形成的看法",
+    "syn": [
+      "assessment",
+      "verdict",
+      "evaluation"
+    ],
+    "ant": [],
+    "col": [
+      "sound judgement",
+      "make a judgement",
+      "judgement of the evidence"
+    ],
+    "fam": [
+      "judgement",
+      "judgements",
+      "judge",
+      "judging"
+    ],
+    "example": "After both sides spoke, the class made a judgement about which plan was fairer to younger students.",
+    "basic": "The class decided which plan was fairer."
+  },
+  "knowledge": {
+    "simple": "Understanding you have learned and can use.",
+    "detailed": "Knowledge is more than memorised words; you can apply it in a new problem. First Nations knowledge of Country is a living body of learning.",
+    "zh": "知识；已经掌握并能运用的理解",
+    "syn": [
+      "understanding",
+      "learning",
+      "expertise"
+    ],
+    "ant": [],
+    "col": [
+      "scientific knowledge",
+      "share knowledge",
+      "knowledge of Country"
+    ],
+    "fam": [
+      "knowledge",
+      "know",
+      "knowing",
+      "knowledgeable"
+    ],
+    "example": "Local knowledge of the tides saved the group from crossing at the wrong time.",
+    "basic": "People who knew the tides kept the group safe."
+  },
+  "language": {
+    "simple": "The words and patterns people use to share meaning.",
+    "detailed": "Language includes vocabulary, grammar, and tone. Literary study looks at how language choices create mood, character, and theme.",
+    "zh": "语言；人们用来交流意义的词语和方式",
+    "syn": [
+      "wording",
+      "speech",
+      "diction"
+    ],
+    "ant": [],
+    "col": [
+      "figurative language",
+      "everyday language",
+      "language of the poem"
+    ],
+    "fam": [
+      "language",
+      "languages",
+      "linguistic"
+    ],
+    "example": "The playful language in the first stanza turns sharp when the storm arrives.",
+    "basic": "The words start fun and then feel serious in the storm."
+  },
+  "layer": {
+    "simple": "One thickness of material lying over or under another.",
+    "detailed": "Soil, rock, and the atmosphere form layers. A diagram should show the order of each layer and what it is made of.",
+    "zh": "层；一层叠在另一层上的物质",
+    "syn": [
+      "stratum",
+      "sheet",
+      "tier"
+    ],
+    "ant": [],
+    "col": [
+      "soil layer",
+      "layer of rock",
+      "top layer"
+    ],
+    "fam": [
+      "layer",
+      "layers",
+      "layered",
+      "layering"
+    ],
+    "example": "The top layer of soil was darker because it held more decayed leaves.",
+    "basic": "The soil on top looked darker from old leaves."
+  },
+  "leader": {
+    "simple": "A person who guides a group and helps it make decisions.",
+    "detailed": "A leader can be elected, appointed, or followed because of respect. HASS asks how a leader gained power and whom they served.",
+    "zh": "领导者；带领群体做决定的人",
+    "syn": [
+      "head",
+      "guide",
+      "chief"
+    ],
+    "ant": [
+      "follower"
+    ],
+    "col": [
+      "community leader",
+      "elected leader",
+      "leader of the team"
+    ],
+    "fam": [
+      "leader",
+      "leaders",
+      "leadership",
+      "lead"
+    ],
+    "example": "The team chose a leader who listened before giving instructions on the hike.",
+    "basic": "The team picked someone who listened first."
+  },
+  "material": {
+    "simple": "What an object is made of, such as wood, metal, or plastic.",
+    "detailed": "A material has properties you can test, such as hardness or absorbency. Science writing names the material instead of saying 'stuff'.",
+    "zh": "材料；物质；物体由什么制成",
+    "syn": [
+      "substance",
+      "matter",
+      "stuff"
+    ],
+    "ant": [],
+    "col": [
+      "building material",
+      "test the material",
+      "natural material"
+    ],
+    "fam": [
+      "material",
+      "materials"
+    ],
+    "example": "Cotton was the only material in the test that soaked up the whole puddle.",
+    "basic": "Only the cotton soaked up all the water."
+  },
+  "meaning": {
+    "simple": "What a word, action, or text is meant to express.",
+    "detailed": "Meaning can be literal or suggested. In literature you explain meaning by pointing to words in the text, not only to your own feelings.",
+    "zh": "意义；含义；想要表达的意思",
+    "syn": [
+      "sense",
+      "significance",
+      "import"
+    ],
+    "ant": [],
+    "col": [
+      "deeper meaning",
+      "meaning of the line",
+      "search for meaning"
+    ],
+    "fam": [
+      "meaning",
+      "meanings",
+      "mean",
+      "meaningful"
+    ],
+    "example": "The meaning of the last line changes if you read the letter as a warning.",
+    "basic": "The last line feels different if the letter is a warning."
+  },
+  "message": {
+    "simple": "The main idea a text is trying to communicate.",
+    "detailed": "A message can be stated or implied. Ask what the writer wants the audience to think, feel, or do after reading.",
+    "zh": "信息；主旨；文本想传达的意思",
+    "syn": [
+      "point",
+      "idea",
+      "moral"
+    ],
+    "ant": [],
+    "col": [
+      "central message",
+      "send a message",
+      "message of the story"
+    ],
+    "fam": [
+      "message",
+      "messages"
+    ],
+    "example": "The message of the picture book is that small acts of care still count.",
+    "basic": "The book wants us to see that small kind acts matter."
+  },
+  "model": {
+    "simple": "A simplified version used to explain how something works.",
+    "detailed": "A model can be a drawing, a 3D build, or a set of rules. It is useful even if it leaves out some real-world detail.",
+    "zh": "模型；用来解释事物如何运作的简化版本",
+    "syn": [
+      "representation",
+      "prototype",
+      "example"
+    ],
+    "ant": [],
+    "col": [
+      "scientific model",
+      "build a model",
+      "model of the system"
+    ],
+    "fam": [
+      "model",
+      "models",
+      "modelling"
+    ],
+    "example": "Our cardboard model of the harbour showed why the tide gates had to open both ways.",
+    "basic": "The cardboard harbour helped us see how the gates work."
+  },
+  "movement": {
+    "simple": "A group of people acting together to cause social or political change.",
+    "detailed": "A movement shares a goal, such as voting rights or environmental protection. HASS writing asks who joined, what they demanded, and what changed.",
+    "zh": "运动；为推动社会或政治变革而联合行动的群体",
+    "syn": [
+      "campaign",
+      "drive",
+      "cause"
+    ],
+    "ant": [],
+    "col": [
+      "protest movement",
+      "social movement",
+      "join a movement"
+    ],
+    "fam": [
+      "movement",
+      "movements"
+    ],
+    "example": "The conservation movement grew after people saw photos of oil on the beach.",
+    "basic": "More people wanted to protect nature after the oil photos."
+  },
+  "narrative": {
+    "simple": "A story that tells what happened, real or imagined.",
+    "detailed": "A narrative has events in an order, a voice, and usually characters. It can be a novel, a spoken account, or a historical story.",
+    "zh": "叙事；讲述事情经过的故事",
+    "syn": [
+      "story",
+      "account",
+      "tale"
+    ],
+    "ant": [],
+    "col": [
+      "first-person narrative",
+      "historical narrative",
+      "camp narrative"
+    ],
+    "fam": [
+      "narrative",
+      "narratives",
+      "narrate",
+      "narrator"
+    ],
+    "example": "The camp narrative slows down at the river so readers feel every slippery step.",
+    "basic": "The camp story spends a long time on the river crossing."
+  },
+  "network": {
+    "simple": "A connected group of people, places, or lines that work together.",
+    "detailed": "A rail network joins towns; a support network joins people. HASS maps often show how a network carries goods, news, or help.",
+    "zh": "网络；相互连接并协同运作的系统",
+    "syn": [
+      "web",
+      "system",
+      "grid"
+    ],
+    "ant": [],
+    "col": [
+      "rail network",
+      "network of towns",
+      "support network"
+    ],
+    "fam": [
+      "network",
+      "networks",
+      "networked"
+    ],
+    "example": "The rail network let inland wheat reach the port before it spoiled.",
+    "basic": "The trains helped wheat get to the port in time."
+  },
+  "object": {
+    "simple": "A physical thing you can see or touch in science.",
+    "detailed": "In science an object has properties such as mass and material. Keep this noun sense separate from the verb that means 'to disagree'.",
+    "zh": "物体；可以看见或触摸的东西",
+    "syn": [
+      "thing",
+      "item",
+      "article"
+    ],
+    "ant": [],
+    "col": [
+      "metal object",
+      "unknown object",
+      "object in the box"
+    ],
+    "fam": [
+      "object",
+      "objects"
+    ],
+    "example": "Each group tested one metal object to see whether it was attracted to the magnet.",
+    "basic": "Each group tested one metal thing with the magnet."
+  },
+  "opinion": {
+    "simple": "A personal view that is not proven as fact.",
+    "detailed": "An opinion can still be well supported. In argument writing you separate opinion from evidence so readers can judge your case.",
+    "zh": "意见；看法；尚未被证明为事实的观点",
+    "syn": [
+      "view",
+      "belief",
+      "stance"
+    ],
+    "ant": [],
+    "col": [
+      "personal opinion",
+      "strong opinion",
+      "opinion on the issue"
+    ],
+    "fam": [
+      "opinion",
+      "opinions"
+    ],
+    "example": "It is my opinion that the oval should stay open, but I still need evidence about safety.",
+    "basic": "I think the oval should stay open, and I need facts too."
+  },
+  "opportunity": {
+    "simple": "A good chance to do something useful or gain something.",
+    "detailed": "An opportunity can be a new job, a speaking turn, or a gap in the weather. HASS asks who gets an opportunity and who is left out.",
+    "zh": "机会；做某事或获得某物的有利时机",
+    "syn": [
+      "chance",
+      "opening",
+      "prospect"
+    ],
+    "ant": [],
+    "col": [
+      "equal opportunity",
+      "opportunity to speak",
+      "take the opportunity"
+    ],
+    "fam": [
+      "opportunity",
+      "opportunities"
+    ],
+    "example": "The excursion was an opportunity to see original Federation documents, not only copies.",
+    "basic": "The trip let us see the real Federation papers."
+  },
+  "option": {
+    "simple": "One possible choice among two or more others.",
+    "detailed": "An option is available; you may take it or leave it. Academic writing compares options using the same criteria.",
+    "zh": "选项；可供选择的一种方案",
+    "syn": [
+      "choice",
+      "alternative",
+      "possibility"
+    ],
+    "ant": [],
+    "col": [
+      "another option",
+      "best option",
+      "list each option"
+    ],
+    "fam": [
+      "option",
+      "options",
+      "optional"
+    ],
+    "example": "A later bus was the safest option after the storm warning.",
+    "basic": "Taking a later bus was the safest choice."
+  },
+  "outcome": {
+    "simple": "The result at the end of a process or decision.",
+    "detailed": "An outcome can be planned or surprising. After a project you compare the outcome with the original aim.",
+    "zh": "结果；一项过程或决定最终产生的局面",
+    "syn": [
+      "result",
+      "effect",
+      "end"
+    ],
+    "ant": [],
+    "col": [
+      "final outcome",
+      "likely outcome",
+      "outcome of the vote"
+    ],
+    "fam": [
+      "outcome",
+      "outcomes"
+    ],
+    "example": "The unexpected outcome was that the quieter group collected more accurate tallies.",
+    "basic": "In the end the quieter group had better counts."
+  },
+  "passage": {
+    "simple": "A short section of a text used for reading or analysis.",
+    "detailed": "A passage may be a paragraph or a page. Scholarship papers often ask you to use evidence from the passage only.",
+    "zh": "选段；文章中供阅读或分析的一段",
+    "syn": [
+      "extract",
+      "excerpt",
+      "section"
+    ],
+    "ant": [],
+    "col": [
+      "reading passage",
+      "passage from the novel",
+      "the next passage"
+    ],
+    "fam": [
+      "passage",
+      "passages"
+    ],
+    "example": "In the second passage the narrator finally admits she hid the compass.",
+    "basic": "In the next part she admits she hid the compass."
+  },
+  "pattern": {
+    "simple": "A repeated arrangement you can notice and describe.",
+    "detailed": "A pattern can be in numbers, colours, behaviour, or weather. Once you see a pattern, you can often make a better prediction.",
+    "zh": "模式；可以识别和描述的重复安排",
+    "syn": [
+      "arrangement",
+      "regularity",
+      "sequence"
+    ],
+    "ant": [],
+    "col": [
+      "repeating pattern",
+      "weather pattern",
+      "pattern in the data"
+    ],
+    "fam": [
+      "pattern",
+      "patterns",
+      "patterned"
+    ],
+    "example": "A clear pattern in the data was hotter afternoons after cloudless mornings.",
+    "basic": "Hot afternoons often followed clear mornings."
+  },
+  "period": {
+    "simple": "A stretch of time in history or in a process.",
+    "detailed": "A period might be the gold rush years or the time a seed takes to germinate. Name the beginning and end if you can.",
+    "zh": "时期；一段时间",
+    "syn": [
+      "era",
+      "span",
+      "interval"
+    ],
+    "ant": [],
+    "col": [
+      "historical period",
+      "period of drought",
+      "colonial period"
+    ],
+    "fam": [
+      "period",
+      "periods"
+    ],
+    "example": "During the gold-rush period, some towns doubled in size within a year.",
+    "basic": "In the gold-rush years some towns grew very fast."
+  },
+  "policy": {
+    "simple": "An official plan for how things should be done.",
+    "detailed": "A school, council, or government sets a policy so decisions stay consistent. Good HASS writing asks who made the policy and who it helps.",
+    "zh": "政策；官方制定的行事计划",
+    "syn": [
+      "rule",
+      "plan",
+      "guideline"
+    ],
+    "ant": [],
+    "col": [
+      "school policy",
+      "government policy",
+      "change a policy"
+    ],
+    "fam": [
+      "policy",
+      "policies"
+    ],
+    "example": "The new hat policy applies on the oval as well as in the undercroft.",
+    "basic": "The new hat rule is for the oval and the undercroft."
+  },
+  "population": {
+    "simple": "All the people or living things in a particular place.",
+    "detailed": "A population can be counted, mapped, and compared over time. Scientists also talk about a population of frogs in one creek.",
+    "zh": "人口；某一地区的全部人或生物",
+    "syn": [
+      "inhabitants",
+      "residents",
+      "people"
+    ],
+    "ant": [],
+    "col": [
+      "town population",
+      "population growth",
+      "frog population"
+    ],
+    "fam": [
+      "population",
+      "populations",
+      "populate"
+    ],
+    "example": "The frog population in the wetland rose after the reeds were replanted.",
+    "basic": "More frogs lived in the wetland after the reeds grew back."
+  },
+  "position": {
+    "simple": "The view you take on an issue in a debate.",
+    "detailed": "Your position is the side you argue for. State it early, then support it so readers are not guessing what you want.",
+    "zh": "立场；在争论中所持的观点",
+    "syn": [
+      "stance",
+      "view",
+      "stand"
+    ],
+    "ant": [],
+    "col": [
+      "take a position",
+      "official position",
+      "position on the issue"
+    ],
+    "fam": [
+      "position",
+      "positions"
+    ],
+    "example": "My position is that phones should stay in bags unless a teacher asks for research.",
+    "basic": "I think phones should stay in bags most of the time."
+  },
+  "possibility": {
+    "simple": "Something that might happen or might be true.",
+    "detailed": "A possibility is not certain. Science writing treats a possibility as an idea to test, not as a finished fact.",
+    "zh": "可能性；可能发生或可能属实的事",
+    "syn": [
+      "chance",
+      "likelihood",
+      "option"
+    ],
+    "ant": [
+      "impossibility"
+    ],
+    "col": [
+      "real possibility",
+      "possibility of rain",
+      "another possibility"
+    ],
+    "fam": [
+      "possibility",
+      "possibilities",
+      "possible",
+      "possibly"
+    ],
+    "example": "There is a possibility that the missing lunch orders were left on the earlier bus.",
+    "basic": "The lunch orders might have been left on the early bus."
+  },
+  "practice": {
+    "simple": "A usual way of doing something, or repeated work that builds skill.",
+    "detailed": "Classroom practice can mean a habit, such as drafting before publishing. It can also mean rehearsal that makes a skill more reliable.",
+    "zh": "做法；惯例；反复练习",
+    "syn": [
+      "custom",
+      "habit",
+      "rehearsal"
+    ],
+    "ant": [],
+    "col": [
+      "usual practice",
+      "classroom practice",
+      "practice of drafting"
+    ],
+    "fam": [
+      "practice",
+      "practices",
+      "practise",
+      "practical"
+    ],
+    "example": "Daily practice of times tables made Friday's mental quiz feel much calmer.",
+    "basic": "Doing tables every day made Friday's quiz easier."
+  },
+  "pressure": {
+    "simple": "A force pushing on a surface, or a strong demand that pushes people.",
+    "detailed": "In science, pressure is force spread over an area, such as air pressure. People also feel pressure when time or expectations push them.",
+    "zh": "压力；作用于表面的力，或对人的紧迫要求",
+    "syn": [
+      "force",
+      "strain",
+      "stress"
+    ],
+    "ant": [],
+    "col": [
+      "air pressure",
+      "water pressure",
+      "under pressure"
+    ],
+    "fam": [
+      "pressure",
+      "pressures",
+      "pressurise"
+    ],
+    "example": "Higher air pressure in the balloon made the walls feel tighter under our hands.",
+    "basic": "The balloon felt tighter when we pumped in more air."
+  },
+  "principle": {
+    "simple": "A basic rule or belief that guides action.",
+    "detailed": "A principle is more general than one classroom rule. Fairness as a principle can guide many different decisions.",
+    "zh": "原则；指导行动的基本准则",
+    "syn": [
+      "rule",
+      "standard",
+      "belief"
+    ],
+    "ant": [],
+    "col": [
+      "guiding principle",
+      "principle of fairness",
+      "basic principle"
+    ],
+    "fam": [
+      "principle",
+      "principles",
+      "principled"
+    ],
+    "example": "The principle of a fair test is that only one variable changes at a time.",
+    "basic": "In a fair test you change only one thing."
+  },
+  "procedure": {
+    "simple": "A planned sequence of steps for doing a task.",
+    "detailed": "A procedure tells you what to do first, next, and last. Science methods are procedures so another group can repeat the test.",
+    "zh": "程序；完成任务的步骤顺序",
+    "syn": [
+      "method",
+      "process",
+      "routine"
+    ],
+    "ant": [],
+    "col": [
+      "safety procedure",
+      "follow the procedure",
+      "step-by-step procedure"
+    ],
+    "fam": [
+      "procedure",
+      "procedures",
+      "procedural"
+    ],
+    "example": "The fire-drill procedure is to leave bags, walk to the oval, and wait for the roll.",
+    "basic": "In a fire drill we leave bags and walk to the oval."
+  },
+  "product": {
+    "simple": "Something made by a process, person, or living thing.",
+    "detailed": "A product can be a loaf of bread, a chemical formed in a reaction, or a finished poster. Name what was made and how.",
+    "zh": "产物；产品；过程制造出来的东西",
+    "syn": [
+      "goods",
+      "output",
+      "item"
+    ],
+    "ant": [],
+    "col": [
+      "finished product",
+      "waste product",
+      "product of the reaction"
+    ],
+    "fam": [
+      "product",
+      "products",
+      "produce",
+      "production"
+    ],
+    "example": "Rust was the brown product that formed on the wet iron nails.",
+    "basic": "The wet nails turned brown on the outside."
+  },
+  "progress": {
+    "simple": "Forward movement toward a goal or a better state.",
+    "detailed": "Progress can be a better draft, a faster time, or a town gaining a library. Measure progress against a starting point.",
+    "zh": "进展；进步；朝目标前进",
+    "syn": [
+      "advance",
+      "improvement",
+      "headway"
+    ],
+    "ant": [
+      "setback",
+      "decline"
+    ],
+    "col": [
+      "make progress",
+      "steady progress",
+      "progress of the project"
+    ],
+    "fam": [
+      "progress",
+      "progresses",
+      "progressive"
+    ],
+    "example": "The class made real progress once each group had a clear job on the poster.",
+    "basic": "The poster improved after everyone had a job."
+  },
+  "project": {
+    "simple": "A planned piece of work with a clear aim and end point.",
+    "detailed": "A project has tasks, materials, and a deadline. In school it is usually longer than one lesson and ends with a product or presentation.",
+    "zh": "课题；有明确目标和终点的计划性工作",
+    "syn": [
+      "assignment",
+      "task",
+      "undertaking"
+    ],
+    "ant": [],
+    "col": [
+      "science project",
+      "group project",
+      "complete the project"
+    ],
+    "fam": [
+      "project",
+      "projects"
+    ],
+    "example": "Our science project compared three ways of keeping a lunchbox cool.",
+    "basic": "We tested three ways to keep lunch cool."
+  },
+  "property": {
+    "simple": "A quality of a material that you can observe or test.",
+    "detailed": "Hardness, flexibility, and conductivity are properties. Do not confuse this science sense with land or buildings that someone owns.",
+    "zh": "特性；属性；材料可观察或测试的性质",
+    "syn": [
+      "quality",
+      "attribute",
+      "feature"
+    ],
+    "ant": [],
+    "col": [
+      "physical property",
+      "property of a metal",
+      "test a property"
+    ],
+    "fam": [
+      "property",
+      "properties"
+    ],
+    "example": "Flexibility was the property that made the rubber band more useful than the stick.",
+    "basic": "The rubber band was more useful because it could bend."
+  },
+  "purpose": {
+    "simple": "The reason something is done, written, or made.",
+    "detailed": "A text's purpose might be to inform, persuade, or entertain. Naming the purpose helps you judge whether the writing works.",
+    "zh": "目的；某事被做或被制造的原因",
+    "syn": [
+      "aim",
+      "intent",
+      "reason"
+    ],
+    "ant": [],
+    "col": [
+      "main purpose",
+      "purpose of the text",
+      "for this purpose"
+    ],
+    "fam": [
+      "purpose",
+      "purposes",
+      "purposeful"
+    ],
+    "example": "The purpose of the opening statistic was to shock readers into caring about food waste.",
+    "basic": "The first number was there to make readers care about waste."
+  },
+  "quality": {
+    "simple": "How good something is, or a feature that something has.",
+    "detailed": "Quality can mean standard of work, such as a high-quality explanation. It can also mean a trait, such as the quality of honesty.",
+    "zh": "质量；品质；事物所具有的特性",
+    "syn": [
+      "standard",
+      "calibre",
+      "trait"
+    ],
+    "ant": [],
+    "col": [
+      "high quality",
+      "quality of the evidence",
+      "water quality"
+    ],
+    "fam": [
+      "quality",
+      "qualities"
+    ],
+    "example": "The quality of the creek water improved after the cattle were fenced out.",
+    "basic": "The creek water got cleaner after the cattle were kept back."
+  },
+  "range": {
+    "simple": "The spread of things from the lowest to the highest, or a variety.",
+    "detailed": "A range can be a set of temperatures, ages, or choices. Academic writing uses range to show how wide a set of results really is.",
+    "zh": "范围；幅度；从最低到最高的跨度",
+    "syn": [
+      "span",
+      "spread",
+      "variety"
+    ],
+    "ant": [],
+    "col": [
+      "wide range",
+      "temperature range",
+      "range of results"
+    ],
+    "fam": [
+      "range",
+      "ranges"
+    ],
+    "example": "The temperature range on the oval was eight degrees between shade and sun.",
+    "basic": "Shade and sun on the oval differed by eight degrees."
+  },
+  "reason": {
+    "simple": "A fact or idea that explains why something is true or why you think it.",
+    "detailed": "A reason supports a claim. In argument writing, each reason should be clear enough that a reader can agree or disagree with it.",
+    "zh": "理由；原因；解释为何如此的依据",
+    "syn": [
+      "cause",
+      "grounds",
+      "explanation"
+    ],
+    "ant": [],
+    "col": [
+      "good reason",
+      "give a reason",
+      "reason for the decision"
+    ],
+    "fam": [
+      "reason",
+      "reasons",
+      "reasonable",
+      "reasoning"
+    ],
+    "example": "The best reason for later start times was the survey of tired Year 6 students.",
+    "basic": "The tiredness survey was the strongest point for a later start."
+  },
+  "relationship": {
+    "simple": "The way two people, groups, or things are connected.",
+    "detailed": "A relationship can be friendly, official, or cause-and-effect. HASS and science both ask you to describe the relationship, not only name the pair.",
+    "zh": "关系；两者之间的关联方式",
+    "syn": [
+      "connection",
+      "link",
+      "bond"
+    ],
+    "ant": [],
+    "col": [
+      "close relationship",
+      "relationship between variables",
+      "working relationship"
+    ],
+    "fam": [
+      "relationship",
+      "relationships",
+      "relate",
+      "related"
+    ],
+    "example": "The graph shows the relationship between extra study time and fewer errors.",
+    "basic": "The graph shows that more study went with fewer mistakes."
+  },
+  "resource": {
+    "simple": "Something useful that people can use to meet a need.",
+    "detailed": "Water, timber, money, and skilled workers are resources. HASS asks whether a resource is renewable and who controls it.",
+    "zh": "资源；可用来满足需要的有用之物",
+    "syn": [
+      "supply",
+      "asset",
+      "reserve"
+    ],
+    "ant": [],
+    "col": [
+      "natural resource",
+      "water resource",
+      "use a resource"
+    ],
+    "fam": [
+      "resource",
+      "resources",
+      "resourceful"
+    ],
+    "example": "Fresh water is the resource the inland town must protect first in a drought.",
+    "basic": "The inland town has to look after its fresh water in a drought."
+  },
+  "result": {
+    "simple": "What you get at the end of a test, action, or process.",
+    "detailed": "A result should be reported honestly, even if it surprises you. Then you can explain the result using the method and the conditions.",
+    "zh": "结果；测试或行动最终得到的情况",
+    "syn": [
+      "outcome",
+      "finding",
+      "effect"
+    ],
+    "ant": [],
+    "col": [
+      "test result",
+      "final result",
+      "result of the trial"
+    ],
+    "fam": [
+      "result",
+      "results",
+      "resulting"
+    ],
+    "example": "The surprising result was that the cheaper insulation kept the ice solid longer.",
+    "basic": "We were surprised that the cheaper wrapping worked better."
+  },
+  "risk": {
+    "simple": "The chance that something harmful could happen.",
+    "detailed": "A risk has both likelihood and seriousness. Science and safety plans try to lower risk without pretending danger has vanished.",
+    "zh": "风险；有害事情发生的可能性",
+    "syn": [
+      "danger",
+      "hazard",
+      "threat"
+    ],
+    "ant": [
+      "safety"
+    ],
+    "col": [
+      "high risk",
+      "risk of injury",
+      "reduce the risk"
+    ],
+    "fam": [
+      "risk",
+      "risks",
+      "risky"
+    ],
+    "example": "There is a higher risk of slipping when the rocks are covered in green algae.",
+    "basic": "You are more likely to slip on the slimy rocks."
+  },
+  "role": {
+    "simple": "The job or part a person or thing has in a group or system.",
+    "detailed": "A role can be school captain, narrator, or the role of roots in a plant. Naming a role helps you explain responsibility and purpose.",
+    "zh": "角色；职责；在群体或系统中的作用",
+    "syn": [
+      "function",
+      "part",
+      "duty"
+    ],
+    "ant": [],
+    "col": [
+      "play a role",
+      "leadership role",
+      "role of the narrator"
+    ],
+    "fam": [
+      "role",
+      "roles"
+    ],
+    "example": "The role of the chairperson is to keep the debate fair, not to win it.",
+    "basic": "The chairperson should keep the debate fair."
+  },
+  "sample": {
+    "simple": "A small part taken to represent a larger whole.",
+    "detailed": "You test a sample of water or soil because you cannot test the whole creek. A fair sample should not be chosen only to prove a guess.",
+    "zh": "样本；用来代表整体的一小部分",
+    "syn": [
+      "specimen",
+      "example",
+      "portion"
+    ],
+    "ant": [],
+    "col": [
+      "water sample",
+      "collect a sample",
+      "sample of soil"
+    ],
+    "fam": [
+      "sample",
+      "samples",
+      "sampling"
+    ],
+    "example": "Each group collected a water sample from a different bend in the creek.",
+    "basic": "Each group took some water from a different bend."
+  },
+  "scale": {
+    "simple": "How large or small something is compared with a standard, or a set of marks for measuring.",
+    "detailed": "Map scale shows real distance. A measuring scale on a cylinder shows volume. Both help you compare sizes fairly.",
+    "zh": "尺度；比例；用于测量的刻度",
+    "syn": [
+      "size",
+      "measure",
+      "proportion"
+    ],
+    "ant": [],
+    "col": [
+      "map scale",
+      "large scale",
+      "scale on the cylinder"
+    ],
+    "fam": [
+      "scale",
+      "scales"
+    ],
+    "example": "Using the map scale, we calculated that the reserve walk is about three kilometres.",
+    "basic": "The map helped us work out that the walk is about three kilometres."
+  },
+  "section": {
+    "simple": "A distinct part of a text, place, or object.",
+    "detailed": "A section has its own job, such as a methods section or a section of the oval. Headings help readers find each section quickly.",
+    "zh": "部分；章节；相对独立的一块",
+    "syn": [
+      "part",
+      "portion",
+      "segment"
+    ],
+    "ant": [],
+    "col": [
+      "next section",
+      "methods section",
+      "section of the report"
+    ],
+    "fam": [
+      "section",
+      "sections"
+    ],
+    "example": "The methods section must list every material, including the spare thermometers.",
+    "basic": "The methods part should list every material."
+  },
+  "sequence": {
+    "simple": "The order in which things happen or should be done.",
+    "detailed": "A sequence can be a life-cycle order or the steps in a method. If you change the sequence, the result may change too.",
+    "zh": "顺序；序列；事情发生或应完成的次序",
+    "syn": [
+      "order",
+      "series",
+      "succession"
+    ],
+    "ant": [],
+    "col": [
+      "correct sequence",
+      "sequence of events",
+      "sequence of steps"
+    ],
+    "fam": [
+      "sequence",
+      "sequences",
+      "sequential"
+    ],
+    "example": "Write the life-cycle sequence from egg to adult before you colour the arrows.",
+    "basic": "Put the life-cycle stages in order first."
+  },
+  "setting": {
+    "simple": "The time and place in which a story happens.",
+    "detailed": "Setting includes weather, buildings, and atmosphere. Changing the setting can change a character's choices and the whole mood.",
+    "zh": "背景；故事发生的时间和地点",
+    "syn": [
+      "location",
+      "backdrop",
+      "scene"
+    ],
+    "ant": [],
+    "col": [
+      "story setting",
+      "historical setting",
+      "change the setting"
+    ],
+    "fam": [
+      "setting",
+      "settings"
+    ],
+    "example": "A flooded caravan park is a tense setting for a story about a lost dog.",
+    "basic": "A flooded caravan park makes the lost-dog story feel tense."
+  },
+  "solution": {
+    "simple": "A mixture made when one substance dissolves evenly in another.",
+    "detailed": "Salt water is a solution if the salt can no longer be seen as grains. In science, keep this meaning separate from 'an answer to a problem'.",
+    "zh": "溶液；一种物质均匀溶解于另一种物质形成的混合物",
+    "syn": [
+      "mixture",
+      "mix"
+    ],
+    "ant": [],
+    "col": [
+      "salt solution",
+      "make a solution",
+      "clear solution"
+    ],
+    "fam": [
+      "solution",
+      "solutions",
+      "dissolve",
+      "soluble"
+    ],
+    "example": "The salt solution looked clear even though we had added a whole spoonful.",
+    "basic": "The salty water looked clear after the grains disappeared."
+  },
+  "source": {
+    "simple": "The place, person, or text that information or a material comes from.",
+    "detailed": "A source can be a river's beginning, a witness, or a website. Academic work names the source so others can check it.",
+    "zh": "来源；信息或材料的出处",
+    "syn": [
+      "origin",
+      "reference",
+      "fountain"
+    ],
+    "ant": [],
+    "col": [
+      "primary source",
+      "reliable source",
+      "source of the river"
+    ],
+    "fam": [
+      "source",
+      "sources"
+    ],
+    "example": "A diary from 1901 is a stronger source for Federation feelings than a modern cartoon.",
+    "basic": "An old diary tells us more about 1901 feelings than a new cartoon."
+  },
+  "stage": {
+    "simple": "One step or phase inside a longer process.",
+    "detailed": "A stage has its own features, such as the pupa stage of a butterfly. Naming the stage helps you explain what happens next.",
+    "zh": "阶段；较长过程中的一个步骤",
+    "syn": [
+      "phase",
+      "step",
+      "point"
+    ],
+    "ant": [],
+    "col": [
+      "early stage",
+      "stage of the process",
+      "next stage"
+    ],
+    "fam": [
+      "stage",
+      "stages"
+    ],
+    "example": "At this stage of the inquiry we only collect sources; we do not write conclusions yet.",
+    "basic": "Right now we are only collecting sources."
+  },
+  "standard": {
+    "simple": "An agreed level of quality used for judging work or safety.",
+    "detailed": "A standard tells you what 'good enough' looks like. Tests, sports, and science methods all use standards so judgements stay fair.",
+    "zh": "标准；用来评判质量或安全的约定水平",
+    "syn": [
+      "benchmark",
+      "criterion",
+      "level"
+    ],
+    "ant": [],
+    "col": [
+      "high standard",
+      "safety standard",
+      "meet a standard"
+    ],
+    "fam": [
+      "standard",
+      "standards",
+      "standardise"
+    ],
+    "example": "The safety standard for the Bunsen burner is tied hair and clear benches.",
+    "basic": "For the burner you need tied hair and a clear bench."
+  },
+  "statement": {
+    "simple": "A clear sentence that says something is true or that you believe it.",
+    "detailed": "A statement can be a fact, a claim, or an official announcement. In argument, you test a statement instead of accepting it because it sounds confident.",
+    "zh": "陈述；声明；表明观点或事实的句子",
+    "syn": [
+      "claim",
+      "declaration",
+      "remark"
+    ],
+    "ant": [],
+    "col": [
+      "make a statement",
+      "official statement",
+      "statement of fact"
+    ],
+    "fam": [
+      "statement",
+      "statements",
+      "state"
+    ],
+    "example": "The first statement in her speech was that every student deserves shade at lunch.",
+    "basic": "She began by saying every student should have shade at lunch."
+  },
+  "subject": {
+    "simple": "A topic of study or the thing a text is about.",
+    "detailed": "A subject can be science, or the subject of a paragraph. Keep the focus on the subject so extra stories do not wander away.",
+    "zh": "学科；主题；文本所讨论的对象",
+    "syn": [
+      "topic",
+      "field",
+      "theme"
+    ],
+    "ant": [],
+    "col": [
+      "school subject",
+      "subject of the paragraph",
+      "choose a subject"
+    ],
+    "fam": [
+      "subject",
+      "subjects"
+    ],
+    "example": "The subject of the next chapter is how wind shapes coastal dunes.",
+    "basic": "The next chapter is about wind and sand dunes."
+  },
+  "success": {
+    "simple": "The achievement of what you aimed to do.",
+    "detailed": "Success can be a finished goal, a fair win, or a method that works. Define success before you start so you know what to measure.",
+    "zh": "成功；达到预定目标",
+    "syn": [
+      "achievement",
+      "triumph",
+      "win"
+    ],
+    "ant": [
+      "failure"
+    ],
+    "col": [
+      "great success",
+      "success of the plan",
+      "measure success"
+    ],
+    "fam": [
+      "success",
+      "successes",
+      "succeed",
+      "successful"
+    ],
+    "example": "The success of the compost bin was the rich soil we used in the winter garden.",
+    "basic": "The compost worked because we got good soil for winter."
+  },
+  "system": {
+    "simple": "A set of parts that work together as a whole.",
+    "detailed": "A system can be the digestive system, a weather system, or a school's recycling system. Changing one part can affect the rest.",
+    "zh": "系统；相互配合运作的一组部分",
+    "syn": [
+      "network",
+      "structure",
+      "arrangement"
+    ],
+    "ant": [],
+    "col": [
+      "solar system",
+      "digestive system",
+      "parts of a system"
+    ],
+    "fam": [
+      "system",
+      "systems",
+      "systematic"
+    ],
+    "example": "If one pump fails, the whole irrigation system on the farm slows down.",
+    "basic": "If one pump breaks, the farm watering slows down."
+  },
+  "task": {
+    "simple": "A piece of work you are asked to complete.",
+    "detailed": "A task has a purpose and often a time limit. Breaking a big assignment into smaller tasks makes progress easier to see.",
+    "zh": "任务；需要完成的一项工作",
+    "syn": [
+      "job",
+      "assignment",
+      "duty"
+    ],
+    "ant": [],
+    "col": [
+      "complete the task",
+      "first task",
+      "group task"
+    ],
+    "fam": [
+      "task",
+      "tasks"
+    ],
+    "example": "Your first task is to highlight every verb in the passage before you rewrite it.",
+    "basic": "First, highlight the verbs, then rewrite the passage."
+  },
+  "technique": {
+    "simple": "A particular skilled way of doing something.",
+    "detailed": "A technique is more precise than a vague 'way'. Science, sport, and art all have techniques you can practise and name.",
+    "zh": "技巧；方法；做某事的专门做法",
+    "syn": [
+      "method",
+      "skill",
+      "approach"
+    ],
+    "ant": [],
+    "col": [
+      "measuring technique",
+      "painting technique",
+      "use a technique"
+    ],
+    "fam": [
+      "technique",
+      "techniques",
+      "technical"
+    ],
+    "example": "A better pouring technique stopped the oil from coating the whole measuring cylinder.",
+    "basic": "Pouring more carefully kept oil off the sides of the cylinder."
+  },
+  "term": {
+    "simple": "A word that has a special meaning in a subject.",
+    "detailed": "A scientific term such as 'condensation' is more precise than everyday language. Always define a term the first time you use it in a report.",
+    "zh": "术语；在某一学科中有特定含义的词语",
+    "syn": [
+      "word",
+      "expression",
+      "name"
+    ],
+    "ant": [],
+    "col": [
+      "scientific term",
+      "key term",
+      "define the term"
+    ],
+    "fam": [
+      "term",
+      "terms",
+      "terminology"
+    ],
+    "example": "In this unit, the term 'habitat' means the place that supplies food, water, and shelter.",
+    "basic": "Here, 'habitat' means the place an animal lives and finds what it needs."
+  },
+  "theme": {
+    "simple": "The big idea a story keeps returning to.",
+    "detailed": "A theme is not just the topic. Friendship, courage, or belonging can be a theme if events and images keep pointing to that idea.",
+    "zh": "主题；故事反复指向的核心思想",
+    "syn": [
+      "idea",
+      "message",
+      "motif"
+    ],
+    "ant": [],
+    "col": [
+      "central theme",
+      "theme of belonging",
+      "explore a theme"
+    ],
+    "fam": [
+      "theme",
+      "themes",
+      "thematic"
+    ],
+    "example": "Belonging is the theme that links the lonely first chapter to the final team scene.",
+    "basic": "The story keeps coming back to the idea of belonging."
+  },
+  "theory": {
+    "simple": "An explanation that scientists use because lots of evidence supports it.",
+    "detailed": "A theory is stronger than a guess. It explains many results and can still be tested. It is not 'just a theory' in the everyday sense.",
+    "zh": "理论；有大量证据支持的科学解释",
+    "syn": [
+      "explanation",
+      "model",
+      "framework"
+    ],
+    "ant": [],
+    "col": [
+      "scientific theory",
+      "test a theory",
+      "theory of gravity"
+    ],
+    "fam": [
+      "theory",
+      "theories",
+      "theoretical"
+    ],
+    "example": "Germ theory is the theory that tiny living things can cause many diseases.",
+    "basic": "Scientists explain many illnesses by talking about tiny living things."
+  },
+  "topic": {
+    "simple": "The subject you are reading, writing, or talking about.",
+    "detailed": "A topic should be focused enough to cover well. 'Water in our town' is a clearer topic than 'the environment' on its own.",
+    "zh": "话题；正在阅读、写作或讨论的主题",
+    "syn": [
+      "subject",
+      "issue",
+      "matter"
+    ],
+    "ant": [],
+    "col": [
+      "essay topic",
+      "topic sentence",
+      "choose a topic"
+    ],
+    "fam": [
+      "topic",
+      "topics"
+    ],
+    "example": "Our essay topic is how shade sails changed play on the senior oval.",
+    "basic": "We are writing about shade sails on the senior oval."
+  },
+  "trend": {
+    "simple": "A general direction of change over time.",
+    "detailed": "A trend can be rising temperatures or falling library loans. You need several points, not one unusual day, before you name a trend.",
+    "zh": "趋势；一段时间内变化的总体方向",
+    "syn": [
+      "pattern",
+      "direction",
+      "movement"
+    ],
+    "ant": [],
+    "col": [
+      "upward trend",
+      "population trend",
+      "trend over time"
+    ],
+    "fam": [
+      "trend",
+      "trends"
+    ],
+    "example": "The graph shows a trend toward drier springs in the last twenty years.",
+    "basic": "Springs have been getting drier over the last twenty years."
+  },
+  "view": {
+    "simple": "An opinion you hold about an issue or idea.",
+    "detailed": "A view is a way of seeing a problem. Fair argument writing presents more than one view before judging which is stronger.",
+    "zh": "观点；对某一问题的看法",
+    "syn": [
+      "opinion",
+      "perspective",
+      "stance"
+    ],
+    "ant": [],
+    "col": [
+      "opposing view",
+      "my view",
+      "view on the issue"
+    ],
+    "fam": [
+      "view",
+      "views"
+    ],
+    "example": "An opposing view is that extra sport time would cut into reading support.",
+    "basic": "Some people say extra sport would take time from reading."
+  },
+  "volume": {
+    "simple": "The amount of space a liquid or object takes up.",
+    "detailed": "Volume is measured in millilitres or cubic centimetres, not in mass. Use the scale on a measuring cylinder and read the meniscus at eye level.",
+    "zh": "体积；液体或物体所占的空间",
+    "syn": [
+      "capacity",
+      "amount",
+      "space"
+    ],
+    "ant": [],
+    "col": [
+      "measure the volume",
+      "volume of water",
+      "increase the volume"
+    ],
+    "fam": [
+      "volume",
+      "volumes"
+    ],
+    "example": "We recorded the volume of water left in each cylinder after the sponge test.",
+    "basic": "We wrote down how much water was left after the sponge test."
+  },
+  "access": {
+    "simple": "The chance or right to reach or use something.",
+    "detailed": "Access can mean a path into a reserve or the right to use a library computer. Academic writing asks who has access and who is blocked.",
+    "zh": "准入；使用或到达某物的机会或权利",
+    "syn": [
+      "entry",
+      "admission",
+      "use"
+    ],
+    "ant": [
+      "barrier"
+    ],
+    "col": [
+      "access to information",
+      "public access",
+      "access to the reserve"
+    ],
+    "fam": [
+      "access",
+      "accessed",
+      "accessible",
+      "accessibility"
+    ],
+    "example": "Weekend access to the library computers helped students without home internet.",
+    "basic": "Opening the library on Saturday helped students without internet at home."
+  },
+  "account": {
+    "simple": "A report that tells what happened in an event.",
+    "detailed": "A historical account can be a diary, a news report, or a spoken story. Compare more than one account because people remember events differently.",
+    "zh": "记述；对事情经过的报告",
+    "syn": [
+      "report",
+      "narrative",
+      "record"
+    ],
+    "ant": [],
+    "col": [
+      "historical account",
+      "first-hand account",
+      "account of the event"
+    ],
+    "fam": [
+      "account",
+      "accounts"
+    ],
+    "example": "A miner’s account of the goldfields described dust, noise, and sudden fortunes.",
+    "basic": "A miner wrote about dust, noise, and sudden riches."
+  },
+  "acid": {
+    "simple": "A sour substance that can react with metals and turn indicator paper red.",
+    "detailed": "Lemon juice and vinegar contain acid. In science you handle acids carefully because some can burn skin or eat into metal.",
+    "zh": "酸；有酸味、能使指示剂变红的物质",
+    "syn": [
+      "sour substance",
+      "acidic liquid"
+    ],
+    "ant": [
+      "base",
+      "alkali"
+    ],
+    "col": [
+      "weak acid",
+      "acid in vinegar",
+      "test for acid"
+    ],
+    "fam": [
+      "acid",
+      "acids",
+      "acidic",
+      "acidity"
+    ],
+    "example": "Vinegar is a weak acid, so it fizzed gently on the marble chip.",
+    "basic": "Vinegar bubbled a little on the marble chip."
+  },
+  "agriculture": {
+    "simple": "The work of growing crops and raising animals for food and other products.",
+    "detailed": "Agriculture includes farms, orchards, and grazing. HASS looks at how agriculture changes land, water use, and town jobs.",
+    "zh": "农业；种植作物和饲养动物的生产活动",
+    "syn": [
+      "farming",
+      "cultivation",
+      "husbandry"
+    ],
+    "ant": [],
+    "col": [
+      "modern agriculture",
+      "agriculture in the region",
+      "sustainable agriculture"
+    ],
+    "fam": [
+      "agriculture",
+      "agricultural",
+      "agriculturist"
+    ],
+    "example": "Irrigation changed agriculture along the Murray by letting crops grow in drier seasons.",
+    "basic": "River water let farmers grow crops even in dry seasons."
+  },
+  "ancestor": {
+    "simple": "A family member who lived in an earlier generation.",
+    "detailed": "An ancestor might be a great-grandparent or a much earlier relative. First Nations peoples also speak of ancestors in cultural and spiritual ways.",
+    "zh": "祖先；更早世代的家人",
+    "syn": [
+      "forebear",
+      "forefather",
+      "predecessor"
+    ],
+    "ant": [
+      "descendant"
+    ],
+    "col": [
+      "an ancestor",
+      "honour an ancestor",
+      "stories of an ancestor"
+    ],
+    "fam": [
+      "ancestor",
+      "ancestors",
+      "ancestral",
+      "ancestry"
+    ],
+    "example": "The museum display showed tools an ancestor might have used on the river flats.",
+    "basic": "The museum showed old tools used by earlier family members."
+  },
+  "artefact": {
+    "simple": "An object made by people in the past that we can study today.",
+    "detailed": "An artefact might be a tool, pot, or piece of jewellery. Museums use artefacts as sources, and they must be handled with respect.",
+    "zh": "人工制品；过去的人制造、可供研究的物件",
+    "syn": [
+      "object",
+      "relic",
+      "item"
+    ],
+    "ant": [],
+    "col": [
+      "museum artefact",
+      "ancient artefact",
+      "artefact from the site"
+    ],
+    "fam": [
+      "artefact",
+      "artefacts"
+    ],
+    "example": "The clay fishing weight was the artefact that showed people had worked that river for generations.",
+    "basic": "The old clay weight showed people had fished that river for a long time."
+  },
+  "atmosphere": {
+    "simple": "The layer of gases that surrounds Earth.",
+    "detailed": "The atmosphere holds the air we breathe and helps control temperature. Science writing may also name layers such as the troposphere.",
+    "zh": "大气；围绕地球的气体层",
+    "syn": [
+      "air",
+      "gaseous layer"
+    ],
+    "ant": [],
+    "col": [
+      "Earth's atmosphere",
+      "upper atmosphere",
+      "gases in the atmosphere"
+    ],
+    "fam": [
+      "atmosphere",
+      "atmospheres",
+      "atmospheric"
+    ],
+    "example": "Without the atmosphere, Earth's surface would face much more harmful radiation from the sun.",
+    "basic": "The air around Earth helps protect the surface from harsh sunlight."
+  },
+  "authority": {
+    "simple": "The official power to make rules or decisions, or a trusted expert.",
+    "detailed": "A council has authority to set local rules. A scientist can be an authority on a topic if their knowledge is respected and checkable.",
+    "zh": "权威；官方权力；可信的专家",
+    "syn": [
+      "power",
+      "control",
+      "expert"
+    ],
+    "ant": [],
+    "col": [
+      "local authority",
+      "authority on the topic",
+      "have authority"
+    ],
+    "fam": [
+      "authority",
+      "authorities",
+      "authorise",
+      "authoritative"
+    ],
+    "example": "The local authority closed the track because falling rocks made it unsafe.",
+    "basic": "The council closed the track because of falling rocks."
+  },
+  "bacteria": {
+    "simple": "Tiny living things, too small to see, that can help or harm other life.",
+    "detailed": "Bacteria can decompose food scraps or cause infection. They are single-celled and are not the same as viruses.",
+    "zh": "细菌；肉眼看不见的微小生物，可有益也可有害",
+    "syn": [
+      "microbes",
+      "germs",
+      "micro-organisms"
+    ],
+    "ant": [],
+    "col": [
+      "helpful bacteria",
+      "bacteria in the soil",
+      "growth of bacteria"
+    ],
+    "fam": [
+      "bacteria",
+      "bacterium",
+      "bacterial"
+    ],
+    "example": "Helpful bacteria in the compost break food scraps into dark soil.",
+    "basic": "Tiny living things in the compost help turn scraps into soil."
+  },
+  "bias": {
+    "simple": "An unfair leaning toward one side that twists judgement.",
+    "detailed": "Bias can appear in word choice, missing facts, or a sample that was not fairly chosen. Good readers look for bias before they trust a claim.",
+    "zh": "偏见；偏向一方而扭曲判断",
+    "syn": [
+      "prejudice",
+      "partiality",
+      "slant"
+    ],
+    "ant": [
+      "fairness",
+      "neutrality"
+    ],
+    "col": [
+      "show bias",
+      "media bias",
+      "bias in the sample"
+    ],
+    "fam": [
+      "bias",
+      "biases",
+      "biased"
+    ],
+    "example": "The flyer showed bias by quoting only shop owners who wanted more parking.",
+    "basic": "The flyer only used quotes from people who wanted more parking."
+  },
+  "carbon": {
+    "simple": "A chemical element found in living things, fuels, and diamonds.",
+    "detailed": "Carbon atoms join in many ways, so carbon appears in wood, plastic, and carbon dioxide. Year 5–6 science often tracks carbon in the air and in fuels.",
+    "zh": "碳；存在于生物、燃料和钻石中的化学元素",
+    "syn": [
+      "element",
+      "simple substance"
+    ],
+    "ant": [],
+    "col": [
+      "carbon dioxide",
+      "carbon in fuels",
+      "carbon atom"
+    ],
+    "fam": [
+      "carbon",
+      "carbonate"
+    ],
+    "example": "Burning the candle released carbon into the air as carbon dioxide.",
+    "basic": "The burning candle sent a carbon gas into the air."
+  },
+  "cell": {
+    "simple": "The tiny living unit that makes up plants, animals, and other organisms.",
+    "detailed": "Most living things are made of one cell or many cells. A cell can take in nutrients, grow, and, in many cases, divide.",
+    "zh": "细胞；构成生物体的微小生命单位",
+    "syn": [
+      "living unit",
+      "building block"
+    ],
+    "ant": [],
+    "col": [
+      "plant cell",
+      "animal cell",
+      "single cell"
+    ],
+    "fam": [
+      "cell",
+      "cells",
+      "cellular"
+    ],
+    "example": "Under the microscope, each onion cell looked like a tiny box with a wall.",
+    "basic": "The onion piece looked like little boxes under the microscope."
+  },
+  "chemical": {
+    "simple": "A pure substance, or a mixture, with a definite make-up you can test.",
+    "detailed": "Water, salt, and vinegar are chemicals you meet every day. In the lab you use the word for substances whose properties you record carefully.",
+    "zh": "化学品；化学物质",
+    "syn": [
+      "substance",
+      "compound"
+    ],
+    "ant": [],
+    "col": [
+      "chemical reaction",
+      "household chemical",
+      "chemical change"
+    ],
+    "fam": [
+      "chemical",
+      "chemicals",
+      "chemically",
+      "chemistry"
+    ],
+    "example": "A colour change was the first sign that a new chemical had formed in the beaker.",
+    "basic": "The liquid changed colour, so something new had formed."
+  },
+  "climate": {
+    "simple": "The usual weather of a place over a long time.",
+    "detailed": "Climate is not one hot day; it is the pattern of temperature and rainfall over many years. Australia has many different climates.",
+    "zh": "气候；一个地方长期的典型天气状况",
+    "syn": [
+      "usual weather",
+      "weather pattern"
+    ],
+    "ant": [],
+    "col": [
+      "dry climate",
+      "changing climate",
+      "climate of the region"
+    ],
+    "fam": [
+      "climate",
+      "climates",
+      "climatic"
+    ],
+    "example": "A desert climate can still have cold nights even when the days are burning hot.",
+    "basic": "Deserts can be hot by day and cold at night."
+  },
+  "climax": {
+    "simple": "The most intense or important moment in a story.",
+    "detailed": "The climax is usually where the main conflict comes to a head. After it, the story winds toward a resolution.",
+    "zh": "高潮；故事中最紧张或最关键的时刻",
+    "syn": [
+      "peak",
+      "turning point",
+      "high point"
+    ],
+    "ant": [],
+    "col": [
+      "story climax",
+      "reach the climax",
+      "climax of the novel"
+    ],
+    "fam": [
+      "climax",
+      "climaxes",
+      "climactic"
+    ],
+    "example": "The climax comes when the two sisters finally open the locked tin on the beach.",
+    "basic": "The most intense moment is when they open the locked tin."
+  },
+  "colony": {
+    "simple": "A settlement ruled by another country, or a group of the same living things living together.",
+    "detailed": "In Australian HASS, a colony was a territory governed from Britain. In science, a colony can also mean a group of ants, bees, or bacteria.",
+    "zh": "殖民地；群体（也可指聚居的生物）",
+    "syn": [
+      "settlement",
+      "outpost",
+      "territory"
+    ],
+    "ant": [],
+    "col": [
+      "British colony",
+      "penal colony",
+      "ant colony"
+    ],
+    "fam": [
+      "colony",
+      "colonies",
+      "colonial",
+      "colonise"
+    ],
+    "example": "New South Wales began as a British colony in 1788 on land already occupied.",
+    "basic": "Britain started a settlement in New South Wales in 1788."
+  },
+  "condensation": {
+    "simple": "The change of a gas into a liquid when it cools.",
+    "detailed": "Water vapour turns into droplets on a cold window by condensation. It is the opposite process to evaporation in the water cycle.",
+    "zh": "凝结；气体遇冷变成液体",
+    "syn": [
+      "liquefying",
+      "droplet forming"
+    ],
+    "ant": [
+      "evaporation"
+    ],
+    "col": [
+      "condensation on the glass",
+      "process of condensation",
+      "water condensation"
+    ],
+    "fam": [
+      "condensation",
+      "condense",
+      "condensed"
+    ],
+    "example": "We saw condensation on the cold bottle as soon as it left the esky.",
+    "basic": "Tiny drops formed on the cold bottle from the esky."
+  },
+  "conductor": {
+    "simple": "A material that lets heat or electricity pass through it easily.",
+    "detailed": "Metals are often good conductors. A wooden spoon is a poorer conductor of heat, which is why it stays cooler in a hot pot.",
+    "zh": "导体；容易传热或导电的材料",
+    "syn": [
+      "transmitter",
+      "carrier"
+    ],
+    "ant": [
+      "insulator"
+    ],
+    "col": [
+      "good conductor",
+      "electrical conductor",
+      "conductor of heat"
+    ],
+    "fam": [
+      "conductor",
+      "conductors",
+      "conduct",
+      "conduction"
+    ],
+    "example": "Copper wire is a good conductor, so the tiny bulb lit as soon as the circuit closed.",
+    "basic": "The copper wire let electricity through and the bulb lit up."
+  },
+  "conservation": {
+    "simple": "The careful protection of nature, resources, or special places.",
+    "detailed": "Conservation can mean saving water, protecting a habitat, or looking after an old building. It is about wise use, not only locking things away.",
+    "zh": "保护；对自然、资源或特殊场所的审慎守护",
+    "syn": [
+      "protection",
+      "preservation",
+      "stewardship"
+    ],
+    "ant": [
+      "waste",
+      "destruction"
+    ],
+    "col": [
+      "wildlife conservation",
+      "water conservation",
+      "conservation of energy"
+    ],
+    "fam": [
+      "conservation",
+      "conserve",
+      "conserving",
+      "conservationist"
+    ],
+    "example": "Water conservation at school started with fixing the dripping taps near the oval.",
+    "basic": "Saving water started with fixing the dripping taps."
+  },
+  "constitution": {
+    "simple": "The main set of rules that says how a country is governed.",
+    "detailed": "Australia's constitution explains the role of parliament, the courts, and the states. Changing it requires a special national vote called a referendum.",
+    "zh": "宪法；规定国家如何治理的根本规则",
+    "syn": [
+      "charter",
+      "founding law"
+    ],
+    "ant": [],
+    "col": [
+      "Australian constitution",
+      "change the constitution",
+      "under the constitution"
+    ],
+    "fam": [
+      "constitution",
+      "constitutions",
+      "constitutional"
+    ],
+    "example": "The Australian constitution sets out how the federal parliament is formed.",
+    "basic": "Australia's main rule book says how federal parliament is formed."
+  },
+  "council": {
+    "simple": "A local group elected to make decisions for a town or area.",
+    "detailed": "A council looks after roads, parks, bins, and many local rules. It is closer to daily life than the national parliament.",
+    "zh": "议会；市政委员会；地方民选决策机构",
+    "syn": [
+      "board",
+      "local government",
+      "committee"
+    ],
+    "ant": [],
+    "col": [
+      "local council",
+      "council meeting",
+      "city council"
+    ],
+    "fam": [
+      "council",
+      "councils",
+      "councillor"
+    ],
+    "example": "The local council voted to put extra bins on the foreshore after summer.",
+    "basic": "Town leaders voted for extra bins on the foreshore."
+  },
+  "custom": {
+    "simple": "A traditional way of doing something that a group keeps over time.",
+    "detailed": "A custom can be a greeting, a ceremony, or a holiday meal. Customs matter because they carry meaning, not only because they are old.",
+    "zh": "习俗；一个群体长期保持的传统做法",
+    "syn": [
+      "tradition",
+      "practice",
+      "habit"
+    ],
+    "ant": [],
+    "col": [
+      "local custom",
+      "cultural custom",
+      "follow a custom"
+    ],
+    "fam": [
+      "custom",
+      "customs",
+      "customary"
+    ],
+    "example": "A welcome to Country is a custom that recognises First Nations peoples as the first caretakers of the land.",
+    "basic": "A welcome to Country is a traditional way to recognise First Nations peoples."
+  },
+  "democracy": {
+    "simple": "A system of government in which people have a say, often by voting.",
+    "detailed": "In a democracy, citizens can elect leaders and speak about public issues. It also depends on fair laws and respect for rights, not only on one vote day.",
+    "zh": "民主；人民通过投票等方式参与治理的制度",
+    "syn": [
+      "self-government",
+      "popular rule"
+    ],
+    "ant": [],
+    "col": [
+      "Australian democracy",
+      "live in a democracy",
+      "principles of democracy"
+    ],
+    "fam": [
+      "democracy",
+      "democracies",
+      "democratic",
+      "democrat"
+    ],
+    "example": "Class elections are a small way to practise the habits of a democracy.",
+    "basic": "Class elections are a small way to practise voting and fair rules."
+  },
+  "density": {
+    "simple": "How much mass is packed into a certain volume.",
+    "detailed": "A stone can have greater density than a piece of wood of the same size, so the stone sinks. Density equals mass divided by volume.",
+    "zh": "密度；一定体积内所含质量的多少",
+    "syn": [
+      "compactness",
+      "concentration"
+    ],
+    "ant": [],
+    "col": [
+      "higher density",
+      "density of the liquid",
+      "calculate density"
+    ],
+    "fam": [
+      "density",
+      "densities",
+      "dense"
+    ],
+    "example": "The metal cube had a greater density than the wooden cube of the same size.",
+    "basic": "The metal cube was heavier than the same-sized wooden cube."
+  },
+  "dialogue": {
+    "simple": "The spoken words between characters in a text or play.",
+    "detailed": "Dialogue reveals personality, conflict, and relationships. Punctuation and new lines help readers hear who is speaking.",
+    "zh": "对话；文本或戏剧中人物之间的对白",
+    "syn": [
+      "conversation",
+      "talk",
+      "speech"
+    ],
+    "ant": [],
+    "col": [
+      "written dialogue",
+      "sharp dialogue",
+      "dialogue between characters"
+    ],
+    "fam": [
+      "dialogue",
+      "dialogues"
+    ],
+    "example": "The short, snapped dialogue in the kitchen scene shows the sisters are still angry.",
+    "basic": "Their short spoken lines in the kitchen show they are still angry."
+  },
+  "economy": {
+    "simple": "The system of making, buying, and selling goods and services in a place.",
+    "detailed": "A town's economy includes jobs, shops, farms, and trade. When one industry shrinks, the whole economy of that town can feel it.",
+    "zh": "经济；一个地方生产、购买和销售的体系",
+    "syn": [
+      "marketplace",
+      "financial system"
+    ],
+    "ant": [],
+    "col": [
+      "local economy",
+      "grow the economy",
+      "economy of the town"
+    ],
+    "fam": [
+      "economy",
+      "economies",
+      "economic",
+      "economically"
+    ],
+    "example": "When the mill closed, the local economy lost many after-school jobs as well.",
+    "basic": "After the mill closed, the town had fewer jobs for families."
+  },
+  "ecosystem": {
+    "simple": "A community of living things and the non-living parts they depend on.",
+    "detailed": "An ecosystem includes plants, animals, soil, water, and climate working together. Changing one part, such as removing shade trees, can affect the rest.",
+    "zh": "生态系统；生物及其依存的非生物环境组成的整体",
+    "syn": [
+      "habitat system",
+      "biome"
+    ],
+    "ant": [],
+    "col": [
+      "creek ecosystem",
+      "healthy ecosystem",
+      "parts of an ecosystem"
+    ],
+    "fam": [
+      "ecosystem",
+      "ecosystems"
+    ],
+    "example": "Removing the reeds damaged the creek ecosystem that the frogs depended on.",
+    "basic": "Pulling out the reeds hurt the frogs that lived in the creek."
+  },
+  "election": {
+    "simple": "A formal vote to choose a person or a decision.",
+    "detailed": "An election can choose a student leader, a council, or a national government. Fair elections need clear rules and a secret or private vote.",
+    "zh": "选举；通过正式投票作出选择",
+    "syn": [
+      "vote",
+      "ballot",
+      "poll"
+    ],
+    "ant": [],
+    "col": [
+      "school election",
+      "federal election",
+      "win an election"
+    ],
+    "fam": [
+      "election",
+      "elections",
+      "elect",
+      "electoral"
+    ],
+    "example": "The school election used paper ballots so no one could see a classmate's choice.",
+    "basic": "Students voted on paper so choices stayed private."
+  },
+  "empire": {
+    "simple": "A group of countries or lands ruled by one powerful government.",
+    "detailed": "An empire expands by force, settlement, or trade. HASS writing asks how an empire treated the people already living in those lands.",
+    "zh": "帝国；由一个强大政府统治的多片土地",
+    "syn": [
+      "realm",
+      "dominion"
+    ],
+    "ant": [],
+    "col": [
+      "British Empire",
+      "build an empire",
+      "fall of an empire"
+    ],
+    "fam": [
+      "empire",
+      "empires",
+      "emperor",
+      "imperial"
+    ],
+    "example": "Maps of the British empire once coloured huge parts of the world the same pink.",
+    "basic": "Old maps showed Britain ruling many lands across the world."
+  },
+  "evaporation": {
+    "simple": "The change of a liquid into a gas, often when it is heated or left in dry air.",
+    "detailed": "Puddles shrink by evaporation. In the water cycle, evaporation lifts water into the air before condensation can form clouds.",
+    "zh": "蒸发；液体变成气体",
+    "syn": [
+      "vaporisation",
+      "drying"
+    ],
+    "ant": [
+      "condensation"
+    ],
+    "col": [
+      "rate of evaporation",
+      "evaporation from the tray",
+      "heat and evaporation"
+    ],
+    "fam": [
+      "evaporation",
+      "evaporate",
+      "evaporating"
+    ],
+    "example": "The shallow tray lost water faster because evaporation is quicker over a larger surface.",
+    "basic": "The shallow tray dried faster because more water touched the air."
+  },
+  "exploration": {
+    "simple": "The act of travelling into a place to find out what is there.",
+    "detailed": "Exploration can map a coast or search a creek. In Australian history, exploration stories must also include the First Nations peoples who already knew the land.",
+    "zh": "探索；考察；前往某地探明情况",
+    "syn": [
+      "expedition",
+      "survey",
+      "discovery"
+    ],
+    "ant": [],
+    "col": [
+      "coastal exploration",
+      "space exploration",
+      "exploration of the inland"
+    ],
+    "fam": [
+      "exploration",
+      "explorations",
+      "explore",
+      "explorer"
+    ],
+    "example": "European exploration of the inland often followed rivers already known to Aboriginal guides.",
+    "basic": "Inland journeys often followed rivers that Aboriginal guides already knew."
+  },
+  "federation": {
+    "simple": "The joining of separate colonies or states into one nation.",
+    "detailed": "Australian Federation in 1901 united six colonies under one federal parliament while states kept many powers. It is a key HASS topic in Year 6.",
+    "zh": "联邦；若干殖民地或州联合成一个国家",
+    "syn": [
+      "union",
+      "unification"
+    ],
+    "ant": [],
+    "col": [
+      "Australian Federation",
+      "after Federation",
+      "Federation in 1901"
+    ],
+    "fam": [
+      "federation",
+      "federations",
+      "federal",
+      "federate"
+    ],
+    "example": "After federation in 1901, the new nation still had six state governments as well as a federal one.",
+    "basic": "After 1901 Australia had a national government and state governments."
+  },
+  "fiction": {
+    "simple": "Writing that tells imagined events rather than a strictly true record.",
+    "detailed": "Novels, short stories, and many plays are fiction. They can still tell truths about feelings and ideas, even when the plot is made up.",
+    "zh": "小说；虚构作品",
+    "syn": [
+      "story",
+      "novel",
+      "made-up tale"
+    ],
+    "ant": [
+      "non-fiction"
+    ],
+    "col": [
+      "work of fiction",
+      "realistic fiction",
+      "historical fiction"
+    ],
+    "fam": [
+      "fiction",
+      "fictional",
+      "non-fiction"
+    ],
+    "example": "Even though the flood story is fiction, the fear of rising water feels true.",
+    "basic": "The flood story is made up, but the fear feels real."
+  },
+  "fossil": {
+    "simple": "The preserved remains or mark of a living thing from long ago.",
+    "detailed": "A fossil can be bone, shell, or a footprint in rock. Fossils help scientists infer how living things and environments have changed.",
+    "zh": "化石；远古生物保存下来的遗骸或痕迹",
+    "syn": [
+      "remains",
+      "imprint"
+    ],
+    "ant": [],
+    "col": [
+      "dinosaur fossil",
+      "fossil in the rock",
+      "discover a fossil"
+    ],
+    "fam": [
+      "fossil",
+      "fossils",
+      "fossilise"
+    ],
+    "example": "The leaf fossil in the sandstone showed that a wetter forest once grew here.",
+    "basic": "The leaf mark in the rock showed a wetter forest used to grow here."
+  },
+  "friction": {
+    "simple": "A force that resists motion when two surfaces rub together.",
+    "detailed": "Friction can slow a bike or help shoes grip the oval. Smoother surfaces usually produce less friction than rough ones.",
+    "zh": "摩擦；两表面相互摩擦时阻碍运动的力",
+    "syn": [
+      "rubbing",
+      "resistance"
+    ],
+    "ant": [],
+    "col": [
+      "reduce friction",
+      "friction between surfaces",
+      "force of friction"
+    ],
+    "fam": [
+      "friction",
+      "frictional"
+    ],
+    "example": "Sandpaper increased friction so the wooden block stopped sliding so easily.",
+    "basic": "The rough paper made the block harder to slide."
+  },
+  "genre": {
+    "simple": "A type of text that follows certain familiar features.",
+    "detailed": "Mystery, fantasy, and information report are genres. Knowing the genre helps you predict structure, language, and what the reader expects.",
+    "zh": "体裁；类型；具有某些惯用特征的文本类别",
+    "syn": [
+      "type",
+      "category",
+      "form"
+    ],
+    "ant": [],
+    "col": [
+      "mystery genre",
+      "literary genre",
+      "choose a genre"
+    ],
+    "fam": [
+      "genre",
+      "genres"
+    ],
+    "example": "A locked diary and hidden clues tell you the text is working in the mystery genre.",
+    "basic": "A locked diary and hidden clues show it is a mystery story."
+  },
+  "government": {
+    "simple": "The group of people and organisations that make and carry out public rules.",
+    "detailed": "Government can be local, state, or federal in Australia. It collects taxes, provides services, and is meant to act within the law.",
+    "zh": "政府；制定并执行公共规则的机构与人员",
+    "syn": [
+      "administration",
+      "authorities",
+      "state"
+    ],
+    "ant": [],
+    "col": [
+      "federal government",
+      "local government",
+      "role of government"
+    ],
+    "fam": [
+      "government",
+      "governments",
+      "govern",
+      "governing"
+    ],
+    "example": "The state government funds many public hospitals, while councils look after local parks.",
+    "basic": "The state pays for many hospitals, and councils look after parks."
+  },
+  "habitat": {
+    "simple": "The natural place where a plant or animal lives and finds what it needs.",
+    "detailed": "A habitat supplies food, water, shelter, and space. If a habitat is damaged, the living things that depend on it are at risk.",
+    "zh": "栖息地；动植物生活并获取所需的自然环境",
+    "syn": [
+      "home",
+      "environment",
+      "range"
+    ],
+    "ant": [],
+    "col": [
+      "natural habitat",
+      "destroy a habitat",
+      "wetland habitat"
+    ],
+    "fam": [
+      "habitat",
+      "habitats"
+    ],
+    "example": "Plastic in the wetland habitat can trap birds that come in to feed.",
+    "basic": "Plastic in the wetland can trap feeding birds."
+  },
+  "heritage": {
+    "simple": "Valued traditions, places, and objects passed down from earlier generations.",
+    "detailed": "Heritage can be a language, a building, or a national park. Australian heritage includes First Nations heritage and later migrant heritage.",
+    "zh": "遗产；从先辈传承下来的传统、场所和物品",
+    "syn": [
+      "inheritance",
+      "legacy",
+      "tradition"
+    ],
+    "ant": [],
+    "col": [
+      "cultural heritage",
+      "heritage listed",
+      "protect our heritage"
+    ],
+    "fam": [
+      "heritage"
+    ],
+    "example": "The old courthouse is part of the town's heritage and is now protected.",
+    "basic": "The old courthouse is an important building from the town's past."
+  },
+  "imagery": {
+    "simple": "Word pictures that appeal to the senses in a text.",
+    "detailed": "Imagery uses sight, sound, smell, taste, or touch so a reader can imagine the scene. It is a cluster of images working together, not only one photo.",
+    "zh": "意象；形象描写；诉诸感官的文字画面",
+    "syn": [
+      "word pictures",
+      "sensory language",
+      "images"
+    ],
+    "ant": [],
+    "col": [
+      "vivid imagery",
+      "sensory imagery",
+      "imagery in the poem"
+    ],
+    "fam": [
+      "imagery",
+      "image",
+      "images"
+    ],
+    "example": "The poem's imagery of wet wool and diesel makes the cattle truck impossible to ignore.",
+    "basic": "The poem's wet-wool and diesel details make the cattle truck feel real."
+  }
+}

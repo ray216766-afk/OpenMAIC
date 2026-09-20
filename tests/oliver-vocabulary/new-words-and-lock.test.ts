@@ -61,7 +61,7 @@ describe('New Vocabulary is taught only once', () => {
     expect(day2.lesson.new_vocabulary).toHaveLength(10);
   });
 
-  it('errors when Batch 1 unused New words are exhausted instead of wrapping', () => {
+  it('errors when unused New words are exhausted instead of wrapping', () => {
     const paths = isolatedPaths();
     const master = loadMaster(paths);
     let progress = emptyProgressFile();
@@ -72,7 +72,7 @@ describe('New Vocabulary is taught only once', () => {
 
     expect(() => selectNewWords(master, progress, 11)).toThrow(NewWordsExhaustedError);
     expect(() => generateOliverVocabularyLessonDay(11, paths, { persist: true })).toThrow(
-      /Academic Core Batch 1 \(100\) has no unused new words left/,
+      /has no unused new words left/,
     );
   });
 });

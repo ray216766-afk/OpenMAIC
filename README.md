@@ -277,7 +277,7 @@ pnpm dev
 
 Open **http://127.0.0.1:2007** and start learning.
 
-Oliver Scholarship Vocabulary Master (V1.1, Academic Core Batch 1 — 100 words) is available at **http://127.0.0.1:2007/oliver-vocabulary** (also `http://localhost:2007/oliver-vocabulary`, plus a printed LAN URL). `pnpm dev` / `pnpm start` bind **`0.0.0.0:2007`** — `0.0.0.0` is the listen address, not a browser URL. This entry uses **2007** so it does not fight an existing local app on 3007. See **Local run on port 2007** in `Oliver_Vocabulary_System/Documentation.md`.
+Oliver Scholarship Vocabulary Master (V1.1, Academic Core Master — ~1500 words) is available at **http://127.0.0.1:2007/oliver-vocabulary** (also `http://localhost:2007/oliver-vocabulary`, plus a printed LAN URL). `pnpm dev` / `pnpm start` bind **`0.0.0.0:2007`** — `0.0.0.0` is the listen address, not a browser URL. This entry uses **2007** so it does not fight an existing local app on 3007. See **Local run on port 2007** in `Oliver_Vocabulary_System/Documentation.md`.
 
 ### 4. Build for Production
 
