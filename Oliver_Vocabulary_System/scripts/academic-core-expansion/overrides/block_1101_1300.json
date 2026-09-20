@@ -1,0 +1,4871 @@
+{
+  "consumption": {
+    "simple": "The using up of food, energy, money, or other resources.",
+    "detailed": "The amount of a resource that people, machines, or systems use, especially when writers discuss waste, demand, or sustainability.",
+    "zh": "消耗；消费",
+    "syn": [
+      "use",
+      "expenditure",
+      "demand"
+    ],
+    "ant": [
+      "conservation",
+      "saving"
+    ],
+    "col": [
+      "energy consumption",
+      "water consumption",
+      "reduce consumption"
+    ],
+    "fam": [
+      "consumption",
+      "consume",
+      "consumer",
+      "consuming"
+    ],
+    "example": "The poster asked families to cut electricity consumption during the heatwave.",
+    "basic": "The poster asked families to use less electricity."
+  },
+  "contamination": {
+    "simple": "The spoiling of something clean by mixing in dirt, chemicals, or germs.",
+    "detailed": "Unwanted matter that enters water, food, soil, or a sample and makes the results unsafe or unreliable.",
+    "zh": "污染；沾染",
+    "syn": [
+      "pollution",
+      "impurity",
+      "taint"
+    ],
+    "ant": [
+      "purity"
+    ],
+    "col": [
+      "water contamination",
+      "food contamination",
+      "risk of contamination"
+    ],
+    "fam": [
+      "contamination",
+      "contaminate",
+      "contaminated",
+      "contaminant"
+    ],
+    "example": "The creek test showed contamination after the storm washed rubbish downstream.",
+    "basic": "The creek was dirty after the storm."
+  },
+  "continuity": {
+    "simple": "The way something keeps going without a sudden break.",
+    "detailed": "An unbroken link across time or steps, so a story, tradition, or process still feels connected even when details change.",
+    "zh": "连续性；持续性",
+    "syn": [
+      "unbroken flow",
+      "persistence",
+      "sequence"
+    ],
+    "ant": [
+      "interruption",
+      "break"
+    ],
+    "col": [
+      "historical continuity",
+      "continuity of care",
+      "sense of continuity"
+    ],
+    "fam": [
+      "continuity",
+      "continuous",
+      "continuously",
+      "continue"
+    ],
+    "example": "The museum display showed continuity between older tools and the ones farmers still use.",
+    "basic": "The museum showed that old and new tools are linked."
+  },
+  "contradiction": {
+    "simple": "A clash between two ideas that cannot both be true at once.",
+    "detailed": "A statement, fact, or action that goes against another, so a reader must notice the conflict and decide what to trust.",
+    "zh": "矛盾",
+    "syn": [
+      "inconsistency",
+      "conflict",
+      "clash"
+    ],
+    "ant": [
+      "agreement",
+      "consistency"
+    ],
+    "col": [
+      "clear contradiction",
+      "logical contradiction",
+      "resolve a contradiction"
+    ],
+    "fam": [
+      "contradiction",
+      "contradict",
+      "contradictory"
+    ],
+    "example": "There was a contradiction between the witness notes and the photograph of the same street.",
+    "basic": "The notes and the photo did not match."
+  },
+  "controversy": {
+    "simple": "A public disagreement that people feel strongly about.",
+    "detailed": "A disputed issue that divides a community because the facts, values, or consequences are contested in the media or in civic debate.",
+    "zh": "争议",
+    "syn": [
+      "dispute",
+      "debate",
+      "argument"
+    ],
+    "ant": [
+      "consensus",
+      "agreement"
+    ],
+    "col": [
+      "public controversy",
+      "cause controversy",
+      "political controversy"
+    ],
+    "fam": [
+      "controversy",
+      "controversial",
+      "controversially"
+    ],
+    "example": "The new freeway plan caused controversy because some suburbs would lose parkland.",
+    "basic": "People argued about the new freeway plan."
+  },
+  "convention": {
+    "simple": "An accepted custom, or a large formal meeting of people who share a purpose.",
+    "detailed": "A usual rule of behaviour that a group treats as normal, or an organised gathering where delegates discuss a shared issue.",
+    "zh": "惯例；大会",
+    "syn": [
+      "custom",
+      "norm",
+      "gathering"
+    ],
+    "ant": [],
+    "col": [
+      "social convention",
+      "party convention",
+      "break with convention"
+    ],
+    "fam": [
+      "convention",
+      "conventional",
+      "conventionally",
+      "unconventional"
+    ],
+    "example": "In the Federation inquiry, students asked which voting convention women could not yet follow.",
+    "basic": "Students asked about the old voting custom."
+  },
+  "conviction": {
+    "simple": "A strong, settled belief that something is true or right.",
+    "detailed": "A firmly held view, often used in argument writing when a speaker stands by a claim with confidence rather than guessing.",
+    "zh": "坚定信念",
+    "syn": [
+      "belief",
+      "certainty",
+      "principle"
+    ],
+    "ant": [
+      "doubt",
+      "uncertainty"
+    ],
+    "col": [
+      "strong conviction",
+      "moral conviction",
+      "speak with conviction"
+    ],
+    "fam": [
+      "conviction",
+      "convinced",
+      "convince"
+    ],
+    "example": "She argued with conviction that the school should ban single-use plastic at the canteen.",
+    "basic": "She really believed the school should ban the plastic."
+  },
+  "cooperation": {
+    "simple": "Working together to reach a shared goal.",
+    "detailed": "Joint action in which people or groups share tasks, information, or resources instead of competing or acting alone.",
+    "zh": "合作",
+    "syn": [
+      "teamwork",
+      "collaboration",
+      "partnership"
+    ],
+    "ant": [
+      "conflict",
+      "rivalry"
+    ],
+    "col": [
+      "international cooperation",
+      "close cooperation",
+      "in cooperation with"
+    ],
+    "fam": [
+      "cooperation",
+      "cooperate",
+      "cooperative",
+      "cooperatively"
+    ],
+    "example": "The bushfire recovery plan depended on cooperation between councils and local volunteers.",
+    "basic": "Councils and volunteers had to work together."
+  },
+  "coordination": {
+    "simple": "The skilful organising of people or parts so they work in time with one another.",
+    "detailed": "The planned linking of actions, groups, or body movements so effort is not wasted and the result is orderly.",
+    "zh": "协调",
+    "syn": [
+      "organisation",
+      "harmony",
+      "alignment"
+    ],
+    "ant": [
+      "disorganisation"
+    ],
+    "col": [
+      "close coordination",
+      "hand-eye coordination",
+      "coordination of services"
+    ],
+    "fam": [
+      "coordination",
+      "coordinate",
+      "coordinator",
+      "coordinated"
+    ],
+    "example": "Rescue work improved once there was better coordination between the police and the SES.",
+    "basic": "Rescue work improved when the groups organised themselves."
+  },
+  "correlation": {
+    "simple": "A link that shows two things change together, without proving one causes the other.",
+    "detailed": "A statistical or observed relationship between variables; science writing must not treat the link as a cause unless further tests support it.",
+    "zh": "相关性",
+    "syn": [
+      "relationship",
+      "association",
+      "link"
+    ],
+    "ant": [],
+    "col": [
+      "strong correlation",
+      "positive correlation",
+      "correlation between"
+    ],
+    "fam": [
+      "correlation",
+      "correlate",
+      "correlated"
+    ],
+    "example": "There was a correlation between rainfall and mosquito numbers, but the class still tested other causes.",
+    "basic": "Rain and mosquitoes seemed linked, but the class kept checking."
+  },
+  "counterpart": {
+    "simple": "A person or thing that has the same role as another in a different place or group.",
+    "detailed": "A matching figure, office, or object that performs a parallel function, often used when comparing countries, teams, or texts.",
+    "zh": "对应的人或物",
+    "syn": [
+      "equivalent",
+      "match",
+      "opposite number"
+    ],
+    "ant": [],
+    "col": [
+      "Australian counterpart",
+      "modern counterpart",
+      "his counterpart"
+    ],
+    "fam": [
+      "counterpart",
+      "counterparts"
+    ],
+    "example": "The Year 6 mayor wrote to her counterpart in the sister school in Aotearoa New Zealand.",
+    "basic": "The Year 6 mayor wrote to the student who had the same job at the other school."
+  },
+  "credibility": {
+    "simple": "The quality of being believable and worth trusting.",
+    "detailed": "How far a source, witness, or argument deserves confidence, based on evidence, expertise, and a fair method.",
+    "zh": "可信度",
+    "syn": [
+      "trustworthiness",
+      "believability",
+      "reliability"
+    ],
+    "ant": [
+      "unreliability"
+    ],
+    "col": [
+      "scientific credibility",
+      "lose credibility",
+      "source credibility"
+    ],
+    "fam": [
+      "credibility",
+      "credible",
+      "incredibility"
+    ],
+    "example": "The blog lost credibility when readers found the photographs had been cropped to hide the rubbish.",
+    "basic": "People stopped trusting the blog after the photos were cropped."
+  },
+  "crisis": {
+    "simple": "A serious turning point when danger is high and a decision cannot wait.",
+    "detailed": "A period of intense difficulty—political, environmental, or personal—when ordinary routines fail and rapid, careful action is needed.",
+    "zh": "危机",
+    "syn": [
+      "emergency",
+      "turning point",
+      "ordeal"
+    ],
+    "ant": [],
+    "col": [
+      "climate crisis",
+      "in a crisis",
+      "crisis point"
+    ],
+    "fam": [
+      "crisis",
+      "crises"
+    ],
+    "example": "During the water crisis, the town limited garden sprinklers to two mornings a week.",
+    "basic": "When water was very short, the town limited garden sprinklers."
+  },
+  "critique": {
+    "simple": "A careful judgement of a text or idea that explains strengths and weaknesses.",
+    "detailed": "A reasoned review, not a rude attack, that tests how well a piece of writing, art, or argument works.",
+    "zh": "评论；批评性意见",
+    "syn": [
+      "review",
+      "appraisal",
+      "evaluation"
+    ],
+    "ant": [],
+    "col": [
+      "literary critique",
+      "write a critique",
+      "peer critique"
+    ],
+    "fam": [
+      "critique",
+      "critiques",
+      "critiqued"
+    ],
+    "example": "Her critique of the camp narrative praised the imagery but asked for a clearer ending.",
+    "basic": "Her review of the camp story said the ending was unclear."
+  },
+  "currency": {
+    "simple": "The money a country uses, or the state of being widely accepted right now.",
+    "detailed": "Coins and notes in official circulation, and, in academic writing, the quality of an idea still being current and in use.",
+    "zh": "货币；流通",
+    "syn": [
+      "money",
+      "cash",
+      "legal tender"
+    ],
+    "ant": [],
+    "col": [
+      "foreign currency",
+      "common currency",
+      "gain currency"
+    ],
+    "fam": [
+      "currency",
+      "currencies"
+    ],
+    "example": "The HASS booklet compared Australian currency before and after decimal changeover in 1966.",
+    "basic": "The booklet compared Australian money before and after 1966."
+  },
+  "curriculum": {
+    "simple": "The planned set of subjects and skills a school is meant to teach.",
+    "detailed": "The organised course of study, including topics, texts, and outcomes, that guides lessons across a year or stage.",
+    "zh": "课程",
+    "syn": [
+      "course of study",
+      "syllabus",
+      "programme"
+    ],
+    "ant": [],
+    "col": [
+      "national curriculum",
+      "school curriculum",
+      "hidden curriculum"
+    ],
+    "fam": [
+      "curriculum",
+      "curricula",
+      "curricular"
+    ],
+    "example": "The new curriculum asked Year 6 to write a persuasive text about a local environmental issue.",
+    "basic": "The new school plan asked Year 6 to write a persuasive text."
+  },
+  "custody": {
+    "simple": "Legal care and protection of a person, or official keeping of an object or prisoner.",
+    "detailed": "The duty of looking after a child, artefact, or detainee, including the right to make day-to-day decisions about safety and wellbeing.",
+    "zh": "监护；羁押",
+    "syn": [
+      "guardianship",
+      "care",
+      "keeping"
+    ],
+    "ant": [],
+    "col": [
+      "parental custody",
+      "police custody",
+      "in safe custody"
+    ],
+    "fam": [
+      "custody",
+      "custodian",
+      "custodial"
+    ],
+    "example": "The court gave both parents shared custody so the children still saw each household.",
+    "basic": "The court said both parents would look after the children."
+  },
+  "database": {
+    "simple": "An organised collection of information that a computer can search quickly.",
+    "detailed": "A structured store of records—names, measurements, or sources—designed so users can retrieve, sort, and update facts accurately.",
+    "zh": "数据库",
+    "syn": [
+      "data bank",
+      "record store",
+      "archive"
+    ],
+    "ant": [],
+    "col": [
+      "online database",
+      "search the database",
+      "student database"
+    ],
+    "fam": [
+      "database",
+      "databases"
+    ],
+    "example": "The class built a database of bird sightings with date, species, and weather notes.",
+    "basic": "The class made an organised list of bird sightings on the computer."
+  },
+  "deadline": {
+    "simple": "The latest time by which a task must be finished.",
+    "detailed": "A fixed cut-off that organises school, news, or civic work; missing it can weaken a submission or a whole project.",
+    "zh": "截止日期",
+    "syn": [
+      "due date",
+      "time limit",
+      "cut-off"
+    ],
+    "ant": [],
+    "col": [
+      "strict deadline",
+      "meet a deadline",
+      "assignment deadline"
+    ],
+    "fam": [
+      "deadline",
+      "deadlines"
+    ],
+    "example": "Oliver set a Sunday night deadline so the scholarship essay could still be proofread.",
+    "basic": "Oliver chose a last day so he could still check the essay."
+  },
+  "deduction": {
+    "simple": "A conclusion reached by using clues and logical steps.",
+    "detailed": "Reasoning that moves from evidence or a general rule to a particular conclusion, as in an investigation or a proof.",
+    "zh": "推论；演绎",
+    "syn": [
+      "inference",
+      "conclusion",
+      "reasoning"
+    ],
+    "ant": [],
+    "col": [
+      "logical deduction",
+      "make a deduction",
+      "scientific deduction"
+    ],
+    "fam": [
+      "deduction",
+      "deduce",
+      "deductive"
+    ],
+    "example": "From the muddy prints, her deduction was that the fox had crossed the oval after rain.",
+    "basic": "From the prints, she worked out that a fox had crossed the oval."
+  },
+  "deficit": {
+    "simple": "The amount by which something, especially money, falls short of what is needed.",
+    "detailed": "A shortfall when spending, rainfall, or another measure is less than income, supply, or a required level.",
+    "zh": "赤字；不足",
+    "syn": [
+      "shortfall",
+      "shortage",
+      "gap"
+    ],
+    "ant": [
+      "surplus"
+    ],
+    "col": [
+      "budget deficit",
+      "trade deficit",
+      "sleep deficit"
+    ],
+    "fam": [
+      "deficit",
+      "deficits"
+    ],
+    "example": "The council report showed a deficit after the pool repairs cost more than planned.",
+    "basic": "The council had spent more than it had."
+  },
+  "delegate": {
+    "simple": "A person chosen to speak or vote on behalf of a larger group.",
+    "detailed": "A representative sent to a meeting, parliament, or conference with authority to present the group's views.",
+    "zh": "代表",
+    "syn": [
+      "representative",
+      "envoy",
+      "spokesperson"
+    ],
+    "ant": [],
+    "col": [
+      "student delegate",
+      "party delegate",
+      "elected delegate"
+    ],
+    "fam": [
+      "delegate",
+      "delegates",
+      "delegation"
+    ],
+    "example": "Each house elected a delegate to take the waste-sorting plan to the student council.",
+    "basic": "Each house chose one person to take the plan to the student council."
+  },
+  "demographic": {
+    "simple": "A group of people who share a population feature such as age or location.",
+    "detailed": "A slice of a population defined by statistics—age, income, language, or region—used in HASS and media to explain patterns.",
+    "zh": "人口群体",
+    "syn": [
+      "population group",
+      "cohort",
+      "segment"
+    ],
+    "ant": [],
+    "col": [
+      "target demographic",
+      "age demographic",
+      "shifting demographic"
+    ],
+    "fam": [
+      "demographic",
+      "demographics",
+      "demography"
+    ],
+    "example": "The library survey showed one demographic—new migrant families—needed more bilingual picture books.",
+    "basic": "The survey showed one group of families needed more bilingual books."
+  },
+  "denotation": {
+    "simple": "The plain, dictionary meaning of a word, without extra feeling.",
+    "detailed": "The literal sense a word points to, contrasted with connotation, which carries mood, attitude, or cultural flavour.",
+    "zh": "字面意义",
+    "syn": [
+      "literal meaning",
+      "dictionary sense",
+      "reference"
+    ],
+    "ant": [
+      "connotation"
+    ],
+    "col": [
+      "literal denotation",
+      "word's denotation",
+      "denotation and connotation"
+    ],
+    "fam": [
+      "denotation",
+      "denote",
+      "denotative"
+    ],
+    "example": "The denotation of 'home' is a place you live, but the story used it to suggest safety.",
+    "basic": "The plain meaning of 'home' is a place you live."
+  },
+  "deployment": {
+    "simple": "The sending of people or equipment into position for a task.",
+    "detailed": "The organised placement of staff, troops, or resources so they can act where they are most needed.",
+    "zh": "部署",
+    "syn": [
+      "stationing",
+      "positioning",
+      "dispatch"
+    ],
+    "ant": [],
+    "col": [
+      "troop deployment",
+      "rapid deployment",
+      "deployment of staff"
+    ],
+    "fam": [
+      "deployment",
+      "deploy",
+      "deployed"
+    ],
+    "example": "The SES announced the deployment of extra crews before the flood peak reached town.",
+    "basic": "The SES said extra crews were being sent before the flood."
+  },
+  "depression": {
+    "simple": "A long period when an economy is weak and many people lose work.",
+    "detailed": "In HASS, a severe downturn such as the 1930s slump, when trade, wages, and confidence fall and hardship spreads.",
+    "zh": "经济萧条",
+    "syn": [
+      "slump",
+      "downturn",
+      "collapse"
+    ],
+    "ant": [
+      "boom",
+      "recovery"
+    ],
+    "col": [
+      "the Great Depression",
+      "economic depression",
+      "in a depression"
+    ],
+    "fam": [
+      "depression",
+      "depress",
+      "depressed"
+    ],
+    "example": "The inquiry compared family life in the 1930s depression with life during later recessions.",
+    "basic": "The inquiry compared family life when the economy was very weak."
+  },
+  "derivative": {
+    "simple": "Something developed from an earlier work, idea, or substance.",
+    "detailed": "A later product, word, or text that comes from a source; in school writing it can also mean work that copies another style too closely.",
+    "zh": "派生物；衍生作品",
+    "syn": [
+      "offshoot",
+      "by-product",
+      "adaptation"
+    ],
+    "ant": [
+      "original"
+    ],
+    "col": [
+      "chemical derivative",
+      "film derivative",
+      "highly derivative"
+    ],
+    "fam": [
+      "derivative",
+      "derive",
+      "derivation"
+    ],
+    "example": "The teacher said the poem felt derivative because it copied another writer's images almost exactly.",
+    "basic": "The teacher said the poem copied another writer's images."
+  },
+  "destination": {
+    "simple": "The place someone or something is travelling towards.",
+    "detailed": "The intended end point of a journey, shipment, or plan, often contrasted with the starting point or the route.",
+    "zh": "目的地",
+    "syn": [
+      "end point",
+      "stopping place",
+      "terminus"
+    ],
+    "ant": [
+      "origin"
+    ],
+    "col": [
+      "final destination",
+      "tourist destination",
+      "reach a destination"
+    ],
+    "fam": [
+      "destination",
+      "destinations"
+    ],
+    "example": "The expedition's destination was a research hut on the edge of the ice.",
+    "basic": "The trip was meant to end at a research hut on the ice."
+  },
+  "destruction": {
+    "simple": "The act of ruining something so badly that it cannot be used as before.",
+    "detailed": "Severe damage that ends the useful life of a building, habitat, or object, often discussed after war, fire, or careless development.",
+    "zh": "破坏；毁灭",
+    "syn": [
+      "ruin",
+      "devastation",
+      "demolition"
+    ],
+    "ant": [
+      "construction",
+      "preservation"
+    ],
+    "col": [
+      "habitat destruction",
+      "widespread destruction",
+      "trail of destruction"
+    ],
+    "fam": [
+      "destruction",
+      "destroy",
+      "destructive",
+      "destructively"
+    ],
+    "example": "Habitat destruction along the river left fewer nesting sites for the herons.",
+    "basic": "When the river habitat was ruined, fewer herons could nest."
+  },
+  "detection": {
+    "simple": "The act of noticing or finding something that was hidden or faint.",
+    "detailed": "The process of discovering a signal, disease, error, or change, often with instruments or a careful method.",
+    "zh": "探测；发现",
+    "syn": [
+      "discovery",
+      "identification",
+      "spotting"
+    ],
+    "ant": [],
+    "col": [
+      "early detection",
+      "motion detection",
+      "detection of errors"
+    ],
+    "fam": [
+      "detection",
+      "detect",
+      "detective",
+      "detector"
+    ],
+    "example": "Early detection of the leak saved thousands of litres of treated water.",
+    "basic": "Finding the leak early saved a lot of treated water."
+  },
+  "deterioration": {
+    "simple": "The process of becoming worse in quality, strength, or condition.",
+    "detailed": "A gradual decline in health, materials, or an environment, which science notes often measure against a baseline.",
+    "zh": "恶化；衰退",
+    "syn": [
+      "decline",
+      "worsening",
+      "decay"
+    ],
+    "ant": [
+      "improvement",
+      "recovery"
+    ],
+    "col": [
+      "rapid deterioration",
+      "deterioration of health",
+      "signs of deterioration"
+    ],
+    "fam": [
+      "deterioration",
+      "deteriorate",
+      "deteriorating"
+    ],
+    "example": "The report tracked deterioration of the coral after the water stayed unusually warm.",
+    "basic": "The report showed the coral getting worse after the warm water."
+  },
+  "deviation": {
+    "simple": "A movement away from a planned path, rule, or usual value.",
+    "detailed": "The amount or kind of difference from a standard, mean, or expected route, used in science and in descriptions of behaviour.",
+    "zh": "偏差；偏离",
+    "syn": [
+      "divergence",
+      "departure",
+      "variance"
+    ],
+    "ant": [
+      "conformity"
+    ],
+    "col": [
+      "standard deviation",
+      "slight deviation",
+      "deviation from the plan"
+    ],
+    "fam": [
+      "deviation",
+      "deviate",
+      "deviant"
+    ],
+    "example": "A small deviation in temperature was enough to change how fast the crystals formed.",
+    "basic": "A small change from the usual temperature changed the crystals."
+  },
+  "diagnosis": {
+    "simple": "An identification of what is wrong, based on signs and tests.",
+    "detailed": "A reasoned decision about the cause of a problem—medical, mechanical, or academic—after evidence has been examined.",
+    "zh": "诊断",
+    "syn": [
+      "identification",
+      "assessment",
+      "finding"
+    ],
+    "ant": [],
+    "col": [
+      "medical diagnosis",
+      "early diagnosis",
+      "accurate diagnosis"
+    ],
+    "fam": [
+      "diagnosis",
+      "diagnose",
+      "diagnostic",
+      "diagnoses"
+    ],
+    "example": "The vet's diagnosis was that the koala was dehydrated after the heatwave.",
+    "basic": "The vet decided the koala needed water after the heatwave."
+  },
+  "diagram": {
+    "simple": "A simple drawing that shows how the parts of something fit or work.",
+    "detailed": "A labelled visual model—flow chart, cross-section, or cycle—used to make a process or structure easier to explain.",
+    "zh": "图解；示意图",
+    "syn": [
+      "sketch",
+      "figure",
+      "schematic"
+    ],
+    "ant": [],
+    "col": [
+      "labelled diagram",
+      "flow diagram",
+      "draw a diagram"
+    ],
+    "fam": [
+      "diagram",
+      "diagrams",
+      "diagrammatic"
+    ],
+    "example": "A labelled diagram of the water cycle earned more marks than a paragraph with no picture.",
+    "basic": "A labelled picture of the water cycle earned more marks."
+  },
+  "dilemma": {
+    "simple": "A hard choice between two options that both have serious downsides.",
+    "detailed": "A problem in which every available action has a cost, so a writer must weigh values, not just pick an easy winner.",
+    "zh": "两难",
+    "syn": [
+      "predicament",
+      "difficult choice",
+      "quandary"
+    ],
+    "ant": [],
+    "col": [
+      "moral dilemma",
+      "face a dilemma",
+      "ethical dilemma"
+    ],
+    "fam": [
+      "dilemma",
+      "dilemmas"
+    ],
+    "example": "The waste debate created a dilemma: ban the canteen wrap, or keep it and reduce litter another way.",
+    "basic": "The class had a hard choice about the canteen wrap."
+  },
+  "dimension": {
+    "simple": "A measurement of size, or one important side of a problem.",
+    "detailed": "A length, width, height, or other measurable extent; in academic writing, also an aspect of an issue that must not be ignored.",
+    "zh": "维度；方面",
+    "syn": [
+      "measurement",
+      "aspect",
+      "extent"
+    ],
+    "ant": [],
+    "col": [
+      "third dimension",
+      "human dimension",
+      "key dimension"
+    ],
+    "fam": [
+      "dimension",
+      "dimensions",
+      "dimensional"
+    ],
+    "example": "Height was only one dimension; the box also had to fit through the storeroom door.",
+    "basic": "Height was only one measurement the box needed."
+  },
+  "diplomacy": {
+    "simple": "The skill of handling disagreements between groups in a calm, respectful way.",
+    "detailed": "Official or personal negotiation that seeks agreement without force, using careful language and compromise.",
+    "zh": "外交；交际手腕",
+    "syn": [
+      "negotiation",
+      "tact",
+      "statesmanship"
+    ],
+    "ant": [
+      "hostility",
+      "aggression"
+    ],
+    "col": [
+      "quiet diplomacy",
+      "international diplomacy",
+      "art of diplomacy"
+    ],
+    "fam": [
+      "diplomacy",
+      "diplomat",
+      "diplomatic",
+      "diplomatically"
+    ],
+    "example": "The captains used diplomacy instead of shouting when the two teams disputed the catch.",
+    "basic": "The captains talked calmly instead of shouting about the catch."
+  },
+  "directive": {
+    "simple": "An official instruction that tells people what they must do.",
+    "detailed": "A formal order or written guidance from a leader, council, or department that staff or citizens are expected to follow.",
+    "zh": "指令；指示",
+    "syn": [
+      "instruction",
+      "order",
+      "command"
+    ],
+    "ant": [],
+    "col": [
+      "government directive",
+      "clear directive",
+      "issue a directive"
+    ],
+    "fam": [
+      "directive",
+      "directives",
+      "direct"
+    ],
+    "example": "A health directive required every camp kitchen to keep raw chicken on a separate board.",
+    "basic": "A health rule said camp kitchens must keep raw chicken separate."
+  },
+  "disability": {
+    "simple": "A long-term condition that can make some everyday activities harder.",
+    "detailed": "A physical, sensory, or cognitive difference that interacts with barriers in the environment; fair communities remove those barriers.",
+    "zh": "残障",
+    "syn": [
+      "impairment",
+      "access need"
+    ],
+    "ant": [],
+    "col": [
+      "physical disability",
+      "learning disability",
+      "people with disability"
+    ],
+    "fam": [
+      "disability",
+      "disabilities",
+      "disabled"
+    ],
+    "example": "The new ramp showed the school was removing barriers for students with disability.",
+    "basic": "The new ramp made the school easier to enter for some students."
+  },
+  "disaster": {
+    "simple": "A sudden event that causes great damage, loss, or suffering.",
+    "detailed": "A natural or human-made catastrophe—flood, fire, quake, or serious accident—that overwhelms ordinary local resources.",
+    "zh": "灾难",
+    "syn": [
+      "catastrophe",
+      "calamity",
+      "tragedy"
+    ],
+    "ant": [],
+    "col": [
+      "natural disaster",
+      "disaster relief",
+      "avoid a disaster"
+    ],
+    "fam": [
+      "disaster",
+      "disastrous",
+      "disastrously"
+    ],
+    "example": "After the flood disaster, families slept in the sports hall until the houses dried.",
+    "basic": "After the bad flood, families slept in the sports hall."
+  },
+  "discipline": {
+    "simple": "A field of study, or the self-control that keeps work steady and fair.",
+    "detailed": "A branch of knowledge such as history or biology, and also the trained habit of following methods, rules, or practice routines.",
+    "zh": "学科；纪律",
+    "syn": [
+      "field",
+      "self-control",
+      "training"
+    ],
+    "ant": [],
+    "col": [
+      "academic discipline",
+      "sense of discipline",
+      "scientific discipline"
+    ],
+    "fam": [
+      "discipline",
+      "disciplines",
+      "disciplinary",
+      "disciplined"
+    ],
+    "example": "History is a discipline that trains you to test sources instead of copying the first website.",
+    "basic": "History is a subject that trains you to test sources."
+  },
+  "discourse": {
+    "simple": "Connected talk or writing about a topic, especially in a formal way.",
+    "detailed": "The language a community uses to discuss an idea, including the shared terms, tone, and assumptions in a debate or text.",
+    "zh": "话语；论述",
+    "syn": [
+      "discussion",
+      "dialogue",
+      "commentary"
+    ],
+    "ant": [],
+    "col": [
+      "public discourse",
+      "political discourse",
+      "written discourse"
+    ],
+    "fam": [
+      "discourse",
+      "discourses"
+    ],
+    "example": "The novel's discourse about belonging mixed First Nations place names with the new settlers' maps.",
+    "basic": "The novel's talk about belonging mixed old place names with new maps."
+  },
+  "discrepancy": {
+    "simple": "A difference between two records that should have matched.",
+    "detailed": "An unexplained gap between figures, witness accounts, or measurements that a careful reader must notice and resolve.",
+    "zh": "差异；不符",
+    "syn": [
+      "inconsistency",
+      "mismatch",
+      "variance"
+    ],
+    "ant": [
+      "match",
+      "agreement"
+    ],
+    "col": [
+      "major discrepancy",
+      "discrepancy between",
+      "explain the discrepancy"
+    ],
+    "fam": [
+      "discrepancy",
+      "discrepancies"
+    ],
+    "example": "There was a discrepancy between the rainfall gauge and the Bureau's published total.",
+    "basic": "The rainfall gauge and the published total did not match."
+  },
+  "discretion": {
+    "simple": "The freedom to decide, used carefully and privately.",
+    "detailed": "Judgement left to a responsible person when rules do not fix every detail, plus the tact of not sharing what should stay confidential.",
+    "zh": "酌情权；谨慎",
+    "syn": [
+      "judgement",
+      "tact",
+      "prudence"
+    ],
+    "ant": [
+      "indiscretion"
+    ],
+    "col": [
+      "at the teacher's discretion",
+      "use discretion",
+      "complete discretion"
+    ],
+    "fam": [
+      "discretion",
+      "discreet",
+      "discreetly"
+    ],
+    "example": "Late homework was accepted at the teacher's discretion if a student had been ill.",
+    "basic": "The teacher could decide to accept late homework if a student had been ill."
+  },
+  "discrimination": {
+    "simple": "Unfair treatment of people because of who they are, or the skill of noticing fine differences.",
+    "detailed": "Unjust action against a group based on race, sex, disability, or similar grounds; in academic use it can also mean careful distinction between ideas.",
+    "zh": "歧视；辨别",
+    "syn": [
+      "prejudice",
+      "bias",
+      "unfair treatment"
+    ],
+    "ant": [
+      "fairness",
+      "equality"
+    ],
+    "col": [
+      "racial discrimination",
+      "unlawful discrimination",
+      "age discrimination"
+    ],
+    "fam": [
+      "discrimination",
+      "discriminate",
+      "discriminatory"
+    ],
+    "example": "The HASS unit examined how discrimination limited who could vote in early Australian elections.",
+    "basic": "The unit examined how unfair rules limited who could vote."
+  },
+  "disposition": {
+    "simple": "A person's usual mood or way of treating others.",
+    "detailed": "A fairly stable tendency of character—calm, fiery, generous—that shapes how a figure behaves across a narrative.",
+    "zh": "性情；倾向",
+    "syn": [
+      "temperament",
+      "nature",
+      "character"
+    ],
+    "ant": [],
+    "col": [
+      "cheerful disposition",
+      "calm disposition",
+      "natural disposition"
+    ],
+    "fam": [
+      "disposition",
+      "dispositions"
+    ],
+    "example": "The narrator's gentle disposition made the harsh boarding-house scenes feel even colder.",
+    "basic": "The narrator's gentle nature made the boarding house feel even colder."
+  },
+  "dispute": {
+    "simple": "A serious disagreement, often about facts, rights, or a decision.",
+    "detailed": "A conflict that may stay verbal or become formal, as when communities, teams, or nations contest a claim.",
+    "zh": "争端；争执",
+    "syn": [
+      "argument",
+      "quarrel",
+      "conflict"
+    ],
+    "ant": [
+      "agreement",
+      "settlement"
+    ],
+    "col": [
+      "border dispute",
+      "resolve a dispute",
+      "industrial dispute"
+    ],
+    "fam": [
+      "dispute",
+      "disputes",
+      "disputed"
+    ],
+    "example": "The two councils entered a dispute over who should pay for the shared bike path.",
+    "basic": "The two councils argued over who should pay for the bike path."
+  },
+  "disruption": {
+    "simple": "A break that stops something from running in its usual way.",
+    "detailed": "An interruption to a system, lesson, or habitat, sometimes useful in experiments but often costly in civic life.",
+    "zh": "中断；扰乱",
+    "syn": [
+      "interruption",
+      "disturbance",
+      "upheaval"
+    ],
+    "ant": [
+      "continuity",
+      "stability"
+    ],
+    "col": [
+      "service disruption",
+      "major disruption",
+      "cause disruption"
+    ],
+    "fam": [
+      "disruption",
+      "disrupt",
+      "disruptive"
+    ],
+    "example": "Storm damage caused disruption to the train line, so the excursion left an hour late.",
+    "basic": "Storm damage stopped the trains, so the excursion left late."
+  },
+  "dissertation": {
+    "simple": "A long, formal piece of writing that investigates one research question.",
+    "detailed": "An extended academic study, usually for a university award, built from sources, method, and a sustained argument.",
+    "zh": "专题论文；学位论文",
+    "syn": [
+      "thesis",
+      "treatise",
+      "research paper"
+    ],
+    "ant": [],
+    "col": [
+      "doctoral dissertation",
+      "write a dissertation",
+      "dissertation topic"
+    ],
+    "fam": [
+      "dissertation",
+      "dissertations"
+    ],
+    "example": "Mum's old dissertation on local wetlands still had useful maps for our creek report.",
+    "basic": "Mum's old university paper on wetlands still had useful maps."
+  },
+  "distribution": {
+    "simple": "The way things are spread out, or the act of giving them to different people.",
+    "detailed": "The pattern of where people, species, or goods are found, and the process of allocating resources across a community.",
+    "zh": "分布；分配",
+    "syn": [
+      "spread",
+      "allocation",
+      "delivery"
+    ],
+    "ant": [],
+    "col": [
+      "uneven distribution",
+      "food distribution",
+      "distribution of wealth"
+    ],
+    "fam": [
+      "distribution",
+      "distribute",
+      "distributor"
+    ],
+    "example": "The map showed an uneven distribution of public libraries across the newer suburbs.",
+    "basic": "The map showed that libraries were not spread evenly across the newer suburbs."
+  },
+  "diversity": {
+    "simple": "A range of different people, living things, or ideas in one place.",
+    "detailed": "Variety within a community or ecosystem, valued in HASS and science because different strengths and species make a system more resilient.",
+    "zh": "多样性",
+    "syn": [
+      "variety",
+      "range",
+      "mixture"
+    ],
+    "ant": [
+      "uniformity"
+    ],
+    "col": [
+      "cultural diversity",
+      "biodiversity",
+      "celebrate diversity"
+    ],
+    "fam": [
+      "diversity",
+      "diverse",
+      "diversify"
+    ],
+    "example": "The festival celebrated the cultural diversity of the families in our catchment.",
+    "basic": "The festival celebrated how many different family backgrounds were in our area."
+  },
+  "doctrine": {
+    "simple": "A set of official beliefs that a group teaches as true.",
+    "detailed": "A formal teaching in religion, law, or politics that members are expected to accept and apply to new cases.",
+    "zh": "学说；信条",
+    "syn": [
+      "teaching",
+      "creed",
+      "tenet"
+    ],
+    "ant": [],
+    "col": [
+      "legal doctrine",
+      "religious doctrine",
+      "political doctrine"
+    ],
+    "fam": [
+      "doctrine",
+      "doctrines",
+      "doctrinal"
+    ],
+    "example": "The class compared one legal doctrine about terra nullius with later High Court decisions.",
+    "basic": "The class compared one official legal teaching with later court decisions."
+  },
+  "domain": {
+    "simple": "An area of knowledge, control, or online space that belongs to a person or field.",
+    "detailed": "A territory of expertise or authority—such as science or a website name—within which certain rules and terms apply.",
+    "zh": "领域；范围",
+    "syn": [
+      "field",
+      "sphere",
+      "realm"
+    ],
+    "ant": [],
+    "col": [
+      "public domain",
+      "domain of science",
+      "subject domain"
+    ],
+    "fam": [
+      "domain",
+      "domains"
+    ],
+    "example": "Spelling rules sit in the language domain, but this question also needed science vocabulary.",
+    "basic": "Spelling rules belong to language, but this question also needed science words."
+  },
+  "dominance": {
+    "simple": "The state of having the strongest influence or control.",
+    "detailed": "A position of power in which one group, species, or idea outweighs others, sometimes fairly earned and sometimes imposed.",
+    "zh": "主导地位",
+    "syn": [
+      "control",
+      "supremacy",
+      "ascendancy"
+    ],
+    "ant": [
+      "submission",
+      "weakness"
+    ],
+    "col": [
+      "market dominance",
+      "male dominance",
+      "political dominance"
+    ],
+    "fam": [
+      "dominance",
+      "dominant",
+      "dominate"
+    ],
+    "example": "The inquiry asked how British dominance shaped land laws after 1788.",
+    "basic": "The inquiry asked how British control shaped land laws after 1788."
+  },
+  "duration": {
+    "simple": "The length of time something lasts.",
+    "detailed": "A measured span from start to finish, used in science and planning when timing is part of the result.",
+    "zh": "持续时间",
+    "syn": [
+      "length",
+      "span",
+      "period"
+    ],
+    "ant": [],
+    "col": [
+      "short duration",
+      "duration of the test",
+      "for the duration"
+    ],
+    "fam": [
+      "duration",
+      "durable",
+      "during"
+    ],
+    "example": "Students recorded the duration of each bounce until the ball stayed still.",
+    "basic": "Students recorded how long each bounce lasted."
+  },
+  "dynasty": {
+    "simple": "A family that rules a country for several generations.",
+    "detailed": "A line of rulers from the same family, or a long period named after them, used in HASS to organise change over time.",
+    "zh": "王朝",
+    "syn": [
+      "ruling family",
+      "house",
+      "lineage"
+    ],
+    "ant": [],
+    "col": [
+      "ancient dynasty",
+      "royal dynasty",
+      "end of a dynasty"
+    ],
+    "fam": [
+      "dynasty",
+      "dynasties",
+      "dynastic"
+    ],
+    "example": "The timeline placed each Chinese dynasty beside the inventions it was known for.",
+    "basic": "The timeline placed each ruling family beside its inventions."
+  },
+  "ecology": {
+    "simple": "The study of how living things interact with one another and their surroundings.",
+    "detailed": "A science that examines relationships among organisms, habitats, and non-living factors such as water, soil, and climate.",
+    "zh": "生态学",
+    "syn": [
+      "environmental science",
+      "ecosystem study"
+    ],
+    "ant": [],
+    "col": [
+      "marine ecology",
+      "study ecology",
+      "ecology of the reef"
+    ],
+    "fam": [
+      "ecology",
+      "ecological",
+      "ecologist",
+      "ecologically"
+    ],
+    "example": "Our ecology unit traced how removing one predator changed the whole rock-pool web.",
+    "basic": "Our living-systems unit traced how removing one predator changed the rock pool."
+  },
+  "edition": {
+    "simple": "A particular published version of a book, paper, or programme.",
+    "detailed": "One printing or release of a text, which may update facts, images, or wording compared with earlier versions.",
+    "zh": "版本",
+    "syn": [
+      "version",
+      "issue",
+      "printing"
+    ],
+    "ant": [],
+    "col": [
+      "first edition",
+      "revised edition",
+      "weekend edition"
+    ],
+    "fam": [
+      "edition",
+      "editions",
+      "editor"
+    ],
+    "example": "The revised edition of the atlas corrected the spelling of several First Nations place names.",
+    "basic": "The newer version of the atlas corrected several place names."
+  },
+  "efficiency": {
+    "simple": "Getting a good result without wasting time, energy, or materials.",
+    "detailed": "The ratio of useful output to input; science and design praise methods that achieve the goal with less waste.",
+    "zh": "效率",
+    "syn": [
+      "effectiveness",
+      "productivity",
+      "economy"
+    ],
+    "ant": [
+      "wastefulness",
+      "inefficiency"
+    ],
+    "col": [
+      "energy efficiency",
+      "improve efficiency",
+      "high efficiency"
+    ],
+    "fam": [
+      "efficiency",
+      "efficient",
+      "efficiently"
+    ],
+    "example": "The new tap design improved water efficiency without reducing pressure.",
+    "basic": "The new tap wasted less water without reducing pressure."
+  },
+  "elite": {
+    "simple": "A small group with special power, wealth, or skill compared with most people.",
+    "detailed": "Those at the top of a social, sporting, or academic hierarchy; HASS writing often asks who is included and who is shut out.",
+    "zh": "精英",
+    "syn": [
+      "top group",
+      "select few",
+      "upper circle"
+    ],
+    "ant": [],
+    "col": [
+      "ruling elite",
+      "elite athletes",
+      "political elite"
+    ],
+    "fam": [
+      "elite",
+      "elites",
+      "elitist"
+    ],
+    "example": "Only an elite of property-owning men could vote in some early colonial elections.",
+    "basic": "Only a small top group of property-owning men could vote in some early elections."
+  },
+  "enclosure": {
+    "simple": "A fenced or walled space, or something shut inside a letter or package.",
+    "detailed": "Land or an area closed off from common use, and also an extra document included with a letter; HASS may discuss historical fencing-off of shared land.",
+    "zh": "围地；附件",
+    "syn": [
+      "pen",
+      "compound",
+      "attachment"
+    ],
+    "ant": [],
+    "col": [
+      "animal enclosure",
+      "letter enclosure",
+      "wildlife enclosure"
+    ],
+    "fam": [
+      "enclosure",
+      "enclose",
+      "enclosed"
+    ],
+    "example": "The zoo's new enclosure gave the wombats deeper burrows and more shade.",
+    "basic": "The zoo's new fenced space gave the wombats more shade."
+  },
+  "encounter": {
+    "simple": "A meeting, especially one that is unexpected or important.",
+    "detailed": "A face-to-face or narrative meeting with a person, creature, or idea that can change the course of a story.",
+    "zh": "遭遇；相遇",
+    "syn": [
+      "meeting",
+      "run-in",
+      "confrontation"
+    ],
+    "ant": [],
+    "col": [
+      "close encounter",
+      "chance encounter",
+      "first encounter"
+    ],
+    "fam": [
+      "encounter",
+      "encounters",
+      "encountered"
+    ],
+    "example": "The camp narrative hinged on one encounter between the lost hikers and a park ranger.",
+    "basic": "The camp story hinged on one meeting between the hikers and a ranger."
+  },
+  "endurance": {
+    "simple": "The ability to keep going through pain, effort, or difficulty.",
+    "detailed": "Staying power of body or spirit over a long trial, often used in literary portraits of characters who refuse to quit.",
+    "zh": "耐力；坚忍",
+    "syn": [
+      "stamina",
+      "staying power",
+      "fortitude"
+    ],
+    "ant": [
+      "weakness",
+      "exhaustion"
+    ],
+    "col": [
+      "physical endurance",
+      "test of endurance",
+      "extraordinary endurance"
+    ],
+    "fam": [
+      "endurance",
+      "endure",
+      "enduring"
+    ],
+    "example": "The survivor's endurance in the desert chapters made the rescue scene feel earned.",
+    "basic": "The survivor's staying power in the desert made the rescue feel earned."
+  },
+  "enforcement": {
+    "simple": "The act of making sure a rule or law is actually followed.",
+    "detailed": "Official action—fines, inspections, or court steps—that turns a written rule into practice in a community.",
+    "zh": "执行；执法",
+    "syn": [
+      "application",
+      "policing",
+      "implementation"
+    ],
+    "ant": [],
+    "col": [
+      "law enforcement",
+      "strict enforcement",
+      "enforcement of rules"
+    ],
+    "fam": [
+      "enforcement",
+      "enforce",
+      "enforceable"
+    ],
+    "example": "Without enforcement, the no-fishing zone on the reef was only a sign on a post.",
+    "basic": "Without anyone checking, the no-fishing zone was only a sign."
+  },
+  "engagement": {
+    "simple": "Active involvement in a task, community, or idea.",
+    "detailed": "The quality of taking part with attention and responsibility, not merely being present; HASS also uses it for civic participation.",
+    "zh": "参与；投入",
+    "syn": [
+      "involvement",
+      "participation",
+      "commitment"
+    ],
+    "ant": [
+      "withdrawal",
+      "apathy"
+    ],
+    "col": [
+      "student engagement",
+      "civic engagement",
+      "community engagement"
+    ],
+    "fam": [
+      "engagement",
+      "engage",
+      "engaging"
+    ],
+    "example": "Civic engagement rose after the council let students speak at the planning meeting.",
+    "basic": "More people took part after the council let students speak."
+  },
+  "engine": {
+    "simple": "A machine that turns energy into movement or useful work.",
+    "detailed": "A device—petrol, electric, or steam—that converts stored energy into motion, heat, or power for transport or industry.",
+    "zh": "发动机；引擎",
+    "syn": [
+      "motor",
+      "power unit",
+      "machine"
+    ],
+    "ant": [],
+    "col": [
+      "steam engine",
+      "car engine",
+      "search engine"
+    ],
+    "fam": [
+      "engine",
+      "engines",
+      "engineer"
+    ],
+    "example": "The steam engine in the museum still turned the wheel when the guide released the valve.",
+    "basic": "The old steam machine in the museum still turned the wheel."
+  },
+  "enquiry": {
+    "simple": "A careful search for answers by asking questions and checking evidence.",
+    "detailed": "A structured investigation—classroom or official—that gathers sources, tests ideas, and reports findings (Australian spelling of the academic sense).",
+    "zh": "探究；询问",
+    "syn": [
+      "investigation",
+      "inquiry",
+      "probe"
+    ],
+    "ant": [],
+    "col": [
+      "scientific enquiry",
+      "public enquiry",
+      "line of enquiry"
+    ],
+    "fam": [
+      "enquiry",
+      "enquiries",
+      "enquire",
+      "enquirer"
+    ],
+    "example": "The Federation enquiry asked who was left out of the first Commonwealth Parliament.",
+    "basic": "The Federation investigation asked who was left out of the first Parliament."
+  },
+  "enterprise": {
+    "simple": "A bold project or a business that takes a risk to achieve something.",
+    "detailed": "An organised venture, commercial or civic, that needs initiative, planning, and often money; also the quality of being enterprising.",
+    "zh": "企业；事业",
+    "syn": [
+      "venture",
+      "undertaking",
+      "business"
+    ],
+    "ant": [],
+    "col": [
+      "small enterprise",
+      "business enterprise",
+      "risky enterprise"
+    ],
+    "fam": [
+      "enterprise",
+      "enterprising",
+      "enterprises"
+    ],
+    "example": "The class enterprise sold seedlings and used the profit for creek-care gloves.",
+    "basic": "The class business sold seedlings and used the profit for gloves."
+  },
+  "entity": {
+    "simple": "A thing that exists as a separate unit and can be named.",
+    "detailed": "A distinct being, organisation, or object treated as one whole in law, science, or academic analysis.",
+    "zh": "实体",
+    "syn": [
+      "being",
+      "organisation",
+      "unit"
+    ],
+    "ant": [],
+    "col": [
+      "legal entity",
+      "separate entity",
+      "business entity"
+    ],
+    "fam": [
+      "entity",
+      "entities"
+    ],
+    "example": "The wildlife trust is a legal entity, so it can own the reserve in its own name.",
+    "basic": "The wildlife trust is a separate organisation, so it can own the reserve."
+  },
+  "episode": {
+    "simple": "One event in a series, or one instalment of a story.",
+    "detailed": "A bounded incident within a longer narrative, history, or television sequence, often with its own turning point.",
+    "zh": "片段；一集",
+    "syn": [
+      "incident",
+      "instalment",
+      "chapter"
+    ],
+    "ant": [],
+    "col": [
+      "final episode",
+      "brief episode",
+      "television episode"
+    ],
+    "fam": [
+      "episode",
+      "episodes",
+      "episodic"
+    ],
+    "example": "The storm episode in chapter four changed the friendship more than any later scene.",
+    "basic": "The storm scene in chapter four changed the friendship."
+  },
+  "epoch": {
+    "simple": "A long period of time marked by a particular way of life or set of events.",
+    "detailed": "A distinctive historical or geological age that historians or scientists use to group major changes.",
+    "zh": "时代；纪元",
+    "syn": [
+      "era",
+      "age",
+      "period"
+    ],
+    "ant": [],
+    "col": [
+      "new epoch",
+      "historical epoch",
+      "geological epoch"
+    ],
+    "fam": [
+      "epoch",
+      "epochs",
+      "epochal"
+    ],
+    "example": "Federation began a new political epoch, even though everyday life changed slowly.",
+    "basic": "Federation began a new political period, even though everyday life changed slowly."
+  },
+  "equality": {
+    "simple": "The state of people having the same rights, value, or chances.",
+    "detailed": "A civic principle that laws and opportunities should not favour one group unfairly over another.",
+    "zh": "平等",
+    "syn": [
+      "parity",
+      "fairness",
+      "equal rights"
+    ],
+    "ant": [
+      "inequality"
+    ],
+    "col": [
+      "gender equality",
+      "equality before the law",
+      "fight for equality"
+    ],
+    "fam": [
+      "equality",
+      "equal",
+      "equally",
+      "equalise"
+    ],
+    "example": "The speech claimed that equality before the law still needed fair access to courts.",
+    "basic": "The speech said equal legal rights still needed fair access to courts."
+  },
+  "equilibrium": {
+    "simple": "A steady balance in which opposing forces cancel one another.",
+    "detailed": "A stable state in a system—physical, chemical, or ecological—until a new factor shifts the balance.",
+    "zh": "平衡；均衡",
+    "syn": [
+      "balance",
+      "stability",
+      "poise"
+    ],
+    "ant": [
+      "imbalance",
+      "disequilibrium"
+    ],
+    "col": [
+      "chemical equilibrium",
+      "market equilibrium",
+      "state of equilibrium"
+    ],
+    "fam": [
+      "equilibrium",
+      "equilibria"
+    ],
+    "example": "The rock pool stayed in equilibrium until extra nutrients made algae take over.",
+    "basic": "The rock pool stayed balanced until extra nutrients made algae take over."
+  },
+  "equity": {
+    "simple": "Fairness that gives people what they need, not only the same thing.",
+    "detailed": "Justice that notices different starting points, so support is adjusted until chances are genuinely fair.",
+    "zh": "公平；公正",
+    "syn": [
+      "fairness",
+      "justice",
+      "impartiality"
+    ],
+    "ant": [
+      "inequity",
+      "unfairness"
+    ],
+    "col": [
+      "educational equity",
+      "equity of access",
+      "sense of equity"
+    ],
+    "fam": [
+      "equity",
+      "equitable",
+      "equitably"
+    ],
+    "example": "Giving extra reading time was equity, because some students were still learning English.",
+    "basic": "Giving extra reading time was fair, because some students were still learning English."
+  },
+  "equivalent": {
+    "simple": "Something that has the same value, meaning, or effect as something else.",
+    "detailed": "A matching quantity or substitute that can stand in for another measure, word, or role without changing the result.",
+    "zh": "对等物；等价物",
+    "syn": [
+      "match",
+      "counterpart",
+      "equal"
+    ],
+    "ant": [],
+    "col": [
+      "metric equivalent",
+      "English equivalent",
+      "roughly equivalent"
+    ],
+    "fam": [
+      "equivalent",
+      "equivalence",
+      "equivalents"
+    ],
+    "example": "Fifty millilitres is the equivalent of about ten teaspoons in the method.",
+    "basic": "Fifty millilitres is about the same as ten teaspoons in the method."
+  },
+  "erosion": {
+    "simple": "The wearing away of rock or soil by water, wind, or ice.",
+    "detailed": "A physical process that removes material from a landscape or, figuratively, slowly weakens a right, bank, or trust.",
+    "zh": "侵蚀",
+    "syn": [
+      "wearing away",
+      "weathering",
+      "abrasion"
+    ],
+    "ant": [],
+    "col": [
+      "soil erosion",
+      "coastal erosion",
+      "wind erosion"
+    ],
+    "fam": [
+      "erosion",
+      "erode",
+      "eroded"
+    ],
+    "example": "Coastal erosion had moved the fence line several metres inland since the last survey.",
+    "basic": "The waves had worn the coast so the fence was now further inland."
+  },
+  "essay": {
+    "simple": "A short piece of writing that explains or argues one main idea.",
+    "detailed": "A structured composition with an introduction, developed paragraphs, and a conclusion, used in scholarship and classroom assessment.",
+    "zh": "短文；论说文",
+    "syn": [
+      "composition",
+      "paper",
+      "article"
+    ],
+    "ant": [],
+    "col": [
+      "persuasive essay",
+      "write an essay",
+      "scholarship essay"
+    ],
+    "fam": [
+      "essay",
+      "essays",
+      "essayist"
+    ],
+    "example": "The scholarship essay had to take a clear position on whether phones belong in class.",
+    "basic": "The scholarship writing task had to take a clear position on phones in class."
+  },
+  "essence": {
+    "simple": "The most important quality that makes something what it is.",
+    "detailed": "The core nature of an idea or thing, stripped of extra detail, which a precise writer tries to name.",
+    "zh": "本质；精髓",
+    "syn": [
+      "core",
+      "heart",
+      "nature"
+    ],
+    "ant": [],
+    "col": [
+      "in essence",
+      "the essence of",
+      "capture the essence"
+    ],
+    "fam": [
+      "essence",
+      "essential",
+      "essentially"
+    ],
+    "example": "In essence, the rule was simple: every claim needed a source the marker could check.",
+    "basic": "The main point of the rule was simple: every claim needed a source."
+  },
+  "ethics": {
+    "simple": "Ideas about what is right and wrong when you make a choice.",
+    "detailed": "A system of moral principles used to judge actions, research methods, or public decisions as fair or harmful.",
+    "zh": "伦理；道德规范",
+    "syn": [
+      "morals",
+      "principles",
+      "values"
+    ],
+    "ant": [],
+    "col": [
+      "medical ethics",
+      "work ethics",
+      "ethics of research"
+    ],
+    "fam": [
+      "ethics",
+      "ethical",
+      "ethically",
+      "ethic"
+    ],
+    "example": "Research ethics meant the class could not stress the minnows just to get a dramatic graph.",
+    "basic": "Fair research rules meant the class could not stress the minnows for a dramatic graph."
+  },
+  "evolution": {
+    "simple": "Gradual change over a long time, especially in living things.",
+    "detailed": "In science, the process by which species change through inherited variation; in general academic use, any slow development of an idea or system.",
+    "zh": "进化；演变",
+    "syn": [
+      "development",
+      "change",
+      "adaptation"
+    ],
+    "ant": [],
+    "col": [
+      "theory of evolution",
+      "gradual evolution",
+      "evolution of ideas"
+    ],
+    "fam": [
+      "evolution",
+      "evolve",
+      "evolutionary"
+    ],
+    "example": "The display explained evolution with finch beaks that matched different island foods.",
+    "basic": "The display explained slow species change with finch beaks that matched island foods."
+  },
+  "examination": {
+    "simple": "A formal test, or a close look that checks every important detail.",
+    "detailed": "A timed assessment of knowledge, and also a careful inspection of evidence, a patient, or a text.",
+    "zh": "考试；检查",
+    "syn": [
+      "test",
+      "inspection",
+      "assessment"
+    ],
+    "ant": [],
+    "col": [
+      "written examination",
+      "medical examination",
+      "close examination"
+    ],
+    "fam": [
+      "examination",
+      "examine",
+      "examiner"
+    ],
+    "example": "Close examination of the diary showed the dates had been added in a different ink.",
+    "basic": "A close look at the diary showed the dates were in a different ink."
+  },
+  "exception": {
+    "simple": "A case that does not follow the usual rule.",
+    "detailed": "An allowed or observed departure from a pattern, which a precise writer should name so the rule is not overstated.",
+    "zh": "例外",
+    "syn": [
+      "special case",
+      "anomaly",
+      "departure"
+    ],
+    "ant": [
+      "rule",
+      "norm"
+    ],
+    "col": [
+      "with the exception of",
+      "rare exception",
+      "make an exception"
+    ],
+    "fam": [
+      "exception",
+      "exceptions",
+      "exceptional"
+    ],
+    "example": "Every group presented on Friday, with the exception of the team whose speaker was ill.",
+    "basic": "Every group presented on Friday except the team whose speaker was ill."
+  },
+  "excerpt": {
+    "simple": "A short passage copied from a longer text.",
+    "detailed": "A selected extract used for close reading, so students can study language or evidence without reprinting the whole work.",
+    "zh": "摘录；选段",
+    "syn": [
+      "extract",
+      "passage",
+      "selection"
+    ],
+    "ant": [],
+    "col": [
+      "short excerpt",
+      "excerpt from the novel",
+      "read an excerpt"
+    ],
+    "fam": [
+      "excerpt",
+      "excerpts",
+      "excerpted"
+    ],
+    "example": "The paper printed an excerpt from the speech, then asked what the metaphor suggested.",
+    "basic": "The paper printed a short piece of the speech, then asked about the metaphor."
+  },
+  "excess": {
+    "simple": "More of something than is needed or healthy.",
+    "detailed": "A surplus beyond a useful or safe amount, whether of nutrients, spending, or emotion, often treated as a problem to reduce.",
+    "zh": "过量；过剩",
+    "syn": [
+      "surplus",
+      "overabundance",
+      "glut"
+    ],
+    "ant": [
+      "shortage",
+      "deficiency"
+    ],
+    "col": [
+      "in excess",
+      "excess water",
+      "excess sugar"
+    ],
+    "fam": [
+      "excess",
+      "excessive",
+      "excessively"
+    ],
+    "example": "Excess fertiliser washed into the lagoon and fed a thick algal bloom.",
+    "basic": "Too much fertiliser washed into the lagoon and fed the algae."
+  },
+  "exclusion": {
+    "simple": "The act of leaving someone or something out.",
+    "detailed": "A policy or practice that bars people from a place, right, or group, or that omits data from a set for a stated reason.",
+    "zh": "排除；排斥",
+    "syn": [
+      "leaving out",
+      "omission",
+      "ban"
+    ],
+    "ant": [
+      "inclusion"
+    ],
+    "col": [
+      "social exclusion",
+      "exclusion from school",
+      "zone of exclusion"
+    ],
+    "fam": [
+      "exclusion",
+      "exclude",
+      "exclusive"
+    ],
+    "example": "The timeline noted the exclusion of many First Nations people from the early electoral rolls.",
+    "basic": "The timeline noted that many First Nations people were left off the early electoral rolls."
+  },
+  "excursion": {
+    "simple": "A short trip taken for learning or pleasure.",
+    "detailed": "An organised outing from school or camp with a purpose—fieldwork, a museum, or a civic site—and planned safety rules.",
+    "zh": "短途旅行；考察",
+    "syn": [
+      "outing",
+      "trip",
+      "visit"
+    ],
+    "ant": [],
+    "col": [
+      "school excursion",
+      "museum excursion",
+      "day excursion"
+    ],
+    "fam": [
+      "excursion",
+      "excursions"
+    ],
+    "example": "The museum excursion let students handle replica artefacts they could not touch on display.",
+    "basic": "The museum trip let students handle replica artefacts."
+  },
+  "execution": {
+    "simple": "The carrying out of a plan, method, or piece of work.",
+    "detailed": "How well an intended action is actually performed, from a science method to a speech; in academic tasks the focus is delivery, not punishment.",
+    "zh": "执行；实施",
+    "syn": [
+      "performance",
+      "implementation",
+      "carrying out"
+    ],
+    "ant": [],
+    "col": [
+      "careful execution",
+      "execution of the plan",
+      "poor execution"
+    ],
+    "fam": [
+      "execution",
+      "execute",
+      "executable"
+    ],
+    "example": "The idea was strong, but poor execution meant the model leaked before the judges arrived.",
+    "basic": "The idea was strong, but the way they built the model meant it leaked."
+  },
+  "exemption": {
+    "simple": "Official permission not to follow a rule that applies to others.",
+    "detailed": "A legal or administrative release from a duty, fee, or requirement, granted for a stated reason.",
+    "zh": "豁免",
+    "syn": [
+      "waiver",
+      "dispensation",
+      "release"
+    ],
+    "ant": [],
+    "col": [
+      "tax exemption",
+      "medical exemption",
+      "grant an exemption"
+    ],
+    "fam": [
+      "exemption",
+      "exempt",
+      "exemptions"
+    ],
+    "example": "A medical exemption meant she could sit the running test on another day.",
+    "basic": "A medical note meant she could sit the running test on another day."
+  },
+  "exhibition": {
+    "simple": "A public display of objects, art, or student work.",
+    "detailed": "An organised showing, in a gallery, museum, or hall, designed to teach, persuade, or celebrate what is on view.",
+    "zh": "展览",
+    "syn": [
+      "display",
+      "show",
+      "exposition"
+    ],
+    "ant": [],
+    "col": [
+      "art exhibition",
+      "museum exhibition",
+      "travelling exhibition"
+    ],
+    "fam": [
+      "exhibition",
+      "exhibit",
+      "exhibitor"
+    ],
+    "example": "The travelling exhibition of Antarctic photographs filled the library with blue light.",
+    "basic": "The travelling display of Antarctic photographs filled the library with blue light."
+  },
+  "exile": {
+    "simple": "The state of being forced to live away from your home country.",
+    "detailed": "Removal from one's homeland, by law or threat, and the life of a person who cannot safely return.",
+    "zh": "流亡；放逐",
+    "syn": [
+      "banishment",
+      "deportation",
+      "forced absence"
+    ],
+    "ant": [
+      "return",
+      "homecoming"
+    ],
+    "col": [
+      "in exile",
+      "political exile",
+      "years of exile"
+    ],
+    "fam": [
+      "exile",
+      "exiled",
+      "exiles"
+    ],
+    "example": "The memoir described childhood in exile after the family fled the civil war.",
+    "basic": "The memoir described childhood after the family had to leave their country."
+  },
+  "existence": {
+    "simple": "The fact of being real or alive.",
+    "detailed": "The state of having being in the world, or of a problem, species, or idea actually occurring rather than being imagined.",
+    "zh": "存在",
+    "syn": [
+      "being",
+      "presence",
+      "reality"
+    ],
+    "ant": [],
+    "col": [
+      "human existence",
+      "prove the existence",
+      "in existence"
+    ],
+    "fam": [
+      "existence",
+      "exist",
+      "existing"
+    ],
+    "example": "Fossils proved the existence of animals that no longer live on this coastline.",
+    "basic": "Fossils proved that those animals had been real on this coastline."
+  },
+  "expansion": {
+    "simple": "The process of becoming larger in size, number, or range.",
+    "detailed": "Growth of a city, empire, business, or idea into new space or topics, with costs as well as gains.",
+    "zh": "扩张；扩展",
+    "syn": [
+      "growth",
+      "enlargement",
+      "spread"
+    ],
+    "ant": [
+      "contraction",
+      "reduction"
+    ],
+    "col": [
+      "urban expansion",
+      "rapid expansion",
+      "expansion of trade"
+    ],
+    "fam": [
+      "expansion",
+      "expand",
+      "expansive"
+    ],
+    "example": "Urban expansion had replaced the wetlands with warehouses in less than twenty years.",
+    "basic": "The growing city had replaced the wetlands with warehouses."
+  },
+  "expectation": {
+    "simple": "A belief about what is likely or required to happen.",
+    "detailed": "A forecast or standard that shapes behaviour, from a teacher's academic demand to a community's hope about the future.",
+    "zh": "期望；预期",
+    "syn": [
+      "anticipation",
+      "prospect",
+      "requirement"
+    ],
+    "ant": [],
+    "col": [
+      "high expectation",
+      "against expectation",
+      "meet expectations"
+    ],
+    "fam": [
+      "expectation",
+      "expect",
+      "expected"
+    ],
+    "example": "The high expectation in the scholarship paper was that every quote would be explained, not dumped.",
+    "basic": "The scholarship paper required every quote to be explained, not dumped."
+  },
+  "expedition": {
+    "simple": "A journey made for a clear purpose, such as research or exploration.",
+    "detailed": "An organised group travel with goals, equipment, and roles, often into difficult country, rather than a casual holiday.",
+    "zh": "远征；探险",
+    "syn": [
+      "journey",
+      "voyage",
+      "mission"
+    ],
+    "ant": [],
+    "col": [
+      "scientific expedition",
+      "polar expedition",
+      "lead an expedition"
+    ],
+    "fam": [
+      "expedition",
+      "expeditions",
+      "expeditionary"
+    ],
+    "example": "The scientific expedition collected ice cores to compare snowfall across decades.",
+    "basic": "The research trip collected ice cores to compare snowfall."
+  },
+  "expenditure": {
+    "simple": "The money, time, or energy that is spent.",
+    "detailed": "An amount laid out for a purpose, especially in budgets where writers compare spending with income or need.",
+    "zh": "开支；支出",
+    "syn": [
+      "spending",
+      "outlay",
+      "cost"
+    ],
+    "ant": [
+      "income",
+      "revenue"
+    ],
+    "col": [
+      "public expenditure",
+      "military expenditure",
+      "reduce expenditure"
+    ],
+    "fam": [
+      "expenditure",
+      "expend",
+      "expenditures"
+    ],
+    "example": "Public expenditure on the new library was defended as an investment in literacy.",
+    "basic": "Public spending on the new library was defended as an investment in literacy."
+  },
+  "expense": {
+    "simple": "A cost you have to pay, in money or in something valuable.",
+    "detailed": "A particular charge or sacrifice; writers also say one gain comes 'at the cost of' another when the second thing is harmed.",
+    "zh": "费用；代价",
+    "syn": [
+      "cost",
+      "charge",
+      "price"
+    ],
+    "ant": [],
+    "col": [
+      "at the expense of",
+      "travel expense",
+      "extra expense"
+    ],
+    "fam": [
+      "expense",
+      "expenses",
+      "expensive"
+    ],
+    "example": "Faster delivery came at the expense of extra packaging waste.",
+    "basic": "Faster delivery meant more packaging waste."
+  },
+  "expertise": {
+    "simple": "Special skill or knowledge gained through training and practice.",
+    "detailed": "Trusted competence in a field that lets someone judge evidence, methods, or craft at a high standard.",
+    "zh": "专业知识；专长",
+    "syn": [
+      "know-how",
+      "specialism",
+      "mastery"
+    ],
+    "ant": [
+      "inexperience"
+    ],
+    "col": [
+      "scientific expertise",
+      "technical expertise",
+      "share expertise"
+    ],
+    "fam": [
+      "expertise",
+      "expert",
+      "experts"
+    ],
+    "example": "The ranger's expertise helped the class tell a goanna track from a large lizard print.",
+    "basic": "The ranger's special knowledge helped the class tell the tracks apart."
+  },
+  "exposure": {
+    "simple": "The state of being left open to a condition, risk, or public view.",
+    "detailed": "Contact with weather, chemicals, ideas, or an audience, which may teach, harm, or reveal something previously hidden.",
+    "zh": "暴露；接触",
+    "syn": [
+      "contact",
+      "openness",
+      "revelation"
+    ],
+    "ant": [
+      "shelter",
+      "protection"
+    ],
+    "col": [
+      "sun exposure",
+      "media exposure",
+      "exposure to risk"
+    ],
+    "fam": [
+      "exposure",
+      "expose",
+      "exposed"
+    ],
+    "example": "Long sun exposure without hats was listed as a hazard on the fieldwork sheet.",
+    "basic": "Long time in the sun without hats was listed as a hazard."
+  },
+  "expression": {
+    "simple": "A word or look that shows a feeling or idea.",
+    "detailed": "A phrase with a set meaning, or the way emotion and thought are shown in language, art, or the face.",
+    "zh": "表达；措辞；神情",
+    "syn": [
+      "phrase",
+      "utterance",
+      "look"
+    ],
+    "ant": [],
+    "col": [
+      "facial expression",
+      "freedom of expression",
+      "idiomatic expression"
+    ],
+    "fam": [
+      "expression",
+      "express",
+      "expressive",
+      "expressively"
+    ],
+    "example": "The idiom was an old expression, so the footnote explained it for modern readers.",
+    "basic": "The idiom was an old phrase, so the footnote explained it."
+  },
+  "extension": {
+    "simple": "Something added to make a thing longer, larger, or last more time.",
+    "detailed": "An extra section, deadline, or idea that continues an original piece of work, land, or argument.",
+    "zh": "延长；扩展",
+    "syn": [
+      "addition",
+      "prolongation",
+      "continuation"
+    ],
+    "ant": [
+      "reduction",
+      "shortening"
+    ],
+    "col": [
+      "deadline extension",
+      "house extension",
+      "logical extension"
+    ],
+    "fam": [
+      "extension",
+      "extend",
+      "extended"
+    ],
+    "example": "A one-day extension was granted so the group could finish the bibliography properly.",
+    "basic": "A one-day extra was granted so the group could finish the bibliography."
+  },
+  "extent": {
+    "simple": "How far or how much something reaches.",
+    "detailed": "The scale, degree, or range of a problem, area, or effect, which precise writing tries to measure rather than call 'huge'.",
+    "zh": "程度；范围",
+    "syn": [
+      "degree",
+      "scope",
+      "scale"
+    ],
+    "ant": [],
+    "col": [
+      "to some extent",
+      "full extent",
+      "the extent of"
+    ],
+    "fam": [
+      "extent",
+      "extend",
+      "extensive"
+    ],
+    "example": "The map showed the extent of the floodplain after two days of rain.",
+    "basic": "The map showed how far the floodplain reached after two days of rain."
+  },
+  "facility": {
+    "simple": "A building or place designed for a particular activity.",
+    "detailed": "A purpose-built site or service—sports, medical, or research—and, less often, an ease or fluency in doing something.",
+    "zh": "设施",
+    "syn": [
+      "amenity",
+      "centre",
+      "complex"
+    ],
+    "ant": [],
+    "col": [
+      "sports facility",
+      "research facility",
+      "public facility"
+    ],
+    "fam": [
+      "facility",
+      "facilities"
+    ],
+    "example": "The new sports facility had a rainwater tank that flushed the toilets.",
+    "basic": "The new sports building had a rainwater tank that flushed the toilets."
+  },
+  "faction": {
+    "simple": "A smaller group inside a larger one that pushes its own aims.",
+    "detailed": "A party within a party, class, or movement whose loyalty to its subgroup can split the whole organisation.",
+    "zh": "派系",
+    "syn": [
+      "clique",
+      "bloc",
+      "splinter group"
+    ],
+    "ant": [],
+    "col": [
+      "political faction",
+      "rival faction",
+      "split into factions"
+    ],
+    "fam": [
+      "faction",
+      "factions",
+      "factional"
+    ],
+    "example": "One political faction wanted the park sold; another wanted it kept as public land.",
+    "basic": "One group inside the party wanted the park sold; another wanted it kept."
+  },
+  "faculty": {
+    "simple": "The teaching staff of a university, or a natural ability of the mind.",
+    "detailed": "A department of academics, and also a power such as memory or reason that a person can train or lose.",
+    "zh": "教职员工；才能",
+    "syn": [
+      "staff",
+      "department",
+      "ability"
+    ],
+    "ant": [],
+    "col": [
+      "faculty of arts",
+      "university faculty",
+      "critical faculty"
+    ],
+    "fam": [
+      "faculty",
+      "faculties"
+    ],
+    "example": "A visiting faculty member from the university helped mark the science posters.",
+    "basic": "A visiting university teacher helped mark the science posters."
+  },
+  "failure": {
+    "simple": "The fact of not succeeding, or of a system stopping as it should.",
+    "detailed": "An unsuccessful outcome, or a breakdown in a method, machine, or duty, which science writing treats as data rather than shame.",
+    "zh": "失败；故障",
+    "syn": [
+      "lack of success",
+      "breakdown",
+      "collapse"
+    ],
+    "ant": [
+      "success"
+    ],
+    "col": [
+      "crop failure",
+      "power failure",
+      "fear of failure"
+    ],
+    "fam": [
+      "failure",
+      "fail",
+      "failed"
+    ],
+    "example": "The first trial was a useful failure because it showed the battery could not last the night.",
+    "basic": "The first trial did not work, but it showed the battery could not last the night."
+  },
+  "fairness": {
+    "simple": "The quality of treating people and claims in a just, even-handed way.",
+    "detailed": "Impartial dealing that weighs evidence and needs without favouring friends, wealth, or a louder voice.",
+    "zh": "公正；公平",
+    "syn": [
+      "justice",
+      "equity",
+      "impartiality"
+    ],
+    "ant": [
+      "unfairness",
+      "bias"
+    ],
+    "col": [
+      "sense of fairness",
+      "procedural fairness",
+      "test of fairness"
+    ],
+    "fam": [
+      "fairness",
+      "fair",
+      "fairly",
+      "unfair"
+    ],
+    "example": "Procedural fairness meant both sides of the waste debate received the same speaking time.",
+    "basic": "Being even-handed meant both sides received the same speaking time."
+  },
+  "famine": {
+    "simple": "A severe shortage of food that affects many people at once.",
+    "detailed": "A regional crisis of hunger, often caused by drought, war, or failed harvests, with lasting social effects.",
+    "zh": "饥荒",
+    "syn": [
+      "starvation",
+      "food crisis",
+      "dearth"
+    ],
+    "ant": [
+      "plenty",
+      "abundance"
+    ],
+    "col": [
+      "widespread famine",
+      "famine relief",
+      "years of famine"
+    ],
+    "fam": [
+      "famine",
+      "famines"
+    ],
+    "example": "The HASS source described a famine that forced whole villages to move toward the coast.",
+    "basic": "The source described a food crisis that forced whole villages to move."
+  },
+  "feedback": {
+    "simple": "Comments that tell you how well something worked and how to improve it.",
+    "detailed": "Information returned to a learner, system, or designer—praise, correction, or data—so the next attempt can be better.",
+    "zh": "反馈",
+    "syn": [
+      "response",
+      "comments",
+      "reaction"
+    ],
+    "ant": [],
+    "col": [
+      "teacher feedback",
+      "constructive feedback",
+      "give feedback"
+    ],
+    "fam": [
+      "feedback",
+      "feed back"
+    ],
+    "example": "Constructive feedback told him which paragraph needed a topic sentence.",
+    "basic": "Useful comments told him which paragraph needed a topic sentence."
+  },
+  "fieldwork": {
+    "simple": "Learning or research done outside, in the real place being studied.",
+    "detailed": "First-hand collection of data on site—creek, street, or bush—rather than only from books or a classroom model.",
+    "zh": "实地考察；野外作业",
+    "syn": [
+      "on-site study",
+      "field study",
+      "outdoor research"
+    ],
+    "ant": [],
+    "col": [
+      "science fieldwork",
+      "geographical fieldwork",
+      "fieldwork notes"
+    ],
+    "fam": [
+      "fieldwork",
+      "field worker"
+    ],
+    "example": "Fieldwork at the creek included turbidity tests and a sketch of the banks.",
+    "basic": "The outdoor research at the creek included water tests and a sketch."
+  },
+  "filter": {
+    "simple": "A device or method that lets some things through and blocks others.",
+    "detailed": "A physical screen, chemical layer, or digital rule that separates wanted from unwanted matter, light, or information.",
+    "zh": "过滤器；滤镜",
+    "syn": [
+      "strainer",
+      "screen",
+      "sieve"
+    ],
+    "ant": [],
+    "col": [
+      "water filter",
+      "air filter",
+      "pass through a filter"
+    ],
+    "fam": [
+      "filter",
+      "filters",
+      "filtered",
+      "filtering"
+    ],
+    "example": "The water filter removed grit, but the class still boiled the sample before tasting nothing.",
+    "basic": "The strainer removed grit, but the class still boiled the sample."
+  },
+  "finance": {
+    "simple": "The management of money for a person, business, or government.",
+    "detailed": "How funds are raised, spent, and recorded, including budgets, loans, and public accounts in HASS inquiries.",
+    "zh": "财政；金融",
+    "syn": [
+      "money matters",
+      "funding",
+      "accounts"
+    ],
+    "ant": [],
+    "col": [
+      "public finance",
+      "finance committee",
+      "personal finance"
+    ],
+    "fam": [
+      "finance",
+      "financial",
+      "finances",
+      "financier"
+    ],
+    "example": "The finance committee published how much of the fete profit went to the library.",
+    "basic": "The money committee published how much of the fete profit went to the library."
+  },
+  "flexibility": {
+    "simple": "The ability to bend or change without breaking.",
+    "detailed": "Physical springiness, and also a willingness to adjust a plan, timetable, or method when new evidence appears.",
+    "zh": "灵活性；柔韧",
+    "syn": [
+      "adaptability",
+      "suppleness",
+      "give"
+    ],
+    "ant": [
+      "rigidity",
+      "inflexibility"
+    ],
+    "col": [
+      "timetable flexibility",
+      "show flexibility",
+      "physical flexibility"
+    ],
+    "fam": [
+      "flexibility",
+      "flexible",
+      "flexibly"
+    ],
+    "example": "Timetable flexibility let the class finish the experiment when the rain finally stopped.",
+    "basic": "A changeable timetable let the class finish the experiment after the rain."
+  },
+  "fluctuation": {
+    "simple": "An irregular rise and fall in a level or amount.",
+    "detailed": "Repeated change around a typical value—temperature, prices, or mood—rather than a single steady trend.",
+    "zh": "波动",
+    "syn": [
+      "variation",
+      "swing",
+      "oscillation"
+    ],
+    "ant": [
+      "stability"
+    ],
+    "col": [
+      "price fluctuation",
+      "temperature fluctuation",
+      "wild fluctuation"
+    ],
+    "fam": [
+      "fluctuation",
+      "fluctuate",
+      "fluctuating"
+    ],
+    "example": "Temperature fluctuation overnight was enough to crack the drying clay pots.",
+    "basic": "The changing overnight temperature was enough to crack the clay pots."
+  },
+  "formation": {
+    "simple": "The way something is made or arranged, or the process of that happening.",
+    "detailed": "A shape, group, or rock structure produced by a process, and also the act of coming into being.",
+    "zh": "形成；队形；岩层",
+    "syn": [
+      "structure",
+      "arrangement",
+      "creation"
+    ],
+    "ant": [],
+    "col": [
+      "rock formation",
+      "cloud formation",
+      "team formation"
+    ],
+    "fam": [
+      "formation",
+      "form",
+      "formative"
+    ],
+    "example": "The sandstone formation along the gorge showed layers from an ancient river.",
+    "basic": "The sandstone shape along the gorge showed layers from an ancient river."
+  },
+  "formula": {
+    "simple": "A rule written in symbols, or a set method that people follow.",
+    "detailed": "A scientific or mathematical statement of a relationship, and also a trusted recipe for solving a kind of problem.",
+    "zh": "公式；配方",
+    "syn": [
+      "equation",
+      "recipe",
+      "rule"
+    ],
+    "ant": [],
+    "col": [
+      "chemical formula",
+      "mathematical formula",
+      "winning formula"
+    ],
+    "fam": [
+      "formula",
+      "formulae",
+      "formulas",
+      "formulate"
+    ],
+    "example": "The class used a simple formula to convert the creek depths from centimetres to metres.",
+    "basic": "The class used a simple rule to convert the creek depths into metres."
+  },
+  "forum": {
+    "simple": "A public place or meeting where people exchange views.",
+    "detailed": "An organised discussion space—hall, online board, or civic assembly—meant for open argument rather than a private chat.",
+    "zh": "论坛",
+    "syn": [
+      "assembly",
+      "discussion space",
+      "platform"
+    ],
+    "ant": [],
+    "col": [
+      "public forum",
+      "online forum",
+      "community forum"
+    ],
+    "fam": [
+      "forum",
+      "forums",
+      "fora"
+    ],
+    "example": "The community forum let residents question the landfill plan before the council voted.",
+    "basic": "The community meeting let residents question the landfill plan."
+  },
+  "foundation": {
+    "simple": "The solid base something is built on, or an organisation set up for a purpose.",
+    "detailed": "The supporting layer of a building or argument, and also a funded body that supports education, research, or charity.",
+    "zh": "基础；基金会",
+    "syn": [
+      "base",
+      "groundwork",
+      "institution"
+    ],
+    "ant": [],
+    "col": [
+      "solid foundation",
+      "foundation of the argument",
+      "charitable foundation"
+    ],
+    "fam": [
+      "foundation",
+      "foundations",
+      "foundational"
+    ],
+    "example": "A solid foundation of evidence made the waste argument harder to dismiss.",
+    "basic": "A solid base of evidence made the waste argument harder to dismiss."
+  },
+  "fraction": {
+    "simple": "A part of a whole, written as one number over another, or a small share.",
+    "detailed": "A rational number showing a division of a unit, and more loosely any portion that is less than the complete amount.",
+    "zh": "分数；一部分",
+    "syn": [
+      "part",
+      "portion",
+      "share"
+    ],
+    "ant": [
+      "whole"
+    ],
+    "col": [
+      "proper fraction",
+      "tiny fraction",
+      "fraction of a second"
+    ],
+    "fam": [
+      "fraction",
+      "fractions",
+      "fractional"
+    ],
+    "example": "Only a fraction of the surveyed families still used single-use bottles every day.",
+    "basic": "Only a small part of the surveyed families still used single-use bottles."
+  },
+  "fragment": {
+    "simple": "A small broken piece of something larger.",
+    "detailed": "An incomplete scrap of a text, object, or memory that a reader or scientist must interpret without the whole.",
+    "zh": "碎片；片段",
+    "syn": [
+      "piece",
+      "scrap",
+      "shard"
+    ],
+    "ant": [
+      "whole"
+    ],
+    "col": [
+      "pottery fragment",
+      "sentence fragment",
+      "fragment of bone"
+    ],
+    "fam": [
+      "fragment",
+      "fragments",
+      "fragmented",
+      "fragmentary"
+    ],
+    "example": "A pottery fragment from the dig still showed a painted wave along the rim.",
+    "basic": "A small broken piece of pottery still showed a painted wave."
+  },
+  "franchise": {
+    "simple": "The right to vote in elections, or a licence to run a business under a larger company's name.",
+    "detailed": "In Australian HASS, the civic right to vote; in commerce, a contract that lets a local owner trade with another firm's brand and rules.",
+    "zh": "选举权；特许经营",
+    "syn": [
+      "voting rights",
+      "suffrage",
+      "licence"
+    ],
+    "ant": [],
+    "col": [
+      "the franchise",
+      "extend the franchise",
+      "fast-food franchise"
+    ],
+    "fam": [
+      "franchise",
+      "franchises",
+      "franchised"
+    ],
+    "example": "The inquiry asked when women in each colony gained the franchise before Federation.",
+    "basic": "The inquiry asked when women in each colony gained the right to vote."
+  },
+  "frequency": {
+    "simple": "How often something happens in a given time.",
+    "detailed": "The count of events per unit of time, or, in physics, the number of wave cycles each second.",
+    "zh": "频率",
+    "syn": [
+      "rate",
+      "regularity",
+      "incidence"
+    ],
+    "ant": [],
+    "col": [
+      "high frequency",
+      "frequency of visits",
+      "wave frequency"
+    ],
+    "fam": [
+      "frequency",
+      "frequent",
+      "frequently"
+    ],
+    "example": "The frequency of bus services dropped after six o'clock, which the petition called unfair.",
+    "basic": "The buses came less often after six o'clock, which the petition called unfair."
+  },
+  "frontier": {
+    "simple": "The far edge of settled land, or of what people yet understand.",
+    "detailed": "A borderland between known and unknown country, and figuratively the leading edge of a science or idea.",
+    "zh": "边疆；前沿",
+    "syn": [
+      "borderland",
+      "edge",
+      "outpost"
+    ],
+    "ant": [],
+    "col": [
+      "new frontier",
+      "scientific frontier",
+      "frontier town"
+    ],
+    "fam": [
+      "frontier",
+      "frontiers"
+    ],
+    "example": "The novel set its last chapter on a dusty frontier where the maps stopped.",
+    "basic": "The novel set its last chapter on a dusty edge of settlement where the maps stopped."
+  },
+  "funding": {
+    "simple": "Money provided to pay for a project or organisation.",
+    "detailed": "Financial support from government, donors, or fees that makes a programme, study, or service possible.",
+    "zh": "资金；拨款",
+    "syn": [
+      "finance",
+      "backing",
+      "grant money"
+    ],
+    "ant": [],
+    "col": [
+      "government funding",
+      "secure funding",
+      "research funding"
+    ],
+    "fam": [
+      "funding",
+      "fund",
+      "funded"
+    ],
+    "example": "Without extra funding, the after-school science club could not replace the broken microscopes.",
+    "basic": "Without extra money, the science club could not replace the broken microscopes."
+  },
+  "gap": {
+    "simple": "A missing space or an important difference between two things.",
+    "detailed": "A hole in knowledge, provision, or achievement that a writer should name so it can be closed or explained.",
+    "zh": "差距；缺口",
+    "syn": [
+      "space",
+      "shortfall",
+      "difference"
+    ],
+    "ant": [],
+    "col": [
+      "knowledge gap",
+      "gap in the evidence",
+      "close the gap"
+    ],
+    "fam": [
+      "gap",
+      "gaps",
+      "gapped"
+    ],
+    "example": "The marker noted a gap in the evidence between the survey and the final claim.",
+    "basic": "The marker noted missing evidence between the survey and the final claim."
+  },
+  "gauge": {
+    "simple": "An instrument that measures something, or a standard used to judge it.",
+    "detailed": "A device or scale for reading a quantity such as rainfall or pressure, and also a way of estimating size or quality.",
+    "zh": "量具；标准",
+    "syn": [
+      "meter",
+      "measure",
+      "indicator"
+    ],
+    "ant": [],
+    "col": [
+      "rain gauge",
+      "pressure gauge",
+      "gauge of opinion"
+    ],
+    "fam": [
+      "gauge",
+      "gauges",
+      "gauged"
+    ],
+    "example": "The rain gauge overflowed, so the weekend total had to be estimated from the Bureau.",
+    "basic": "The rain measurer overflowed, so the weekend total had to be estimated."
+  },
+  "gender": {
+    "simple": "Being male, female, or another identity, and how societies treat those groups.",
+    "detailed": "A social and personal category used in HASS to discuss roles, rights, and fairness, distinct from a simple biological label.",
+    "zh": "性别",
+    "syn": [
+      "sex",
+      "gender identity"
+    ],
+    "ant": [],
+    "col": [
+      "gender equality",
+      "gender roles",
+      "gender stereotypes"
+    ],
+    "fam": [
+      "gender",
+      "genders"
+    ],
+    "example": "The unit compared gender roles in 1901 newspaper adverts with roles shown in today's catalogues.",
+    "basic": "The unit compared men's and women's roles in 1901 adverts with roles shown today."
+  },
+  "generation": {
+    "simple": "People born around the same time, or the process of producing something.",
+    "detailed": "A cohort that shares a historical moment, and also the making of power, ideas, or offspring.",
+    "zh": "一代人；产生",
+    "syn": [
+      "age group",
+      "cohort",
+      "era of people"
+    ],
+    "ant": [],
+    "col": [
+      "younger generation",
+      "generation of electricity",
+      "from generation to generation"
+    ],
+    "fam": [
+      "generation",
+      "generate",
+      "generational"
+    ],
+    "example": "Each generation in the oral history remembered the river differently.",
+    "basic": "Each age group in the oral history remembered the river differently."
+  },
+  "geography": {
+    "simple": "The study of Earth's places, landscapes, and how people live in them.",
+    "detailed": "A HASS field that examines physical features, climate, and human patterns of settlement, work, and movement.",
+    "zh": "地理",
+    "syn": [
+      "earth study",
+      "place knowledge"
+    ],
+    "ant": [],
+    "col": [
+      "physical geography",
+      "human geography",
+      "study geography"
+    ],
+    "fam": [
+      "geography",
+      "geographical",
+      "geographer"
+    ],
+    "example": "Human geography helped explain why the new suburb had so few shady streets.",
+    "basic": "The study of people and place helped explain why the new suburb had so few shady streets."
+  },
+  "gesture": {
+    "simple": "A movement of the body that shows a feeling, or a small symbolic action.",
+    "detailed": "A physical sign—wave, shrug, bow—or a limited act meant to express goodwill, protest, or meaning without many words.",
+    "zh": "手势；姿态",
+    "syn": [
+      "motion",
+      "sign",
+      "signal"
+    ],
+    "ant": [],
+    "col": [
+      "hand gesture",
+      "kind gesture",
+      "empty gesture"
+    ],
+    "fam": [
+      "gesture",
+      "gestures",
+      "gestured"
+    ],
+    "example": "A small kind gesture—leaving the last orange—changed how the two rivals spoke after lunch.",
+    "basic": "Leaving the last orange changed how the two rivals spoke after lunch."
+  },
+  "glacier": {
+    "simple": "A huge, slow-moving mass of ice that shapes the land.",
+    "detailed": "A persistent body of ice formed from compacted snow, which carves valleys and stores fresh water over centuries.",
+    "zh": "冰川",
+    "syn": [
+      "ice mass",
+      "ice river"
+    ],
+    "ant": [],
+    "col": [
+      "melting glacier",
+      "mountain glacier",
+      "glacier ice"
+    ],
+    "fam": [
+      "glacier",
+      "glaciers",
+      "glacial"
+    ],
+    "example": "The melting glacier had left a new lake that was not on last year's map.",
+    "basic": "The melting ice mass had left a new lake that was not on last year's map."
+  },
+  "glossary": {
+    "simple": "An alphabetical list that explains special words used in a text.",
+    "detailed": "A mini-dictionary at the end of a book or unit, written so readers can check terms without leaving the topic.",
+    "zh": "词汇表；术语表",
+    "syn": [
+      "word list",
+      "vocabulary list",
+      "lexicon"
+    ],
+    "ant": [],
+    "col": [
+      "unit glossary",
+      "end-of-book glossary",
+      "science glossary"
+    ],
+    "fam": [
+      "glossary",
+      "glossaries"
+    ],
+    "example": "The science glossary defined 'turbidity' in one sentence Oliver could actually use.",
+    "basic": "The science word list defined 'turbidity' in one sentence he could use."
+  },
+  "governance": {
+    "simple": "The way an organisation or country is run and held to account.",
+    "detailed": "The systems of rules, roles, and oversight that steer public or private bodies, not only the people who happen to lead them.",
+    "zh": "治理",
+    "syn": [
+      "administration",
+      "oversight",
+      "steering"
+    ],
+    "ant": [],
+    "col": [
+      "good governance",
+      "school governance",
+      "corporate governance"
+    ],
+    "fam": [
+      "governance",
+      "govern",
+      "government"
+    ],
+    "example": "Good governance meant the student council published how it spent the fete money.",
+    "basic": "Good running of the school groups meant the council published how it spent the money."
+  },
+  "gradient": {
+    "simple": "How steep a slope is, or how quickly something changes from one value to another.",
+    "detailed": "The rate of change along a line or surface—height, temperature, or concentration—used in science and design.",
+    "zh": "坡度；梯度",
+    "syn": [
+      "slope",
+      "incline",
+      "grade"
+    ],
+    "ant": [],
+    "col": [
+      "steep gradient",
+      "temperature gradient",
+      "colour gradient"
+    ],
+    "fam": [
+      "gradient",
+      "gradients"
+    ],
+    "example": "A steep gradient on the track made the creek water run faster after rain.",
+    "basic": "A steep slope on the track made the creek water run faster after rain."
+  },
+  "graph": {
+    "simple": "A diagram that shows data as lines, bars, or points.",
+    "detailed": "A visual display of numerical relationships, chosen so a reader can compare values more quickly than in a table alone.",
+    "zh": "图表",
+    "syn": [
+      "chart",
+      "plot",
+      "figure"
+    ],
+    "ant": [],
+    "col": [
+      "line graph",
+      "bar graph",
+      "plot a graph"
+    ],
+    "fam": [
+      "graph",
+      "graphs",
+      "graphing"
+    ],
+    "example": "The line graph made the weekend temperature drop obvious at a glance.",
+    "basic": "The line diagram made the weekend temperature drop obvious."
+  },
+  "gravity": {
+    "simple": "The force that pulls objects toward Earth, or the seriousness of a situation.",
+    "detailed": "The attractive force between masses that gives weight; in formal writing, also the weightiness of a problem or tone.",
+    "zh": "重力；严重性",
+    "syn": [
+      "gravitation",
+      "weight",
+      "seriousness"
+    ],
+    "ant": [],
+    "col": [
+      "force of gravity",
+      "gravity of the situation",
+      "zero gravity"
+    ],
+    "fam": [
+      "gravity",
+      "gravitational",
+      "grave"
+    ],
+    "example": "The experiment showed gravity pulling the marble down the ramp at a steady increase in speed.",
+    "basic": "The experiment showed the pulling force speeding the marble down the ramp."
+  },
+  "grid": {
+    "simple": "A network of crossing lines, or a system of connected power or streets.",
+    "detailed": "A framework of squares used for maps and graphs, and also the linked network that delivers electricity or organises a city.",
+    "zh": "网格；电网",
+    "syn": [
+      "network",
+      "lattice",
+      "mesh"
+    ],
+    "ant": [],
+    "col": [
+      "power grid",
+      "map grid",
+      "street grid"
+    ],
+    "fam": [
+      "grid",
+      "grids",
+      "gridded"
+    ],
+    "example": "The map grid helped the group give a six-figure reference for the nest.",
+    "basic": "The map squares helped the group give a six-figure reference for the nest."
+  },
+  "guideline": {
+    "simple": "A recommended rule that helps people decide what to do.",
+    "detailed": "Official or classroom advice that steers practice without always having the force of a hard law.",
+    "zh": "指导原则；准则",
+    "syn": [
+      "recommendation",
+      "protocol",
+      "standard"
+    ],
+    "ant": [],
+    "col": [
+      "safety guideline",
+      "follow the guidelines",
+      "official guideline"
+    ],
+    "fam": [
+      "guideline",
+      "guidelines"
+    ],
+    "example": "The safety guideline said no one entered the rock platform until the tide was checked.",
+    "basic": "The safety advice said no one entered the rock platform until the tide was checked."
+  },
+  "hardship": {
+    "simple": "A time of serious difficulty, especially from poverty, weather, or loss.",
+    "detailed": "Sustained suffering or want that tests a family or community, often recorded in HASS sources after depression, drought, or war.",
+    "zh": "困苦；艰难",
+    "syn": [
+      "adversity",
+      "privation",
+      "suffering"
+    ],
+    "ant": [
+      "ease",
+      "comfort"
+    ],
+    "col": [
+      "economic hardship",
+      "face hardship",
+      "years of hardship"
+    ],
+    "fam": [
+      "hardship",
+      "hardships"
+    ],
+    "example": "Letters from the 1930s described hardship when the wheat price collapsed.",
+    "basic": "Letters from the 1930s described how hard life was when the wheat price collapsed."
+  },
+  "harmony": {
+    "simple": "A pleasing agreement of sounds, colours, or people living together well.",
+    "detailed": "The fitting-together of parts so none fights the others, used for music, design, and peaceful social relations.",
+    "zh": "和谐；和声",
+    "syn": [
+      "accord",
+      "concord",
+      "balance"
+    ],
+    "ant": [
+      "discord",
+      "conflict"
+    ],
+    "col": [
+      "live in harmony",
+      "musical harmony",
+      "sense of harmony"
+    ],
+    "fam": [
+      "harmony",
+      "harmonious",
+      "harmonise"
+    ],
+    "example": "The last paragraph restored harmony after the two sisters finally told the truth.",
+    "basic": "The last paragraph restored peace after the two sisters finally told the truth."
+  },
+  "hazard": {
+    "simple": "Something that can cause harm if people are not careful.",
+    "detailed": "A source of danger in an environment or method, which risk assessments try to name, reduce, or control.",
+    "zh": "危害；隐患",
+    "syn": [
+      "danger",
+      "risk",
+      "threat"
+    ],
+    "ant": [
+      "safety"
+    ],
+    "col": [
+      "safety hazard",
+      "fire hazard",
+      "identify a hazard"
+    ],
+    "fam": [
+      "hazard",
+      "hazardous",
+      "hazards"
+    ],
+    "example": "Wet rocks were listed as a hazard on the fieldwork permission note.",
+    "basic": "Wet rocks were listed as a danger on the fieldwork permission note."
+  },
+  "headline": {
+    "simple": "The large title of a news story, written to catch attention.",
+    "detailed": "A compact line that frames an article's angle; media study asks whether it is fair or sensational.",
+    "zh": "标题",
+    "syn": [
+      "title",
+      "banner",
+      "heading"
+    ],
+    "ant": [],
+    "col": [
+      "newspaper headline",
+      "misleading headline",
+      "front-page headline"
+    ],
+    "fam": [
+      "headline",
+      "headlines",
+      "headlined"
+    ],
+    "example": "The misleading headline blamed 'kids' for the litter, though the photo showed a worksite skip.",
+    "basic": "The misleading title blamed 'kids' for the litter, though the photo showed a worksite skip."
+  },
+  "hierarchy": {
+    "simple": "A ranking in which some people or things sit above others.",
+    "detailed": "An ordered structure of status or importance, from schools and governments to animal groups and ideas.",
+    "zh": "等级制度",
+    "syn": [
+      "ranking",
+      "pecking order",
+      "ladder"
+    ],
+    "ant": [],
+    "col": [
+      "social hierarchy",
+      "strict hierarchy",
+      "top of the hierarchy"
+    ],
+    "fam": [
+      "hierarchy",
+      "hierarchies",
+      "hierarchical"
+    ],
+    "example": "The novel's school hierarchy made the scholarship girl eat last for a whole term.",
+    "basic": "The novel's school ranking made the scholarship girl eat last for a whole term."
+  },
+  "historian": {
+    "simple": "A person who studies and writes about the past using evidence.",
+    "detailed": "A trained researcher who tests sources, compares interpretations, and explains change over time rather than repeating legend.",
+    "zh": "历史学家",
+    "syn": [
+      "chronicler",
+      "historical scholar"
+    ],
+    "ant": [],
+    "col": [
+      "local historian",
+      "art historian",
+      "professional historian"
+    ],
+    "fam": [
+      "historian",
+      "historians",
+      "history",
+      "historical"
+    ],
+    "example": "A local historian showed the class original rate books from the 1890s flood.",
+    "basic": "A local history expert showed the class original rate books from the 1890s flood."
+  },
+  "horizon": {
+    "simple": "The line where the land or sea seems to meet the sky.",
+    "detailed": "The visible edge of the world in a scene, and figuratively the range of a person's future hopes or knowledge.",
+    "zh": "地平线；眼界",
+    "syn": [
+      "skyline",
+      "sky-edge",
+      "outlook"
+    ],
+    "ant": [],
+    "col": [
+      "on the horizon",
+      "distant horizon",
+      "new horizon"
+    ],
+    "fam": [
+      "horizon",
+      "horizons",
+      "horizontal"
+    ],
+    "example": "A thin plume on the horizon told the lookout the ship was still hours away.",
+    "basic": "A thin plume where the sea met the sky told the lookout the ship was still hours away."
+  },
+  "hostility": {
+    "simple": "Strong unfriendly feeling or behaviour toward a person or group.",
+    "detailed": "Open enmity that may appear as insults, exclusion, or violence, and which HASS texts often trace to fear or competing claims.",
+    "zh": "敌意",
+    "syn": [
+      "enmity",
+      "animosity",
+      "antagonism"
+    ],
+    "ant": [
+      "friendliness",
+      "goodwill"
+    ],
+    "col": [
+      "open hostility",
+      "growing hostility",
+      "hostility towards"
+    ],
+    "fam": [
+      "hostility",
+      "hostile",
+      "hostilely"
+    ],
+    "example": "Growing hostility between the two towns began after the shared well ran dry.",
+    "basic": "Growing unfriendly feeling between the two towns began after the well ran dry."
+  },
+  "household": {
+    "simple": "The people who live together in one home, and the home they share.",
+    "detailed": "A domestic unit used in HASS and statistics to count families, spending, and daily routines under one roof.",
+    "zh": "家庭；住户",
+    "syn": [
+      "home",
+      "family unit",
+      "domestic group"
+    ],
+    "ant": [],
+    "col": [
+      "average household",
+      "household waste",
+      "household income"
+    ],
+    "fam": [
+      "household",
+      "households"
+    ],
+    "example": "Each household on the street was asked to weigh its soft-plastic recycling for a week.",
+    "basic": "Each home on the street was asked to weigh its soft-plastic recycling for a week."
+  },
+  "humanity": {
+    "simple": "All people, or the kindness we show because others are human too.",
+    "detailed": "The human species as a whole, and also the compassionate quality that literature and civics praise when people refuse cruelty.",
+    "zh": "人类；人道",
+    "syn": [
+      "humankind",
+      "compassion",
+      "the human race"
+    ],
+    "ant": [
+      "inhumanity",
+      "cruelty"
+    ],
+    "col": [
+      "crime against humanity",
+      "shared humanity",
+      "sense of humanity"
+    ],
+    "fam": [
+      "humanity",
+      "human",
+      "humanitarian",
+      "humane"
+    ],
+    "example": "The letter asked readers to remember their shared humanity during the refugee debate.",
+    "basic": "The letter asked readers to remember other people's dignity during the refugee debate."
+  },
+  "acute": {
+    "simple": "Very sharp, sudden, or serious, rather than mild or slow.",
+    "detailed": "Describes an angle less than 90 degrees, or a problem or feeling that is intense and often short-lived compared with a chronic one.",
+    "zh": "急剧的；敏锐的；锐角的",
+    "syn": [
+      "sharp",
+      "severe",
+      "intense"
+    ],
+    "ant": [
+      "mild",
+      "chronic"
+    ],
+    "col": [
+      "acute angle",
+      "acute shortage",
+      "acute pain"
+    ],
+    "fam": [
+      "acute",
+      "acutely",
+      "acuteness"
+    ],
+    "example": "There was an acute shortage of shade cloth after three heatwave days in a row.",
+    "basic": "There was a sudden, serious shortage of shade cloth after three heatwave days."
+  },
+  "adequate": {
+    "simple": "Enough for the purpose, though not luxurious.",
+    "detailed": "Meeting the required standard in quantity or quality, used when 'good' would hide whether something actually suffices.",
+    "zh": "足够的；适当的",
+    "syn": [
+      "sufficient",
+      "acceptable",
+      "satisfactory"
+    ],
+    "ant": [
+      "inadequate",
+      "insufficient"
+    ],
+    "col": [
+      "adequate evidence",
+      "adequate rainfall",
+      "barely adequate"
+    ],
+    "fam": [
+      "adequate",
+      "adequately",
+      "adequacy",
+      "inadequate"
+    ],
+    "example": "Two quotes were not adequate evidence for such a sweeping claim about the whole suburb.",
+    "basic": "Two quotes were not enough evidence for such a sweeping claim."
+  },
+  "adjacent": {
+    "simple": "Next to something, sharing a side or border.",
+    "detailed": "Lying beside another object, room, or region so the two touch or immediately neighbour each other.",
+    "zh": "相邻的",
+    "syn": [
+      "neighbouring",
+      "adjoining",
+      "next-door"
+    ],
+    "ant": [
+      "distant",
+      "remote"
+    ],
+    "col": [
+      "adjacent room",
+      "adjacent angles",
+      "adjacent land"
+    ],
+    "fam": [
+      "adjacent",
+      "adjacency"
+    ],
+    "example": "The adjacent wetland flooded first, then the oval at the bottom of the slope.",
+    "basic": "The wetland next door flooded first, then the oval."
+  },
+  "adverse": {
+    "simple": "Harmful or unfavourable, working against what you want.",
+    "detailed": "Describes conditions, effects, or publicity that make a result worse, common in science and weather writing.",
+    "zh": "不利的；有害的",
+    "syn": [
+      "unfavourable",
+      "harmful",
+      "negative"
+    ],
+    "ant": [
+      "favourable",
+      "beneficial"
+    ],
+    "col": [
+      "adverse weather",
+      "adverse effect",
+      "adverse conditions"
+    ],
+    "fam": [
+      "adverse",
+      "adversely",
+      "adversity"
+    ],
+    "example": "Adverse weather cancelled the rock-platform lesson, so the class used photographs instead.",
+    "basic": "Bad weather cancelled the rock-platform lesson, so the class used photographs."
+  },
+  "aesthetic": {
+    "simple": "Concerned with beauty and how something looks or feels as art.",
+    "detailed": "Relating to artistic taste and sensory pleasure, used when a writer judges design, not only usefulness.",
+    "zh": "审美的；美学的",
+    "syn": [
+      "artistic",
+      "visual",
+      "stylistic"
+    ],
+    "ant": [],
+    "col": [
+      "aesthetic appeal",
+      "aesthetic choice",
+      "aesthetic value"
+    ],
+    "fam": [
+      "aesthetic",
+      "aesthetically",
+      "aesthetics"
+    ],
+    "example": "The architect's aesthetic choice of pale timber made the library feel calmer than the old hall.",
+    "basic": "The architect's look-and-feel choice of pale timber made the library feel calmer."
+  },
+  "aggressive": {
+    "simple": "Ready to attack, or pushing very hard to get a result.",
+    "detailed": "Showing hostility or an overly forceful style, in people, animals, or tactics that leave little room for others.",
+    "zh": "好斗的；咄咄逼人的",
+    "syn": [
+      "hostile",
+      "forceful",
+      "combative"
+    ],
+    "ant": [
+      "gentle",
+      "passive"
+    ],
+    "col": [
+      "aggressive behaviour",
+      "aggressive tone",
+      "aggressive marketing"
+    ],
+    "fam": [
+      "aggressive",
+      "aggressively",
+      "aggression"
+    ],
+    "example": "An aggressive tone in the opening paragraph made the marker doubt the writer's fairness.",
+    "basic": "An attacking tone in the opening paragraph made the marker doubt the writer's fairness."
+  },
+  "ambitious": {
+    "simple": "Determined to achieve something demanding.",
+    "detailed": "Showing a strong desire for success or a plan that aims high, with both courage and the risk of overreaching.",
+    "zh": "有抱负的；雄心勃勃的",
+    "syn": [
+      "aspiring",
+      "driven",
+      "bold"
+    ],
+    "ant": [
+      "unambitious",
+      "modest"
+    ],
+    "col": [
+      "ambitious plan",
+      "ambitious student",
+      "ambitious target"
+    ],
+    "fam": [
+      "ambitious",
+      "ambitiously",
+      "ambition"
+    ],
+    "example": "The ambitious plan to map every drain in the suburb needed three more volunteers.",
+    "basic": "The demanding plan to map every drain in the suburb needed three more volunteers."
+  },
+  "analogous": {
+    "simple": "Similar in a useful way, even if the two things are not the same.",
+    "detailed": "Comparable in function or pattern, so one case can help explain another without claiming they are identical.",
+    "zh": "类似的；可比的",
+    "syn": [
+      "comparable",
+      "parallel",
+      "similar"
+    ],
+    "ant": [
+      "dissimilar",
+      "unlike"
+    ],
+    "col": [
+      "analogous situation",
+      "analogous process",
+      "broadly analogous"
+    ],
+    "fam": [
+      "analogous",
+      "analogy",
+      "analogously"
+    ],
+    "example": "The teacher said a battery is analogous to a water tank, but only for thinking about stored energy.",
+    "basic": "The teacher said a battery is like a water tank, but only for thinking about stored energy."
+  },
+  "anonymous": {
+    "simple": "With the name unknown or deliberately hidden.",
+    "detailed": "Unidentified, so a writer, donor, or source cannot be named; useful for safety, but weaker if accountability is needed.",
+    "zh": "匿名的",
+    "syn": [
+      "unnamed",
+      "nameless",
+      "unidentified"
+    ],
+    "ant": [
+      "named",
+      "identified"
+    ],
+    "col": [
+      "anonymous author",
+      "anonymous tip",
+      "remain anonymous"
+    ],
+    "fam": [
+      "anonymous",
+      "anonymously",
+      "anonymity"
+    ],
+    "example": "An anonymous letter warned the paper about the leaking chemical drums.",
+    "basic": "A letter with no name warned the paper about the leaking chemical drums."
+  },
+  "anxious": {
+    "simple": "Worried or uneasy about what might happen.",
+    "detailed": "Feeling nervous tension before a test, meeting, or threat; in literature it colours a character's inner voice.",
+    "zh": "焦虑的；担心的",
+    "syn": [
+      "worried",
+      "uneasy",
+      "nervous"
+    ],
+    "ant": [
+      "calm",
+      "relaxed"
+    ],
+    "col": [
+      "anxious wait",
+      "anxious about",
+      "anxious parent"
+    ],
+    "fam": [
+      "anxious",
+      "anxiously",
+      "anxiety"
+    ],
+    "example": "He felt anxious before the scholarship paper, so he practised one timed section each night.",
+    "basic": "He felt worried before the scholarship paper, so he practised one timed section each night."
+  },
+  "applicable": {
+    "simple": "Relevant and able to be used in this case.",
+    "detailed": "Fit to be applied: a rule, method, or example that actually covers the situation in front of you.",
+    "zh": "适用的",
+    "syn": [
+      "relevant",
+      "pertinent",
+      "usable"
+    ],
+    "ant": [
+      "inapplicable",
+      "irrelevant"
+    ],
+    "col": [
+      "applicable to",
+      "where applicable",
+      "applicable rule"
+    ],
+    "fam": [
+      "applicable",
+      "apply",
+      "application"
+    ],
+    "example": "The bushfire rule was applicable to camp stoves, not only to open fires in the national park.",
+    "basic": "The bushfire rule covered camp stoves, not only open fires in the park."
+  },
+  "apprehensive": {
+    "simple": "Nervous because you expect something difficult.",
+    "detailed": "Uneasy in advance of a possible harm or failure, more thoughtful than simple fear and often shown in careful hesitation.",
+    "zh": "忧虑的；惴惴不安的",
+    "syn": [
+      "uneasy",
+      "wary",
+      "fearful"
+    ],
+    "ant": [
+      "confident",
+      "assured"
+    ],
+    "col": [
+      "apprehensive about",
+      "apprehensive look",
+      "slightly apprehensive"
+    ],
+    "fam": [
+      "apprehensive",
+      "apprehensively",
+      "apprehension"
+    ],
+    "example": "She felt apprehensive about reading her poem aloud, yet she still stood up.",
+    "basic": "She felt nervous about reading her poem aloud, yet she still stood up."
+  },
+  "arbitrary": {
+    "simple": "Based on personal choice or chance, not on a fair rule.",
+    "detailed": "Decided without a consistent reason, so the result can look random or unjust to those who must follow it.",
+    "zh": "任意的；武断的",
+    "syn": [
+      "random",
+      "capricious",
+      "unreasoned"
+    ],
+    "ant": [
+      "reasoned",
+      "principled"
+    ],
+    "col": [
+      "arbitrary decision",
+      "arbitrary rule",
+      "seem arbitrary"
+    ],
+    "fam": [
+      "arbitrary",
+      "arbitrarily",
+      "arbitrariness"
+    ],
+    "example": "Choosing house captains by hair colour felt arbitrary and weakened trust in the vote.",
+    "basic": "Choosing house captains by hair colour felt random and weakened trust in the vote."
+  },
+  "arid": {
+    "simple": "Very dry, with too little rain for most crops or forests.",
+    "detailed": "Describes a climate or landscape of low rainfall and high evaporation, typical of inland Australian regions in science and HASS.",
+    "zh": "干旱的；贫瘠的",
+    "syn": [
+      "dry",
+      "parched",
+      "desert-like"
+    ],
+    "ant": [
+      "humid",
+      "lush"
+    ],
+    "col": [
+      "arid climate",
+      "arid inland",
+      "arid zone"
+    ],
+    "fam": [
+      "arid",
+      "aridity"
+    ],
+    "example": "The arid inland station recorded less than two hundred millimetres of rain that year.",
+    "basic": "The very dry inland station recorded less than two hundred millimetres of rain."
+  },
+  "artificial": {
+    "simple": "Made by people rather than occurring naturally.",
+    "detailed": "Produced by human design—materials, light, or even a manner—that imitates or replaces what is natural.",
+    "zh": "人造的；人工的",
+    "syn": [
+      "man-made",
+      "synthetic",
+      "manufactured"
+    ],
+    "ant": [
+      "natural",
+      "organic"
+    ],
+    "col": [
+      "artificial light",
+      "artificial turf",
+      "artificial flavour"
+    ],
+    "fam": [
+      "artificial",
+      "artificially",
+      "artefact"
+    ],
+    "example": "Artificial light from the oval changed which moths the class trapped after dusk.",
+    "basic": "Man-made light from the oval changed which moths the class trapped after dusk."
+  },
+  "artistic": {
+    "simple": "Skilled in art, or showing creative imagination.",
+    "detailed": "Relating to the making or judging of art, and describing a style that values craft, colour, and original design.",
+    "zh": "艺术的；有艺术才能的",
+    "syn": [
+      "creative",
+      "imaginative",
+      "expressive"
+    ],
+    "ant": [],
+    "col": [
+      "artistic talent",
+      "artistic choice",
+      "artistic director"
+    ],
+    "fam": [
+      "artistic",
+      "artistically",
+      "artist",
+      "artistry"
+    ],
+    "example": "An artistic choice of broken type made the poster look urgent without shouting.",
+    "basic": "A creative choice of broken type made the poster look urgent without shouting."
+  },
+  "assertive": {
+    "simple": "Stating your view firmly and clearly, without being rude.",
+    "detailed": "Confidently putting a claim or need forward, a valued argument skill that differs from aggression because it still leaves space for others.",
+    "zh": "坚定自信的",
+    "syn": [
+      "forthright",
+      "confident",
+      "self-assured"
+    ],
+    "ant": [
+      "timid",
+      "passive"
+    ],
+    "col": [
+      "assertive voice",
+      "assertive statement",
+      "quietly assertive"
+    ],
+    "fam": [
+      "assertive",
+      "assertively",
+      "assert",
+      "assertion"
+    ],
+    "example": "An assertive opening stated the claim in one sentence before the evidence began.",
+    "basic": "A firm opening stated the claim in one sentence before the evidence began."
+  },
+  "authentic": {
+    "simple": "Genuine and real, not copied or pretended.",
+    "detailed": "True to origin or character: a source, artefact, or voice that has not been faked or emptied of its real context.",
+    "zh": "真实的；可靠的",
+    "syn": [
+      "genuine",
+      "real",
+      "bona fide"
+    ],
+    "ant": [
+      "fake",
+      "counterfeit"
+    ],
+    "col": [
+      "authentic source",
+      "authentic voice",
+      "authentic artefact"
+    ],
+    "fam": [
+      "authentic",
+      "authentically",
+      "authenticity"
+    ],
+    "example": "The museum labelled which tools were authentic artefacts and which were modern replicas.",
+    "basic": "The museum labelled which tools were genuine artefacts and which were modern replicas."
+  },
+  "automatic": {
+    "simple": "Working by itself, without a person doing each step.",
+    "detailed": "Self-operating through a mechanism or habit, so action continues once the system is set, sometimes without careful thought.",
+    "zh": "自动的",
+    "syn": [
+      "self-operating",
+      "mechanised",
+      "instinctive"
+    ],
+    "ant": [
+      "manual"
+    ],
+    "col": [
+      "automatic door",
+      "automatic response",
+      "automatic watering"
+    ],
+    "fam": [
+      "automatic",
+      "automatically",
+      "automation"
+    ],
+    "example": "The automatic watering system still ran during the storm, which wasted stored tank water.",
+    "basic": "The self-running watering system still ran during the storm, which wasted tank water."
+  },
+  "autonomous": {
+    "simple": "Able to govern or decide for yourself, without outside control.",
+    "detailed": "Self-ruling, used for people, robots, or regions that set their own course within agreed limits.",
+    "zh": "自主的；自治的",
+    "syn": [
+      "independent",
+      "self-governing",
+      "self-directed"
+    ],
+    "ant": [
+      "dependent",
+      "controlled"
+    ],
+    "col": [
+      "autonomous region",
+      "autonomous vehicle",
+      "autonomous learner"
+    ],
+    "fam": [
+      "autonomous",
+      "autonomously",
+      "autonomy"
+    ],
+    "example": "The island community stayed autonomous in local planning even after joining the larger council.",
+    "basic": "The island community stayed self-governing in local planning even after joining the larger council."
+  },
+  "awkward": {
+    "simple": "Clumsy in movement, or uncomfortable in a social moment.",
+    "detailed": "Lacking ease: a body that knocks things, a silence that feels wrong, or a sentence that will not sit smoothly.",
+    "zh": "尴尬的；笨拙的",
+    "syn": [
+      "clumsy",
+      "uncomfortable",
+      "ungainly"
+    ],
+    "ant": [
+      "graceful",
+      "at ease"
+    ],
+    "col": [
+      "awkward silence",
+      "awkward moment",
+      "awkward question"
+    ],
+    "fam": [
+      "awkward",
+      "awkwardly",
+      "awkwardness"
+    ],
+    "example": "An awkward silence followed when nobody wanted to admit who had left the gate open.",
+    "basic": "An uncomfortable silence followed when nobody wanted to admit who had left the gate open."
+  },
+  "barren": {
+    "simple": "Too poor to grow plants, or empty of useful results.",
+    "detailed": "Infertile land or a lifeless stretch; figuratively, a search or year that yields nothing of value.",
+    "zh": "贫瘠的；荒芜的",
+    "syn": [
+      "infertile",
+      "desolate",
+      "unproductive"
+    ],
+    "ant": [
+      "fertile",
+      "fruitful"
+    ],
+    "col": [
+      "barren land",
+      "barren hillside",
+      "barren argument"
+    ],
+    "fam": [
+      "barren",
+      "barrenness"
+    ],
+    "example": "The barren hillside grew only saltbush after years of overgrazing.",
+    "basic": "The bare hillside grew only saltbush after years of overgrazing."
+  },
+  "biased": {
+    "simple": "Unfairly leaning toward one side instead of judging on evidence.",
+    "detailed": "Showing prejudice in selection, wording, or sampling so a conclusion is tilted before the facts are fully weighed.",
+    "zh": "有偏见的",
+    "syn": [
+      "prejudiced",
+      "one-sided",
+      "partial"
+    ],
+    "ant": [
+      "impartial",
+      "unbiased"
+    ],
+    "col": [
+      "biased sample",
+      "biased report",
+      "biased language"
+    ],
+    "fam": [
+      "biased",
+      "bias",
+      "unbiased"
+    ],
+    "example": "A biased sample of only the sports teams could not represent the whole school's view.",
+    "basic": "A one-sided sample of only the sports teams could not represent the whole school."
+  },
+  "bleak": {
+    "simple": "Bare, cold, or without much hope.",
+    "detailed": "Describes a setting or outlook that feels exposed and joyless, used in literary description of weather, places, or futures.",
+    "zh": "荒凉的；黯淡的",
+    "syn": [
+      "grim",
+      "desolate",
+      "hopeless"
+    ],
+    "ant": [
+      "cheerful",
+      "hopeful"
+    ],
+    "col": [
+      "bleak landscape",
+      "bleak future",
+      "bleak winter"
+    ],
+    "fam": [
+      "bleak",
+      "bleakly",
+      "bleakness"
+    ],
+    "example": "A bleak wind off the bay made the wooden jetty sound like it might split.",
+    "basic": "A cold, joyless wind off the bay made the wooden jetty sound like it might split."
+  },
+  "blunt": {
+    "simple": "Saying something too directly, or having an edge that is not sharp.",
+    "detailed": "In literary and argument settings, speech that is plain to the point of roughness; physically, a tool that no longer cuts cleanly.",
+    "zh": "直率的；钝的",
+    "syn": [
+      "frank",
+      "abrupt",
+      "dull-edged"
+    ],
+    "ant": [
+      "tactful",
+      "sharp"
+    ],
+    "col": [
+      "blunt comment",
+      "blunt instrument",
+      "blunt honesty"
+    ],
+    "fam": [
+      "blunt",
+      "bluntly",
+      "bluntness"
+    ],
+    "example": "His blunt comment—'that paragraph does nothing'—was true, but it stung.",
+    "basic": "His too-direct comment—'that paragraph does nothing'—was true, but it stung."
+  },
+  "bold": {
+    "simple": "Brave and willing to take a risk, or strong and easy to notice.",
+    "detailed": "Showing courage in action or a striking style in design and writing that refuses to stay timid or faint.",
+    "zh": "大胆的；醒目的",
+    "syn": [
+      "daring",
+      "courageous",
+      "striking"
+    ],
+    "ant": [
+      "timid",
+      "cautious"
+    ],
+    "col": [
+      "bold decision",
+      "bold claim",
+      "bold colour"
+    ],
+    "fam": [
+      "bold",
+      "boldly",
+      "boldness"
+    ],
+    "example": "A bold claim in the first line is fine if the next paragraph can prove it.",
+    "basic": "A daring claim in the first line is fine if the next paragraph can prove it."
+  },
+  "bound": {
+    "simple": "Certain to happen, or tied by a duty or limit.",
+    "detailed": "Obliged by a rule, promise, or destination, and also statistically or logically sure unless something unusual intervenes.",
+    "zh": "必定的；受约束的",
+    "syn": [
+      "obliged",
+      "certain",
+      "tied"
+    ],
+    "ant": [
+      "free",
+      "unrestricted"
+    ],
+    "col": [
+      "bound to fail",
+      "bound by the rules",
+      "homeward bound"
+    ],
+    "fam": [
+      "bound",
+      "bind",
+      "binding"
+    ],
+    "example": "The team was bound by the rules to replay the last point after the whistle error.",
+    "basic": "The team had to replay the last point after the whistle error."
+  },
+  "brittle": {
+    "simple": "Hard but easy to snap, with little bend.",
+    "detailed": "Describes materials that fracture instead of flexing, and figuratively a mood or peace that can shatter under slight pressure.",
+    "zh": "易碎的；脆弱的",
+    "syn": [
+      "fragile",
+      "breakable",
+      "crisp"
+    ],
+    "ant": [
+      "flexible",
+      "resilient"
+    ],
+    "col": [
+      "brittle plastic",
+      "brittle bone",
+      "brittle truce"
+    ],
+    "fam": [
+      "brittle",
+      "brittleness",
+      "brittly"
+    ],
+    "example": "The brittle plastic snapped when the sample tray was left in the sun.",
+    "basic": "The easily snapped plastic broke when the sample tray was left in the sun."
+  },
+  "broad": {
+    "simple": "Wide in space, or covering many kinds of things.",
+    "detailed": "Having large width, or a range of meaning that includes several cases; academic writing sometimes needs a narrower word instead.",
+    "zh": "宽广的；广泛的",
+    "syn": [
+      "wide",
+      "wide-ranging",
+      "general"
+    ],
+    "ant": [
+      "narrow",
+      "limited"
+    ],
+    "col": [
+      "broad range",
+      "broad smile",
+      "broad definition"
+    ],
+    "fam": [
+      "broad",
+      "broadly",
+      "broaden",
+      "breadth"
+    ],
+    "example": "A broad definition of 'rubbish' hid the difference between food scraps and soft plastic.",
+    "basic": "A wide definition of 'rubbish' hid the difference between food scraps and soft plastic."
+  },
+  "brutal": {
+    "simple": "Cruel and violent, showing little care for suffering.",
+    "detailed": "Savagely harsh in action or condition, used in HASS and narrative when force or weather is pitiless.",
+    "zh": "残暴的；严酷的",
+    "syn": [
+      "cruel",
+      "savage",
+      "vicious"
+    ],
+    "ant": [
+      "gentle",
+      "humane"
+    ],
+    "col": [
+      "brutal attack",
+      "brutal honesty",
+      "brutal conditions"
+    ],
+    "fam": [
+      "brutal",
+      "brutally",
+      "brutality"
+    ],
+    "example": "The source described brutal conditions on the early pastoral stations in summer.",
+    "basic": "The source described cruel, harsh conditions on the early pastoral stations in summer."
+  },
+  "chronic": {
+    "simple": "Lasting for a long time, especially of a problem or illness.",
+    "detailed": "Persisting or frequently returning, in contrast with an acute event that is sudden and short.",
+    "zh": "慢性的；长期的",
+    "syn": [
+      "long-term",
+      "persistent",
+      "lingering"
+    ],
+    "ant": [
+      "acute",
+      "short-lived"
+    ],
+    "col": [
+      "chronic illness",
+      "chronic shortage",
+      "chronic pain"
+    ],
+    "fam": [
+      "chronic",
+      "chronically"
+    ],
+    "example": "A chronic shortage of shade trees made the western playground almost unused by November.",
+    "basic": "A long-term shortage of shade trees made the western playground almost unused by November."
+  },
+  "civic": {
+    "simple": "Relating to a town or city and to the duties of its citizens.",
+    "detailed": "Connected with public life—voting, volunteering, local government—rather than purely private or commercial concerns.",
+    "zh": "公民的；市政的",
+    "syn": [
+      "public",
+      "municipal",
+      "citizenly"
+    ],
+    "ant": [],
+    "col": [
+      "civic duty",
+      "civic centre",
+      "civic pride"
+    ],
+    "fam": [
+      "civic",
+      "civics",
+      "civically"
+    ],
+    "example": "Painting the station mural was framed as civic pride, not only as art class fun.",
+    "basic": "Painting the station mural was framed as town pride, not only as art class fun."
+  },
+  "civil": {
+    "simple": "Polite, or relating to ordinary citizens rather than the army.",
+    "detailed": "Courteous in manner, and also describing non-military society, rights, and courts in HASS writing.",
+    "zh": "文明的；民事的",
+    "syn": [
+      "polite",
+      "courteous",
+      "civilian"
+    ],
+    "ant": [
+      "rude",
+      "uncivil"
+    ],
+    "col": [
+      "civil rights",
+      "civil war",
+      "civil reply"
+    ],
+    "fam": [
+      "civil",
+      "civility",
+      "civilian"
+    ],
+    "example": "A civil reply to the angry email earned more respect than a matching insult.",
+    "basic": "A polite reply to the angry email earned more respect than a matching insult."
+  },
+  "classic": {
+    "simple": "Of lasting high quality, or typical of its kind.",
+    "detailed": "Judged as a standard example over time, whether a novel, design, or mistake that keeps reappearing.",
+    "zh": "经典的；典型的",
+    "syn": [
+      "traditional",
+      "timeless",
+      "typical"
+    ],
+    "ant": [
+      "modern",
+      "atypical"
+    ],
+    "col": [
+      "classic novel",
+      "classic example",
+      "classic style"
+    ],
+    "fam": [
+      "classic",
+      "classics",
+      "classical"
+    ],
+    "example": "The camp narrative used a classic journey structure: leave, test, return changed.",
+    "basic": "The camp narrative used a typical journey structure: leave, test, return changed."
+  },
+  "clinical": {
+    "simple": "Relating to medical treatment of patients, or coolly factual.",
+    "detailed": "Based on work with real patients rather than only theory; in tone, detached and precise, sometimes lacking warmth.",
+    "zh": "临床的；冷静客观的",
+    "syn": [
+      "medical",
+      "detached",
+      "dispassionate"
+    ],
+    "ant": [
+      "emotional"
+    ],
+    "col": [
+      "clinical trial",
+      "clinical notes",
+      "clinical tone"
+    ],
+    "fam": [
+      "clinical",
+      "clinically",
+      "clinic"
+    ],
+    "example": "The nurse's clinical notes recorded pulse and temperature without extra story.",
+    "basic": "The nurse's medical notes recorded pulse and temperature without extra story."
+  },
+  "cognitive": {
+    "simple": "Relating to thinking, knowing, and remembering.",
+    "detailed": "Concerned with mental processes such as attention, memory, and reasoning, used in science and education writing.",
+    "zh": "认知的",
+    "syn": [
+      "mental",
+      "thinking-related",
+      "intellectual"
+    ],
+    "ant": [],
+    "col": [
+      "cognitive skill",
+      "cognitive load",
+      "cognitive development"
+    ],
+    "fam": [
+      "cognitive",
+      "cognition",
+      "cognitively"
+    ],
+    "example": "Too many fonts on one slide increased cognitive load and hid the actual result.",
+    "basic": "Too many fonts on one slide made thinking harder and hid the actual result."
+  },
+  "collective": {
+    "simple": "Done or shared by a group rather than one person.",
+    "detailed": "Belonging to people acting together, so responsibility, ownership, or voice is joint.",
+    "zh": "集体的；共同的",
+    "syn": [
+      "shared",
+      "joint",
+      "communal"
+    ],
+    "ant": [
+      "individual",
+      "solitary"
+    ],
+    "col": [
+      "collective decision",
+      "collective effort",
+      "collective memory"
+    ],
+    "fam": [
+      "collective",
+      "collectively",
+      "collectivism"
+    ],
+    "example": "Cleaning the creek was a collective effort, not a job dumped on one class.",
+    "basic": "Cleaning the creek was a shared effort, not a job dumped on one class."
+  },
+  "colonial": {
+    "simple": "Relating to a colony or to the period when one country ruled another.",
+    "detailed": "Connected with a ruling power's settlements overseas, and with the settler-era structures that still shape Australian HASS debates.",
+    "zh": "殖民的；殖民地的",
+    "syn": [
+      "settler-era",
+      "imperial"
+    ],
+    "ant": [],
+    "col": [
+      "colonial period",
+      "colonial government",
+      "colonial architecture"
+    ],
+    "fam": [
+      "colonial",
+      "colony",
+      "colonise",
+      "colonisation"
+    ],
+    "example": "The unit compared colonial land maps with later native-title decisions.",
+    "basic": "The unit compared settler-era land maps with later native-title decisions."
+  },
+  "commercial": {
+    "simple": "Related to buying, selling, and making a profit.",
+    "detailed": "Designed for trade rather than purely public, artistic, or domestic purposes; also used for advertising tone.",
+    "zh": "商业的",
+    "syn": [
+      "business",
+      "trade",
+      "mercantile"
+    ],
+    "ant": [
+      "non-commercial"
+    ],
+    "col": [
+      "commercial use",
+      "commercial break",
+      "commercial success"
+    ],
+    "fam": [
+      "commercial",
+      "commercially",
+      "commerce"
+    ],
+    "example": "Commercial use of the hall was banned on weeknights so homework clubs could stay free.",
+    "basic": "Business use of the hall was banned on weeknights so homework clubs could stay free."
+  },
+  "commonplace": {
+    "simple": "Ordinary and familiar, not surprising any more.",
+    "detailed": "So usual that it no longer attracts notice; academic writing may challenge a familiar idea that people have stopped testing.",
+    "zh": "平常的；司空见惯的",
+    "syn": [
+      "ordinary",
+      "everyday",
+      "unremarkable"
+    ],
+    "ant": [
+      "unusual",
+      "extraordinary"
+    ],
+    "col": [
+      "commonplace remark",
+      "become commonplace",
+      "commonplace object"
+    ],
+    "fam": [
+      "commonplace",
+      "commonplaces"
+    ],
+    "example": "Plastic snack wrappers had become so commonplace that nobody counted them as litter at first.",
+    "basic": "Plastic snack wrappers had become so ordinary that nobody counted them as litter at first."
+  },
+  "compact": {
+    "simple": "Closely packed, or small but complete.",
+    "detailed": "Occupying little space because parts are efficiently arranged; science may also use it for dense materials.",
+    "zh": "紧凑的；小而全的",
+    "syn": [
+      "dense",
+      "tight",
+      "compressed"
+    ],
+    "ant": [
+      "sprawling",
+      "loose"
+    ],
+    "col": [
+      "compact design",
+      "compact car",
+      "compact soil"
+    ],
+    "fam": [
+      "compact",
+      "compactly",
+      "compactness"
+    ],
+    "example": "A compact design let the weather station fit on one fence post without shading the gauge.",
+    "basic": "A small, tightly packed design let the weather station fit on one fence post."
+  },
+  "compassionate": {
+    "simple": "Feeling and showing kindness toward people who are suffering.",
+    "detailed": "Responding to others' pain with care and a wish to help, a valued quality in characters and in civic decisions.",
+    "zh": "有同情心的",
+    "syn": [
+      "kind",
+      "caring",
+      "empathetic"
+    ],
+    "ant": [
+      "callous",
+      "heartless"
+    ],
+    "col": [
+      "compassionate response",
+      "compassionate friend",
+      "compassionate leave"
+    ],
+    "fam": [
+      "compassionate",
+      "compassionately",
+      "compassion"
+    ],
+    "example": "A compassionate response to the flood families was more than a photo; it was dry beds and meals.",
+    "basic": "A kind response to the flood families was more than a photo; it was dry beds and meals."
+  },
+  "compatible": {
+    "simple": "Able to exist or work together without conflict.",
+    "detailed": "Fitting another system, person, or idea so parts function jointly; science and design use it for devices and materials too.",
+    "zh": "兼容的；相符的",
+    "syn": [
+      "matching",
+      "consistent",
+      "well-suited"
+    ],
+    "ant": [
+      "incompatible",
+      "conflicting"
+    ],
+    "col": [
+      "compatible with",
+      "compatible software",
+      "compatible goals"
+    ],
+    "fam": [
+      "compatible",
+      "compatibility",
+      "incompatible"
+    ],
+    "example": "The new sensor was not compatible with the old laptop, so the data never saved.",
+    "basic": "The new sensor did not work with the old laptop, so the data never saved."
+  },
+  "compelling": {
+    "simple": "So strong or interesting that it is hard to ignore.",
+    "detailed": "Holding attention or forcing agreement because the evidence, story, or need is powerful.",
+    "zh": "有说服力的；引人入胜的",
+    "syn": [
+      "convincing",
+      "forceful",
+      "persuasive"
+    ],
+    "ant": [
+      "unconvincing",
+      "weak"
+    ],
+    "col": [
+      "compelling evidence",
+      "compelling story",
+      "compelling reason"
+    ],
+    "fam": [
+      "compelling",
+      "compellingly",
+      "compel"
+    ],
+    "example": "The photographs were compelling evidence that the drain still dumped silt into the lagoon.",
+    "basic": "The photographs were strong evidence that the drain still dumped silt into the lagoon."
+  },
+  "competent": {
+    "simple": "Having the skill to do a task well enough.",
+    "detailed": "Adequately able: trained and reliable, even if not brilliant, so others can trust the work.",
+    "zh": "胜任的；有能力的",
+    "syn": [
+      "capable",
+      "able",
+      "skilled"
+    ],
+    "ant": [
+      "incompetent",
+      "unable"
+    ],
+    "col": [
+      "competent writer",
+      "competent performance",
+      "highly competent"
+    ],
+    "fam": [
+      "competent",
+      "competently",
+      "competence"
+    ],
+    "example": "A competent lab partner checked the units before anyone poured the solution.",
+    "basic": "A capable lab partner checked the units before anyone poured the solution."
+  },
+  "competitive": {
+    "simple": "Eager to win, or involving rivalry between people or groups.",
+    "detailed": "Marked by contest for places, marks, or markets; can drive effort or crowd out cooperation.",
+    "zh": "竞争的；好胜的",
+    "syn": [
+      "rivalrous",
+      "ambitious",
+      "cut-throat"
+    ],
+    "ant": [
+      "cooperative",
+      "non-competitive"
+    ],
+    "col": [
+      "competitive sport",
+      "competitive market",
+      "highly competitive"
+    ],
+    "fam": [
+      "competitive",
+      "competitively",
+      "competition",
+      "compete"
+    ],
+    "example": "Entry to the scholarship school was competitive, so the writing had to be precise, not fluffy.",
+    "basic": "Entry to the scholarship school involved rivalry, so the writing had to be precise."
+  },
+  "complementary": {
+    "simple": "Combining well so each part supplies what the other lacks.",
+    "detailed": "Completing one another (not 'free' or flattering); colours, skills, or sources that together make a fuller whole.",
+    "zh": "互补的",
+    "syn": [
+      "matching",
+      "completing",
+      "harmonising"
+    ],
+    "ant": [
+      "contradictory",
+      "clashing"
+    ],
+    "col": [
+      "complementary colours",
+      "complementary skills",
+      "complementary sources"
+    ],
+    "fam": [
+      "complementary",
+      "complement",
+      "complementarity"
+    ],
+    "example": "The two reports were complementary: one had numbers, the other had interviews.",
+    "basic": "The two reports fitted together: one had numbers, the other had interviews."
+  },
+  "complete": {
+    "simple": "Having all the needed parts, or finished.",
+    "detailed": "Whole and lacking nothing required, or brought to an end so no further essential work remains.",
+    "zh": "完整的；完成的",
+    "syn": [
+      "whole",
+      "entire",
+      "finished"
+    ],
+    "ant": [
+      "incomplete",
+      "partial"
+    ],
+    "col": [
+      "complete set",
+      "complete sentence",
+      "complete answer"
+    ],
+    "fam": [
+      "complete",
+      "completely",
+      "completion",
+      "incomplete"
+    ],
+    "example": "A complete answer named the cause, the evidence, and the remaining doubt.",
+    "basic": "A finished answer named the cause, the evidence, and the remaining doubt."
+  },
+  "complicated": {
+    "simple": "Made of many parts and therefore hard to understand or do.",
+    "detailed": "Intricate rather than simple, with connections that a careful writer must unpack instead of calling the topic 'messy'.",
+    "zh": "复杂的",
+    "syn": [
+      "complex",
+      "intricate",
+      "involved"
+    ],
+    "ant": [
+      "simple",
+      "straightforward"
+    ],
+    "col": [
+      "complicated process",
+      "complicated question",
+      "overly complicated"
+    ],
+    "fam": [
+      "complicated",
+      "complication",
+      "complicate"
+    ],
+    "example": "The recycling rule looked complicated until they sorted it into three clear bins.",
+    "basic": "The recycling rule looked hard and tangled until they sorted it into three clear bins."
+  },
+  "composed": {
+    "simple": "Calm and in control of your feelings.",
+    "detailed": "Self-possessed under pressure, a literary quality of characters who do not scatter when a scene turns hard.",
+    "zh": "镇定的；沉着的",
+    "syn": [
+      "calm",
+      "collected",
+      "self-possessed"
+    ],
+    "ant": [
+      "agitated",
+      "flustered"
+    ],
+    "col": [
+      "composed voice",
+      "look composed",
+      "remain composed"
+    ],
+    "fam": [
+      "composed",
+      "composedly",
+      "composure"
+    ],
+    "example": "She stayed composed at the lectern even when the microphone squealed.",
+    "basic": "She stayed calm at the lectern even when the microphone squealed."
+  },
+  "compulsory": {
+    "simple": "Required by a rule; you do not have a free choice.",
+    "detailed": "Obligatory under school, civic, or legal authority, contrasted with optional activities people may decline.",
+    "zh": "强制的；必修的",
+    "syn": [
+      "mandatory",
+      "required",
+      "obligatory"
+    ],
+    "ant": [
+      "optional",
+      "voluntary"
+    ],
+    "col": [
+      "compulsory subject",
+      "compulsory voting",
+      "compulsory uniform"
+    ],
+    "fam": [
+      "compulsory",
+      "compulsion",
+      "compulsorily"
+    ],
+    "example": "In Australia, voting in federal elections is compulsory for enrolled adults.",
+    "basic": "In Australia, voting in federal elections is required for enrolled adults."
+  },
+  "conceited": {
+    "simple": "Too proud of yourself and your own importance.",
+    "detailed": "Vain in a way that bores or hurts others, a character flaw that narratives often punish or gently mock.",
+    "zh": "自负的",
+    "syn": [
+      "vain",
+      "arrogant",
+      "self-important"
+    ],
+    "ant": [
+      "modest",
+      "humble"
+    ],
+    "col": [
+      "conceited remark",
+      "conceited smile",
+      "sound conceited"
+    ],
+    "fam": [
+      "conceited",
+      "conceitedly",
+      "conceit"
+    ],
+    "example": "A conceited remark about 'ordinary readers' made the scholarship panel wince.",
+    "basic": "A vain remark about 'ordinary readers' made the scholarship panel wince."
+  },
+  "concise": {
+    "simple": "Short and clear, with no wasted words.",
+    "detailed": "Packed with meaning in a small space, a prized academic quality when every sentence still stays exact.",
+    "zh": "简洁的",
+    "syn": [
+      "brief",
+      "succinct",
+      "terse"
+    ],
+    "ant": [
+      "wordy",
+      "long-winded"
+    ],
+    "col": [
+      "concise summary",
+      "concise style",
+      "clear and concise"
+    ],
+    "fam": [
+      "concise",
+      "concisely",
+      "conciseness"
+    ],
+    "example": "A concise summary of the creek data fitted on one slide without dropping the units.",
+    "basic": "A short, clear summary of the creek data fitted on one slide without dropping the units."
+  }
+}
