@@ -1,0 +1,156 @@
+{
+  "test_title": "Year 5 Number & Algebra Test 05",
+  "subject": "Numeracy",
+  "level": "Intermediate",
+  "test_type": "Practice Test",
+  "time_allowed": "18 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "mode": "PRACTICE (read-only, exited without saving)",
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Courtney wrote down this number: [168] She added a zero after the 8. Her new number is:",
+      "options": [
+        "10 times smaller than 168.",
+        "10 more than 168.",
+        "10 times larger than 168.",
+        "10 less than 168."
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 2,
+      "stem": "This is a number line: What number does the arrow point to?",
+      "options": [
+        "80.5",
+        "83.5",
+        "84",
+        "84.5"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 3,
+      "stem": null,
+      "options": [
+        "1",
+        "3",
+        "5",
+        "7",
+        "8"
+      ],
+      "selected_answer": null,
+      "notes": "stem text not captured (likely embedded in image); 1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 4,
+      "stem": "Greta paid $22 for a wallet and $17 for a book. How much change did she receive from $50?",
+      "options": [
+        "$11",
+        "$19",
+        "$21",
+        "$29",
+        "$39"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 5,
+      "stem": "When divided correctly, which three of these have a remainder of one?",
+      "options": [
+        "16 divided by 3",
+        "17 divided by 4",
+        "18 divided by 5",
+        "19 divided by 6",
+        "20 divided by 7"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 6,
+      "stem": "Kelly has 45 balloons. She wants to hang them in groups with 3 balloons in each group. Which of these shows how Kelly could find the number of groups she will have?",
+      "options": [
+        "3 + 45",
+        "45 × 3",
+        "3 ÷ 45",
+        "45 ÷ 3"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 7,
+      "stem": "The number 34.09 is the same as:",
+      "options": [
+        "3 tens + 4 units + 9 tenths.",
+        "3 tens + 4 tenths + 9 hundredths.",
+        "3 tens + 4 units + 9 hundredths.",
+        "3 hundreds + 4 tens + 9 units."
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 8,
+      "stem": "Here is a pattern: What number should be placed in the box?",
+      "options": null,
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 9,
+      "stem": "Chelsea uses her calculator to check that 18 × 23 = 414 and 414 ÷ 18 = 23. She now calculates that 38 × 26 equals 988. Which two of these number sentences are correct?",
+      "options": [
+        "988 ÷ 26 = 38",
+        "988 × 26 = 38",
+        "988 ÷ 38 = 26",
+        "26 ÷ 988 = 38",
+        "38 ÷ 988 = 26"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 10,
+      "stem": "Which of these divisions has a remainder of 1?",
+      "options": [
+        "12 divided by 4",
+        "15 divided by 2",
+        "10 divided by 5",
+        "17 divided by 3"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 11,
+      "stem": "Hannah’s mother is three times the age of Hannah. Hannah’s mother is 33 years old. What is the total of their ages?",
+      "options": [
+        "36",
+        "44",
+        "46",
+        "48"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 12,
+      "stem": "Ronald wrote the same number in each circle to make the number sentence correct: Which number did Ronald use?",
+      "options": [
+        "14",
+        "12",
+        "16",
+        "18",
+        "24"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    }
+  ]
+}

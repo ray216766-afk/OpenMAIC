@@ -1,0 +1,137 @@
+{
+  "test_title": "Year 5 Reading Test 05",
+  "subject": "Year 5 Reading (NAPLAN-style)",
+  "level": "Intermediate",
+  "test_type": "Practice Test (Practice mode)",
+  "time_allowed": "11 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "url_run": "https://app.exceltestzone.com.au/my-testpacks/2/tests/358/run",
+  "mode": "PRACTICE (read-only; no answers entered; exited via Exit Test, answers not saved)",
+  "passage": "Words can be fun\nSome people like sport. Some people like reading. Some people like cooking.\nLots of people play word games such as crosswords, but some people just\nlike words.\nLook at the word ‘madam’. Can you see anything odd about it? One reason\n‘madam’ is odd is because it can be read, or spelled, backwards and forwards\nand it still stays ‘madam’. Words like ‘madam’ are called palindromes.\nThere are lots of palindromes in our language. In fact there might be three\nor four in your family. Your parents might be called Mum and Dad. Is there\nsomeone in your family called Bob, or Eve, or Hannah?\nCan you answer these questions? The answers are all three-letter words\nand palindromes.\nWhat do we call a young dog? What is the word for a small part of the face?\nSome sound words can be read forwards and backwards.\nA balloon might pop. A tug can toot. And when\nsomething good happens I say, ‘Wow!’\nWhat is another name for a joke? g _ _ .\nAnother name for a baby is a tiny t _ _ .\nPalindromes can be longer than three letters. A quick look is called a peep.\nWhen you do something good, it’s a good deed. A helicopter has a rotor.\nThis note\n\nis a minim.\n\nThis box is red\n\nbut this box is redder\n\n.\n\nElle can say abbadabbadabba.\nCan you find four palindromes in the next question? Did Dad pop his balloon\nin Tumut?\nA whole sentence can be a palindrome: Was it a rat I saw?\nWords can be fun.",
+  "passages": [
+    {
+      "id": 1,
+      "text": "Words can be fun\nSome people like sport. Some people like reading. Some people like cooking.\nLots of people play word games such as crosswords, but some people just\nlike words.\nLook at the word ‘madam’. Can you see anything odd about it? One reason\n‘madam’ is odd is because it can be read, or spelled, backwards and forwards\nand it still stays ‘madam’. Words like ‘madam’ are called palindromes.\nThere are lots of palindromes in our language. In fact there might be three\nor four in your family. Your parents might be called Mum and Dad. Is there\nsomeone in your family called Bob, or Eve, or Hannah?\nCan you answer these questions? The answers are all three-letter words\nand palindromes.\nWhat do we call a young dog? What is the word for a small part of the face?\nSome sound words can be read forwards and backwards.\nA balloon might pop. A tug can toot. And when\nsomething good happens I say, ‘Wow!’\nWhat is another name for a joke? g _ _ .\nAnother name for a baby is a tiny t _ _ .\nPalindromes can be longer than three letters. A quick look is called a peep.\nWhen you do something good, it’s a good deed. A helicopter has a rotor.\nThis note\n\nis a minim.\n\nThis box is red\n\nbut this box is redder\n\n.\n\nElle can say abbadabbadabba.\nCan you find four palindromes in the next question? Did Dad pop his balloon\nin Tumut?\nA whole sentence can be a palindrome: Was it a rat I saw?\nWords can be fun.",
+      "notes": null
+    }
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "kind": "multiple-choice",
+      "stem": "The writer believes that",
+      "options": [
+        "recognising palindromes can be fun.",
+        "cooking is more fun than reading.",
+        "most people enjoy sport.",
+        "everyone enjoys crosswords."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 2,
+      "kind": "multiple-choice",
+      "stem": "Which one of these place names is not a palindrome?",
+      "options": [
+        "Glenelg",
+        "Parap",
+        "Arrawarra",
+        "Woy Woy"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 3,
+      "kind": "multiple-choice (multi-select)",
+      "stem": "Which statements are correct? Choose two options.",
+      "options": [
+        "Palindromes can only have an odd number of letters.",
+        "People’s names can be palindromes.",
+        "Palindromes are important in crosswords.",
+        "Only short words can be palindromes.",
+        "The English language has many palindromes."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 4,
+      "kind": "click-words",
+      "stem": "Click on the words in this sentence that are palindromes.\nAt noon Gran said, ‘The canoe on the river is floating away!'",
+      "options": [
+        "At",
+        "noon",
+        "Gran",
+        "said,",
+        "‘The",
+        "canoe",
+        "on",
+        "the",
+        "river",
+        "is",
+        "floating",
+        "away!'"
+      ],
+      "notes": "each word is a clickable button",
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 5,
+      "kind": "drag",
+      "stem": "Drag one option to complete this palindrome.\nLEV ____",
+      "options": [
+        "LE",
+        "EE",
+        "LEV",
+        "EL"
+      ],
+      "notes": "Layout of the blank inferred from page text ('LEV ' followed by a drop slot); exact position of the slot not certain",
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 6,
+      "kind": "table tick-box",
+      "stem": "Select which are phrases and which are palindromes.\n | Phrase | Palindrome\nMum and Dad | \nso many dynamos | \nborrow or rob |",
+      "options": null,
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 7,
+      "kind": "multiple-choice",
+      "stem": "What is the similarity between palindromes and crosswords?",
+      "options": [
+        "They provide enjoyment with words.",
+        "They use more than three letters.",
+        "They improve a person’s spelling.",
+        "They are hard to complete."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    }
+  ]
+}

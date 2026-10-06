@@ -1,0 +1,158 @@
+{
+  "test_title": "Year 5 Number & Algebra Test 02",
+  "subject": "Numeracy",
+  "level": "Standard",
+  "test_type": "Practice Test",
+  "time_allowed": "12 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "mode": "PRACTICE (read-only, exited without saving)",
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Which number is 3807?",
+      "options": [
+        "three thousand and eighty-seven",
+        "three thousand, eight hundred and seventy",
+        "three thousand, eight hundred and seven",
+        "thirty-eight thousand and seven"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 2,
+      "stem": "This is Laura’s list of numbers. She places her numbers in ascending (from lowest to highest) order. Rearrange the numbers in ascending order (from lowest to highest). 4230 4023 4320 4032 Answers",
+      "options": [
+        "Lowest",
+        "Low",
+        "High",
+        "Highest"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 3,
+      "stem": "Here is a tower made from blocks: Adam wants to add two more rows on the bottom to continue the pattern. How many blocks will he add in total?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11",
+        "23"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 4,
+      "stem": "These dots are in rows and columns. The number of dots in the rows is the same as the number of dots in the columns. Adam covers some of the dots with a square: How many dots are not covered?",
+      "options": [
+        "36",
+        "48",
+        "50",
+        "64"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 5,
+      "stem": "Jessica bought these chocolate bars:",
+      "options": [
+        "Each chocolate bar cost $1.20.",
+        "In dollars, how much did Jessica pay altogether for the chocolate bars? Type the number of dollars in the box below without the $ sign, e.g. 2.30 for $2.30."
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 6,
+      "stem": "What is the missing number?",
+      "options": [
+        "90",
+        "92",
+        "95",
+        "100"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 7,
+      "stem": "Which two of these patterns are counting forward by 5s?",
+      "options": [
+        "45, 55, 65, 75",
+        "65, 70, 75, 80",
+        "75, 755, 7555, 75 555",
+        "85, 805, 8005, 80 005",
+        "95, 100, 105, 110"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 8,
+      "stem": "Jerome coloured in squares in ascending order on his number chart. He started at 3 and coloured in the 3 times table to 60: Jerome now considered the 6 times table. Which three of these numbers is not in the 6 times table?",
+      "options": [
+        "45",
+        "48",
+        "51",
+        "54",
+        "57"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 9,
+      "stem": null,
+      "options": [
+        "63",
+        "67",
+        "73",
+        "77",
+        "97"
+      ],
+      "selected_answer": null,
+      "notes": "stem text not captured (likely embedded in image); 1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 10,
+      "stem": "Look at this number pattern:",
+      "options": [
+        "17",
+        "14",
+        "11",
+        "10"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 11,
+      "stem": "What is the missing number? Drag the correct answer into the empty box. 15 – (2 + __ ) = 5:",
+      "options": [
+        "10",
+        "9",
+        "8",
+        "7"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 12,
+      "stem": "Which shape has one-quarter shaded blue?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "4 image(s) on page; image-based content/options not captured as text"
+    }
+  ]
+}

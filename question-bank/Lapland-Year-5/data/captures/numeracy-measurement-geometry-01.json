@@ -1,0 +1,157 @@
+{
+  "test_title": "Year 5 Measurement & Geometry Test 01",
+  "subject": "Numeracy",
+  "level": "Standard",
+  "test_type": "Practice Test",
+  "time_allowed": "12 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "mode": "PRACTICE (read-only, exited without saving)",
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Which object measures temperature?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "4 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 2,
+      "stem": "Which of the following are prisms? Select all answers.",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]",
+        "[image option E]"
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 3,
+      "stem": "Sam’s birthday is on Monday, 16 October. His friend Jack has his birthday 10 days later. Which day of the week is Jack’s birthday?",
+      "options": [
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 4,
+      "stem": "Markus coloured each face of a square pyramid a different colour. How many colours did he use?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 5,
+      "stem": "Which of the following has the smallest area?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "4 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 6,
+      "stem": "Riley correctly named the seven shapes that make a tangram puzzle: What are the shapes on Riley’s list?",
+      "options": [
+        "5 triangles, a parallelogram and a square",
+        "4 triangles, a parallelogram and 2 hexagons",
+        "5 triangles, a rectangle and a square",
+        "4 triangles, 2 rectangles and a hexagon"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 7,
+      "stem": "Here are the masses of four pumpkins:",
+      "options": [
+        "Rearrange the pumpkins in order from lightest to heaviest.",
+        "(ordering slots: Lightest / Light / Heavy / Heaviest)"
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 8,
+      "stem": "In his bedroom, Carl uses a power board for electricity: Where is Carl’s computer plugged in?",
+      "options": [
+        "second from the left",
+        "second from the right",
+        "third from the left",
+        "fifth from the right"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 9,
+      "stem": "Li drew the top view of this solid: Which is Li’s top view?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 10,
+      "stem": "What time does the next train leave?",
+      "options": [
+        "3:30",
+        "4:30",
+        "6:18",
+        "6:35"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 11,
+      "stem": "The letter T looks the same when it is flipped over the dotted vertical line: Which two of these letters will look the same when they are flipped over their dotted lines?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]",
+        "[image option E]"
+      ],
+      "selected_answer": null,
+      "notes": "6 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 12,
+      "stem": "Which shape does not have any parallel sides?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "4 image(s) on page; image-based content/options not captured as text"
+    }
+  ]
+}

@@ -13,6 +13,7 @@ Open `/lapland-year-5` on port **4017** (`pnpm exec next dev --hostname 127.0.0.
 - `data/main-page-entries.json` — the 60 rows shown on `/lapland-year-5`.
 - `data/resources-catalog.json` — the same 60 tests with strand, level, and timing.
 - `data/placement-test-v1.json` — the 26-question level test. `correct_answer` is null until a key is filled in; the app does not invent one.
+- `data/captures/` — one JSON file per practice test. The filename stem is the main-page entry id. Starting a test reads that file’s stems and options. `selected_answer` is not shown and is not used as a key.
 - `inventory/year5-naplan-online-style-tests.csv` — pack inventory (all subjects and levels).
 - `Conventions-of-Language/Standard/` — Standard Practice batch: Grammar & Punctuation Tests 01–04 and Spelling Tests 01–04.
 - `Conventions-of-Language/Intermediate/` — Intermediate Practice batch: Grammar & Punctuation Tests 05–08 and Spelling Tests 05–08.

@@ -1,0 +1,237 @@
+{
+  "test_title": "Year 5 Grammar & Punctuation Test 02",
+  "subject": "Year 5 Conventions of Language (NAPLAN-style)",
+  "level": "Standard",
+  "test_type": "Practice Test (Practice mode, untimed)",
+  "time_allowed": "15 min",
+  "url_run": "https://app.exceltestzone.com.au/my-testpacks/2/tests/307/run",
+  "capture_note": "Captured in Practice mode via Next only; no per-question SUBMIT/FINISH; exited via Exit Test (answers not saved). selected_answer values are our own suggested answers, not the official key, and were not entered in the UI.",
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Which word correctly completes the sentence? During the night I [dropdown] aware of an unusual noise.",
+      "options": [
+        "became",
+        "becoming",
+        "becomes",
+        "become"
+      ],
+      "selected_answer": "became",
+      "notes": "past tense"
+    },
+    {
+      "n": 2,
+      "stem": "Which of the following correctly completes this sentence? Tina’s writing was ___ today than yesterday.",
+      "options": [
+        "good",
+        "best",
+        "better",
+        "more better"
+      ],
+      "selected_answer": "better",
+      "notes": "comparative"
+    },
+    {
+      "n": 3,
+      "stem": "Which sentence is correct?",
+      "options": [
+        "Simon and I played handball.",
+        "Me and Simon played handball.",
+        "Simon and me played handball.",
+        "I and Simon played handball."
+      ],
+      "selected_answer": "Simon and I played handball.",
+      "notes": "subject pronoun"
+    },
+    {
+      "n": 4,
+      "stem": "Drag one word to correctly complete the sentence. Listen to the instructions ___ you’ll make a mistake!",
+      "options": [
+        "as",
+        "and",
+        "or",
+        "when"
+      ],
+      "selected_answer": "or",
+      "notes": "warning/consequence"
+    },
+    {
+      "n": 5,
+      "stem": "Which words correctly complete the sentence? Choose two options. Henry and Susanne ___ by now.",
+      "options": [
+        "will have left",
+        "must of left",
+        "will have leave",
+        "could of left",
+        "should have left"
+      ],
+      "selected_answer": "will have left; should have left",
+      "notes": "two options"
+    },
+    {
+      "n": 6,
+      "stem": "Click on the word that is an adjective (describes a noun) in this sentence. The cannon was found recently on a sunken ship.",
+      "options": [
+        "The",
+        "cannon",
+        "was",
+        "found",
+        "recently",
+        "on",
+        "a",
+        "sunken",
+        "ship."
+      ],
+      "selected_answer": "sunken",
+      "notes": "describes ship"
+    },
+    {
+      "n": 7,
+      "stem": "Tick the box to complete each sentence correctly. (a) The boy ____ his horse to town. (b) I want to ____ the Ferris wheel. (c) I will be ____ my sister’s bike.",
+      "options": [
+        "ride",
+        "riding",
+        "rides"
+      ],
+      "selected_answer": "rides / ride / riding",
+      "notes": "a=rides, b=ride, c=riding"
+    },
+    {
+      "n": 8,
+      "stem": "Which word correctly completes the sentence? Old Roland was on his way home from the market with six other farmers when they [dropdown] attacked by bushrangers.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "are"
+      ],
+      "selected_answer": "were",
+      "notes": "plural subject 'they'"
+    },
+    {
+      "n": 9,
+      "stem": "Click on the highlighted word that 'they' refers to in this sentence. At the shops Dad bought vegetables to make soup for the family but they were not fresh.",
+      "options": [
+        "shops",
+        "vegetables",
+        "soup",
+        "family"
+      ],
+      "selected_answer": "vegetables",
+      "notes": "they = vegetables"
+    },
+    {
+      "n": 10,
+      "stem": "Which word correctly completes the text? Jo was walking to school when she noticed a group of students. ___ students were from her school but weren’t wearing uniforms.",
+      "options": [
+        "The",
+        "the",
+        "They",
+        "all"
+      ],
+      "selected_answer": "The",
+      "notes": "new sentence capital"
+    },
+    {
+      "n": 11,
+      "stem": "Which highlighted word should have a comma (\",\") after it in this sentence? The pirates were well dressed and well armed with guns knives and swords.",
+      "options": [
+        "pirates",
+        "and",
+        "guns",
+        "knives"
+      ],
+      "selected_answer": "guns",
+      "notes": "list comma"
+    },
+    {
+      "n": 12,
+      "stem": "Which sentences are correct? Choose two options.",
+      "options": [
+        "My father’s surprise party is happening this Friday.",
+        "I have two older sisters’ and one older brother.",
+        "Because of my Mum’s new job, she has to travel more.",
+        "It was Dad’s idea to go to the zoo on Sunday.",
+        "All the fathers’ of students in our class came to the play."
+      ],
+      "selected_answer": "My father’s surprise party is happening this Friday.; It was Dad’s idea to go to the zoo on Sunday.",
+      "notes": "two options"
+    },
+    {
+      "n": 13,
+      "stem": "Click on the word that is not required in this sentence. The old tree struck by lightning is totally dead.",
+      "options": [
+        "The",
+        "old",
+        "tree",
+        "struck",
+        "by",
+        "lightning",
+        "is",
+        "totally",
+        "dead."
+      ],
+      "selected_answer": "totally",
+      "notes": "dead is absolute"
+    },
+    {
+      "n": 14,
+      "stem": "Which sentence has the correct punctuation?",
+      "options": [
+        "Day after Day, the sun rose like a red fireball in the east.",
+        "Day after day, the sun rose like a red fireball in the east.",
+        "Day after day, the Sun rose like a red fireball in the east.",
+        "Day after day the sun, rose, like a red fireball, in the east."
+      ],
+      "selected_answer": "Day after day, the sun rose like a red fireball in the east.",
+      "notes": ""
+    },
+    {
+      "n": 15,
+      "stem": "Which of the words from the sentence are verbs? Choose two options. Before you close the front door, switch on the light in the hallway.",
+      "options": [
+        "Before",
+        "close",
+        "door",
+        "switch",
+        "light"
+      ],
+      "selected_answer": "close; switch",
+      "notes": "two verbs"
+    },
+    {
+      "n": 16,
+      "stem": "Which of the following correctly completes this sentence? Mother was fed ___ a smelly dog in the house.",
+      "options": [
+        "up to",
+        "up with",
+        "at with",
+        "up at"
+      ],
+      "selected_answer": "up with",
+      "notes": "idiom fed up with"
+    },
+    {
+      "n": 17,
+      "stem": "Which words correctly complete the sentence? They had [dropdown 1] across the desert and [dropdown 2] a petrol station.",
+      "options": [
+        "Dropdown 1: driven | drive | drove | driving",
+        "Dropdown 2: reaches | reach | reached | reaching"
+      ],
+      "selected_answer": "driven / reached",
+      "notes": "past participle; past tense"
+    },
+    {
+      "n": 18,
+      "stem": "Click on the highlighted word that should have a comma (\",\") after it. She complained, of course about the bad smell and the heat that lasted all night.",
+      "options": [
+        "She",
+        "course",
+        "smell",
+        "heat"
+      ],
+      "selected_answer": "course",
+      "notes": "'of course' parenthetical"
+    }
+  ]
+}

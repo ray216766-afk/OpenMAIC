@@ -1,0 +1,139 @@
+{
+  "test_title": "Year 5 Number & Algebra Test 03",
+  "subject": "Numeracy",
+  "level": "Standard",
+  "test_type": "Practice Test",
+  "time_allowed": "12 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "mode": "PRACTICE (read-only, exited without saving)",
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Which number is six thousand and twenty-four?",
+      "options": null,
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 2,
+      "stem": "Rhomany is paid $4 per hour to mind her cousin. In dollars, what will she be paid for 5 hours of childminding? Type the number of dollars in the box below without the $ sign, e.g. 2 for $2.",
+      "options": null,
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 3,
+      "stem": "These dots are in rows and columns. The number of dots in the rows is the same as the number of dots in the columns. Philippe covers some of the dots with a square: How many dots are there altogether?",
+      "options": [
+        "36",
+        "28",
+        "48",
+        "64",
+        "72"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 4,
+      "stem": "Sharn used two of these number cards: Sharn used the cards to make a correct number sentence. Move two of Sharn’s cards to make the number sentence true. [__ ÷ __ = 3]:",
+      "options": null,
+      "selected_answer": null,
+      "notes": "6 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 5,
+      "stem": "What number is 15 more than 32?",
+      "options": null,
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 6,
+      "stem": "Here is a number pattern: 1420, 1440, 1460, 1480 What is the description of this number pattern?",
+      "options": [
+        "starting at 1420, counting forward by 2",
+        "starting at 1420, counting forward by 20",
+        "starting at 1420, counting forward by 200",
+        "starting at 1420, counting forward by 2000"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 7,
+      "stem": "What number should be put in the circle to make this number sentence correct?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 8,
+      "stem": "Here is a pattern of numbers: Nathan put in the rest of the numbers following the pattern. [question detail in image]:",
+      "options": [
+        "34",
+        "54",
+        "56",
+        "60",
+        "63"
+      ],
+      "selected_answer": null,
+      "notes": "2 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 9,
+      "stem": "What is the answer when 4235 is divided by 7?",
+      "options": [
+        "65",
+        "605",
+        "650",
+        "6005"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 10,
+      "stem": "Matthew made a pattern of squares like this: He wrote the number of sticks used underneath each diagram. What will be the next three numbers in the pattern?",
+      "options": [
+        "14, 17, 20",
+        "15, 18, 21",
+        "16, 19, 22",
+        "16, 20, 24"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 11,
+      "stem": "What is the missing number?",
+      "options": [
+        "314",
+        "316",
+        "324",
+        "326"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 12,
+      "stem": "Which two of these numbers are not factors of 12?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "24"
+      ],
+      "selected_answer": null,
+      "notes": null
+    }
+  ]
+}

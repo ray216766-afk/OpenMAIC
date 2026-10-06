@@ -1,0 +1,142 @@
+{
+  "test_title": "Year 5 Measurement & Geometry Test 03",
+  "subject": "Numeracy",
+  "level": "Standard",
+  "test_type": "Practice Test",
+  "time_allowed": "12 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "mode": "PRACTICE (read-only, exited without saving)",
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Lily is placing tiles on a floor: How many more tiles will Lily need?",
+      "options": null,
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 2,
+      "stem": "Which two clocks show the same time?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "4 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 3,
+      "stem": "Which object measures capacity?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "4 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 4,
+      "stem": "Of which 3D object could this be the net?",
+      "options": [
+        "triangular pyramid",
+        "triangular prism",
+        "rectangular pyramid",
+        "rectangular prism"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 5,
+      "stem": "What are these two shapes?",
+      "options": [
+        "octagon and rectangle",
+        "octagon and parallelogram",
+        "hexagon and rectangle",
+        "hexagon and parallelogram"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 6,
+      "stem": "The masses of three pieces of fruit, an apple, an orange and a mango, are shown on the scales:",
+      "options": [
+        "How many grams is the total mass of the orange and mango? Type in the box the number of grams, e.g. for 2 g just type 2."
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 7,
+      "stem": "Here is a map of six classrooms in a building at Reece’s school. Reece is in class 5J. At the end of lunch, Reece walks from the playground to his classroom. Where is his classroom? second third right first left Answers",
+      "options": [
+        "Reece's classroom is",
+        "on his"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 8,
+      "stem": "Elias drew the top view of this solid: Which is Elias’s top view?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 9,
+      "stem": "Which three of these letters have parallel lines?",
+      "options": null,
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 10,
+      "stem": "Today is 19 April. Leilani’s ballet concert is on the last Sunday of April. How many days until Leilani’s concert?",
+      "options": [
+        "2",
+        "9",
+        "11",
+        "12",
+        "28"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 11,
+      "stem": "Which is a hexagonal prism?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "4 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 12,
+      "stem": "This shape is turned through a half turn: What does it look like now?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    }
+  ]
+}

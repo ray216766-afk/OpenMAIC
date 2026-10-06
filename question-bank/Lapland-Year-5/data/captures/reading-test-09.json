@@ -1,0 +1,132 @@
+{
+  "test_title": "Year 5 Reading Test 09",
+  "subject": "Year 5 Reading (NAPLAN-style)",
+  "level": "Advanced",
+  "test_type": "Practice Test (Practice mode)",
+  "time_allowed": "15 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "url_run": "https://app.exceltestzone.com.au/my-testpacks/2/tests/362/run",
+  "mode": "PRACTICE (read-only; no answers entered; exited via Exit Test, answers not saved)",
+  "passage": "From Battlers of the Great Depression\nby Edel Wignell HBJ 1990.\nIllustrated by Wendy de Paauw.",
+  "passages": [
+    {
+      "id": 1,
+      "text": "From Battlers of the Great Depression\nby Edel Wignell HBJ 1990.\nIllustrated by Wendy de Paauw.",
+      "notes": "Stimulus is an illustration (image). Only the caption is PDF text. Visible: a man in a brown jacket wearing a hand-lettered sign reading \"I SEEK WORK / Have tramped thousands of miles for a few odd jobs but still hoping! / NON smoker / NON drinker\" (sign text read from rendered image)."
+    }
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "kind": "multiple-choice",
+      "stem": "This man’s situation could best be described as",
+      "options": [
+        "grim.",
+        "risky.",
+        "doomed.",
+        "hopeless."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 2,
+      "kind": "dropdown",
+      "stem": "Choose the correct option to complete the sentence.\nThe man in the picture could best be described as [Choose 1…] .",
+      "options": [
+        "honest / determined / successful / lazy"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 3,
+      "kind": "multiple-choice",
+      "stem": "Because the man is a non-smoker and non-drinker it shows he",
+      "options": [
+        "is healthy and fit.",
+        "hasn’t got any money.",
+        "has good habits.",
+        "doesn’t keep bad company."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 4,
+      "kind": "drag-to-blank",
+      "stem": "Choose the correct option to complete the sentence.\nThe word ‘Great’ in the title Great Depression means ____.",
+      "options": [
+        "grand",
+        "magnificent",
+        "long-lasting",
+        "high and mighty"
+      ],
+      "notes": "options shown as draggable/placeable chips with a blank slot",
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 5,
+      "kind": "multiple-choice",
+      "stem": "What is a battler?",
+      "options": [
+        "a foot soldier",
+        "a professional boxer",
+        "a person who refuses to give up",
+        "someone that gets into fights"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 6,
+      "kind": "multiple-choice",
+      "stem": "What do the man’s words a few odd jobs suggest about the man?",
+      "options": [
+        "He was not interested in full-time work.",
+        "He was not a reliable worker and avoided work.",
+        "He found it hard to get work that he liked.",
+        "He would do anything to get some employment."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 7,
+      "kind": "multiple-choice (multi-select, two)",
+      "stem": "Choose the correct words to complete the sentence.\nThe message the man is wearing indicates that he is _____ and _____.",
+      "options": [
+        "hostile",
+        "respectful",
+        "powerful",
+        "timid",
+        "resourceful"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    }
+  ],
+  "passage_is_image": true
+}

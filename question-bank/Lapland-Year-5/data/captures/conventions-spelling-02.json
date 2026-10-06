@@ -1,0 +1,173 @@
+{
+  "test_title": "Year 5 Spelling Test 02",
+  "subject": "Year 5 Conventions of Language (NAPLAN-style)",
+  "level": "Standard",
+  "test_type": "Practice Test (Practice mode, untimed)",
+  "time_allowed": "15 min",
+  "url_run": "https://app.exceltestzone.com.au/my-testpacks/2/tests/331/run",
+  "capture_note": "Captured in Practice mode via Next only; no per-question SUBMIT/FINISH; exited via Exit Test (answers not saved). selected_answer values are our own suggested answers, not the official key, and were not entered in the UI.",
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Audio dictation: A word is missing from this sentence (play audio to hear it). Type the correct spelling of the missing word. Yesterday ___ I played netball.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "afternoon",
+      "notes": "guess; audio not played"
+    },
+    {
+      "n": 2,
+      "stem": "Audio dictation: A word is missing from this sentence (play audio to hear it). Type the correct spelling of the missing word. “True ___” can be hard to find.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "friends",
+      "notes": "guess; audio not played"
+    },
+    {
+      "n": 3,
+      "stem": "Audio dictation: A word is missing from this sentence (play audio to hear it). Type the correct spelling of the missing word. The ___ peak was covered in snow.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "mountain",
+      "notes": "guess; audio not played"
+    },
+    {
+      "n": 4,
+      "stem": "Audio dictation: A word is missing from this sentence (play audio to hear it). Type the correct spelling of the missing word. I am a Year 5 ___.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "student",
+      "notes": "guess; audio not played"
+    },
+    {
+      "n": 5,
+      "stem": "Audio dictation: A word is missing from this sentence (play audio to hear it). Type the correct spelling of the missing word. Is there ___ I can get you?",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "anything",
+      "notes": "guess; audio not played"
+    },
+    {
+      "n": 6,
+      "stem": "Audio dictation: A word is missing from this sentence (play audio to hear it). Type the correct spelling of the missing word. The new ___ sat in the front seat.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "passenger",
+      "notes": "guess; audio not played"
+    },
+    {
+      "n": 7,
+      "stem": "Audio dictation: A word is missing from this sentence (play audio to hear it). Type the correct spelling of the missing word. It is rude to poke out your ___!",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "tongue",
+      "notes": "guess; audio not played"
+    },
+    {
+      "n": 8,
+      "stem": "Audio dictation: A word is missing from this sentence (play audio to hear it). Type the correct spelling of the missing word. All the ___ sat at the front of the bus.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "students",
+      "notes": "guess; audio not played"
+    },
+    {
+      "n": 9,
+      "stem": "Audio dictation: A word is missing from this sentence (play audio to hear it). Type the correct spelling of the missing word. It was difficult to do up the ___ on my coat.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "buttons",
+      "notes": "guess; audio not played"
+    },
+    {
+      "n": 10,
+      "stem": "Audio dictation: A word is missing from this sentence (play audio to hear it). Type the correct spelling of the missing word. I needed a ___ to tighten the bolt.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "spanner",
+      "notes": "guess; audio not played"
+    },
+    {
+      "n": 11,
+      "stem": "The spelling mistake in this sentence has been highlighted. Type the correct spelling of the highlighted word. The worker’s [overolls] were very dirty.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "overalls",
+      "notes": ""
+    },
+    {
+      "n": 12,
+      "stem": "The spelling mistake in this sentence has been highlighted. Type the correct spelling of the highlighted word. You will need [safty] boots to do this work.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "safety",
+      "notes": ""
+    },
+    {
+      "n": 13,
+      "stem": "The spelling mistake in this sentence has been highlighted. Type the correct spelling of the highlighted word. King Arthur ruled in the ancient [kingdem] of Camelot.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "kingdom",
+      "notes": ""
+    },
+    {
+      "n": 14,
+      "stem": "The spelling mistake in this sentence has been highlighted. Type the correct spelling of the highlighted word. When we [wreach] Lightning Ridge we will have a rest.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "reach",
+      "notes": ""
+    },
+    {
+      "n": 15,
+      "stem": "This sentence has one word that is incorrect. Type the correct spelling of the word. The judge was mercyfull when sentencing the old man.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "merciful",
+      "notes": ""
+    },
+    {
+      "n": 16,
+      "stem": "This sentence has one word that is incorrect. Type the correct spelling of the word. “It is not my falt that you don’t have any money,” explained Mum.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "fault",
+      "notes": ""
+    },
+    {
+      "n": 17,
+      "stem": "This sentence has one word that is incorrect. Type the correct spelling of the word. To prepare for winter, Sanjay horded all the firewood he could find.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "hoarded",
+      "notes": ""
+    },
+    {
+      "n": 18,
+      "stem": "This sentence has one word that is incorrect. Type the correct spelling of the word. Did you colect the mail like I asked you?",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "collect",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "test_title": "Year 5 Spelling Test 04",
+  "subject": "Year 5 Conventions of Language (NAPLAN-style)",
+  "level": "Standard",
+  "test_type": "Practice Test (Practice mode, untimed)",
+  "time_allowed": "15 min",
+  "url_run": "https://app.exceltestzone.com.au/my-testpacks/2/tests/333/run",
+  "capture_note": "Captured in Practice mode via Next only; no per-question SUBMIT/FINISH; exited via Exit Test (answers not saved). selected_answer values are our own suggested answers, not the official key, and were not entered in the UI.",
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Audio dictation: A word is missing from this sentence (play audio to hear it). Type the correct spelling of the missing word. One-third is a larger ___ than one-eighth.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "fraction",
+      "notes": "guess; audio not played"
+    },
+    {
+      "n": 2,
+      "stem": "Audio dictation: A word is missing from this sentence (play audio to hear it). Type the correct spelling of the missing word. The timber fence posts will ___ within a few years.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "decay",
+      "notes": "guess; audio not played"
+    },
+    {
+      "n": 3,
+      "stem": "Audio dictation: A word is missing from this sentence (play audio to hear it). Type the correct spelling of the missing word. For ___ the reef protected the islands from huge seas.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "centuries",
+      "notes": "guess; audio not played"
+    },
+    {
+      "n": 4,
+      "stem": "Audio dictation: A word is missing from this sentence (play audio to hear it). Type the correct spelling of the missing word. Andres stood on the pier and ___ the big ships entering the bay.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "watched",
+      "notes": "guess; audio not played"
+    },
+    {
+      "n": 5,
+      "stem": "Audio dictation: A word is missing from this sentence (play audio to hear it). Type the correct spelling of the missing word. Water is a ___ liquid that has no smell.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "colourless",
+      "notes": "guess; audio not played"
+    },
+    {
+      "n": 6,
+      "stem": "Audio dictation: A word is missing from this sentence (play audio to hear it). Type the correct spelling of the missing word. “It’s none of your ___ where I spend my money,” growled my big brother.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "business",
+      "notes": "guess; audio not played"
+    },
+    {
+      "n": 7,
+      "stem": "Audio dictation: A word is missing from this sentence (play audio to hear it). Type the correct spelling of the missing word. A police ___ searched the truck then allowed the driver to continue his trip.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "officer",
+      "notes": "guess; audio not played"
+    },
+    {
+      "n": 8,
+      "stem": "Audio dictation: A word is missing from this sentence (play audio to hear it). Type the correct spelling of the missing word. Marcus was coming second in the race and he was ___ on Nam who was leading.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "gaining",
+      "notes": "guess; audio not played"
+    },
+    {
+      "n": 9,
+      "stem": "Audio dictation: A word is missing from this sentence (play audio to hear it). Type the correct spelling of the missing word. Robin stood at the lookout, yelled and listened as ___ came back from the opposite side of the valley.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "echoes",
+      "notes": "guess; audio not played"
+    },
+    {
+      "n": 10,
+      "stem": "Audio dictation: A word is missing from this sentence (play audio to hear it). Type the correct spelling of the missing word. Our ___ will arrive on Friday for my sister’s wedding.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "relatives",
+      "notes": "guess; audio not played"
+    },
+    {
+      "n": 11,
+      "stem": "The spelling mistake in this sentence has been highlighted. Type the correct spelling of the highlighted word. We were all [amased] by the New Year’s Eve fireworks on the harbour.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "amazed",
+      "notes": ""
+    },
+    {
+      "n": 12,
+      "stem": "The spelling mistake in this sentence has been highlighted. Type the correct spelling of the highlighted word. We heard the children [quarell] over their share of the money.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "quarrel",
+      "notes": ""
+    },
+    {
+      "n": 13,
+      "stem": "The spelling mistake in this sentence has been highlighted. Type the correct spelling of the highlighted word. The ball went [threw] the open window and missed a valuable painting.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "through",
+      "notes": ""
+    },
+    {
+      "n": 14,
+      "stem": "The spelling mistake in this sentence has been highlighted. Type the correct spelling of the highlighted word. Did you [imform] the coach you would miss training on Monday?",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "inform",
+      "notes": ""
+    },
+    {
+      "n": 15,
+      "stem": "This sentence has one word that is incorrect. Type the correct spelling of the word. The footballer looked really clumsey because he kept fumbling the ball.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "clumsy",
+      "notes": ""
+    },
+    {
+      "n": 16,
+      "stem": "This sentence has one word that is incorrect. Type the correct spelling of the word. It is important to be truethfull because people who lie are easily caught out.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "truthful",
+      "notes": ""
+    },
+    {
+      "n": 17,
+      "stem": "This sentence has one word that is incorrect. Type the correct spelling of the word. There was frantick applause for the rap group as they entered the stage.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "frantic",
+      "notes": ""
+    },
+    {
+      "n": 18,
+      "stem": "This sentence has one word that is incorrect. Type the correct spelling of the word. The truck was stuck on the mountain pass with a broken axel.",
+      "options": [
+        "(free-text answer)"
+      ],
+      "selected_answer": "axle",
+      "notes": ""
+    }
+  ]
+}

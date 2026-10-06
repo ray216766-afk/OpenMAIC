@@ -1,0 +1,151 @@
+{
+  "test_title": "Year 5 Number & Algebra Test 06",
+  "subject": "Numeracy",
+  "level": "Intermediate",
+  "test_type": "Practice Test",
+  "time_allowed": "18 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "mode": "PRACTICE (read-only, exited without saving)",
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Belinda added half of 32 to double 9. What is the correct answer?",
+      "options": [
+        "25",
+        "30",
+        "34",
+        "50"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 2,
+      "stem": null,
+      "options": [
+        "12",
+        "19",
+        "60",
+        "72",
+        "84"
+      ],
+      "selected_answer": null,
+      "notes": "stem text not captured (likely embedded in image)"
+    },
+    {
+      "n": 3,
+      "stem": "A class of 30 students paid a total of $210 to go on a school trip. How much did they each have to pay?",
+      "options": [
+        "$7",
+        "$2.40",
+        "$18",
+        "$6.30"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 4,
+      "stem": "Miguel completed the boxes: He now has this maths problem to complete: What numbers will Miguel place in the boxes?",
+      "options": [
+        "3 and 2",
+        "3 and 18",
+        "12 and 2",
+        "12 and 18"
+      ],
+      "selected_answer": null,
+      "notes": "2 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 5,
+      "stem": "Abigail bought 10 exercise books which cost $13 in total. Each exercise book cost the same amount. What is the cost of each book?",
+      "options": [
+        "$0.13",
+        "$1.30",
+        "$1.60",
+        "$2.60"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 6,
+      "stem": "Which two groups of numbers both have a total between 32 and 45?",
+      "options": [
+        "4, 4, 4, 4, 4, 4",
+        "5, 5, 5, 5, 5, 5",
+        "6, 6, 6, 6, 6, 6",
+        "7, 7, 7, 7, 7, 7",
+        "8, 8, 8, 8, 8, 8"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 7,
+      "stem": "Decimals have been written on four cards: Arrange the numbers from smallest to largest.:",
+      "options": [
+        "Answer slots: Smallest / Small / Large / Largest (decimal cards are images)"
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 8,
+      "stem": "Brodie used a rule to write this list of numbers. He started with the number 4: 4     6     10     18     34     66 What rule has Brodie used to write the numbers?",
+      "options": [
+        "Double the number and then subtract 4.",
+        "Double the number and then add 2.",
+        "Subtract 1 and then double.",
+        "Subtract 2 and then triple."
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 9,
+      "stem": "These dots are in rows and columns. The number of dots in each column is 2 more than the number of dots in each row. Philippe covers some of the dots with a rectangle: How many dots are there altogether?",
+      "options": [
+        "18",
+        "36",
+        "48",
+        "64",
+        "72"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 10,
+      "stem": "What number does the arrow point to?",
+      "options": [
+        "5.5",
+        "6.1",
+        "6.5",
+        "7.5"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 11,
+      "stem": "Rowan wrote the same number in each circle to make the number sentence correct: What number did Rowan use?",
+      "options": [
+        "3",
+        "4",
+        "4.5",
+        "4.05"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 12,
+      "stem": "Toby packs 72 eggs into cartons. He puts 12 eggs in each carton. Which two of these number sentences can be used to find the number of cartons Toby used? 72 – 12 = ? 72 ÷ 12 = ? 12 ÷ ? = 72 ? × 12 = 72 72 × 12 = ?",
+      "options": null,
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    }
+  ]
+}

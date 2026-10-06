@@ -1,0 +1,131 @@
+{
+  "test_title": "Year 5 Reading Test 10",
+  "subject": "Year 5 Reading (NAPLAN-style)",
+  "level": "Advanced",
+  "test_type": "Practice Test (Practice mode)",
+  "time_allowed": "15 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "url_run": "https://app.exceltestzone.com.au/my-testpacks/2/tests/363/run",
+  "mode": "PRACTICE (read-only; no answers entered; exited via Exit Test, answers not saved)",
+  "passage": "presents\n\nAdapted from the novel by R. L. Stevenson by Graham Hunt\nDirected by Margaret Walton\nStarring as\nLong John Silver—Graham Hunt\nDr Livesey—Peter Sanders\nBen Gunn—Wade Hawker\nJim Hawklins—Jamie Sanders\nMrs Hawkins—Jackie Sanders\nSquire Trelawney—Guy Richmond\nwith members of RHADS\nSet design: David Alan\nBookings\nRed Hill Newsagency, Red Hill\nPrimary School\nDetails: Red Hill Daily News\n\nVenue: Red Hill Town Hall\nDates: Fri 4 August, 8 pm\nSat 5 August, 8 pm\nFri 11 August, 8 pm\nSat 12 August, 8 pm\nSpecial matinee\nSat 5 August, 2 pm",
+  "passages": [
+    {
+      "id": 1,
+      "text": "presents\n\nAdapted from the novel by R. L. Stevenson by Graham Hunt\nDirected by Margaret Walton\nStarring as\nLong John Silver—Graham Hunt\nDr Livesey—Peter Sanders\nBen Gunn—Wade Hawker\nJim Hawklins—Jamie Sanders\nMrs Hawkins—Jackie Sanders\nSquire Trelawney—Guy Richmond\nwith members of RHADS\nSet design: David Alan\nBookings\nRed Hill Newsagency, Red Hill\nPrimary School\nDetails: Red Hill Daily News\n\nVenue: Red Hill Town Hall\nDates: Fri 4 August, 8 pm\nSat 5 August, 8 pm\nFri 11 August, 8 pm\nSat 12 August, 8 pm\nSpecial matinee\nSat 5 August, 2 pm",
+      "notes": null
+    }
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "kind": "multiple-choice",
+      "stem": "Who wrote the stage play of Treasure Island?",
+      "options": [
+        "R.L. Stevenson",
+        "Long John Silver",
+        "Graham Hunt",
+        "Margaret Walton"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 2,
+      "kind": "multiple-choice",
+      "stem": "More information about the play is available",
+      "options": [
+        "at the Red Hill Newsagency.",
+        "from Margaret Walton.",
+        "at Red Hill Town Hall.",
+        "from Red Hill Daily News."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 3,
+      "kind": "multiple-choice (multi-select)",
+      "stem": "Where can people purchase tickets for the performance? Choose two options.",
+      "options": [
+        "at the local primary school",
+        "at Red Hill Daily News",
+        "on Treasure Island",
+        "from members of RHADS",
+        "at Red Hill Newsagency"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 4,
+      "kind": "dropdown",
+      "stem": "Choose the correct option to complete the sentence.\nThe play Treasure Island is being staged on [Choose 1…] days.",
+      "options": [
+        "five / three / four / eight"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 5,
+      "kind": "multiple-choice",
+      "stem": "The poster is designed to",
+      "options": [
+        "encourage residents to join the drama group.",
+        "convince people to buy the Red Hill Daily News.",
+        "persuade people to go to the play.",
+        "prepare patrons for a scary experience."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 6,
+      "kind": "drag",
+      "stem": "Drag the correct phrase to complete the sentence.\nThe word ‘matinee’ refers to a performance of the play that is ____.",
+      "options": [
+        "suitable for children",
+        "held in the afternoon",
+        "a preview",
+        "less expensive"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 7,
+      "kind": "multiple-choice",
+      "stem": "The play is presented by an amateur group of actors. An amateur is a person who",
+      "options": [
+        "takes part in an activity for enjoyment rather than pay.",
+        "is not qualified for a particular position.",
+        "is in training to become a more professional actor.",
+        "regards himself or herself as being very good at what they do."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    }
+  ]
+}

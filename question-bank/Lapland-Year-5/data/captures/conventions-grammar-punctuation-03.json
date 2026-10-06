@@ -1,0 +1,244 @@
+{
+  "test_title": "Year 5 Grammar & Punctuation Test 03",
+  "subject": "Year 5 Conventions of Language (NAPLAN-style)",
+  "level": "Standard",
+  "test_type": "Practice Test (Practice mode, untimed)",
+  "time_allowed": "15 min",
+  "url_run": "https://app.exceltestzone.com.au/my-testpacks/2/tests/308/run",
+  "capture_note": "Captured in Practice mode via Next only; no per-question SUBMIT/FINISH; exited via Exit Test (answers not saved). selected_answer values are our own suggested answers, not the official key, and were not entered in the UI.",
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Which of the following correctly completes this sentence? During the night I ___ an unusual noise in the attic.",
+      "options": [
+        "herd",
+        "hears",
+        "heared",
+        "heard"
+      ],
+      "selected_answer": "heard",
+      "notes": ""
+    },
+    {
+      "n": 2,
+      "stem": "Which word correctly completes the sentence? Tina’s writing was [dropdown] today than yesterday.",
+      "options": [
+        "worse",
+        "bad",
+        "badder",
+        "worser"
+      ],
+      "selected_answer": "worse",
+      "notes": "comparative of bad"
+    },
+    {
+      "n": 3,
+      "stem": "Click on the highlighted word or words that 'he' refers to in this sentence. Michael and his friend Percy were to meet Mr Grey but he failed to arrive.",
+      "options": [
+        "Michael",
+        "his friend",
+        "Percy",
+        "Mr Grey"
+      ],
+      "selected_answer": "Mr Grey",
+      "notes": "he failed to arrive"
+    },
+    {
+      "n": 4,
+      "stem": "Drag one word to correctly complete the sentence. “Read the instructions ___ you make a mistake!” warned Dad.",
+      "options": [
+        "when",
+        "if",
+        "before",
+        "as"
+      ],
+      "selected_answer": "before",
+      "notes": ""
+    },
+    {
+      "n": 5,
+      "stem": "In which sentence is the comma (\",\") used correctly?",
+      "options": [
+        "Looking, over her shoulder Josie realised she was not being followed at all.",
+        "Looking over her shoulder Josie realised she was not being followed, at all.",
+        "Looking over her shoulder, Josie realised she was not being followed at all.",
+        "Looking over her shoulder Josie realised, she was not being followed at all."
+      ],
+      "selected_answer": "Looking over her shoulder, Josie realised she was not being followed at all.",
+      "notes": ""
+    },
+    {
+      "n": 6,
+      "stem": "In which sentence does the punctuation show that Mum was not amused?",
+      "options": [
+        "Mum said, “You bought a new phone?”",
+        "Mum said, “You bought a new phone!”",
+        "Mum said, “You bought a new phone.”",
+        "Mum said, “You bought a new phone . . . ”"
+      ],
+      "selected_answer": "Mum said, “You bought a new phone!”",
+      "notes": ""
+    },
+    {
+      "n": 7,
+      "stem": "Which two options correctly complete the sentence? One of the best people ___ is the local builder.",
+      "options": [
+        "I can recommend",
+        "than the other",
+        "to employ",
+        "what is certain",
+        "your opinion"
+      ],
+      "selected_answer": "I can recommend; to employ",
+      "notes": "two options"
+    },
+    {
+      "n": 8,
+      "stem": "Which word correctly completes the sentence? George is a diligent student and he always does ___ best.",
+      "options": [
+        "him",
+        "himself",
+        "he’s",
+        "his"
+      ],
+      "selected_answer": "his",
+      "notes": ""
+    },
+    {
+      "n": 9,
+      "stem": "Order the events in this text. Put the event that happened first at the top. Before he walked the dog, Jon had breakfast and then his mother made him tidy his room. Surprisingly, he found the comic he’d bought a month ago. (drag into slots 1-4)",
+      "options": [
+        "Jon cleaned his room.",
+        "Jon walked the dog.",
+        "Jon ate breakfast.",
+        "Jon bought a comic."
+      ],
+      "selected_answer": "Jon bought a comic. > Jon ate breakfast. > Jon cleaned his room. > Jon walked the dog.",
+      "notes": "comic bought a month ago"
+    },
+    {
+      "n": 10,
+      "stem": "Tick the box to complete each sentence correctly. (a) I was looking ____ the zoo animals. (b) The children are swimming ____ the backyard pool. (c) The man is sitting ____ top of the roof.",
+      "options": [
+        "on",
+        "in",
+        "at"
+      ],
+      "selected_answer": "at / in / on",
+      "notes": "a=at, b=in, c=on"
+    },
+    {
+      "n": 11,
+      "stem": "Which words correctly complete the sentence. Bo, [dropdown 1] is a friend of mine, [dropdown 2] come to my party.",
+      "options": [
+        "Dropdown 1: what | that | which | who",
+        "Dropdown 2: haven't | don't | wasn't | didn't"
+      ],
+      "selected_answer": "who / didn't",
+      "notes": ""
+    },
+    {
+      "n": 12,
+      "stem": "Tick the box to complete each sentence correctly. (a) What has happened here ____ (b) What a disaster ____ (c) What I want you to do now is leave ____",
+      "options": [
+        ".",
+        "!",
+        "?"
+      ],
+      "selected_answer": "? / ! / .",
+      "notes": "a=?, b=!, c=."
+    },
+    {
+      "n": 13,
+      "stem": "Which word or words are not required in this sentence? Mum drew a four-sided square in the top corner of her notepaper. [dropdown]",
+      "options": [
+        "square",
+        "top",
+        "her",
+        "four-sided"
+      ],
+      "selected_answer": "four-sided",
+      "notes": "squares always four-sided"
+    },
+    {
+      "n": 14,
+      "stem": "Which sentence has the correct punctuation?",
+      "options": [
+        "The bush was full of flies, gnats, mosquitoes, and cicadas.",
+        "The bush was full, of flies, gnats, mosquitoes and cicadas.",
+        "The bush was full of flies gnats mosquitoes and cicadas.",
+        "The bush was full of flies, gnats, mosquitoes and cicadas."
+      ],
+      "selected_answer": "The bush was full of flies, gnats, mosquitoes and cicadas.",
+      "notes": "no Oxford comma (AU style)"
+    },
+    {
+      "n": 15,
+      "stem": "Click on the word that is a conjunction; that is, joining word, in this sentence. I could fix my model plane although I’d rather buy a new one.",
+      "options": [
+        "I",
+        "could",
+        "fix",
+        "my",
+        "model",
+        "plane",
+        "although",
+        "I’d",
+        "rather",
+        "buy",
+        "a",
+        "new",
+        "one."
+      ],
+      "selected_answer": "although",
+      "notes": ""
+    },
+    {
+      "n": 16,
+      "stem": "Choose the correct word in each drop down box to complete the sentence. There was [dropdown 1] old man, who we didn’t know, standing motionless in [dropdown 2] gateway to our house.",
+      "options": [
+        "Dropdown 1: an | a | the",
+        "Dropdown 2: at | them | the"
+      ],
+      "selected_answer": "an / the",
+      "notes": ""
+    },
+    {
+      "n": 17,
+      "stem": "Which sentence is correct?",
+      "options": [
+        "Andrew was chosen because he had the best ball-handling skills.",
+        "Andrew was choosed because he had the best ball-handling skills.",
+        "Andrew was chose because he had the best ball-handling skills.",
+        "Andrew was chosed because he had the best ball-handling skills."
+      ],
+      "selected_answer": "Andrew was chosen because he had the best ball-handling skills.",
+      "notes": ""
+    },
+    {
+      "n": 18,
+      "stem": "Click on the word that should have an apostrophe. On the way to the shops, the girls will hold Kennys hands as they cross the street.",
+      "options": [
+        "On",
+        "the",
+        "way",
+        "to",
+        "the",
+        "shops,",
+        "the",
+        "girls",
+        "will",
+        "hold",
+        "Kennys",
+        "hands",
+        "as",
+        "they",
+        "cross",
+        "the",
+        "street."
+      ],
+      "selected_answer": "Kennys",
+      "notes": "Kenny's"
+    }
+  ]
+}

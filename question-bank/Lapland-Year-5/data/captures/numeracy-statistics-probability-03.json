@@ -1,0 +1,139 @@
+{
+  "test_title": "Year 5 Statistics & Probability Test 03",
+  "subject": "Numeracy",
+  "level": "Advanced",
+  "test_type": "Practice Test",
+  "time_allowed": "24 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "mode": "PRACTICE (read-only, exited without saving)",
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Daisy recorded some data about some plants in her garden: How did Daisy order her data?",
+      "options": [
+        "by colour",
+        "by height",
+        "by width",
+        "by flowering season"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 2,
+      "stem": "Helen makes cupcakes to sell at a market each weekend. This graph shows the number of cupcakes sold each week: In which week were closest to twice as many cupcakes sold as in Week 5?",
+      "options": [
+        "Week 1",
+        "Week 2",
+        "Week 3",
+        "Week 4"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 3,
+      "stem": "Students voted for their favourite school activity. Sport was the most popular. Art was less popular than craft. Music was more popular than craft. The results were shown in a graph but the side of the graph was torn: How many students voted for music?",
+      "options": null,
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 4,
+      "stem": "This pie graph shows the number of votes won by each of four students in a vote for year representative: 30 students voted for Anna. How many students voted for Lily?",
+      "options": null,
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 5,
+      "stem": "[spinner image] Which two statements are not correct?",
+      "options": [
+        "The spinner is twice as likely to stop on blue than on red.",
+        "The spinner is less likely to stop on blue than on yellow and green combined.",
+        "The spinner is as likely to stop on red and yellow combined as on green and blue combined.",
+        "The spinner is more likely to stop on yellow as on red and green combined.",
+        "The spinner is least likely to stop on red."
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 6,
+      "stem": "The table shows the numbers of boys and of girls who voted for five students in a talent competition: What was the difference between the highest number of total votes a student received and the lowest number of total votes?",
+      "options": null,
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 7,
+      "stem": "In a competition, players were awarded ribbons in four colours. A total of 60 ribbons were awarded altogether. This bar graph was used to show the number of each colour ribbon: How many more green ribbons than blue were awarded?",
+      "options": null,
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 8,
+      "stem": "This tally chart was made to show the number of students absent from school on each day of a week: Which statement is not correct?",
+      "options": [
+        "Twice as many students were absent on Monday than on Tuesday.",
+        "The number absent on Tuesday and Friday combined equals the number absent on Wednesday and Thursday combined.",
+        "The number absent on Monday and Friday combined equals the number absent on Tuesday, Wednesday and Thursday combined.",
+        "The number absent on Tuesday and Thursday combined equals half the number absent on Monday, Wednesday and Friday combined."
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 9,
+      "stem": "Four friends all have bags of marbles. The table shows how many marbles of different colours they each have: From one bag, choosing a blue marble without looking is not certain but is likely. Who has that bag?",
+      "options": [
+        "Oliver",
+        "James",
+        "Tamsin",
+        "Joshua"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 10,
+      "stem": "The graph shows the way 240 students came to school today: Which is closest to the number who came by bicycle?",
+      "options": [
+        "20",
+        "30",
+        "40",
+        "45",
+        "60"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 11,
+      "stem": "Penny made this table to show the hours she spent on each of her favourite sporting activities last week: Which information cannot be found from the table? Select all correct answers.",
+      "options": [
+        "the amount of time Penny spent at gymnastics",
+        "the number of games of netball Penny played last week",
+        "the number of hours Penny will spend bushwalking next week",
+        "the amount of time Penny swam each day last week",
+        "the total hours Penny spent on her favourite sporting activities last week"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 12,
+      "stem": "Which basket gives Jim the best chance of taking a blue peg?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "4 image(s) on page; image-based content/options not captured as text"
+    }
+  ]
+}

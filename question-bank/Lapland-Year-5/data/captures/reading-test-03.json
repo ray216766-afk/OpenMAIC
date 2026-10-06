@@ -1,0 +1,132 @@
+{
+  "test_title": "Year 5 Reading Test 03",
+  "subject": "Year 5 Reading (NAPLAN-style)",
+  "level": "Standard",
+  "test_type": "Practice Test (Practice mode)",
+  "time_allowed": "9 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "url_run": "https://app.exceltestzone.com.au/my-testpacks/2/tests/356/run",
+  "mode": "PRACTICE (read-only; no answers entered; exited via Exit Test, answers not saved)",
+  "passage": "You know, my\nhandwriting has\nimproved a lot since\nDad got me a\nlaser printer.",
+  "passages": [
+    {
+      "id": 1,
+      "text": "You know, my\nhandwriting has\nimproved a lot since\nDad got me a\nlaser printer.",
+      "notes": "Stimulus is a cartoon illustration; text above is the speech bubble (extracted from PDF). Visible scene: a red-haired boy and a blonde girl, both in green T-shirts with green backpacks, standing outside; the boy is speaking, the girl holds a green book and appears to roll her eyes."
+    }
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "kind": "multiple-choice",
+      "stem": "Why is the girl rolling her eyes?",
+      "options": [
+        "She doesn’t want the boy to walk her home.",
+        "She finds her brother a pain.",
+        "The boy is wearing his cap back to front.",
+        "The boy has said something that is not very clever."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 2,
+      "kind": "drag",
+      "stem": "Drag the correct phrase to complete the sentence.\nThe children are most likely going ____.",
+      "options": [
+        "to the gymnasium",
+        "to a party",
+        "out for a walk",
+        "home after school"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 3,
+      "kind": "dropdown",
+      "stem": "Choose the best word to complete the sentence.\nThe boy’s comment shows that he is, most likely, trying to [Choose 1…] the girl.",
+      "options": [
+        "embarrass / deceive / persuade / impress"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 4,
+      "kind": "multiple-choice",
+      "stem": "What features in the picture indicate that the two children go to the same school?",
+      "options": [
+        "They know one another enough to talk to each other.",
+        "They are both walking in the same direction.",
+        "They are about the same size and age.",
+        "They are wearing similar T-shirts and have similar backpacks."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 5,
+      "kind": "multiple-choice",
+      "stem": "Which word would best describe how the students feel at this particular time?",
+      "options": [
+        "uninspired",
+        "overworked",
+        "enthused",
+        "puzzled"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 6,
+      "kind": "multiple-choice",
+      "stem": "Which would be a suitable caption for the picture?",
+      "options": [
+        "Making plans",
+        "A present from Dad",
+        "How to improve grades",
+        "Daily journey"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 7,
+      "kind": "multiple-choice (multi-select)",
+      "stem": "Which adverbs would be suitable to replace ‘a lot’ in the speech bubble? Choose two options.",
+      "options": [
+        "magnificently",
+        "considerably",
+        "significantly",
+        "naturally",
+        "automatically"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    }
+  ],
+  "passage_is_image": true
+}

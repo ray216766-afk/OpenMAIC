@@ -20,7 +20,7 @@ pnpm exec next dev --hostname 127.0.0.1 --port 4017
 | `/lapland-year-5` | All 60 practice entries (title, topic, count, level) and Start Placement Test |
 | `/lapland-year-5/wrong-bank` | 错题题库 review |
 | `GET /api/lapland-year-5/resources` | Resource index |
-| `GET /api/lapland-year-5/test?id=` | One practice paper, without answer keys |
+| `GET /api/lapland-year-5/test?id=` | One practice paper from `data/captures/{id}.json`, without answer keys |
 | `POST /api/lapland-year-5/quiz` | Submit a practice test |
 | `GET/POST /api/lapland-year-5/placement` | 26-question level test, one item at a time, then weak-strand practice links |
 | `GET/POST /api/lapland-year-5/wrong-bank` | Read or bookmark the wrong-answer bank |

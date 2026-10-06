@@ -1,0 +1,151 @@
+{
+  "test_title": "Year 5 Measurement & Geometry Test 11",
+  "subject": "Numeracy",
+  "level": "Advanced",
+  "test_type": "Practice Test",
+  "time_allowed": "24 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "mode": "PRACTICE (read-only, exited without saving)",
+  "questions": [
+    {
+      "n": 1,
+      "stem": "For her first picture, Rahma drew a pentagon. For her second picture, she drew a hexagon. For her third picture, she drew another shape. She counted all the sides of the three shapes. The total number of sides was 19. What was in Rahma’s third picture?",
+      "options": [
+        "octagon",
+        "hexagon",
+        "pentagon",
+        "triangle"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 2,
+      "stem": "Chloe arrives at the movies at 5:00 pm. She decides to watch Best Friend Anna. [session times image] What time does the movie finish?",
+      "options": [
+        "2:55 pm",
+        "7:20 pm",
+        "7:25 pm",
+        "7:30 pm",
+        "7:35 pm"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 3,
+      "stem": "Two identical packets of biscuits are placed on one side of a set of scales and a 500-g packet of sugar on the other: What is the mass of one packet of biscuits?",
+      "options": [
+        "less than 250 g",
+        "250 g",
+        "between 250 g and 500 g",
+        "500 g",
+        "more than 500 g"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 4,
+      "stem": "This glass holds 200 mL of water. How many glasses can be completely filled from a 1-L container?",
+      "options": [
+        "2",
+        "4",
+        "5",
+        "10",
+        "20"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 5,
+      "stem": "This solid is made from 24 small cubes: All the faces of the solid are then painted. How many of the small cubes have only one face painted?",
+      "options": [
+        "2",
+        "4",
+        "5",
+        "8",
+        "12"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 6,
+      "stem": "A cube has each face painted a different colour: red, blue, green, yellow, orange and purple. Here are two pictures of that cube: What colour is the face that is opposite the green face?",
+      "options": [
+        "red",
+        "orange",
+        "yellow",
+        "purple"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 7,
+      "stem": "It is 2.4 km from Blake’s house to the park. The school is halfway between Blake’s house and the park. It is 1500 m from Jacob’s house to the park. How far is it from Jacob’s house to the school? _________ m Type the missing number in the space below:",
+      "options": null,
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 8,
+      "stem": "Which of these 3D objects has 7 faces and 12 edges?",
+      "options": [
+        "rectangular prism",
+        "pentagonal prism",
+        "hexagonal pyramid",
+        "pentagonal pyramid"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 9,
+      "stem": "Which of these jugs contains the same quantity of juice? Select all possible answers.",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]",
+        "[image option E]"
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 10,
+      "stem": "How many lines of symmetry does this shape have?",
+      "options": null,
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 11,
+      "stem": "This object is flipped over the dotted line. It is then rotated 90° in a clockwise direction: What does it look like now?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 12,
+      "stem": "Holly is driving South-East on Main Street. She turns into the first street on her left after the Railway Street roundabout. Into which street does Holly turn?",
+      "options": [
+        "Anne Street",
+        "James Street",
+        "William Street",
+        "Mary Street"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    }
+  ]
+}

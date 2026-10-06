@@ -1,0 +1,268 @@
+{
+  "test_title": "Year 5 Grammar & Punctuation Test 01",
+  "subject": "Year 5 Conventions of Language (NAPLAN-style)",
+  "level": "Standard",
+  "test_type": "Practice Test (Practice mode, untimed)",
+  "time_allowed": "15 min",
+  "url_run": "https://app.exceltestzone.com.au/my-testpacks/2/tests/306/run",
+  "capture_note": "Answers were selected in the UI but the per-question SUBMIT button was never pressed, so the progress panel shows every question as 'Not answered'. Answers are our own, not the official key.",
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Which of the following correctly completes this sentence? Tennis is played either on a grass surface ___ on a clay surface.",
+      "options": [
+        "yet",
+        "or",
+        "nor",
+        "and"
+      ],
+      "selected_answer": "or",
+      "notes": "either...or pair"
+    },
+    {
+      "n": 2,
+      "stem": "Which word correctly completes the sentence? Bella was running late but did she ___ the bus? (dropdown)",
+      "options": [
+        "court",
+        "catched",
+        "caught",
+        "catch"
+      ],
+      "selected_answer": "catch",
+      "notes": "base verb after 'did'"
+    },
+    {
+      "n": 3,
+      "stem": "Click on the highlighted word that is a proper noun in this sentence. Doctors and nurses met Joy and her Grandmother at the Hospital door.",
+      "options": [
+        "Doctors",
+        "Joy",
+        "Grandmother",
+        "Hospital"
+      ],
+      "selected_answer": "Joy",
+      "notes": "name of a specific person"
+    },
+    {
+      "n": 4,
+      "stem": "Which of the following correctly completes this sentence? When Dave ___ the hot plate to Mum he was careful.",
+      "options": [
+        "pass",
+        "past",
+        "passing",
+        "passed"
+      ],
+      "selected_answer": "passed",
+      "notes": "past tense matches 'was'"
+    },
+    {
+      "n": 5,
+      "stem": "Which of the following correctly completes this sentence? Their family celebrated a win ___ Thursday.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "to"
+      ],
+      "selected_answer": "on",
+      "notes": "'on' with days"
+    },
+    {
+      "n": 6,
+      "stem": "Which two words in this sentence are adjectives? Neither Dan nor Mark enjoyed the loud music being played in the busy mall.",
+      "options": [
+        "neither",
+        "enjoyed",
+        "loud",
+        "music",
+        "busy"
+      ],
+      "selected_answer": [
+        "loud",
+        "busy"
+      ],
+      "notes": "describe music/mall"
+    },
+    {
+      "n": 7,
+      "stem": "Which word correctly completes the sentence? Orienteering, a running sport, ___ in Europe in 1918. (dropdown)",
+      "options": [
+        "began",
+        "begun",
+        "begins",
+        "beginning"
+      ],
+      "selected_answer": "began",
+      "notes": "simple past"
+    },
+    {
+      "n": 8,
+      "stem": "Complete the sentence correctly. Draw lines to match each word with the part of the sentence that should follow it. People go ___ Sweden ___ a five-day orienteering event that is held ___ the Swedish government.",
+      "options": {
+        "left": [
+          "by",
+          "to",
+          "for"
+        ],
+        "right": [
+          "Sweden",
+          "a five-day orienteering event",
+          "the Swedish government"
+        ]
+      },
+      "selected_answer": {
+        "to": "Sweden",
+        "for": "a five-day orienteering event",
+        "by": "the Swedish government"
+      },
+      "notes": "matching lines"
+    },
+    {
+      "n": 9,
+      "stem": "Which word correctly completes the sentence? A bike race in Australia, ___ attracts thousands of spectators, happens every two years.",
+      "options": [
+        "which",
+        "who",
+        "what",
+        "where"
+      ],
+      "selected_answer": "which",
+      "notes": "relative pronoun for a thing"
+    },
+    {
+      "n": 10,
+      "stem": "Which word correctly completes the sentence? To 'orient' ___ means to work out where you are. (dropdown)",
+      "options": [
+        "yours",
+        "yourself",
+        "themselves",
+        "myself"
+      ],
+      "selected_answer": "yourself",
+      "notes": "reflexive with 'to orient'"
+    },
+    {
+      "n": 11,
+      "stem": "Tick the box to show if the sentence is a question or a statement. (columns: question / statement)",
+      "options": [
+        "How is this done",
+        "How sad I am",
+        "When will you go"
+      ],
+      "selected_answer": {
+        "How is this done": "question",
+        "How sad I am": "statement",
+        "When will you go": "question"
+      },
+      "notes": "exclamatory 'How sad I am' is a statement"
+    },
+    {
+      "n": 12,
+      "stem": "Which three words in this sentence are nouns? You need a reliable compass if you are hiking in the mountains because your phone won't work.",
+      "options": [
+        "compass",
+        "hiking",
+        "mountains",
+        "phone",
+        "work"
+      ],
+      "selected_answer": [
+        "compass",
+        "mountains",
+        "phone"
+      ],
+      "notes": "hiking/work are verbs here"
+    },
+    {
+      "n": 13,
+      "stem": "Where should the question mark (?) go in this text? [image] I didn't bring a ball(A) Did(B) you bring one(C) We can't start without one(D)",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_answer": "C",
+      "notes": "after 'Did you bring one'; positions read from image"
+    },
+    {
+      "n": 14,
+      "stem": "Which sentence has the correct punctuation?",
+      "options": [
+        "This is not your bag exclaimed Mark",
+        "“This is not your bag,” exclaimed Mark!”",
+        "this is not your bag! exclaimed Mark.",
+        "“This is not your bag!” exclaimed Mark."
+      ],
+      "selected_answer": "“This is not your bag!” exclaimed Mark.",
+      "notes": ""
+    },
+    {
+      "n": 15,
+      "stem": "Which words correctly complete the sentence? If Yusef is ___(1) strong, why can't he ___(2) the wire? (two dropdowns)",
+      "options": {
+        "1": [
+          "much",
+          "so",
+          "too",
+          "as"
+        ],
+        "2": [
+          "bending",
+          "bend",
+          "bends",
+          "bent"
+        ]
+      },
+      "selected_answer": {
+        "1": "so",
+        "2": "bend"
+      },
+      "notes": ""
+    },
+    {
+      "n": 16,
+      "stem": "Click on the word that is not required in this sentence. The ripe apple was cut into four quarters.",
+      "options": [
+        "The",
+        "ripe",
+        "apple",
+        "was",
+        "cut",
+        "into",
+        "four",
+        "quarters."
+      ],
+      "selected_answer": "four",
+      "notes": "'quarters' already means four"
+    },
+    {
+      "n": 17,
+      "stem": "Which sentence is correct?",
+      "options": [
+        "Bob and his brother have joined the team.",
+        "Bob and his brother has joined the team.",
+        "Bob and his brother are joined the team.",
+        "Bob and his brother have joins the team."
+      ],
+      "selected_answer": "Bob and his brother have joined the team.",
+      "notes": "plural subject"
+    },
+    {
+      "n": 18,
+      "stem": "Which sentences are correct? Choose two options.",
+      "options": [
+        "We had to walk more careful over the rocks.",
+        "The carefullest child walked slowly.",
+        "Carry the fragile vase very careful",
+        "The most careful driver will be chosen.",
+        "He carefully placed the egg in the carton."
+      ],
+      "selected_answer": [
+        "The most careful driver will be chosen.",
+        "He carefully placed the egg in the carton."
+      ],
+      "notes": "last question; selected but NOT submitted"
+    }
+  ]
+}

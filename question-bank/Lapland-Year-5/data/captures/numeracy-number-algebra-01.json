@@ -1,0 +1,159 @@
+{
+  "test_title": "Year 5 Number & Algebra Test 01",
+  "subject": "Numeracy",
+  "level": "Standard",
+  "test_type": "Practice Test",
+  "time_allowed": "12 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "mode": "PRACTICE (read-only, exited without saving)",
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Look at these numbers: Rearrange the numbers in order from lowest to highest. Answers",
+      "options": [
+        "Lowest",
+        "Low",
+        "High",
+        "Highest"
+      ],
+      "selected_answer": null,
+      "notes": "4 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 2,
+      "stem": "Look at these numbers: Svetlana is to write the numbers in order from smallest to largest: What number will Svetlana write in the circle?",
+      "options": [
+        "192",
+        "127",
+        "207",
+        "161"
+      ],
+      "selected_answer": null,
+      "notes": "2 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 3,
+      "stem": null,
+      "options": [
+        "10",
+        "12",
+        "15",
+        "18",
+        "20"
+      ],
+      "selected_answer": null,
+      "notes": "stem text not captured (likely embedded in image); 1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 4,
+      "stem": "Rennie’s dad paid $87 for a scooter. How much change did he receive from $100?",
+      "options": [
+        "$12",
+        "$13",
+        "$22",
+        "$23"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 5,
+      "stem": "What number is 42 less than 73?",
+      "options": [
+        "29",
+        "31",
+        "39",
+        "41"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 6,
+      "stem": "Lionel makes up a number pattern of five numbers. The number pattern starts at 46 and counts forward by 3. Which is Lionel’s number pattern?",
+      "options": [
+        "46, 49, 51, 54, 56",
+        "46, 49, 52, 55, 59",
+        "46, 49, 52, 55, 58",
+        "46, 48, 50, 52, 54"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 7,
+      "stem": "This is Amelia’s number sentence: What is the missing number?",
+      "options": [
+        "8",
+        "9",
+        "12",
+        "20"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 8,
+      "stem": "David multiplied a whole number by 5. Which two of these could not be his answer?",
+      "options": [
+        "165",
+        "270",
+        "316",
+        "400",
+        "551"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 9,
+      "stem": "Stephanie added 1478 and 302. Which is correct?",
+      "options": [
+        "Her answer is between 1500 and 1600.",
+        "Her answer is between 1600 and 1700.",
+        "Her answer is between 1700 and 1800.",
+        "Her answer is between 1800 and 1900."
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 10,
+      "stem": "Matthew used sticks to make a pattern of triangles like this: He wrote the number of sticks used underneath each diagram. Matthew continued the pattern. How many sticks will Matthew use to make six triangles?",
+      "options": [
+        "11",
+        "13",
+        "15",
+        "16",
+        "18"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 11,
+      "stem": "Laura wrote this number pattern:",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 12,
+      "stem": "Which would give the best estimate for the total cost of these three objects?",
+      "options": [
+        "$40 + $80 + $120",
+        "$40 + $70 + $120",
+        "$30 + $80 + $120",
+        "$40 + $80 + $130"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    }
+  ]
+}

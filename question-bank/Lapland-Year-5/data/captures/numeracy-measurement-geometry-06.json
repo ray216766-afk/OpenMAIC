@@ -1,0 +1,149 @@
+{
+  "test_title": "Year 5 Measurement & Geometry Test 06",
+  "subject": "Numeracy",
+  "level": "Intermediate",
+  "test_type": "Practice Test",
+  "time_allowed": "18 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "mode": "PRACTICE (read-only, exited without saving)",
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Samantha checked her television guide: 5:00 News 6:00 The Simpsons 6:30 Neighbours 7:00 Friends 7:30 Modern Family 8:30 NCIS Which two clocks show the time when Friends starts and finishes?",
+      "options": null,
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 2,
+      "stem": "Here is a map of Steve’s playground: Steve marks the path from the front gate to the canteen and writes the directions. Which could be Steve’s instructions?",
+      "options": [
+        "From the front gate, turn left, then right, then right.",
+        "From the front gate, turn left, then left, then right.",
+        "From the front gate, turn left, then left, then left.",
+        "From the front gate, turn right, then left, then right."
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 3,
+      "stem": "Stella made a solid in the shape of a cone. She then cut across the cone. The cut was parallel to the base: What is the shape of the cross-section?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 4,
+      "stem": "Grant drew a compass rose: He is standing in his backyard at Z. What is the direction of the dog house?",
+      "options": [
+        "West",
+        "South-East",
+        "North-East",
+        "South-West"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 5,
+      "stem": "Scott draws a reflex angle. Which of these is his drawing?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "4 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 6,
+      "stem": "Zach checks his watch and it is 4:54 pm. His favourite television show starts at 5:30 pm. How many minutes before it starts?",
+      "options": [
+        "24",
+        "34",
+        "36",
+        "66",
+        "124"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 7,
+      "stem": "Shei cut 3 corners off a triangular prism: How many faces does the object now have?",
+      "options": null,
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 8,
+      "stem": "This model of a solid is made from 14 cubes: Which is the side view of the solid from the right side?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 9,
+      "stem": "Barack opened a 1-L bottle of olive oil. He used one-quarter of the oil. How much oil did he use?",
+      "options": [
+        "25 mL",
+        "250 mL",
+        "60 mL",
+        "75 mL",
+        "750 mL"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 10,
+      "stem": "Heather opens a 1-kg bag of flour and uses 350 g to make a cake. How much flour is left in the bag?",
+      "options": [
+        "349 g",
+        "400 g",
+        "650 g",
+        "700 g",
+        "750 g"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 11,
+      "stem": "Here are four shaded rectangles drawn on grid paper. Order the rectangles from smallest area to largest area.: Answers",
+      "options": [
+        "Smallest",
+        "Small",
+        "Large",
+        "Largest"
+      ],
+      "selected_answer": null,
+      "notes": "4 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 12,
+      "stem": "Zara flipped the arrow over the red dotted line. Then she flipped it over the green dotted line: Which of these shows the arrow after the second flip?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    }
+  ]
+}

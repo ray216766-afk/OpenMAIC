@@ -1,0 +1,154 @@
+{
+  "test_title": "Year 5 Statistics & Probability Test 02",
+  "subject": "Numeracy",
+  "level": "Intermediate",
+  "test_type": "Practice Test",
+  "time_allowed": "18 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "mode": "PRACTICE (read-only, exited without saving)",
+  "questions": [
+    {
+      "n": 1,
+      "stem": "The graph shows the time it takes for some children to travel to school each morning: How many minutes longer does Melinda take to travel to school than Sarah?",
+      "options": [
+        "5 min",
+        "10 min",
+        "15 min",
+        "20 min"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 2,
+      "stem": "Don makes a spinner and puts a number in each sector: Which statements about the spinner are true? Select all correct answers.",
+      "options": [
+        "It is more likely to spin a 5 than a 2.",
+        "It is more likely to spin an even number than an odd number.",
+        "It is more likely to spin an odd number than an even number.",
+        "It is less likely to spin a 4 than a 1.",
+        "It is equally likely to spin a 3 as it is to spin a 4."
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 3,
+      "stem": "Every weekday Kelsey drives through a set of traffic lights. Over a three-week period she records the colour of the traffic lights as she reaches the intersection: Kelsey then draws a graph of the results. Which graph shows her results for the three weeks?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 4,
+      "stem": "Class 5A’s teacher is Mr Robinson. He keeps a big jar of jelly beans on his desk. The jar contains 40 red jelly beans, 30 green jelly beans, 10 black jelly beans and 5 pink jelly beans. Without looking, one of Mr Robinson’s students chose one jelly bean from the jar. Which colour is the most likely to be selected first?",
+      "options": [
+        "red",
+        "green",
+        "black",
+        "pink"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 5,
+      "stem": "Jeremy is paid to walk dogs after school. The graph shows the number of dogs he walks each afternoon: Jeremy is paid $2 for each dog he walks. How much more money does Jeremy get on Wednesday than on Friday?",
+      "options": [
+        "$2.50",
+        "$5.00",
+        "$10.00",
+        "$18.00",
+        "$7.50"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 6,
+      "stem": "Veronica listed the names of some fruit in a table: ‘Peach’ should go in the same column as which other fruit?",
+      "options": [
+        "lemon",
+        "lime",
+        "apricot",
+        "orange"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 7,
+      "stem": "Billy selects three marbles from this box: Which two of these selections is impossible?",
+      "options": [
+        "2 yellow and 1 red",
+        "3 blue",
+        "1 green, 1 red and 1 blue",
+        "1 red and 2 green",
+        "3 yellow"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 8,
+      "stem": "Laura counted the number of awards made at each of four grades in an exam. The results are shown in the table: Laura then drew a graph from the results: With which grade did Laura make a mistake on the graph?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_answer": null,
+      "notes": "2 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 9,
+      "stem": "The table shows the results when some students were asked which of seven sports they most liked to watch: How many more boys liked netball than girls liked league?",
+      "options": null,
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 10,
+      "stem": "Without looking, Jacob takes a marble out of a bag. It is unlikely, but not impossible, that the marble Jacob takes is red. Which could be the bag from which Jacob takes the marble?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 11,
+      "stem": "The numbers of boys and girls in each Year 3 class at Yippee School are shown in the graph: Which class has the most students?",
+      "options": [
+        "3P",
+        "3K",
+        "3M",
+        "3T"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 12,
+      "stem": "The shop Izzy’s Ices sells ice-creams in many flavours. The table shows the four most popular flavours of ice-cream sold yesterday: Which statement is true about the flavour of an ice-cream bought at Izzy’s Ices yesterday?",
+      "options": [
+        "It is certain to be chocolate.",
+        "We can be certain that it wasn’t coffee.",
+        "It is less likely to be strawberry than honeycomb.",
+        "It is more likely to be vanilla than strawberry."
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    }
+  ]
+}

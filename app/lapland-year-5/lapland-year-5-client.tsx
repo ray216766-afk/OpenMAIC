@@ -86,13 +86,13 @@ export function LaplandYear5Client({
     return true;
   });
 
-  async function startResource(bankId: string) {
+  async function startResource(catalogId: string) {
     setError(null);
     setPracticeResult(null);
     setPlacement(null);
     setPlacementReport(null);
     setPlacementScore(null);
-    const response = await fetch(`/api/lapland-year-5/test?id=${encodeURIComponent(bankId)}`);
+    const response = await fetch(`/api/lapland-year-5/test?id=${encodeURIComponent(catalogId)}`);
     const data = (await response.json()) as {
       resource?: PracticePaper & {
         id: string;
@@ -229,7 +229,7 @@ export function LaplandYear5Client({
       ) : practice ? (
         <PracticeSession
           title={practice.title}
-          note="Practice mode only. Nothing is sent to Excel Test Zone."
+          note="Practice mode only. Questions come from the saved capture. Nothing is sent to Excel Test Zone."
           passageTitle={practice.passageTitle}
           passage={practice.passage}
           questions={practice.questions}
@@ -338,9 +338,9 @@ export function LaplandYear5Client({
                       <div className="mt-2 flex flex-wrap gap-3">
                         <button
                           type="button"
-                          data-start-resource={entry.bank_id}
+                          data-start-resource={entry.id}
                           className="rounded-md bg-[#c9a227] px-3 py-1.5 text-sm font-medium text-[#1f2430]"
-                          onClick={() => void startResource(entry.bank_id)}
+                          onClick={() => void startResource(entry.id)}
                         >
                           Start test
                         </button>

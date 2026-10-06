@@ -1,0 +1,138 @@
+{
+  "test_title": "Year 5 Reading Test 06",
+  "subject": "Year 5 Reading (NAPLAN-style)",
+  "level": "Intermediate",
+  "test_type": "Practice Test (Practice mode)",
+  "time_allowed": "11 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "url_run": "https://app.exceltestzone.com.au/my-testpacks/2/tests/359/run",
+  "mode": "PRACTICE (read-only; no answers entered; exited via Exit Test, answers not saved)",
+  "passage": "Pappadams\nPappadams are spicy thin crisp wafers made from spiced potato or flour. They are\nan essential for any Indian dish. They can be eaten hot or cold.\nYou can buy commercial packets of pappadams at most grocery\nstores or Asian food stores. There are about 30 in a packet.\nThey do not need to be refrigerated.\n\nHow to serve pappadams\nYou will need\n1 packet of pappadams\ncooking oil and suitable pan\ntongs\npaper towels\nMethod\n1. Pour a few centimetres of oil into a large pan and heat the oil until it begins\nto smoke.\n2. Dip one pappadam at a time into the oil and, within seconds, it will puff up to\nfull size. Using tongs, turn the pappadam quickly over when the underside is a\nshade of golden brown.\n3. Remove the pappadam when both sides are golden brown and let the oil drain\noff on a sheet of paper towel.\nUnused pappadams should be sealed in a packet or jar to be kept dry. They will\nkeep for quite a while.",
+  "passages": [
+    {
+      "id": 1,
+      "text": "Pappadams\nPappadams are spicy thin crisp wafers made from spiced potato or flour. They are\nan essential for any Indian dish. They can be eaten hot or cold.\nYou can buy commercial packets of pappadams at most grocery\nstores or Asian food stores. There are about 30 in a packet.\nThey do not need to be refrigerated.\n\nHow to serve pappadams\nYou will need\n1 packet of pappadams\ncooking oil and suitable pan\ntongs\npaper towels\nMethod\n1. Pour a few centimetres of oil into a large pan and heat the oil until it begins\nto smoke.\n2. Dip one pappadam at a time into the oil and, within seconds, it will puff up to\nfull size. Using tongs, turn the pappadam quickly over when the underside is a\nshade of golden brown.\n3. Remove the pappadam when both sides are golden brown and let the oil drain\noff on a sheet of paper towel.\nUnused pappadams should be sealed in a packet or jar to be kept dry. They will\nkeep for quite a while.",
+      "notes": null
+    }
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "kind": "dropdown",
+      "stem": "Drag the correct option to complete the sentence.\nIt takes [Choose 1…] to cook a pappadam.",
+      "options": [
+        "2 or 3 seconds / about 2 minutes / up to 1 minute / about 10 seconds"
+      ],
+      "notes": "says 'Drag' but rendered as a dropdown",
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 2,
+      "kind": "multiple-choice",
+      "stem": "The paper towel is used to",
+      "options": [
+        "drain oil from the pappadam.",
+        "hold the tongs when they get hot.",
+        "steady the pan while cooking.",
+        "wipe up oil that has dripped."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 3,
+      "kind": "multiple-choice",
+      "stem": "Unused pappadams should be",
+      "options": [
+        "thrown out.",
+        "stored in a fridge.",
+        "used within two days.",
+        "kept dry in a sealed container."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 4,
+      "kind": "dropdown",
+      "stem": "Choose the correct option to complete the sentence.\nPappadams are best served with [Choose 1…] .",
+      "options": [
+        "crispy wafers / cooking oil / savoury dishes / potato dishes"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 5,
+      "kind": "click-words",
+      "stem": "Click on the word that tells you pappadams are produced for trade.\nYou can buy commercial packets of pappadams at most grocery stores or Asian food stores.",
+      "options": [
+        "You",
+        "can",
+        "buy",
+        "commercial",
+        "packets",
+        "of",
+        "pappadams",
+        "at",
+        "most",
+        "grocery",
+        "stores",
+        "or",
+        "Asian",
+        "food",
+        "stores."
+      ],
+      "notes": "each word is a clickable button",
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 6,
+      "kind": "multiple-choice",
+      "stem": "Only one pappadam is cooked at a time. This is because",
+      "options": [
+        "each pappadam will expand to pan size.",
+        "pappadams are difficult to remove from their packet.",
+        "a pappadam takes seconds to cook before it has to be turned over.",
+        "it is dangerous to work too rapidly with smoking oil."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 7,
+      "kind": "drag-to-order",
+      "stem": "In which order do you do these steps when cooking pappadams? Drag the options. (Answer slots 1–4)",
+      "options": [
+        "Soak up the excess oil.",
+        "Check that the oil is smoking.",
+        "Check that the pappadam is completely golden brown.",
+        "Select an airtight container."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    }
+  ]
+}

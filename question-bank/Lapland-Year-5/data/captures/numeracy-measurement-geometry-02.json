@@ -1,0 +1,156 @@
+{
+  "test_title": "Year 5 Measurement & Geometry Test 02",
+  "subject": "Numeracy",
+  "level": "Standard",
+  "test_type": "Practice Test",
+  "time_allowed": "12 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "mode": "PRACTICE (read-only, exited without saving)",
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Which of the following has the smallest area?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "4 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 2,
+      "stem": "Which object measures mass?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "4 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 3,
+      "stem": "Joshua goes to bed at 7:45. Which clock shows Joshua’s bedtime?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 4,
+      "stem": "Polina drew these four solids: How many prisms did Polina draw?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 5,
+      "stem": "Julie joined some 3D objects together to make this: What objects did Julie use?",
+      "options": [
+        "2 cylinders only",
+        "2 cylinders and a cone",
+        "2 cones only",
+        "2 cones and a cylinder"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 6,
+      "stem": "Which two of these letters do not have any parallel lines?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]",
+        "[image option E]"
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 7,
+      "stem": "Here is a set of stationery drawers. The position of the pencils is left in the bottom row. Which of these statements is correct? Select all correct answers.",
+      "options": [
+        "The hole punch is centre on the bottom row.",
+        "The glue stick is centre on the middle row.",
+        "The paper clips are on the left in the top row.",
+        "The pens are left on the middle row.",
+        "The hole punch is above the glue stick."
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 8,
+      "stem": "Today is 25 October. Ricky’s athletics carnival is in 28 days. What is the date of Ricky’s carnival?",
+      "options": [
+        "8 November",
+        "15 November",
+        "22 November",
+        "29 November"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 9,
+      "stem": "Here are the masses of four watermelons:",
+      "options": [
+        "Rearrange the watermelons in order from heaviest to lightest."
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 10,
+      "stem": "A tangram puzzle is made up of seven shapes cut out of a square. Which of the following triangles are the same shape and the same size?",
+      "options": [
+        "A and E",
+        "F and G",
+        "E and G",
+        "E and F"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 11,
+      "stem": null,
+      "options": [
+        "B2",
+        "C3",
+        "B3",
+        "C2"
+      ],
+      "selected_answer": null,
+      "notes": "stem text not captured (likely embedded in image); 2 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 12,
+      "stem": "The size of which angle is closest to 60°?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "4 image(s) on page; image-based content/options not captured as text"
+    }
+  ]
+}

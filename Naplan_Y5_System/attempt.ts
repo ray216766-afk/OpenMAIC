@@ -1,5 +1,5 @@
-import { loadQuestionBank } from './bank';
-import { analysePlacementAttempt, placementStudentPaper } from './openmrc-pack';
+import { captureQuestions } from './captures';
+import { analysePlacementAttempt, loadOpenMrcEntries, placementStudentPaper } from './openmrc-pack';
 import { gradeQuestions, summarizeStrands } from './Review_Engine/grade';
 import { appendWrongItems, rememberAttempt, wrongItemsFromMarks } from './store';
 import type { AnswerValue, AttemptRecord, PlacementReport } from './types';
@@ -18,18 +18,19 @@ export function submitPractice(input: {
   score_label: string;
   strand_summary: ReturnType<typeof summarizeStrands>;
 } {
-  const { resources, questions } = loadQuestionBank();
-  const resource = resources.find((item) => item.id === input.resourceId);
-  if (!resource) throw new Error('Practice test not found');
-  const owned = questions.filter((question) => question.resource_id === resource.id);
+  const entry = loadOpenMrcEntries().find(
+    (item) => item.id === input.resourceId || item.bank_id === input.resourceId,
+  );
+  if (!entry) throw new Error('Practice test not found');
+  const owned = captureQuestions(entry.id);
   const graded = gradeQuestions(owned, input.answers);
   const keyed = owned.filter((question) => question.correct_answer != null).length;
   const submittedAt = new Date().toISOString();
   const attempt: AttemptRecord = {
-    id: nowId(resource.id),
+    id: nowId(entry.id),
     kind: 'practice',
-    resource_id: resource.id,
-    title: resource.title,
+    resource_id: entry.id,
+    title: entry.title,
     submitted_at: submittedAt,
     correct: graded.correct,
     scored: graded.scored,
@@ -38,7 +39,7 @@ export function submitPractice(input: {
   };
   rememberAttempt(attempt);
   const saved = appendWrongItems(
-    wrongItemsFromMarks(graded.marks, resource.id, resource.title, input.bookmarks ?? []),
+    wrongItemsFromMarks(graded.marks, entry.id, entry.title, input.bookmarks ?? []),
   );
   return {
     attempt,

@@ -1,0 +1,126 @@
+{
+  "test_title": "Year 5 Reading Test 08",
+  "subject": "Year 5 Reading (NAPLAN-style)",
+  "level": "Intermediate",
+  "test_type": "Practice Test (Practice mode)",
+  "time_allowed": "11 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "url_run": "https://app.exceltestzone.com.au/my-testpacks/2/tests/361/run",
+  "mode": "PRACTICE (read-only; no answers entered; exited via Exit Test, answers not saved)",
+  "passage": "This educational game feels more\nlike therapy than fun.\n\nGame score: 5.0 (Mediocre)\n\nGood points\nCould be put to good use in children’s hospitals\nand preschools!\n\nBad points\nMay be less than two hours of playtime.\nTotally unimaginative presentation.\nIf you don’t need homework, you don’t\nneed this game.\n\nThe Brain Train is a bad name for a\nbrain training game. For one thing, it’s\nmisleading. Is it to train the brain or\nis it about trains? And it’s dull. Think\nTanks! Now, that’s a fun title. But The\nBrain Train is no fun at all, and not just\nin name.\n\nThe aim of this puzzle game is to see if\ntwo pictures are the same or different.\nSome challenge! This isn’t a real game.\nIt’s Spot the Difference, a bit like the ones\nyour teacher gave you in kindergarten.\nThere are better ones on the puzzle page\nof the Sunday comics.\n\nIt offers to improve the ‘right side of the\nbrain’. You might not be sure if this means\nthe right-hand side or the correct side of\nyour brain. I found out! The right side of\nthe brain controls ‘artistic, strategic and\nimaginative functions’. Does this mean\nThe Brain Train will make the right side\nof the brain larger? You will become\nmore artistic!\n\nBut if you’re looking for a good time,\nthis is more like homework. At least in\nkindergarten you could get gold stars.\nEventually, the differences become so\ntiny that you either run out of time looking\nfor them or guess incorrectly too many\ntimes and bingo! You lose. It gets boring\nvery quickly.",
+  "passages": [
+    {
+      "id": 1,
+      "text": "This educational game feels more\nlike therapy than fun.\n\nGame score: 5.0 (Mediocre)\n\nGood points\nCould be put to good use in children’s hospitals\nand preschools!\n\nBad points\nMay be less than two hours of playtime.\nTotally unimaginative presentation.\nIf you don’t need homework, you don’t\nneed this game.\n\nThe Brain Train is a bad name for a\nbrain training game. For one thing, it’s\nmisleading. Is it to train the brain or\nis it about trains? And it’s dull. Think\nTanks! Now, that’s a fun title. But The\nBrain Train is no fun at all, and not just\nin name.\n\nThe aim of this puzzle game is to see if\ntwo pictures are the same or different.\nSome challenge! This isn’t a real game.\nIt’s Spot the Difference, a bit like the ones\nyour teacher gave you in kindergarten.\nThere are better ones on the puzzle page\nof the Sunday comics.\n\nIt offers to improve the ‘right side of the\nbrain’. You might not be sure if this means\nthe right-hand side or the correct side of\nyour brain. I found out! The right side of\nthe brain controls ‘artistic, strategic and\nimaginative functions’. Does this mean\nThe Brain Train will make the right side\nof the brain larger? You will become\nmore artistic!\n\nBut if you’re looking for a good time,\nthis is more like homework. At least in\nkindergarten you could get gold stars.\nEventually, the differences become so\ntiny that you either run out of time looking\nfor them or guess incorrectly too many\ntimes and bingo! You lose. It gets boring\nvery quickly.",
+      "notes": null
+    }
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "kind": "multiple-choice",
+      "stem": "The writer rates the game as: 5.0 (Mediocre). This means he or she rates it as",
+      "options": [
+        "funny.",
+        "satisfactory.",
+        "ordinary.",
+        "above average."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 2,
+      "kind": "multiple-choice",
+      "stem": "What reason does the reviewer give for disliking the game’s name?",
+      "options": [
+        "It is too long.",
+        "It has very little to do with the brain.",
+        "It sounds like a kindergarten game.",
+        "It doesn’t give a clear idea of what the game is about."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 3,
+      "kind": "multiple-choice (multi-select)",
+      "stem": "What is required to play the game? Choose two options.",
+      "options": [
+        "patience when playing",
+        "keen visual skills",
+        "quick reactions",
+        "artistic skill",
+        "a good imagination"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 4,
+      "kind": "multiple-choice",
+      "stem": "After reading the review, game players are most likely to",
+      "options": [
+        "complain to the reviewer.",
+        "consider purchasing the game.",
+        "dismiss any idea of buying the game.",
+        "check out the games in the Sunday comics."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 5,
+      "kind": "dropdown",
+      "stem": "Choose the correct option to complete the sentence.\nFrom the review it is possible to tell that the reviewer is [Choose 1…] The Brain Train.",
+      "options": [
+        "scornful of / mystified by / uninterested in / impressed by"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 6,
+      "kind": "multiple-choice",
+      "stem": "When using the word ‘therapy’, what is the reviewer referring to?",
+      "options": [
+        "treatment for a problem",
+        "stimulus for the brain",
+        "exhausting, unpleasant work",
+        "a repetitive activity"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 7,
+      "kind": "true-false table",
+      "stem": "Tick the box to show which statements are true and which are false.\n | True | False\nThe reviewer claims that The Brain Train and Spot the Difference puzzles improve creativity. | \nThe reviewer prefers Spot the Difference puzzles in the Sunday comics to The Brain Train. | \nThe reviewer points out that the makers of the game make misleading claims. |",
+      "options": null,
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    }
+  ]
+}
