@@ -18,12 +18,12 @@ describe('Lapland Year 5 practice catalog', () => {
     expect(LAPLAND_YEAR_5_ROUTE).toBe('/lapland-year-5');
   });
 
-  it('loads every inventory row and marks only the uploaded Standard Word docs', () => {
+  it('loads every inventory row and marks uploaded Standard and Intermediate Word docs', () => {
     const catalog = loadCatalog();
 
     expect(catalog.practice).toHaveLength(60);
     expect(catalog.other).toHaveLength(13);
-    expect(catalog.practice.filter((test) => test.wordDoc)).toHaveLength(8);
+    expect(catalog.practice.filter((test) => test.wordDoc)).toHaveLength(16);
     expect(catalog.other.every((test) => test.wordDoc === null)).toBe(true);
 
     const uploaded = catalog.practice
@@ -35,17 +35,32 @@ describe('Lapland Year 5 practice catalog', () => {
       'Year 5 Grammar & Punctuation Test 02',
       'Year 5 Grammar & Punctuation Test 03',
       'Year 5 Grammar & Punctuation Test 04',
+      'Year 5 Grammar & Punctuation Test 05',
+      'Year 5 Grammar & Punctuation Test 06',
+      'Year 5 Grammar & Punctuation Test 07',
+      'Year 5 Grammar & Punctuation Test 08',
       'Year 5 Spelling Test 01',
       'Year 5 Spelling Test 02',
       'Year 5 Spelling Test 03',
       'Year 5 Spelling Test 04',
+      'Year 5 Spelling Test 05',
+      'Year 5 Spelling Test 06',
+      'Year 5 Spelling Test 07',
+      'Year 5 Spelling Test 08',
     ]);
 
     const grammarFive = catalog.practice.find(
       (test) => test.title === 'Year 5 Grammar & Punctuation Test 05',
     );
     expect(grammarFive?.level).toBe('Intermediate');
-    expect(grammarFive?.wordDoc).toBeNull();
+    expect(grammarFive?.wordDoc?.relativePath).toBe(
+      'Conventions-of-Language/Intermediate/Year-5-Grammar-and-Punctuation-Test-05.docx',
+    );
+    const grammarNine = catalog.practice.find(
+      (test) => test.title === 'Year 5 Grammar & Punctuation Test 09',
+    );
+    expect(grammarNine?.level).toBe('Advanced');
+    expect(grammarNine?.wordDoc).toBeNull();
   });
 
   it('groups practice tests by subject, level, and strand', () => {
@@ -70,7 +85,9 @@ describe('Lapland Year 5 practice catalog', () => {
       'Statistics & Probability',
     ]);
     expect(groups[0]?.testCount).toBe(24);
-    expect(groups[0]?.wordDocCount).toBe(8);
+    expect(groups[0]?.wordDocCount).toBe(16);
+    expect(groups[0]?.levels.find((level) => level.level === 'Standard')?.wordDocCount).toBe(8);
+    expect(groups[0]?.levels.find((level) => level.level === 'Intermediate')?.wordDocCount).toBe(8);
     expect(groups[1]?.wordDocCount).toBe(0);
     expect(groups[2]?.testCount).toBe(12);
   });

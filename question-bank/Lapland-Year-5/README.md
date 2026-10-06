@@ -11,4 +11,5 @@ Open `/lapland-year-5` (same app as Scholarship Vocabulary at `/oliver-vocabular
 ## Layout
 
 - `inventory/year5-naplan-online-style-tests.csv` — pack inventory (all subjects and levels).
-- `Conventions-of-Language/Standard/` — first Standard Conventions of Language Practice batch: Grammar & Punctuation Tests 01–04 and Spelling Tests 01–04.
+- `Conventions-of-Language/Standard/` — Standard Practice batch: Grammar & Punctuation Tests 01–04 and Spelling Tests 01–04.
+- `Conventions-of-Language/Intermediate/` — Intermediate Practice batch: Grammar & Punctuation Tests 05–08 and Spelling Tests 05–08.
