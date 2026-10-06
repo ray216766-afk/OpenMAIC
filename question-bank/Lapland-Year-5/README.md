@@ -6,7 +6,7 @@ Word documents have the exercises first and the answers on the last page. These 
 
 ## Browse page
 
-Open `/lapland-year-5` (same app as Scholarship Vocabulary at `/oliver-vocabulary`). The page lists every Practice test from the inventory, grouped by subject, strand, and level, and downloads Word documents that are already in this folder. Sample and written rows are shown in a separate section and are not practice downloads.
+Open `/lapland-year-5` on port **4017** (`pnpm exec next dev --hostname 127.0.0.1 --port 4017`). Do not use Vocabulary Master’s port 2007 or Codex’s port 3007. Each of the 60 Practice tests can be started in OpenMAIC. The level test recommends practice from weak spots. Missed and bookmarked items collect in `/lapland-year-5/wrong-bank`. See `Naplan_Y5_System/README.md`.
 
 ## Layout
 
