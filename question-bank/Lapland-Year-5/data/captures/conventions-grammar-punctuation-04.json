@@ -1,0 +1,224 @@
+{
+  "test_title": "Year 5 Grammar & Punctuation Test 04",
+  "subject": "Year 5 Conventions of Language (NAPLAN-style)",
+  "level": "Standard",
+  "test_type": "Practice Test (Practice mode, untimed)",
+  "time_allowed": "15 min",
+  "url_run": "https://app.exceltestzone.com.au/my-testpacks/2/tests/309/run",
+  "capture_note": "Captured in Practice mode via Next only; no per-question SUBMIT/FINISH; exited via Exit Test (answers not saved). selected_answer values are our own suggested answers, not the official key, and were not entered in the UI.",
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Which of the following correctly completes this sentence? Two storms with lightning ___ now heading this way.",
+      "options": [
+        "are",
+        "is",
+        "was",
+        "were"
+      ],
+      "selected_answer": "are",
+      "notes": ""
+    },
+    {
+      "n": 2,
+      "stem": "Click on the highlighted word that is an adjective; that is, a describing word, in this sentence. Gold is a precious metal often found in creek beds. (sentence reconstructed from highlighted words)",
+      "options": [
+        "Gold",
+        "precious",
+        "metal",
+        "creek"
+      ],
+      "selected_answer": "precious",
+      "notes": ""
+    },
+    {
+      "n": 3,
+      "stem": "Which word correctly completes the sentence? Our teacher [dropdown] we had to leave our hats in the cloakroom.",
+      "options": [
+        "say",
+        "said",
+        "says",
+        "saying"
+      ],
+      "selected_answer": "said",
+      "notes": ""
+    },
+    {
+      "n": 4,
+      "stem": "Which words correctly complete the sentence? Sandy slipped [dropdown 1] the ladder when it moved but he was [dropdown 2] on the bottom rung.",
+      "options": [
+        "Dropdown 1: over | down | of | off",
+        "Dropdown 2: only | any | really | very"
+      ],
+      "selected_answer": "off / only",
+      "notes": ""
+    },
+    {
+      "n": 5,
+      "stem": "Drag one word to correctly complete the sentence. Tanya enjoys the surf ___ Beth thinks it is dangerous.",
+      "options": [
+        "as",
+        "or",
+        "but",
+        "nor"
+      ],
+      "selected_answer": "but",
+      "notes": ""
+    },
+    {
+      "n": 6,
+      "stem": "What are the three nouns in the sentence below? Musicians were invited to attend the special reception for Kylie.",
+      "options": [
+        "Musicians, invited, attend",
+        "Musicians, reception, Kylie",
+        "invited, attend, Kylie",
+        "Musicians, invited, Kylie"
+      ],
+      "selected_answer": "Musicians, reception, Kylie",
+      "notes": ""
+    },
+    {
+      "n": 7,
+      "stem": "Which word correctly completes the sentence? Little fish were swimming just below the surface but it was a waste of time trying to catch [dropdown].",
+      "options": [
+        "they",
+        "them",
+        "this",
+        "that"
+      ],
+      "selected_answer": "them",
+      "notes": ""
+    },
+    {
+      "n": 8,
+      "stem": "Tick the box to show if the sentence is completed correctly by 'to' or 'too'. (table of sentences; row text not captured)",
+      "options": [
+        "to",
+        "too"
+      ],
+      "selected_answer": "",
+      "notes": "row sentences not captured"
+    },
+    {
+      "n": 9,
+      "stem": "Which option correctly completes the sentence? “What time is ___ I asked Dad grumpily.",
+      "options": [
+        "it”.",
+        "it?”",
+        "it,”",
+        "it,"
+      ],
+      "selected_answer": "it?”",
+      "notes": ""
+    },
+    {
+      "n": 10,
+      "stem": "Click on the word that is used incorrectly in this sentence. “The time is five minutes later then when you last asked me the time,” said Dad. (sentence reconstructed from highlighted words)",
+      "options": [
+        "is",
+        "then",
+        "when",
+        "last"
+      ],
+      "selected_answer": "then",
+      "notes": "should be 'than'"
+    },
+    {
+      "n": 11,
+      "stem": "Which word correctly completes the sentence? You told me you wanted to ___ to the movies and now you’ve changed your mind.",
+      "options": [
+        "came",
+        "comes",
+        "come",
+        "coming"
+      ],
+      "selected_answer": "come",
+      "notes": ""
+    },
+    {
+      "n": 12,
+      "stem": "Drag the punctuation mark that best completes the text. “I thought you wanted to come fishing. Why you asked I’ll never know ___ ” Dad impatiently replied.",
+      "options": [
+        ".",
+        "?",
+        ",",
+        "!"
+      ],
+      "selected_answer": "!",
+      "notes": ""
+    },
+    {
+      "n": 13,
+      "stem": "Which sentences have the correct punctuation? Choose two sentences.",
+      "options": [
+        "We watched the firework’s from the bridge.",
+        "The captain’s decision was the wrong one.",
+        "Some day’s I think I will stay in bed.",
+        "Jason couldn’t find his shoes in time for the match."
+      ],
+      "selected_answer": "The captain’s decision was the wrong one.; Jason couldn’t find his shoes in time for the match.",
+      "notes": ""
+    },
+    {
+      "n": 14,
+      "stem": "Which sentence has the correct punctuation?",
+      "options": [
+        "When officer Wilks came to our school he spoke about bus safety.",
+        "When Officer Wilks came to our School he spoke about bus safety.",
+        "When Officer Wilks came to our school he spoke about bus safety.",
+        "When Officer Wilks came to our school he spoke about Bus Safety."
+      ],
+      "selected_answer": "When Officer Wilks came to our school he spoke about bus safety.",
+      "notes": ""
+    },
+    {
+      "n": 15,
+      "stem": "Which sentence has the correct punctuation?",
+      "options": [
+        "The colours of red, blue, green and black are used on many flags.",
+        "The colours of red, blue, green, and black are used on many flags.",
+        "The colours of red, blue, green, and black, are used on many flags.",
+        "The colours of red, blue green and black are used on many flags."
+      ],
+      "selected_answer": "The colours of red, blue, green and black are used on many flags.",
+      "notes": ""
+    },
+    {
+      "n": 16,
+      "stem": "Which word correctly completes the text? I checked Myra’s work. Her answers are [dropdown] this time.",
+      "options": [
+        "best",
+        "more better",
+        "gooder",
+        "better"
+      ],
+      "selected_answer": "better",
+      "notes": ""
+    },
+    {
+      "n": 17,
+      "stem": "Click on the highlighted word or words that should be in brackets. The Kimberley wallaby Macropus agilis is common along the north-western coast. (sentence reconstructed from highlighted words)",
+      "options": [
+        "Kimberley wallaby",
+        "Macropus agilis",
+        "common",
+        "north-western"
+      ],
+      "selected_answer": "Macropus agilis",
+      "notes": "scientific name in brackets"
+    },
+    {
+      "n": 18,
+      "stem": "Which words correctly complete the sentence? Choose two options. Before the lesson ___ the class had to sit down.",
+      "options": [
+        "has begun",
+        "beginning",
+        "begin",
+        "began",
+        "had begun"
+      ],
+      "selected_answer": "began; had begun",
+      "notes": ""
+    }
+  ]
+}

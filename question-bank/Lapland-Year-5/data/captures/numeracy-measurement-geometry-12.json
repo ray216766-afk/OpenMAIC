@@ -1,0 +1,157 @@
+{
+  "test_title": "Year 5 Measurement & Geometry Test 12",
+  "subject": "Numeracy",
+  "level": "Advanced",
+  "test_type": "Practice Test",
+  "time_allowed": "24 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "mode": "PRACTICE (read-only, exited without saving)",
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Jann used a set of kitchen scales to measure the mass of a packet of sugar: Which two of these is a measure of the mass of Jann’s sugar?",
+      "options": [
+        "102 g",
+        "1020 g",
+        "1200 g",
+        "1.02 kg",
+        "1.2 kg"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 2,
+      "stem": "Yusuf built a model from two identical triangular pyramids. The faces of each pyramid were identical triangles. He used some glue to join a face of one pyramid to a face of the other pyramid. How many edges were on Yusuf’s model?",
+      "options": [
+        "6",
+        "12",
+        "8",
+        "9"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 3,
+      "stem": "Larry painted the letter A on one-half of a square of paper. Before the paint could dry, he folded the paper along the line: Which diagram shows Larry’s square?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 4,
+      "stem": "The diagram shows four lines that all meet at the same point: Which two lines meet at a right angle?",
+      "options": [
+        "lines a and c",
+        "lines a and d",
+        "lines b and c",
+        "lines b and d"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 5,
+      "stem": "Each cup holds 250 mL. How many cups will be needed to hold 2 L?",
+      "options": [
+        "4",
+        "8",
+        "10",
+        "12",
+        "16"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 6,
+      "stem": "Lee wanted to balance a set of scales. He put a 1-kg mass on one end of his scales: How many of the 200-g discs does Lee need to balance the scales?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "8"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 7,
+      "stem": "This net is folded to make a cube: What colour should the front face be?",
+      "options": [
+        "blue",
+        "red",
+        "yellow",
+        "green"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 8,
+      "stem": "The area of this rectangle is 15 square metres: What is its perimeter?",
+      "options": [
+        "5 m",
+        "12 m",
+        "14 m",
+        "15 m",
+        "16 m"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 9,
+      "stem": "Lucy folds a square piece of paper in half: She then cuts a triangle from the folded paper: What will Lucy’s paper look like when she unfolds it?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "6 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 10,
+      "stem": "Dylan made this 3D object. He used 14 cubes. Dylan painted all the outside faces of his object. How many cubes have half of their faces painted?",
+      "options": null,
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 11,
+      "stem": "Here is a map of Elbow Island: The shortest distance from Dune to Col is 45 km. What is the shortest distance from Ayr to Bow?",
+      "options": [
+        "9 km",
+        "63 km",
+        "72 km",
+        "81 km",
+        "85 km"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 12,
+      "stem": "Sue shades some squares on a grid to make a pattern. When the pattern is completed the two black lines will be lines of symmetry. When the pattern is completed, which three of these squares will not be shaded?",
+      "options": [
+        "A9",
+        "G9",
+        "C8",
+        "J10",
+        "D7"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    }
+  ]
+}

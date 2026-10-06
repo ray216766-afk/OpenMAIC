@@ -1,0 +1,125 @@
+{
+  "test_title": "Year 5 Reading Test 04",
+  "subject": "Year 5 Reading (NAPLAN-style)",
+  "level": "Standard",
+  "test_type": "Practice Test (Practice mode)",
+  "time_allowed": "9 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "url_run": "https://app.exceltestzone.com.au/my-testpacks/2/tests/357/run",
+  "mode": "PRACTICE (read-only; no answers entered; exited via Exit Test, answers not saved)",
+  "passage": "Shocking discovery\nI skidded the last few metres on my belly\nlike a footballer scoring a goal. No cheers!\nThen rolled into a small grassy drain\nwhere Mick was struggling to his knees.\n‘Is he coming?’ I asked, breathless.\nThe hunters had suddenly become\nthe hunted.\n‘Can’t see him,’ replied Mick. He was\nsquatting, peering back the way we\nhad come.\n‘Yes, I can! At the corner of the building.\nHe’s looking everywhere.’\nMick was about to panic. And rightly so. If\nMr Deasey left the cover of the building and\nwalked our way he’d soon see us in the\nshallow ditch. I almost stopped breathing.\n‘He’s turned around. Looking at the other\nbuildings. Not happy. Going back around\nthe corner. Heading to his cabin! Sam, we\nshould get out of here!’\n‘Wait!’ I ordered. ‘He may come back.’\n\nVideo Pirate’s Treasure Chest\n\nThe Daily Times 24 July 2008\nPolice want to contact a Mr A.C. Deasey\n(alias Honest Frank Goodhart) for\nquestioning. Young musicians and\nsingers have lost thousands of dollars.\nIt is believed Deasey persuades young\nentertainers to sign shonky recording\ncontracts, which give no protection to\ntheir records produced in his studios.\nDeasey then releases work by the artists\nin his own name stating they are his\n‘creations’.\nDeasey is also wanted for the suspicious\ndisappearance of a number of wellknown music agents, which has given\nDeasey control of all new talent.\n\n‘This guy’s a . . . a killer!’ gasped Mick.\n\nWe waited. Mr Deasey didn’t return.\n\nI had the same idea. This ditch was not a\nsafe place for two defenceless small boys.\n\nI remembered the paper cutting I had\nfound near Mr Deasey’s cabin. I pulled it\nfrom my pocket and unfolded it carefully,\nthen read it slowly. Mick peered over\nmy shoulder.\n\nI nodded to Mick. He understood. We\nmade a low dash to the corner of the\nbuilding and swung around it. Then\nstopped. My turn to look back. Cautiously\nI poked my head around the corner.",
+  "passages": [
+    {
+      "id": 1,
+      "text": "Shocking discovery\nI skidded the last few metres on my belly\nlike a footballer scoring a goal. No cheers!\nThen rolled into a small grassy drain\nwhere Mick was struggling to his knees.\n‘Is he coming?’ I asked, breathless.\nThe hunters had suddenly become\nthe hunted.\n‘Can’t see him,’ replied Mick. He was\nsquatting, peering back the way we\nhad come.\n‘Yes, I can! At the corner of the building.\nHe’s looking everywhere.’\nMick was about to panic. And rightly so. If\nMr Deasey left the cover of the building and\nwalked our way he’d soon see us in the\nshallow ditch. I almost stopped breathing.\n‘He’s turned around. Looking at the other\nbuildings. Not happy. Going back around\nthe corner. Heading to his cabin! Sam, we\nshould get out of here!’\n‘Wait!’ I ordered. ‘He may come back.’\n\nVideo Pirate’s Treasure Chest\n\nThe Daily Times 24 July 2008\nPolice want to contact a Mr A.C. Deasey\n(alias Honest Frank Goodhart) for\nquestioning. Young musicians and\nsingers have lost thousands of dollars.\nIt is believed Deasey persuades young\nentertainers to sign shonky recording\ncontracts, which give no protection to\ntheir records produced in his studios.\nDeasey then releases work by the artists\nin his own name stating they are his\n‘creations’.\nDeasey is also wanted for the suspicious\ndisappearance of a number of wellknown music agents, which has given\nDeasey control of all new talent.\n\n‘This guy’s a . . . a killer!’ gasped Mick.\n\nWe waited. Mr Deasey didn’t return.\n\nI had the same idea. This ditch was not a\nsafe place for two defenceless small boys.\n\nI remembered the paper cutting I had\nfound near Mr Deasey’s cabin. I pulled it\nfrom my pocket and unfolded it carefully,\nthen read it slowly. Mick peered over\nmy shoulder.\n\nI nodded to Mick. He understood. We\nmade a low dash to the corner of the\nbuilding and swung around it. Then\nstopped. My turn to look back. Cautiously\nI poked my head around the corner.",
+      "notes": null
+    }
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "kind": "multiple-choice",
+      "stem": "What were Mick and Sam doing?",
+      "options": [
+        "playing football",
+        "stealing messages",
+        "working for the police",
+        "running from a criminal"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 2,
+      "kind": "drag",
+      "stem": "Drag one option to correctly complete the sentence.\nThe piece of paper Sam pulled from his pocket most likely came from ____.",
+      "options": [
+        "a ‘Wanted’ poster",
+        "a music magazine",
+        "a safety manual",
+        "a newspaper"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 3,
+      "kind": "drag",
+      "stem": "Drag the correct option to complete the sentence.\nMr Deasey could best be described as ____.",
+      "options": [
+        "a technician",
+        "a fraud",
+        "a manager",
+        "an entertainer"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 4,
+      "kind": "dropdown",
+      "stem": "Choose the correct word to complete the sentence.\nThe police are looking for Mr Deasey because he has scammed musicians and may also be a [Choose 1…] suspect.",
+      "options": [
+        "murder / robbery / slavery / bribery"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 5,
+      "kind": "multiple-choice",
+      "stem": "The pirates referred to in Sam’s piece of paper are",
+      "options": [
+        "buccaneers on ships.",
+        "anyone who steals.",
+        "people who misuse artists’ works.",
+        "those who steal goods being transported."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 6,
+      "kind": "multiple-choice",
+      "stem": "In the opening sentence the narrator states: I skidded the last few metres on my belly.\nThis suggests that he",
+      "options": [
+        "was showing off his football skills.",
+        "was desperately trying to escape without being seen.",
+        "had tripped and sprawled while running across the grass.",
+        "had been carrying something heavy while running."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 7,
+      "kind": "table tick-box",
+      "stem": "Tick the box to show if the dialogue was spoken by Sam or Mick.\n | Sam | Mick\n‘Is he coming?’ | \n‘He’s looking everywhere.’ | \n‘He’s turned around.’ |",
+      "options": null,
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    }
+  ]
+}

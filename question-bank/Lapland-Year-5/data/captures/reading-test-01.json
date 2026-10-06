@@ -1,0 +1,125 @@
+{
+  "test_title": "Year 5 Reading Test 01",
+  "subject": "Year 5 Reading (NAPLAN-style)",
+  "level": "Standard",
+  "test_type": "Practice Test (Practice mode)",
+  "time_allowed": "9 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "url_run": "https://app.exceltestzone.com.au/my-testpacks/2/tests/354/run",
+  "mode": "PRACTICE (read-only; no answers entered; exited via Exit Test, answers not saved)",
+  "passage": "Land clearing\nLand is being cleared to provide more food for the world’s increasing\npopulation. Is this a bad thing? What are some of the arguments against\nongoing land clearing?\nIn many parts of Australia land clearing is the main cause of salinity and loss of\nsoil. It makes droughts more severe.\nLand clearing is a direct threat to wildlife—it destroys their habitat, shelter and\nfood sources. Millions of birds and other animals die each year from reduced\nhabitat. Australia has over 200 animals listed as endangered. This includes birds,\nmammals, reptiles and amphibians, as well as over 140 plant species, many of\nwhich are food for native animals.\nThe ‘wheat belt’ which runs down the centre of much of the east coast of\nAustralia retains only tiny scraps of mature woodland, often in national parks.\nThe rest is fields and pastures. Every year thousands of hectares of bushland\nare bulldozed or poisoned to ‘improve’ land for agriculture. Land clearing\ncontinues to be high—over 400 000 hectares a year, and the remnants of\nnative bush continue to suffer. This is the greatest single threat to biodiversity\nin the nation.\nReplanting cannot replace the diversity of plants and animals lost through\nclearing. Replanted vegetation is a poor substitute for the natural complexity of\nthe vegetation cleared and there is a loss in vegetation quality.",
+  "passages": [
+    {
+      "id": 1,
+      "text": "Land clearing\nLand is being cleared to provide more food for the world’s increasing\npopulation. Is this a bad thing? What are some of the arguments against\nongoing land clearing?\nIn many parts of Australia land clearing is the main cause of salinity and loss of\nsoil. It makes droughts more severe.\nLand clearing is a direct threat to wildlife—it destroys their habitat, shelter and\nfood sources. Millions of birds and other animals die each year from reduced\nhabitat. Australia has over 200 animals listed as endangered. This includes birds,\nmammals, reptiles and amphibians, as well as over 140 plant species, many of\nwhich are food for native animals.\nThe ‘wheat belt’ which runs down the centre of much of the east coast of\nAustralia retains only tiny scraps of mature woodland, often in national parks.\nThe rest is fields and pastures. Every year thousands of hectares of bushland\nare bulldozed or poisoned to ‘improve’ land for agriculture. Land clearing\ncontinues to be high—over 400 000 hectares a year, and the remnants of\nnative bush continue to suffer. This is the greatest single threat to biodiversity\nin the nation.\nReplanting cannot replace the diversity of plants and animals lost through\nclearing. Replanted vegetation is a poor substitute for the natural complexity of\nthe vegetation cleared and there is a loss in vegetation quality.",
+      "notes": null
+    }
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "kind": "multiple-choice",
+      "stem": "What does the author of the article find most distressing?",
+      "options": [
+        "the world food shortage",
+        "the soil becoming saline (salty)",
+        "the speed at which land is being cleared",
+        "the small amount of land set aside for national parks"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 2,
+      "kind": "multiple-choice",
+      "stem": "How many animal species are threatened or endangered?",
+      "options": [
+        "thousands",
+        "millions",
+        "140",
+        "over 200"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 3,
+      "kind": "multiple-choice",
+      "stem": "What is the main long-term problem of land clearing?",
+      "options": [
+        "loss of animal habitat",
+        "endangering plant species",
+        "decline in the soil’s ability to support life",
+        "longer droughts"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 4,
+      "kind": "click-highlighted-words",
+      "stem": "Click on the highlighted words that tell you replanting is not successful.\nReplanted vegetation is a poor substitute for the natural complexity of vegetation cleared and there is a loss in vegetation quality.",
+      "options": [
+        "poor substitute",
+        "natural complexity",
+        "vegetation cleared",
+        "vegetation quality."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 5,
+      "kind": "dropdown",
+      "stem": "Choose the correct word to complete the sentence.\nThe word from the text that means ‘the variety of plants and animals’ is [Choose 1…].",
+      "options": [
+        "wildlife / habitat / species / biodiversity"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 6,
+      "kind": "true-false table",
+      "stem": "Tick the box to show which statements are true and which are false.\n | True | False\nThere are more endangered plant species than animal species. | \nThe main cause of soil salinity is severe droughts. | \nLand clearing is carried out using machinery and poison. |",
+      "options": null,
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 7,
+      "kind": "multiple-choice",
+      "stem": "According to the text millions of birds and other animals die each year.\nThe main reason for this is because",
+      "options": [
+        "of drought.",
+        "there is a loss of habitat.",
+        "of injuries caused by bulldozers.",
+        "they are endangered."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    }
+  ]
+}

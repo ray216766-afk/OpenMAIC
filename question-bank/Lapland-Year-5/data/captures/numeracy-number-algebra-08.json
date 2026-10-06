@@ -1,0 +1,144 @@
+{
+  "test_title": "Year 5 Number & Algebra Test 08",
+  "subject": "Numeracy",
+  "level": "Advanced",
+  "test_type": "Practice Test",
+  "time_allowed": "24 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "mode": "PRACTICE (read-only, exited without saving)",
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Golf balls are on sale at 3 for $5. Johanna paid $30 for her golf balls. How many balls did Johanna buy?",
+      "options": [
+        "6",
+        "9",
+        "10",
+        "15",
+        "18"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 2,
+      "stem": "Which groups of decimals have a total between 1.5 and 2.0? Select all correct answers.",
+      "options": [
+        "0.5, 1.1, 0.8",
+        "0.6, 0.8, 0.9",
+        "1.2, 0.4, 0.3",
+        "1.1, 0.6, 0.05",
+        "0.01, 1.8, 0.02"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 3,
+      "stem": null,
+      "options": [
+        "4",
+        "12",
+        "18",
+        "24"
+      ],
+      "selected_answer": null,
+      "notes": "stem text not captured (likely embedded in image); 1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 4,
+      "stem": "Phillipe’s number pattern has six decimal numbers but the last two are missing: Which two of these numbers are missing from Phillipe’s pattern?",
+      "options": [
+        "3.1",
+        "3.2",
+        "3.3",
+        "3.4",
+        "3.5"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 5,
+      "stem": "Marco had these four cards: He arranged them from smallest to largest. Move the cards to show the new order of Marco’s cards.:",
+      "options": [
+        "Answer slots: Smallest / Second Smallest / Second Largest / Largest (cards are images)"
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 6,
+      "stem": "What is the difference between 20 × 7 and 21 × 7?",
+      "options": [
+        "7",
+        "20",
+        "21",
+        "41",
+        "77"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 7,
+      "stem": "Brendan uses these cards to make some three-digit numbers: What is the difference between the largest number he could make and the smallest number?",
+      "options": [
+        "459",
+        "495",
+        "369",
+        "396"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 8,
+      "stem": null,
+      "options": null,
+      "selected_answer": null,
+      "notes": "SITE ISSUE: question content blank on page (only a 'Type your answer' box shown; checked twice with extra wait)"
+    },
+    {
+      "n": 9,
+      "stem": "Daisy made window designs using sticks: How many sticks will Daisy need for Window 5?",
+      "options": [
+        "56",
+        "60",
+        "64",
+        "70",
+        "72"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 10,
+      "stem": "Tom has 38 marbles and Jan has 62 marbles. How many marbles must Jan give to Tom so they both have the same number of marbles?",
+      "options": null,
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 11,
+      "stem": null,
+      "options": null,
+      "selected_answer": null,
+      "notes": "SITE ISSUE: question content blank on page (only a 'Type your answer' box shown; checked twice with extra wait)"
+    },
+    {
+      "n": 12,
+      "stem": "Tim has 153 cows. There are between 32 and 45 cows in each of Tim’s paddocks. How many paddocks does Tim have?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "selected_answer": null,
+      "notes": null
+    }
+  ]
+}

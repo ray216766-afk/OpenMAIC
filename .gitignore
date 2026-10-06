@@ -85,6 +85,10 @@ eval/orchestration/results-answer-content/
 Oliver_Vocabulary_System/Lesson_Day_*.json
 Oliver_Vocabulary_System/*.tmp
 
+# Year 5 attempt state. Created on first save and never cleared by the app.
+Naplan_Y5_System/state/*.json
+Naplan_Y5_System/state/*.tmp
+
 # e2e screenshot artifacts
 e2e/screenshots/
 

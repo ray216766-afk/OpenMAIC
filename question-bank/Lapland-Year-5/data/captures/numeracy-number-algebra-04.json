@@ -1,0 +1,151 @@
+{
+  "test_title": "Year 5 Number & Algebra Test 04",
+  "subject": "Numeracy",
+  "level": "Intermediate",
+  "test_type": "Practice Test",
+  "time_allowed": "18 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "mode": "PRACTICE (read-only, exited without saving)",
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Here is Bert’s number pattern: Which two of these numbers are in Bert’s number pattern?",
+      "options": [
+        "13",
+        "17",
+        "19",
+        "33",
+        "34"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 2,
+      "stem": "Ethan’s teacher wrote on her board: Ethan then found the answer to this question: What is Ethan’s answer?",
+      "options": [
+        "910",
+        "1010",
+        "1110",
+        "1100"
+      ],
+      "selected_answer": null,
+      "notes": "2 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 3,
+      "stem": "Sophie bought 5 kg of potatoes. Which is closest to the amount Sophie paid?",
+      "options": [
+        "$5",
+        "$8",
+        "$9",
+        "$10"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 4,
+      "stem": "What is the missing number? Type the correct number in the box:",
+      "options": null,
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 5,
+      "stem": "Numbers are written on eight cards. Some of the numbers have remainders when they are divided by 6. Move the numbers that have remainders to the boxes on the right and place them in ascending order.:",
+      "options": [
+        "Answer slots 1, 2, 3 (number cards are images)"
+      ],
+      "selected_answer": null,
+      "notes": "8 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 6,
+      "stem": "Paul thought of a number. He doubled it and added 5. He ended up with the number 17. What number did Paul think of at the beginning?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 7,
+      "stem": "A number is equal to 4 tens + 3 ones + 1 hundredth. What is the number?",
+      "options": [
+        "43.1",
+        "43.01",
+        "43.001",
+        "143",
+        "431"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 8,
+      "stem": "This flag is divided into equal stripes. The stripes are red or yellow. What fraction of the flag is red?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 9,
+      "stem": "Jules has these coins: Jules uses some of the coins to buy a sandwich for $2.35. How much money does Jules have left?",
+      "options": [
+        "$1.65",
+        "$1.75",
+        "$2.65",
+        "$2.75"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 10,
+      "stem": "Cedric finds one-fifth of 32. Between what two whole numbers is Cedric’s answer?",
+      "options": [
+        "between 4 and 5",
+        "between 5 and 6",
+        "between 6 and 7",
+        "between 7 and 8"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 11,
+      "stem": "Alan wrote the same number in each circle to make the number sentence correct: What number did Alan use?",
+      "options": [
+        "100",
+        "110",
+        "120",
+        "140"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 12,
+      "stem": "Which of these is a way to get the answer to 398 + 2463?",
+      "options": [
+        "400 + 2461",
+        "400 + 2465",
+        "390 + 2451",
+        "390 + 2475"
+      ],
+      "selected_answer": null,
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "test_title": "Year 5 Number & Algebra Test 07",
+  "subject": "Numeracy",
+  "level": "Advanced",
+  "test_type": "Practice Test",
+  "time_allowed": "24 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "mode": "PRACTICE (read-only, exited without saving)",
+  "questions": [
+    {
+      "n": 1,
+      "stem": "This is a map of Darcy’s farm: About what fraction of the farm is used for the goats?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 2,
+      "stem": "Madison wrote down these numbers: She then notices that there were some even numbers in the list. What is the total of these even numbers?",
+      "options": [
+        "39",
+        "84",
+        "90",
+        "91",
+        "92"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 3,
+      "stem": "Sharma plans to give her five friends six lollies each (there will be none left over). With this number of lollies, she could instead share these lollies among four of her friends. If she does, how many lollies will be left over?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 4,
+      "stem": "Angelina drew a number line: What number is the arrow pointing to?",
+      "options": [
+        "32",
+        "90",
+        "100",
+        "110",
+        "120"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 5,
+      "stem": "Here is a pattern of numbers: Michelle put in the rest of the numbers following the pattern. [question detail in image]:",
+      "options": [
+        "116",
+        "114",
+        "117",
+        "118",
+        "140"
+      ],
+      "selected_answer": null,
+      "notes": "2 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 6,
+      "stem": "Sally has these cards: She turns face down any card that is a multiple of 2, 3, 5 or 7. How many cards remain face up?",
+      "options": null,
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 7,
+      "stem": "Oliver bought three books. Altogether the books cost $14.10. Two of the books cost $4.80 each. What was the cost of the third book?",
+      "options": [
+        "$4.50",
+        "$4.60",
+        "$4.70",
+        "$5.20",
+        "$9.60"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 8,
+      "stem": "Which two of these number sentences are not true?",
+      "options": [
+        "8 + 3 < 2 × 6",
+        "12 – 4 > 12 ÷ 4",
+        "25 + 37 > 90 – 38",
+        "6 × 9 < 73 – 19",
+        "18 ÷ 3 < 14 – 9"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 9,
+      "stem": "The Olympic Games are held every four years. They were held in Sydney in 2000. In which of these years were the Olympic Games held? Choose all the correct answers.:",
+      "options": [
+        "1948",
+        "1952",
+        "1966",
+        "1979",
+        "1982"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 10,
+      "stem": "Olivia drove 1428 km on a trip over two days. The first day she drove 156 km further than she drove on the second day. How many kilometres did Olivia drive on the first day?",
+      "options": null,
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 11,
+      "stem": "What is 4.78 equal to?",
+      "options": [
+        "0.4 + 0.7 + 0.8",
+        "4 + 0.08 + 0.7",
+        "4 + 0.07 + 0.8",
+        "4 + 0.7 + 0.8"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 12,
+      "stem": "Cleo has four number cards: She uses each card once to make a correct number sentence: Which card goes above the arrow?",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "7"
+      ],
+      "selected_answer": null,
+      "notes": "2 image(s) on page; image-based content/options not captured as text"
+    }
+  ]
+}

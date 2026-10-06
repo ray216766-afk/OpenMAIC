@@ -11,6 +11,9 @@ const nextConfig: NextConfig = {
       'skills/openmaic/**',
       'skills/agent-runtime/**',
       'Oliver_Vocabulary_System/**',
+      // Year 5 practice inventory and Word captures, read at request time.
+      'question-bank/Lapland-Year-5/**',
+      'Naplan_Y5_System/**',
     ],
   },
   typescript: {

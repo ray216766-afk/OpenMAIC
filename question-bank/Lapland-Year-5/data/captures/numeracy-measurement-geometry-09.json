@@ -1,0 +1,161 @@
+{
+  "test_title": "Year 5 Measurement & Geometry Test 09",
+  "subject": "Numeracy",
+  "level": "Advanced",
+  "test_type": "Practice Test",
+  "time_allowed": "24 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "mode": "PRACTICE (read-only, exited without saving)",
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Each glass like this holds 250 mL. How many glasses can be completely filled from a 1-L container?",
+      "options": [
+        "2",
+        "4",
+        "5",
+        "10",
+        "25"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 2,
+      "stem": "Ella had some straws which had been cut into different lengths: Ella then used three of the straws to make a triangle. Which group of straws cannot make up a triangle?",
+      "options": [
+        "6 cm, 3 cm, 2 cm",
+        "6 cm, 4 cm, 3 cm",
+        "4 cm, 3 cm, 2 cm",
+        "5 cm, 4 cm, 2 cm"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 3,
+      "stem": "This net is used to make a cube: Which number is missing from the top face of the cube?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "6 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 4,
+      "stem": "Kelvin broke the minute hand off this clock: What is the time?",
+      "options": [
+        "10 o’clock",
+        "half past 10",
+        "11 o’clock",
+        "half past 11"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 5,
+      "stem": "Two identical cans are placed on one side of a set of scales and a 1-kg tub of margarine on the other. The mass of one can is:",
+      "options": [
+        "more than 1 kg.",
+        "1 kg.",
+        "500 g.",
+        "less than 500 g.",
+        "between 500 g and 1 kg"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 6,
+      "stem": "Lachlan used a model of a triangular prism to draw four of its five faces. He forgot to draw the fifth face: Which shape has Lachlan forgotten to draw?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 7,
+      "stem": "When this pattern is completed, the two black lines will be lines of symmetry. There are four different squares used in the pattern: Which square will go in the space marked X?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 8,
+      "stem": "Which two of these measurements are equal to 300 mm?",
+      "options": [
+        "3 cm",
+        "3 m",
+        "0.3 m",
+        "0.003 m",
+        "30 cm"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 9,
+      "stem": "[shape image] What is the perimeter?",
+      "options": [
+        "24 m",
+        "40 m",
+        "46 m",
+        "48 m",
+        "50 m"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 10,
+      "stem": "Kylie made this object from six cubes: Which of these is Kylie’s object? Select all possible answers.",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]",
+        "[image option E]"
+      ],
+      "selected_answer": null,
+      "notes": "6 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 11,
+      "stem": "Which of these has the sum of its faces, edges and vertices equal to 20?",
+      "options": [
+        "rectangular prism",
+        "rectangular pyramid",
+        "triangular prism",
+        "triangular pyramid"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 12,
+      "stem": "Ellen made this 3D object from 10 cubes: Which is a top view of Ellen’s object?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "test_title": "Year 5 Reading Test 02",
+  "subject": "Year 5 Reading (NAPLAN-style)",
+  "level": "Standard",
+  "test_type": "Practice Test (Practice mode)",
+  "time_allowed": "9 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "url_run": "https://app.exceltestzone.com.au/my-testpacks/2/tests/355/run",
+  "mode": "PRACTICE (read-only; no answers entered; exited via Exit Test, answers not saved)",
+  "passage": "The Miners Rest\nThe main street of Coulby Ridge looked\nmuch the same as the main street of\nany other half-forgotten mining town left\nover from the gold rush days. Apart from\nthe strip of asphalt that quickly petered\nout and a scattering of new shops, the\ntown hadn’t changed much over the last\nhundred years. However, a rush of a\ndifferent type, and bringing greater riches\nthan gold, was being felt throughout the\ncountry—tourism.\nIt was the new rush that brought\nGeorge Carter, his wife, Terri, and their\nchildren, Christie and Daniel, to this\nout-of-the-way, semi-ghost town one\nSaturday morning. A quick drive around\nthe area soon had them back in the\nmain street and talking to the owner of\na small hardware shop who, as well as\nrunning hay and grain supplies, acted\nas the local real estate agent.\n\nMr Blair’s face visibly paled as he\nsquinted at the polaroid photograph\nthat George presented. As a long-time\nresident, he knew only too well the\nbuilding in question.\n‘Yes,’ he said carefully. ‘That’s the Miners\nRest Hotel. I don’t think it’s really suitable.\nNow if I could suggest . . .’ Mr Blair\nstarted to fumble through the pages of a\nlarge book.\nGeorge cut him short. ‘Is it for sale?’\nMr Blair looked over the rim of his\nglasses. ‘Oh yes. It’s for sale all right,’\nhe said, lowering his voice. ‘The Council\nhave been trying to sell it for years. I think\nthey’d give it away.’\n‘Good,’ said George. ‘That puts it right in\nour price bracket. Let’s have a look at it.’\nMr Blair’s face turned pale again.\nfrom The Miners Rest by Robert L. Muddyman\nHBJ 1992",
+  "passages": [
+    {
+      "id": 1,
+      "text": "The Miners Rest\nThe main street of Coulby Ridge looked\nmuch the same as the main street of\nany other half-forgotten mining town left\nover from the gold rush days. Apart from\nthe strip of asphalt that quickly petered\nout and a scattering of new shops, the\ntown hadn’t changed much over the last\nhundred years. However, a rush of a\ndifferent type, and bringing greater riches\nthan gold, was being felt throughout the\ncountry—tourism.\nIt was the new rush that brought\nGeorge Carter, his wife, Terri, and their\nchildren, Christie and Daniel, to this\nout-of-the-way, semi-ghost town one\nSaturday morning. A quick drive around\nthe area soon had them back in the\nmain street and talking to the owner of\na small hardware shop who, as well as\nrunning hay and grain supplies, acted\nas the local real estate agent.\n\nMr Blair’s face visibly paled as he\nsquinted at the polaroid photograph\nthat George presented. As a long-time\nresident, he knew only too well the\nbuilding in question.\n‘Yes,’ he said carefully. ‘That’s the Miners\nRest Hotel. I don’t think it’s really suitable.\nNow if I could suggest . . .’ Mr Blair\nstarted to fumble through the pages of a\nlarge book.\nGeorge cut him short. ‘Is it for sale?’\nMr Blair looked over the rim of his\nglasses. ‘Oh yes. It’s for sale all right,’\nhe said, lowering his voice. ‘The Council\nhave been trying to sell it for years. I think\nthey’d give it away.’\n‘Good,’ said George. ‘That puts it right in\nour price bracket. Let’s have a look at it.’\nMr Blair’s face turned pale again.\nfrom The Miners Rest by Robert L. Muddyman\nHBJ 1992",
+      "notes": null
+    }
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "kind": "multiple-choice",
+      "stem": "What else did Mr Blair do other than run a real estate office?",
+      "options": [
+        "He was owner of a hardware store.",
+        "He organised tours around the town.",
+        "He had a farm growing hay and grain.",
+        "He worked for the local council."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 2,
+      "kind": "multiple-choice",
+      "stem": "People started returning to Coulby Ridge because",
+      "options": [
+        "of new gold discoveries.",
+        "of interest in touring.",
+        "real estate was cheap.",
+        "it was a ghost town."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 3,
+      "kind": "dropdown",
+      "stem": "Choose the word or words that best complete the sentence.\nMr Blair was [Choose 1…] when George said he wanted to buy the hotel.",
+      "options": [
+        "dismayed / baffled / not impressed / startled"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 4,
+      "kind": "drag-to-order",
+      "stem": "Drag these events to show the order in which they happened in the story The Miners Rest. (Answer slots 1–4)",
+      "options": [
+        "The Miners Rest Hotel was put up for sale.",
+        "George met the real estate agent.",
+        "The Carter family drove past the Miners Rest Hotel.",
+        "Mr Carter went to the hardware store."
+      ],
+      "notes": "drag-and-drop ordering; items listed in on-screen order",
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 5,
+      "kind": "multiple-choice",
+      "stem": "During his talk with Mr Blair, George could be described as",
+      "options": [
+        "rude.",
+        "patient.",
+        "flattering.",
+        "business-like."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 6,
+      "kind": "multiple-choice",
+      "stem": "The asphalt strip through the town is described as a strip that petered out.\nThis means that the road",
+      "options": [
+        "dwindled and finally stopped.",
+        "was closed and under repair.",
+        "was old and not well made.",
+        "didn’t have any signposting."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 7,
+      "kind": "multiple-choice (choose two)",
+      "stem": "According to the text, which statements are correct? Choose two options.",
+      "options": [
+        "Mr Blair was a councillor at Coulby Ridge.",
+        "Mrs Carter took the photo of the Miners Rest Hotel.",
+        "The hardware store was located in the main street of Coulby Ridge.",
+        "The Carters had three children: Terri, Christie and Daniel.",
+        "Coulby Ridge Council had been unable to sell the Miners Rest Hotel."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    }
+  ]
+}

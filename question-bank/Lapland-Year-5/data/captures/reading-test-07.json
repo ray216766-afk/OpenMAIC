@@ -1,0 +1,128 @@
+{
+  "test_title": "Year 5 Reading Test 07",
+  "subject": "Year 5 Reading (NAPLAN-style)",
+  "level": "Intermediate",
+  "test_type": "Practice Test (Practice mode)",
+  "time_allowed": "11 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "url_run": "https://app.exceltestzone.com.au/my-testpacks/2/tests/360/run",
+  "mode": "PRACTICE (read-only; no answers entered; exited via Exit Test, answers not saved)",
+  "passage": "Add a bit more\n\nRead this poem about Sam and me (Jodie) making a birthday cake.\nA special day needs a special treat.\nA present? or something nice to eat?\n\n1.\n\n4.\n‘Here’s some cherries and chocolate drops,’\n‘And let’s add strawberry jam.’\n\nWe’re making a birthday cake for Mum.\n\n‘Do you think that Mum will like our cake?’\n\nJust from Sam and me.\n\n‘Of course,’ I say to Sam.\n\nIt’s easy as pie and lots of fun.\n\nSo into the bowl and mix it around\n\nWe saw it on TV.\n\nThen add a bit more,\n\nJust into the bowl and mix it around,\n\nAnd add a bit more.\n\nThen add a bit more,\n\nDon’t tread in the pool on the floor!\n\nAnd add a bit more,\n\n5.\n\nBut don’t let it drip on the floor!\n\n2.\n\n‘It’s still a bit lumpy. Let’s add some milk.’\n‘Be careful how you pour!\n\n‘What kinds of things do you put in cakes?’\n\nThere’s not much room left in the bowl.\n\n‘Good things,’ says Sam to me.\n\nWe don’t want it spilt on the floor.’\n\n‘Butter and eggs and chocolate sauce,\n\nSo into the bowl and mix it around,\n\nAs easy as one, two, three.’\n\nThen add a bit more,\n\nNow into the bowl and mix it around,\n\nAnd add a bit more.\n\nThen add a bit more,\n\nThere’s quite a lot on the floor!\n\nAnd add a bit more.\n\n6.\n\nI think there’s a drip on the floor!\n\n3.\n\n‘I think Mum will get a big surprise,\nDon’t you?’ says Sam to me.\n\n‘I’ve found a can of apple sauce,\n\n‘I’m sure she will,’ I say to Sam,\n\nAnd I think we should use flour.’\n\n‘Let’s call her to come and see.’\n\n‘Lots of sugar too,’ says Sam,\n\nSo into the bowl and mix it around,\n\n‘It tastes a little sour.’\n\nThen add a bit more,\n\nSo into the bowl and mix it around\n\nAnd add a bit more.\n\nThen add a bit more,\n\nOh! Look at the mess on the floor!\n\nAnd add a bit more.\nWatch out for the drips on the floor!\n\n‘What a lovely thought,’ says Mum with the mop.\n‘Now who would like a treat at the ice cream shop?’\nElaine Horsfield",
+  "passages": [
+    {
+      "id": 1,
+      "text": "Add a bit more\n\nRead this poem about Sam and me (Jodie) making a birthday cake.\nA special day needs a special treat.\nA present? or something nice to eat?\n\n1.\n\n4.\n‘Here’s some cherries and chocolate drops,’\n‘And let’s add strawberry jam.’\n\nWe’re making a birthday cake for Mum.\n\n‘Do you think that Mum will like our cake?’\n\nJust from Sam and me.\n\n‘Of course,’ I say to Sam.\n\nIt’s easy as pie and lots of fun.\n\nSo into the bowl and mix it around\n\nWe saw it on TV.\n\nThen add a bit more,\n\nJust into the bowl and mix it around,\n\nAnd add a bit more.\n\nThen add a bit more,\n\nDon’t tread in the pool on the floor!\n\nAnd add a bit more,\n\n5.\n\nBut don’t let it drip on the floor!\n\n2.\n\n‘It’s still a bit lumpy. Let’s add some milk.’\n‘Be careful how you pour!\n\n‘What kinds of things do you put in cakes?’\n\nThere’s not much room left in the bowl.\n\n‘Good things,’ says Sam to me.\n\nWe don’t want it spilt on the floor.’\n\n‘Butter and eggs and chocolate sauce,\n\nSo into the bowl and mix it around,\n\nAs easy as one, two, three.’\n\nThen add a bit more,\n\nNow into the bowl and mix it around,\n\nAnd add a bit more.\n\nThen add a bit more,\n\nThere’s quite a lot on the floor!\n\nAnd add a bit more.\n\n6.\n\nI think there’s a drip on the floor!\n\n3.\n\n‘I think Mum will get a big surprise,\nDon’t you?’ says Sam to me.\n\n‘I’ve found a can of apple sauce,\n\n‘I’m sure she will,’ I say to Sam,\n\nAnd I think we should use flour.’\n\n‘Let’s call her to come and see.’\n\n‘Lots of sugar too,’ says Sam,\n\nSo into the bowl and mix it around,\n\n‘It tastes a little sour.’\n\nThen add a bit more,\n\nSo into the bowl and mix it around\n\nAnd add a bit more.\n\nThen add a bit more,\n\nOh! Look at the mess on the floor!\n\nAnd add a bit more.\nWatch out for the drips on the floor!\n\n‘What a lovely thought,’ says Mum with the mop.\n‘Now who would like a treat at the ice cream shop?’\nElaine Horsfield",
+      "notes": null
+    }
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "kind": "multiple-choice",
+      "stem": "Why was Sam helping Jodie make a cake?",
+      "options": [
+        "It was Jodie’s birthday.",
+        "They were both good cooks.",
+        "It was for their mother’s birthday.",
+        "They had seen how easy it was on TV."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 2,
+      "kind": "dropdown",
+      "stem": "Choose the correct word to complete the sentence.\nJodie and Sam added [Choose 1…] jam to the cake mixture.",
+      "options": [
+        "strawberry / apple / cherry / raspberry"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 3,
+      "kind": "multiple-choice",
+      "stem": "The most likely way the mother will react to the cake-making is with",
+      "options": [
+        "dismay and tolerance.",
+        "excitement and pleasure.",
+        "horror and dismay.",
+        "shock and worry."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 4,
+      "kind": "dropdown",
+      "stem": "Choose the correct word to complete the sentence.\nThe children added [Choose 1…] to the mixture because it was a bit lumpy.",
+      "options": [
+        "sugar / eggs / milk / butter"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 5,
+      "kind": "multiple-choice",
+      "stem": "As the mixing progresses the situation gets more",
+      "options": [
+        "planned.",
+        "chaotic.",
+        "doomed.",
+        "organised."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 6,
+      "kind": "multiple-choice (multi-select)",
+      "stem": "Which statements are correct? Choose two.",
+      "options": [
+        "The children let Mum clean up after them.",
+        "The children followed a recipe to make the cake.",
+        "The cake mixture would be very sweet.",
+        "Mum bought ice cream to put on the cake.",
+        "Mum put the cake in the oven."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 7,
+      "kind": "multiple-choice",
+      "stem": "What is the most likely reason there was a mess on the floor?",
+      "options": [
+        "The children were trying to make a mess.",
+        "There were too many children helping make the cake.",
+        "After adding the milk the mixture got very sloppy.",
+        "The bowl was too small for mixing all the added ingredients."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    }
+  ]
+}

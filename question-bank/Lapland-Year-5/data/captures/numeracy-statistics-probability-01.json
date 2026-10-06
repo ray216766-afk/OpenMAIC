@@ -1,0 +1,148 @@
+{
+  "test_title": "Year 5 Statistics & Probability Test 01",
+  "subject": "Numeracy",
+  "level": "Standard",
+  "test_type": "Practice Test",
+  "time_allowed": "12 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "mode": "PRACTICE (read-only, exited without saving)",
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Henry counted the number of cars of different colours and made a table: There were 12 cars of one colour. What colour was that?",
+      "options": [
+        "white",
+        "blue",
+        "red",
+        "silver"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 2,
+      "stem": "The graph shows the number of goals scored by each player on a basketball team: How many goals did Joe score?",
+      "options": null,
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 3,
+      "stem": "Ben sorts pets into a table, according to the number of letters in their name: How many pets did Ben sort altogether?",
+      "options": [
+        "5",
+        "12",
+        "14",
+        "15",
+        "16"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 4,
+      "stem": "Without looking, Jane takes a jelly bean from this dish. How could you describe the chance that Jane’s jelly bean is yellow?",
+      "options": [
+        "impossible",
+        "unlikely",
+        "likely",
+        "certain"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 5,
+      "stem": "Year 5 students were asked whether they preferred sport or shopping: How many students in total liked shopping?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "30"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 6,
+      "stem": "In a bag there are 40 marbles: A marble is taken from the bag without looking. Which colour marble is most likely to be drawn out?",
+      "options": [
+        "red",
+        "green",
+        "white",
+        "blue"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 7,
+      "stem": "This graph shows the number of goals scored by players in a netball game: Which player scored 13 goals?",
+      "options": [
+        "Dana",
+        "Isabel",
+        "Karen",
+        "Alice"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 8,
+      "stem": "Bronwyn’s soccer team played six games. Bronwyn recorded the number of goals that her team scored. In game 1, the team scored two goals. In how many games did the team score more than two goals?",
+      "options": null,
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 9,
+      "stem": "The picture graph shows the number of plane flights taken by people in a family: Who has had 3 more flights than Colin?",
+      "options": [
+        "Rose",
+        "Ed",
+        "Jill",
+        "Harry"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 10,
+      "stem": "This spinner is used in a game. It determines the number of spaces a player moves forward. It is now Jennifer’s turn. How many spaces is Jennifer least likely to move?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 11,
+      "stem": "This is a table of the number of boys and girls in five families in primary school: Complete the sentence below: The total number of children in the five families = ____ .:",
+      "options": [
+        "9",
+        "19",
+        "8",
+        "17"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 12,
+      "stem": "This pie graph shows the number of times each of four people won a game: Which two statements are correct?",
+      "options": [
+        "Kim won the most games and Alex the least.",
+        "Kim won the most games and Mary the next most.",
+        "Alex won the most games and Bill the next most.",
+        "Alex won the most games and Kim the least.",
+        "Mary won more games than Bill."
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    }
+  ]
+}

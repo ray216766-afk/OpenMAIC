@@ -1,0 +1,150 @@
+{
+  "test_title": "Year 5 Measurement & Geometry Test 10",
+  "subject": "Numeracy",
+  "level": "Advanced",
+  "test_type": "Practice Test",
+  "time_allowed": "24 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "mode": "PRACTICE (read-only, exited without saving)",
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Lucas made a model. The front, side and top views of his model are shown: Which one of these objects is Lucas’s model?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 2,
+      "stem": "The table shows the times in different cities when it is 10 am in Canberra: When it is 5:35 pm in Perth, what is the time in Melbourne?",
+      "options": [
+        "3:35 pm",
+        "7:00 pm",
+        "7:35 pm",
+        "8:05 pm",
+        "8:35 pm"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 3,
+      "stem": "A small bottle holds 400 mL and a large bottle holds 2 L. Nat fills the small bottle with water and pours it into the empty large bottle. How many small bottles of water are needed to fill the large bottle?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 4,
+      "stem": "Nino used this net to make a cube: When the cube is made, which two of these statements will be correct?",
+      "options": [
+        "D is on the face opposite to F.",
+        "A is on the face opposite to D.",
+        "E is on the face opposite to F.",
+        "A is on the face opposite to E.",
+        "E is on the opposite face to B."
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 5,
+      "stem": "Lee wanted to balance a set of scales. He put a 1-kg mass on one end of his scales: How many of the 250-g discs does Lee need to balance the scales?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "8"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 6,
+      "stem": "Four friends measured the heights of their favourite dolls. Kristine’s doll is 58 cm high. Sandi’s doll is 44 cm high. Bree’s doll is 39 cm high. Jodie’s doll is 47 cm high. Whose doll is closest to half a metre high?",
+      "options": [
+        "Kristine’s doll",
+        "Sandi’s doll",
+        "Bree’s doll",
+        "Jodie’s doll"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 7,
+      "stem": "A rectangle has a perimeter of 18 units and an area of 20 square units: Which of the following could be the dimensions of the rectangle?",
+      "options": [
+        "length of 8 units and width of 1 unit",
+        "length of 6 units and width of 3 units",
+        "length of 5 units and width of 3 units",
+        "length of 5 units and width of 4 units"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 8,
+      "stem": "In two moves, which of the following squares can this piece not move to? Select all correct answers.",
+      "options": [
+        "A5",
+        "C1",
+        "F8",
+        "G6",
+        "E4"
+      ],
+      "selected_answer": null,
+      "notes": "3 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 9,
+      "stem": "Anna made this object from 40 cubes: She then took away the three red cubes. How many faces does the object have now? Choose the correct responses below: The number of faces has [dropdown 1] by [dropdown 2].:",
+      "options": null,
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 10,
+      "stem": "How many rectangles of any size are in this diagram?",
+      "options": null,
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 11,
+      "stem": "Yazmin folded a piece of paper and cut out some shapes. Which is Yazmin’s unfolded paper?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 12,
+      "stem": "Sam turns right from Hill Street into High Street. He then takes the next street on his left. In which direction is Sam now travelling?",
+      "options": [
+        "North-East",
+        "North-West",
+        "South-East",
+        "South-West"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    }
+  ]
+}

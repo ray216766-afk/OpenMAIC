@@ -1,0 +1,143 @@
+{
+  "test_title": "Year 5 Reading Test 11",
+  "subject": "Year 5 Reading (NAPLAN-style)",
+  "level": "Advanced",
+  "test_type": "Practice Test (Practice mode)",
+  "time_allowed": "15 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "url_run": "https://app.exceltestzone.com.au/my-testpacks/2/tests/364/run",
+  "mode": "PRACTICE (read-only; no answers entered; exited via Exit Test, answers not saved)",
+  "passage": "The secret of Yesterday Hills\n‘Is that it?’ Janice leaned over Perry for a\nbetter view as the little twin-engine plane\nbegan another descent.\n‘You ask that every time we put down,’\nPerry grumbled. ‘There’s another\nhour yet.’\n\nthey had left Melbourne that morning\nand changed at Brisbane for their stay\nin south-west Queensland. Then we’d\nbe jetting to London, instead of some\ncrummy little town beyond the black\nstump—wherever that is!\n\n‘I don’t think I’ll get out this time for a bit\nof a stretch,’ Janice yawned.\n\n‘You’ll love it,’ their parents had said,\n‘seeing more of Australia. We can’t take\nyou with us. It’s a business trip.’\n\nWhen the plane took off again only\nthree passengers remained, men in\nwide-brimmed hats. Bits of conversation\ndrifted down the aisle. ‘Over 20 000\nhead . . . if this drought keeps up . . .\nheartbreak corner . . . ’\n\nSix months, Janice thought bleakly. With\nsome great-aunt we haven’t seen since\nwe were babies. Some old witch woman\nwho’ll forget to turn on her hearing aid,\nI bet.\n\nSeparated by the narrow aisle, the twins\nstared glumly out at the few wisps of\nclouds. They tuned in silently to each\nother’s thoughts, out of habit.\n\nWitch woman! Perry grinned as the twins’\nthoughts tuned in to each other again.\nHe wasn’t too worried about some old\ngreat-aunt. But a new school . . . Perry\nwas frowning.\n\nThey could have taken us, Perry was\nthinking for the umpteenth time since\n\nfrom The Secret of Yesterday Hills\nby Elsie Young\nHBJ 1990",
+  "passages": [
+    {
+      "id": 1,
+      "text": "The secret of Yesterday Hills\n‘Is that it?’ Janice leaned over Perry for a\nbetter view as the little twin-engine plane\nbegan another descent.\n‘You ask that every time we put down,’\nPerry grumbled. ‘There’s another\nhour yet.’\n\nthey had left Melbourne that morning\nand changed at Brisbane for their stay\nin south-west Queensland. Then we’d\nbe jetting to London, instead of some\ncrummy little town beyond the black\nstump—wherever that is!\n\n‘I don’t think I’ll get out this time for a bit\nof a stretch,’ Janice yawned.\n\n‘You’ll love it,’ their parents had said,\n‘seeing more of Australia. We can’t take\nyou with us. It’s a business trip.’\n\nWhen the plane took off again only\nthree passengers remained, men in\nwide-brimmed hats. Bits of conversation\ndrifted down the aisle. ‘Over 20 000\nhead . . . if this drought keeps up . . .\nheartbreak corner . . . ’\n\nSix months, Janice thought bleakly. With\nsome great-aunt we haven’t seen since\nwe were babies. Some old witch woman\nwho’ll forget to turn on her hearing aid,\nI bet.\n\nSeparated by the narrow aisle, the twins\nstared glumly out at the few wisps of\nclouds. They tuned in silently to each\nother’s thoughts, out of habit.\n\nWitch woman! Perry grinned as the twins’\nthoughts tuned in to each other again.\nHe wasn’t too worried about some old\ngreat-aunt. But a new school . . . Perry\nwas frowning.\n\nThey could have taken us, Perry was\nthinking for the umpteenth time since\n\nfrom The Secret of Yesterday Hills\nby Elsie Young\nHBJ 1990",
+      "notes": null
+    }
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "kind": "multiple-choice",
+      "stem": "Why were Janice and Perry on the plane?",
+      "options": [
+        "They had to stay with a great-aunt while their parents went to London.",
+        "The drought had made it too difficult to stay at home.",
+        "It was a chance to escape from their great-aunt.",
+        "They were off to meet their parents."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 2,
+      "kind": "multiple-choice",
+      "stem": "What was special about Janice and Perry?",
+      "options": [
+        "They knew all about their parents’ business.",
+        "They were allowed to travel without their parents.",
+        "They knew each other’s thoughts.",
+        "They could cope with a wicked great-aunt."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 3,
+      "kind": "dropdown",
+      "stem": "Choose the correct option to complete the sentence.\nThe other passengers travelling on the plane with the twins were [Choose 1…] .",
+      "options": [
+        "cattle graziers / tourists / relatives / school teachers"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 4,
+      "kind": "multiple-choice (multi-select)",
+      "stem": "How does the reader know that the trip from Brisbane onwards was long and tiring? Choose two options.",
+      "options": [
+        "Janice did not want to leave the plane one more time to stretch her legs.",
+        "Janice and Perry were getting bored with the endless view of wispy clouds.",
+        "The plane flew over land that was very dry and monotonous.",
+        "Most of the passengers had left the plane.",
+        "The small plane had made many descents and landings."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 5,
+      "kind": "click-words",
+      "stem": "Click on the word that tells you about the twins’ emotions.\nSeparated by the narrow aisle, the twins stared glumly out at the few wisps of clouds.",
+      "options": [
+        "Separated",
+        "by",
+        "the",
+        "narrow",
+        "aisle,",
+        "the",
+        "twins",
+        "stared",
+        "glumly",
+        "out",
+        "at",
+        "the",
+        "few",
+        "wisps",
+        "of",
+        "clouds."
+      ],
+      "notes": "each word is a clickable button",
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 6,
+      "kind": "multiple-choice",
+      "stem": "How did Perry react to Janice’s idea that their great-aunt was a witch woman?",
+      "options": [
+        "He started to have doubts about their safety.",
+        "He wondered why Janice was being nasty.",
+        "He was upset by Janice’s unfair criticism of an old lady.",
+        "He was impressed by the description."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 7,
+      "kind": "drag",
+      "stem": "Which title would be suitable for this extract? Drag one title to the box. (Answer slot: Title)",
+      "options": [
+        "Cattle country",
+        "Journey into the unknown",
+        "Terrible twins",
+        "Ups and downs"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    }
+  ]
+}

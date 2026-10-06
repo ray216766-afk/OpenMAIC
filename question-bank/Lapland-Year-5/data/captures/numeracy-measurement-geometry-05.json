@@ -1,0 +1,156 @@
+{
+  "test_title": "Year 5 Measurement & Geometry Test 05",
+  "subject": "Numeracy",
+  "level": "Intermediate",
+  "test_type": "Practice Test",
+  "time_allowed": "18 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "mode": "PRACTICE (read-only, exited without saving)",
+  "questions": [
+    {
+      "n": 1,
+      "stem": "It is now 3:30 pm. Aleesha’s favourite television show starts in three-quarters of an hour. What time does the show start?",
+      "options": [
+        "3:45 pm",
+        "4:05 pm",
+        "4:15 pm",
+        "5:15 pm"
+      ],
+      "selected_answer": null,
+      "notes": null
+    },
+    {
+      "n": 2,
+      "stem": "Amanda drew a compass rose. She put herself at position A: What is the direction of the netball court?",
+      "options": [
+        "South-West",
+        "South-East",
+        "North-West",
+        "North",
+        "North-East"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 3,
+      "stem": "Omar drew these shapes. Which of these shapes has at least one line of symmetry? Select all answers.",
+      "options": null,
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 4,
+      "stem": "Which one of the following shows the net of a closed cylinder?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "4 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 5,
+      "stem": "Clara drew a square inside a heart: She rotated this shape through 180 degrees around its centre. Which one of these shows the shape after the rotation?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "5 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 6,
+      "stem": "Sarah wrote down how she spent last Saturday: She used a timeline to summarise her activities: What was Sarah doing at time X?",
+      "options": [
+        "movies",
+        "lunch",
+        "dinner",
+        "visiting friends"
+      ],
+      "selected_answer": null,
+      "notes": "2 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 7,
+      "stem": "The mass of fruit and vegetables are shown in the table: Place the items in order from lightest to heaviest.: capsicum pumpkin cucumber zucchini Answers",
+      "options": [
+        "Lightest",
+        "Light",
+        "Heavy",
+        "Heaviest"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 8,
+      "stem": "Which one of these angles measures 270 degrees?",
+      "options": [
+        "[image option A]",
+        "[image option B]",
+        "[image option C]",
+        "[image option D]"
+      ],
+      "selected_answer": null,
+      "notes": "4 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 9,
+      "stem": "Heath opened a 2-kg bag of flour and used some of the flour to make a cake. He has 1500 g left in the bag. How much flour did Heath use?",
+      "options": [
+        "50 g",
+        "500 g",
+        "750 g",
+        "1200 g",
+        "1300 g"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 10,
+      "stem": "Here is a map of the seats in a classroom: Erica sits in seat I. When she is sitting in her seat, facing the front of the room, her friend Joanna sits on her left. Which is Joanna’s seat?",
+      "options": [
+        "H",
+        "J",
+        "D",
+        "M"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 11,
+      "stem": "The sides of a rectangle have measurements of 8 cm and 4 cm: What is the perimeter of the rectangle?",
+      "options": [
+        "12 cm",
+        "16 cm",
+        "24 cm",
+        "32 cm",
+        "64 cm"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    },
+    {
+      "n": 12,
+      "stem": "Leila looks at a cube: She counts the edges, faces and vertices. Draw lines to match the numbers of edges, faces and vertices.:",
+      "options": [
+        "edges",
+        "faces",
+        "vertices",
+        "6",
+        "8",
+        "12"
+      ],
+      "selected_answer": null,
+      "notes": "1 image(s) on page; image-based content/options not captured as text"
+    }
+  ]
+}

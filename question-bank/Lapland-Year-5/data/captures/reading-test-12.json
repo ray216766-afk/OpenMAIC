@@ -1,0 +1,125 @@
+{
+  "test_title": "Year 5 Reading Test 12",
+  "subject": "Year 5 Reading (NAPLAN-style)",
+  "level": "Advanced",
+  "test_type": "Practice Test (Practice mode)",
+  "time_allowed": "15 mins",
+  "year": 5,
+  "student": "Oliver Shang",
+  "url_run": "https://app.exceltestzone.com.au/my-testpacks/2/tests/365/run",
+  "mode": "PRACTICE (read-only; no answers entered; exited via Exit Test, answers not saved)",
+  "passage": "Easter Island has a mystery. How and why did its inhabitants carve\nand transport the massive statues which surround the island?\nEaster Island is a triangular volcanic island in the Pacific Ocean,\nover 3600 kilometres from Tahiti or Chile. It is one of the most\nisolated places on Earth. It is famous for the 800 giant stone statues\nthat dot the coastline. The early explorers discovered the island on\nEaster Sunday in 1722, and named it Easter Island.\nWhere did Easter Islanders come from? Some say the people who\nbuilt the statues were from South America where there is similar\nstonework. Others have suggested that Easter Islanders are the\nlast people of a lost continent, or even part of an alien invasion.\nPacific Islanders (Polynesians) came to the island about\n1500 years ago.\nAs the population grew to more than 10 000 the land could not\nsupport so many people. (In 2002 the population was about 3500.)\nFood and materials became scarce, and the palm forests were\ndestroyed—cleared for farming and to move the huge statues to\ncoastal locations.\nAlthough called ‘Easter Island\nheads’, they are kneeling\nfigures with their hands\nover their stomach.\nA few statues have\nbecome buried up\nto their necks by\nshifting soils.",
+  "passages": [
+    {
+      "id": 1,
+      "text": "Easter Island has a mystery. How and why did its inhabitants carve\nand transport the massive statues which surround the island?\nEaster Island is a triangular volcanic island in the Pacific Ocean,\nover 3600 kilometres from Tahiti or Chile. It is one of the most\nisolated places on Earth. It is famous for the 800 giant stone statues\nthat dot the coastline. The early explorers discovered the island on\nEaster Sunday in 1722, and named it Easter Island.\nWhere did Easter Islanders come from? Some say the people who\nbuilt the statues were from South America where there is similar\nstonework. Others have suggested that Easter Islanders are the\nlast people of a lost continent, or even part of an alien invasion.\nPacific Islanders (Polynesians) came to the island about\n1500 years ago.\nAs the population grew to more than 10 000 the land could not\nsupport so many people. (In 2002 the population was about 3500.)\nFood and materials became scarce, and the palm forests were\ndestroyed—cleared for farming and to move the huge statues to\ncoastal locations.\nAlthough called ‘Easter Island\nheads’, they are kneeling\nfigures with their hands\nover their stomach.\nA few statues have\nbecome buried up\nto their necks by\nshifting soils.",
+      "notes": null
+    }
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "kind": "multiple-choice",
+      "stem": "Easter Island is unusual because it",
+      "options": [
+        "has strange statues.",
+        "is in the middle of the ocean.",
+        "was invaded by aliens.",
+        "has a small population."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 2,
+      "kind": "dropdown",
+      "stem": "Choose the correct option to complete the sentence.\nThe word ‘massive’ means that the statues are [Choose 1…] .",
+      "options": [
+        "heavy / gravestones / strange / huge"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 3,
+      "kind": "drag-to-blank",
+      "stem": "Choose the correct option to complete the sentence.\nOn Easter Island, the statues are situated ____.",
+      "options": [
+        "on farmland",
+        "on a volcano",
+        "in the forests",
+        "along the coast"
+      ],
+      "notes": "options shown as placeable chips with a blank slot",
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 4,
+      "kind": "drag-to-order",
+      "stem": "Drag the options to show the order in which these aspects of Easter Island are discussed in the text. (Answer slots A–D)",
+      "options": [
+        "discovery by Europeans",
+        "type of vegetation",
+        "origin of current inhabitants",
+        "geographical location"
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 5,
+      "kind": "multiple-choice",
+      "stem": "What is the most likely reason the population of Easter Island decreased in number?",
+      "options": [
+        "Part of the land sank into the sea.",
+        "Not enough food could be grown.",
+        "People moved to Tahiti or Chile.",
+        "Statues took up much of the island’s space."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 6,
+      "kind": "true-false table",
+      "stem": "Tick the box to show which statements are true and which are false.\n | True | False\nMost Easter Island statues are kneeling figures. | \nEaster Island is a coastal island off Chile. | \nPolynesian people settled on Easter Island over a thousand years ago. |",
+      "options": null,
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    },
+    {
+      "n": 7,
+      "kind": "multiple-choice",
+      "stem": "The text Easter Island mystery could best be described as",
+      "options": [
+        "a narrative.",
+        "an explanation.",
+        "a factual report.",
+        "a legend."
+      ],
+      "notes": null,
+      "passage_ids": [
+        1
+      ],
+      "selected_answer": null
+    }
+  ]
+}
