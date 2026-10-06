@@ -18,49 +18,37 @@ describe('Lapland Year 5 practice catalog', () => {
     expect(LAPLAND_YEAR_5_ROUTE).toBe('/lapland-year-5');
   });
 
-  it('loads every inventory row and marks uploaded Standard and Intermediate Word docs', () => {
+  it('marks the complete Conventions Practice Word set and leaves other subjects unuploaded', () => {
     const catalog = loadCatalog();
 
     expect(catalog.practice).toHaveLength(60);
     expect(catalog.other).toHaveLength(13);
-    expect(catalog.practice.filter((test) => test.wordDoc)).toHaveLength(16);
+    expect(catalog.practice.filter((test) => test.wordDoc)).toHaveLength(24);
     expect(catalog.other.every((test) => test.wordDoc === null)).toBe(true);
 
-    const uploaded = catalog.practice
-      .filter((test) => test.wordDoc)
-      .map((test) => test.title)
-      .sort();
-    expect(uploaded).toEqual([
-      'Year 5 Grammar & Punctuation Test 01',
-      'Year 5 Grammar & Punctuation Test 02',
-      'Year 5 Grammar & Punctuation Test 03',
-      'Year 5 Grammar & Punctuation Test 04',
-      'Year 5 Grammar & Punctuation Test 05',
-      'Year 5 Grammar & Punctuation Test 06',
-      'Year 5 Grammar & Punctuation Test 07',
-      'Year 5 Grammar & Punctuation Test 08',
-      'Year 5 Spelling Test 01',
-      'Year 5 Spelling Test 02',
-      'Year 5 Spelling Test 03',
-      'Year 5 Spelling Test 04',
-      'Year 5 Spelling Test 05',
-      'Year 5 Spelling Test 06',
-      'Year 5 Spelling Test 07',
-      'Year 5 Spelling Test 08',
-    ]);
+    const conventions = catalog.practice.filter(
+      (test) => test.subject === 'Conventions of Language',
+    );
+    expect(conventions).toHaveLength(24);
+    expect(conventions.every((test) => test.wordDoc)).toBe(true);
 
-    const grammarFive = catalog.practice.find(
-      (test) => test.title === 'Year 5 Grammar & Punctuation Test 05',
-    );
-    expect(grammarFive?.level).toBe('Intermediate');
-    expect(grammarFive?.wordDoc?.relativePath).toBe(
-      'Conventions-of-Language/Intermediate/Year-5-Grammar-and-Punctuation-Test-05.docx',
-    );
     const grammarNine = catalog.practice.find(
       (test) => test.title === 'Year 5 Grammar & Punctuation Test 09',
     );
     expect(grammarNine?.level).toBe('Advanced');
-    expect(grammarNine?.wordDoc).toBeNull();
+    expect(grammarNine?.wordDoc?.relativePath).toBe(
+      'Conventions-of-Language/Advanced/Year-5-Grammar-and-Punctuation-Test-09.docx',
+    );
+    const spellingTwelve = catalog.practice.find(
+      (test) => test.title === 'Year 5 Spelling Test 12',
+    );
+    expect(spellingTwelve?.wordDoc?.relativePath).toBe(
+      'Conventions-of-Language/Advanced/Year-5-Spelling-Test-12.docx',
+    );
+    const numeracy = catalog.practice.find(
+      (test) => test.title === 'Year 5 Measurement & Geometry 01',
+    );
+    expect(numeracy?.wordDoc).toBeNull();
   });
 
   it('groups practice tests by subject, level, and strand', () => {
@@ -85,9 +73,10 @@ describe('Lapland Year 5 practice catalog', () => {
       'Statistics & Probability',
     ]);
     expect(groups[0]?.testCount).toBe(24);
-    expect(groups[0]?.wordDocCount).toBe(16);
+    expect(groups[0]?.wordDocCount).toBe(24);
     expect(groups[0]?.levels.find((level) => level.level === 'Standard')?.wordDocCount).toBe(8);
     expect(groups[0]?.levels.find((level) => level.level === 'Intermediate')?.wordDocCount).toBe(8);
+    expect(groups[0]?.levels.find((level) => level.level === 'Advanced')?.wordDocCount).toBe(8);
     expect(groups[1]?.wordDocCount).toBe(0);
     expect(groups[2]?.testCount).toBe(12);
   });
