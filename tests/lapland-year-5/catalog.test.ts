@@ -18,12 +18,12 @@ describe('Lapland Year 5 practice catalog', () => {
     expect(LAPLAND_YEAR_5_ROUTE).toBe('/lapland-year-5');
   });
 
-  it('marks the complete Conventions Practice Word set and leaves other subjects unuploaded', () => {
+  it('marks Conventions and Numeracy Practice Word docs and leaves Reading unuploaded', () => {
     const catalog = loadCatalog();
 
     expect(catalog.practice).toHaveLength(60);
     expect(catalog.other).toHaveLength(13);
-    expect(catalog.practice.filter((test) => test.wordDoc)).toHaveLength(24);
+    expect(catalog.practice.filter((test) => test.wordDoc)).toHaveLength(48);
     expect(catalog.other.every((test) => test.wordDoc === null)).toBe(true);
 
     const conventions = catalog.practice.filter(
@@ -45,10 +45,27 @@ describe('Lapland Year 5 practice catalog', () => {
     expect(spellingTwelve?.wordDoc?.relativePath).toBe(
       'Conventions-of-Language/Advanced/Year-5-Spelling-Test-12.docx',
     );
-    const numeracy = catalog.practice.find(
+    const measurement = catalog.practice.find(
       (test) => test.title === 'Year 5 Measurement & Geometry 01',
     );
-    expect(numeracy?.wordDoc).toBeNull();
+    expect(measurement?.wordDoc?.relativePath).toBe(
+      'Numeracy/Standard/Year_5_Measurement___Geometry_Test_01.docx',
+    );
+    const algebra = catalog.practice.find((test) => test.title === 'Year 5 Number & Algebra 09');
+    expect(algebra?.wordDoc?.relativePath).toBe(
+      'Numeracy/Advanced/Year_5_Number___Algebra_Test_09.docx',
+    );
+    const probability = catalog.practice.find(
+      (test) => test.title === 'Year 5 Statistics & Probability 02',
+    );
+    expect(probability?.wordDoc?.relativePath).toBe(
+      'Numeracy/Intermediate/Year_5_Statistics___Probability_Test_02.docx',
+    );
+    const reading = catalog.practice.find((test) => test.title === 'Year 5 Reading Test 01');
+    expect(reading?.wordDoc).toBeNull();
+    expect(titleSlug('Year_5_Measurement___Geometry_Test_01.docx')).toBe(
+      titleSlug('Year 5 Measurement & Geometry 01'),
+    );
   });
 
   it('groups practice tests by subject, level, and strand', () => {
@@ -77,7 +94,10 @@ describe('Lapland Year 5 practice catalog', () => {
     expect(groups[0]?.levels.find((level) => level.level === 'Standard')?.wordDocCount).toBe(8);
     expect(groups[0]?.levels.find((level) => level.level === 'Intermediate')?.wordDocCount).toBe(8);
     expect(groups[0]?.levels.find((level) => level.level === 'Advanced')?.wordDocCount).toBe(8);
-    expect(groups[1]?.wordDocCount).toBe(0);
+    expect(groups[1]?.wordDocCount).toBe(24);
+    expect(groups[1]?.levels.find((level) => level.level === 'Standard')?.wordDocCount).toBe(8);
+    expect(groups[1]?.levels.find((level) => level.level === 'Intermediate')?.wordDocCount).toBe(8);
+    expect(groups[1]?.levels.find((level) => level.level === 'Advanced')?.wordDocCount).toBe(8);
     expect(groups[2]?.testCount).toBe(12);
   });
 

@@ -210,6 +210,12 @@ function SubjectSection({ group }: { group: SubjectGroup }) {
         {group.testCount} practice tests · {group.wordDocCount} Word{' '}
         {group.wordDocCount === 1 ? 'document' : 'documents'} uploaded
       </p>
+      {group.subject === 'Numeracy' ? (
+        <p className="mb-4 max-w-3xl text-sm text-[#5c6574]">
+          Some Numeracy items are image-heavy. The Word files keep the practice questions, and a few
+          include placeholder text where a figure could not be captured.
+        </p>
+      ) : null}
       <div className="flex flex-col gap-6">
         {group.levels.map((level) => (
           <div key={level.level}>

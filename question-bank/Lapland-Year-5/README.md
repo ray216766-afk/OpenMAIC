@@ -14,3 +14,4 @@ Open `/lapland-year-5` (same app as Scholarship Vocabulary at `/oliver-vocabular
 - `Conventions-of-Language/Standard/` — Standard Practice batch: Grammar & Punctuation Tests 01–04 and Spelling Tests 01–04.
 - `Conventions-of-Language/Intermediate/` — Intermediate Practice batch: Grammar & Punctuation Tests 05–08 and Spelling Tests 05–08.
 - `Conventions-of-Language/Advanced/` — Advanced Practice batch: Grammar & Punctuation Tests 09–12 and Spelling Tests 09–12. Conventions Practice (Grammar & Punctuation and Spelling) is complete. Sample tests are not in these folders.
+- `Numeracy/Standard/`, `Numeracy/Intermediate/`, and `Numeracy/Advanced/` — Numeracy Practice Word docs (Measurement & Geometry, Number & Algebra, Statistics & Probability). Some items are image-heavy and the Word files include placeholder text where a figure could not be captured.

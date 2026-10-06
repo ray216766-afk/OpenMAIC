@@ -71,13 +71,20 @@ export function docxContentType(): string {
   return DOCX_TYPE;
 }
 
+/**
+ * Match key for an inventory title or a Word filename.
+ * Drops filler words so `Year_5_Measurement___Geometry_Test_01.docx` matches
+ * `Year 5 Measurement & Geometry 01`, and the earlier
+ * `Year-5-Grammar-and-Punctuation-Test-01.docx` names still match.
+ */
 export function titleSlug(value: string): string {
-  return value
+  const words = value
     .toLowerCase()
-    .replace(/&/g, ' and ')
+    .replace(/&/g, ' ')
     .replace(/\.docx$/i, '')
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '');
+    .split(/[^a-z0-9]+/)
+    .filter((word) => word && word !== 'and' && word !== 'test');
+  return words.join('-');
 }
 
 export function strandFor(subject: string, title: string): string {
