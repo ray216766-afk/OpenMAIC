@@ -84,7 +84,11 @@ export default function LaplandYear5Page() {
           <Stat
             label="Word docs ready"
             value={wordDocs}
-            hint={`${catalog.practice.length - wordDocs} still to upload`}
+            hint={
+              catalog.practice.length - wordDocs === 0
+                ? 'Practice bank complete'
+                : `${catalog.practice.length - wordDocs} still to upload`
+            }
           />
           <Stat
             label="Practice questions"
@@ -137,7 +141,7 @@ export default function LaplandYear5Page() {
                     </a>
                   </td>
                   <td className="py-2 pr-3 text-[#7a7266]" colSpan={4}>
-                    No Practice tests. Written tests are listed in the separate section below.
+                    Not in the practice bank. These written tests spend attempt credits.
                   </td>
                 </tr>
               </tbody>
@@ -156,7 +160,8 @@ export default function LaplandYear5Page() {
           <h2 className="font-serif text-xl">Sample and written tests</h2>
           <p className="mt-2 max-w-3xl text-sm text-[#5c6574]">
             These inventory rows are Sample or Written tests, not Practice mode. They are listed so
-            the full pack is visible. They are not offered as practice downloads.
+            the full pack is visible. They are not offered as practice downloads. Writing is left
+            out of the practice bank because those four written tests spend attempt credits.
           </p>
           <div className="mt-6 flex flex-col gap-8">
             {otherGroups.map((group) => (
@@ -216,6 +221,12 @@ function SubjectSection({ group }: { group: SubjectGroup }) {
           include placeholder text where a figure could not be captured.
         </p>
       ) : null}
+      {group.subject === 'Reading' ? (
+        <p className="mb-4 max-w-3xl text-sm text-[#5c6574]">
+          Twelve Reading Practice tests. Passage titles are shown where the Word capture includes
+          one. Tests 03 and 09 are image-heavy passages.
+        </p>
+      ) : null}
       <div className="flex flex-col gap-6">
         {group.levels.map((level) => (
           <div key={level.level}>
@@ -246,8 +257,12 @@ function TestRow({ test }: { test: InventoryTest }) {
   return (
     <article className="border-b border-[#efe6d8] py-3 last:border-0">
       <h4 className="text-base font-semibold text-[#1f3a5f]">{test.title}</h4>
+      {test.passageTitle ? (
+        <p className="mt-1 text-sm text-[#1f2430]">Passage: {test.passageTitle}</p>
+      ) : null}
       <p className="mt-1 text-sm text-[#5c6574]">
         {test.strand} · {test.level} · {test.questions} questions · {test.minutes} minutes
+        {test.imageHeavy ? ' · Image-heavy passage' : ''}
       </p>
       {test.wordDoc ? (
         <a

@@ -37,6 +37,10 @@ export interface InventoryTest {
   minutes: number;
   /** Set only for Practice Test rows that have an uploaded Word document. */
   wordDoc: WordDoc | null;
+  /** Short passage heading when the Word capture includes one. */
+  passageTitle: string | null;
+  /** Reading Tests 03 and 09 are mostly an image on the source site. */
+  imageHeavy: boolean;
 }
 
 export interface StrandGroup {
@@ -153,7 +157,9 @@ export function parseCsv(text: string): string[][] {
   return rows;
 }
 
-export function parseInventory(csvText: string): Omit<InventoryTest, 'wordDoc'>[] {
+export function parseInventory(
+  csvText: string,
+): Omit<InventoryTest, 'wordDoc' | 'passageTitle' | 'imageHeavy'>[] {
   const table = parseCsv(csvText.trim());
   const header = table[0];
   if (!header) return [];
@@ -209,8 +215,24 @@ export function listWordDocs(root = QUESTION_BANK_DIR): WordDoc[] {
   return docs;
 }
 
+/** Passage headings taken from the Reading Practice Word captures. */
+export const READING_PASSAGE_TITLES: Record<string, string> = {
+  'Year 5 Reading Test 01': 'Land clearing',
+  'Year 5 Reading Test 02': 'The Miners Rest',
+  'Year 5 Reading Test 04': 'Shocking discovery',
+  'Year 5 Reading Test 05': 'Words can be fun',
+  'Year 5 Reading Test 06': 'Pappadams',
+  'Year 5 Reading Test 07': 'Add a bit more',
+  'Year 5 Reading Test 08': 'This educational game feels more like therapy than fun.',
+  'Year 5 Reading Test 09': 'Battlers of the Great Depression',
+  'Year 5 Reading Test 10': 'Treasure Island',
+  'Year 5 Reading Test 11': 'The secret of Yesterday Hills',
+};
+
+const IMAGE_HEAVY_READING = new Set(['Year 5 Reading Test 03', 'Year 5 Reading Test 09']);
+
 export function attachWordDocs(
-  tests: Omit<InventoryTest, 'wordDoc'>[],
+  tests: Omit<InventoryTest, 'wordDoc' | 'passageTitle' | 'imageHeavy'>[],
   docs: WordDoc[],
 ): InventoryTest[] {
   const bySlug = new Map<string, WordDoc>();
@@ -220,11 +242,13 @@ export function attachWordDocs(
   return tests.map((test) => ({
     ...test,
     wordDoc: test.kind === 'practice' ? (bySlug.get(titleSlug(test.title)) ?? null) : null,
+    passageTitle: READING_PASSAGE_TITLES[test.title] ?? null,
+    imageHeavy: IMAGE_HEAVY_READING.has(test.title),
   }));
 }
 
 export function buildCatalog(
-  tests: Omit<InventoryTest, 'wordDoc'>[],
+  tests: Omit<InventoryTest, 'wordDoc' | 'passageTitle' | 'imageHeavy'>[],
   docs: WordDoc[],
 ): Year5Catalog {
   const withDocs = attachWordDocs(tests, docs);

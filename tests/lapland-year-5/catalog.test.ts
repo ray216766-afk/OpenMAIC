@@ -18,13 +18,15 @@ describe('Lapland Year 5 practice catalog', () => {
     expect(LAPLAND_YEAR_5_ROUTE).toBe('/lapland-year-5');
   });
 
-  it('marks Conventions and Numeracy Practice Word docs and leaves Reading unuploaded', () => {
+  it('marks the complete Conventions, Numeracy, and Reading Practice Word set', () => {
     const catalog = loadCatalog();
 
     expect(catalog.practice).toHaveLength(60);
     expect(catalog.other).toHaveLength(13);
-    expect(catalog.practice.filter((test) => test.wordDoc)).toHaveLength(48);
+    expect(catalog.practice.filter((test) => test.wordDoc)).toHaveLength(60);
+    expect(catalog.practice.every((test) => test.wordDoc)).toBe(true);
     expect(catalog.other.every((test) => test.wordDoc === null)).toBe(true);
+    expect(catalog.other.filter((test) => test.subject === 'Writing')).toHaveLength(4);
 
     const conventions = catalog.practice.filter(
       (test) => test.subject === 'Conventions of Language',
@@ -62,10 +64,22 @@ describe('Lapland Year 5 practice catalog', () => {
       'Numeracy/Intermediate/Year_5_Statistics___Probability_Test_02.docx',
     );
     const reading = catalog.practice.find((test) => test.title === 'Year 5 Reading Test 01');
-    expect(reading?.wordDoc).toBeNull();
-    expect(titleSlug('Year_5_Measurement___Geometry_Test_01.docx')).toBe(
-      titleSlug('Year 5 Measurement & Geometry 01'),
+    expect(reading?.passageTitle).toBe('Land clearing');
+    expect(reading?.imageHeavy).toBe(false);
+    expect(reading?.wordDoc?.relativePath).toBe('Reading/Standard/Year_5_Reading_Test_01.docx');
+    const readingThree = catalog.practice.find((test) => test.title === 'Year 5 Reading Test 03');
+    expect(readingThree?.passageTitle).toBeNull();
+    expect(readingThree?.imageHeavy).toBe(true);
+    const readingNine = catalog.practice.find((test) => test.title === 'Year 5 Reading Test 09');
+    expect(readingNine?.passageTitle).toBe('Battlers of the Great Depression');
+    expect(readingNine?.imageHeavy).toBe(true);
+    expect(readingNine?.wordDoc?.relativePath).toBe('Reading/Advanced/Year_5_Reading_Test_09.docx');
+    const readingTwelve = catalog.practice.find((test) => test.title === 'Year 5 Reading Test 12');
+    expect(readingTwelve?.passageTitle).toBeNull();
+    expect(readingTwelve?.wordDoc?.relativePath).toBe(
+      'Reading/Advanced/Year_5_Reading_Test_12.docx',
     );
+    expect(titleSlug('Year_5_Reading_Test_01.docx')).toBe(titleSlug('Year 5 Reading Test 01'));
   });
 
   it('groups practice tests by subject, level, and strand', () => {
@@ -99,6 +113,8 @@ describe('Lapland Year 5 practice catalog', () => {
     expect(groups[1]?.levels.find((level) => level.level === 'Intermediate')?.wordDocCount).toBe(8);
     expect(groups[1]?.levels.find((level) => level.level === 'Advanced')?.wordDocCount).toBe(8);
     expect(groups[2]?.testCount).toBe(12);
+    expect(groups[2]?.wordDocCount).toBe(12);
+    expect(groups[2]?.levels.map((level) => level.wordDocCount)).toEqual([4, 4, 4]);
   });
 
   it('keeps sample and written rows out of practice downloads even if a file slug matches', () => {
