@@ -13,10 +13,12 @@ export async function POST(request: Request) {
   const body = (await request.json()) as {
     answers?: Record<string, AnswerValue | undefined>;
     bookmarks?: string[];
+    teacherMarks?: Record<string, boolean | undefined>;
   };
   const result = submitPlacement({
     answers: body.answers ?? {},
     bookmarks: body.bookmarks ?? [],
+    teacherMarks: body.teacherMarks,
   });
   return apiSuccess({
     attempt: result.attempt,

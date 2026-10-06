@@ -1,0 +1,549 @@
+{
+  "id": "y5-naplan-placement-v1",
+  "title": "Year 5 NAPLAN Practice — Level / Placement Test (水平测试)",
+  "description": "Complete diagnostic for Oliver. After finish: analyse by strand, recommend matching practice from the bank.",
+  "student": "Oliver Shang",
+  "question_count": 26,
+  "estimated_minutes": 40,
+  "scoring_note": "correct_answer null until keys filled; still record answers, strand stats, and recommend resources by weak strand+level.",
+  "strands_covered": [
+    "Grammar & Punctuation",
+    "Measurement & Geometry",
+    "Number & Algebra",
+    "Reading",
+    "Statistics & Probability"
+  ],
+  "questions": [
+    {
+      "source_id": "conventions-grammar-punctuation-01",
+      "source_title": "Year 5 Grammar & Punctuation Test 01",
+      "subject": "Conventions of Language",
+      "strand": "Grammar & Punctuation",
+      "level": "Standard",
+      "n": 1,
+      "stem": "Which of the following correctly completes this sentence? Tennis is played either on a grass surface ___ on a clay surface.",
+      "options": [
+        "yet",
+        "or",
+        "nor",
+        "and"
+      ],
+      "kind": "multiple_choice",
+      "notes": "either...or pair",
+      "placement_id": "P01",
+      "correct_answer": null,
+      "scoring": "pending_key"
+    },
+    {
+      "source_id": "conventions-grammar-punctuation-01",
+      "source_title": "Year 5 Grammar & Punctuation Test 01",
+      "subject": "Conventions of Language",
+      "strand": "Grammar & Punctuation",
+      "level": "Standard",
+      "n": 2,
+      "stem": "Which word correctly completes the sentence? Bella was running late but did she ___ the bus? (dropdown)",
+      "options": [
+        "court",
+        "catched",
+        "caught",
+        "catch"
+      ],
+      "kind": "multiple_choice",
+      "notes": "base verb after 'did'",
+      "placement_id": "P02",
+      "correct_answer": null,
+      "scoring": "pending_key"
+    },
+    {
+      "source_id": "conventions-grammar-punctuation-02",
+      "source_title": "Year 5 Grammar & Punctuation Test 02",
+      "subject": "Conventions of Language",
+      "strand": "Grammar & Punctuation",
+      "level": "Standard",
+      "n": 1,
+      "stem": "Which word correctly completes the sentence? During the night I [dropdown] aware of an unusual noise.",
+      "options": [
+        "became",
+        "becoming",
+        "becomes",
+        "become"
+      ],
+      "kind": "multiple_choice",
+      "notes": "past tense",
+      "placement_id": "P03",
+      "correct_answer": null,
+      "scoring": "pending_key"
+    },
+    {
+      "source_id": "conventions-grammar-punctuation-05",
+      "source_title": "Year 5 Grammar & Punctuation Test 05",
+      "subject": "Conventions of Language",
+      "strand": "Grammar & Punctuation",
+      "level": "Intermediate",
+      "n": 1,
+      "stem": "Which word or words correctly complete the sentence? Yuri has been in Australia for ten years but [dropdown] seen an Australian film!",
+      "options": [
+        "didn't",
+        "has never",
+        "was not",
+        "never did"
+      ],
+      "kind": "multiple_choice",
+      "notes": "answers cleared to match later read-only capture policy",
+      "placement_id": "P04",
+      "correct_answer": null,
+      "scoring": "pending_key"
+    },
+    {
+      "source_id": "conventions-grammar-punctuation-05",
+      "source_title": "Year 5 Grammar & Punctuation Test 05",
+      "subject": "Conventions of Language",
+      "strand": "Grammar & Punctuation",
+      "level": "Intermediate",
+      "n": 2,
+      "stem": "Which word correctly completes the sentence? Jason walked [dropdown] past the cot where the baby slept.",
+      "options": [
+        "quieter",
+        "quietest",
+        "quiet",
+        "quietly"
+      ],
+      "kind": "multiple_choice",
+      "notes": "answers cleared to match later read-only capture policy",
+      "placement_id": "P05",
+      "correct_answer": null,
+      "scoring": "pending_key"
+    },
+    {
+      "source_id": "conventions-grammar-punctuation-09",
+      "source_title": "Year 5 Grammar & Punctuation Test 09",
+      "subject": "Conventions of Language",
+      "strand": "Grammar & Punctuation",
+      "level": "Advanced",
+      "n": 1,
+      "stem": "Which sentence has the correct punctuation?",
+      "options": [
+        "Lance said to, “Be quiet” so we talked in whispers.",
+        "Lance said, “To be quiet.” So we talked in whispers.",
+        "Lance said, “To be quiet,” so we talked, “In whispers”.",
+        "Lance said to be quiet, so we talked in whispers."
+      ],
+      "kind": "multiple_choice",
+      "notes": "",
+      "placement_id": "P06",
+      "correct_answer": null,
+      "scoring": "pending_key"
+    },
+    {
+      "source_id": "reading-test-01",
+      "source_title": "Year 5 Reading Test 01",
+      "subject": "Reading",
+      "strand": "Reading",
+      "level": "Standard",
+      "n": 1,
+      "stem": "What does the author of the article find most distressing?",
+      "options": [
+        "the world food shortage",
+        "the soil becoming saline (salty)",
+        "the speed at which land is being cleared",
+        "the small amount of land set aside for national parks"
+      ],
+      "kind": "multiple-choice",
+      "notes": null,
+      "placement_id": "P07",
+      "correct_answer": null,
+      "scoring": "pending_key"
+    },
+    {
+      "source_id": "reading-test-01",
+      "source_title": "Year 5 Reading Test 01",
+      "subject": "Reading",
+      "strand": "Reading",
+      "level": "Standard",
+      "n": 2,
+      "stem": "How many animal species are threatened or endangered?",
+      "options": [
+        "thousands",
+        "millions",
+        "140",
+        "over 200"
+      ],
+      "kind": "multiple-choice",
+      "notes": null,
+      "placement_id": "P08",
+      "correct_answer": null,
+      "scoring": "pending_key"
+    },
+    {
+      "source_id": "reading-test-05",
+      "source_title": "Year 5 Reading Test 05",
+      "subject": "Reading",
+      "strand": "Reading",
+      "level": "Intermediate",
+      "n": 1,
+      "stem": "The writer believes that",
+      "options": [
+        "recognising palindromes can be fun.",
+        "cooking is more fun than reading.",
+        "most people enjoy sport.",
+        "everyone enjoys crosswords."
+      ],
+      "kind": "multiple-choice",
+      "notes": null,
+      "placement_id": "P09",
+      "correct_answer": null,
+      "scoring": "pending_key"
+    },
+    {
+      "source_id": "reading-test-05",
+      "source_title": "Year 5 Reading Test 05",
+      "subject": "Reading",
+      "strand": "Reading",
+      "level": "Intermediate",
+      "n": 2,
+      "stem": "Which one of these place names is not a palindrome?",
+      "options": [
+        "Glenelg",
+        "Parap",
+        "Arrawarra",
+        "Woy Woy"
+      ],
+      "kind": "multiple-choice",
+      "notes": null,
+      "placement_id": "P10",
+      "correct_answer": null,
+      "scoring": "pending_key"
+    },
+    {
+      "source_id": "reading-test-09",
+      "source_title": "Year 5 Reading Test 09",
+      "subject": "Reading",
+      "strand": "Reading",
+      "level": "Advanced",
+      "n": 1,
+      "stem": "This man’s situation could best be described as",
+      "options": [
+        "grim.",
+        "risky.",
+        "doomed.",
+        "hopeless."
+      ],
+      "kind": "multiple-choice",
+      "notes": null,
+      "placement_id": "P11",
+      "correct_answer": null,
+      "scoring": "pending_key"
+    },
+    {
+      "source_id": "reading-test-09",
+      "source_title": "Year 5 Reading Test 09",
+      "subject": "Reading",
+      "strand": "Reading",
+      "level": "Advanced",
+      "n": 3,
+      "stem": "Because the man is a non-smoker and non-drinker it shows he",
+      "options": [
+        "is healthy and fit.",
+        "hasn’t got any money.",
+        "has good habits.",
+        "doesn’t keep bad company."
+      ],
+      "kind": "multiple-choice",
+      "notes": null,
+      "placement_id": "P12",
+      "correct_answer": null,
+      "scoring": "pending_key"
+    },
+    {
+      "source_id": "numeracy-number-algebra-01",
+      "source_title": "Year 5 Number & Algebra Test 01",
+      "subject": "Numeracy",
+      "strand": "Number & Algebra",
+      "level": "Standard",
+      "n": 1,
+      "stem": "Look at these numbers: Rearrange the numbers in order from lowest to highest. Answers",
+      "options": [
+        "Lowest",
+        "Low",
+        "High",
+        "Highest"
+      ],
+      "kind": "multiple_choice",
+      "notes": "4 image(s) on page; image-based content/options not captured as text",
+      "placement_id": "P13",
+      "correct_answer": null,
+      "scoring": "pending_key"
+    },
+    {
+      "source_id": "numeracy-number-algebra-01",
+      "source_title": "Year 5 Number & Algebra Test 01",
+      "subject": "Numeracy",
+      "strand": "Number & Algebra",
+      "level": "Standard",
+      "n": 2,
+      "stem": "Look at these numbers: Svetlana is to write the numbers in order from smallest to largest: What number will Svetlana write in the circle?",
+      "options": [
+        "192",
+        "127",
+        "207",
+        "161"
+      ],
+      "kind": "multiple_choice",
+      "notes": "2 image(s) on page; image-based content/options not captured as text",
+      "placement_id": "P14",
+      "correct_answer": null,
+      "scoring": "pending_key"
+    },
+    {
+      "source_id": "numeracy-number-algebra-04",
+      "source_title": "Year 5 Number & Algebra Test 04",
+      "subject": "Numeracy",
+      "strand": "Number & Algebra",
+      "level": "Intermediate",
+      "n": 1,
+      "stem": "Here is Bert’s number pattern: Which two of these numbers are in Bert’s number pattern?",
+      "options": [
+        "13",
+        "17",
+        "19",
+        "33",
+        "34"
+      ],
+      "kind": "multiple_choice",
+      "notes": "1 image(s) on page; image-based content/options not captured as text",
+      "placement_id": "P15",
+      "correct_answer": null,
+      "scoring": "pending_key"
+    },
+    {
+      "source_id": "numeracy-number-algebra-04",
+      "source_title": "Year 5 Number & Algebra Test 04",
+      "subject": "Numeracy",
+      "strand": "Number & Algebra",
+      "level": "Intermediate",
+      "n": 2,
+      "stem": "Ethan’s teacher wrote on her board: Ethan then found the answer to this question: What is Ethan’s answer?",
+      "options": [
+        "910",
+        "1010",
+        "1110",
+        "1100"
+      ],
+      "kind": "multiple_choice",
+      "notes": "2 image(s) on page; image-based content/options not captured as text",
+      "placement_id": "P16",
+      "correct_answer": null,
+      "scoring": "pending_key"
+    },
+    {
+      "source_id": "numeracy-number-algebra-07",
+      "source_title": "Year 5 Number & Algebra Test 07",
+      "subject": "Numeracy",
+      "strand": "Number & Algebra",
+      "level": "Advanced",
+      "n": 2,
+      "stem": "Madison wrote down these numbers: She then notices that there were some even numbers in the list. What is the total of these even numbers?",
+      "options": [
+        "39",
+        "84",
+        "90",
+        "91",
+        "92"
+      ],
+      "kind": "multiple_choice",
+      "notes": "1 image(s) on page; image-based content/options not captured as text",
+      "placement_id": "P17",
+      "correct_answer": null,
+      "scoring": "pending_key"
+    },
+    {
+      "source_id": "numeracy-number-algebra-07",
+      "source_title": "Year 5 Number & Algebra Test 07",
+      "subject": "Numeracy",
+      "strand": "Number & Algebra",
+      "level": "Advanced",
+      "n": 3,
+      "stem": "Sharma plans to give her five friends six lollies each (there will be none left over). With this number of lollies, she could instead share these lollies among four of her friends. If she does, how many lollies will be left over?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "kind": "multiple_choice",
+      "notes": "1 image(s) on page; image-based content/options not captured as text",
+      "placement_id": "P18",
+      "correct_answer": null,
+      "scoring": "pending_key"
+    },
+    {
+      "source_id": "numeracy-measurement-geometry-01",
+      "source_title": "Year 5 Measurement & Geometry Test 01",
+      "subject": "Numeracy",
+      "strand": "Measurement & Geometry",
+      "level": "Standard",
+      "n": 3,
+      "stem": "Sam’s birthday is on Monday, 16 October. His friend Jack has his birthday 10 days later. Which day of the week is Jack’s birthday?",
+      "options": [
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "kind": "multiple_choice",
+      "notes": "1 image(s) on page; image-based content/options not captured as text",
+      "placement_id": "P19",
+      "correct_answer": null,
+      "scoring": "pending_key"
+    },
+    {
+      "source_id": "numeracy-measurement-geometry-01",
+      "source_title": "Year 5 Measurement & Geometry Test 01",
+      "subject": "Numeracy",
+      "strand": "Measurement & Geometry",
+      "level": "Standard",
+      "n": 4,
+      "stem": "Markus coloured each face of a square pyramid a different colour. How many colours did he use?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "kind": "multiple_choice",
+      "notes": null,
+      "placement_id": "P20",
+      "correct_answer": null,
+      "scoring": "pending_key"
+    },
+    {
+      "source_id": "numeracy-measurement-geometry-05",
+      "source_title": "Year 5 Measurement & Geometry Test 05",
+      "subject": "Numeracy",
+      "strand": "Measurement & Geometry",
+      "level": "Intermediate",
+      "n": 1,
+      "stem": "It is now 3:30 pm. Aleesha’s favourite television show starts in three-quarters of an hour. What time does the show start?",
+      "options": [
+        "3:45 pm",
+        "4:05 pm",
+        "4:15 pm",
+        "5:15 pm"
+      ],
+      "kind": "multiple_choice",
+      "notes": null,
+      "placement_id": "P21",
+      "correct_answer": null,
+      "scoring": "pending_key"
+    },
+    {
+      "source_id": "numeracy-measurement-geometry-05",
+      "source_title": "Year 5 Measurement & Geometry Test 05",
+      "subject": "Numeracy",
+      "strand": "Measurement & Geometry",
+      "level": "Intermediate",
+      "n": 2,
+      "stem": "Amanda drew a compass rose. She put herself at position A: What is the direction of the netball court?",
+      "options": [
+        "South-West",
+        "South-East",
+        "North-West",
+        "North",
+        "North-East"
+      ],
+      "kind": "multiple_choice",
+      "notes": "1 image(s) on page; image-based content/options not captured as text",
+      "placement_id": "P22",
+      "correct_answer": null,
+      "scoring": "pending_key"
+    },
+    {
+      "source_id": "numeracy-measurement-geometry-09",
+      "source_title": "Year 5 Measurement & Geometry Test 09",
+      "subject": "Numeracy",
+      "strand": "Measurement & Geometry",
+      "level": "Advanced",
+      "n": 1,
+      "stem": "Each glass like this holds 250 mL. How many glasses can be completely filled from a 1-L container?",
+      "options": [
+        "2",
+        "4",
+        "5",
+        "10",
+        "25"
+      ],
+      "kind": "multiple_choice",
+      "notes": "1 image(s) on page; image-based content/options not captured as text",
+      "placement_id": "P23",
+      "correct_answer": null,
+      "scoring": "pending_key"
+    },
+    {
+      "source_id": "numeracy-statistics-probability-01",
+      "source_title": "Year 5 Statistics & Probability Test 01",
+      "subject": "Numeracy",
+      "strand": "Statistics & Probability",
+      "level": "Standard",
+      "n": 1,
+      "stem": "Henry counted the number of cars of different colours and made a table: There were 12 cars of one colour. What colour was that?",
+      "options": [
+        "white",
+        "blue",
+        "red",
+        "silver"
+      ],
+      "kind": "multiple_choice",
+      "notes": null,
+      "placement_id": "P24",
+      "correct_answer": null,
+      "scoring": "pending_key"
+    },
+    {
+      "source_id": "numeracy-statistics-probability-02",
+      "source_title": "Year 5 Statistics & Probability Test 02",
+      "subject": "Numeracy",
+      "strand": "Statistics & Probability",
+      "level": "Intermediate",
+      "n": 1,
+      "stem": "The graph shows the time it takes for some children to travel to school each morning: How many minutes longer does Melinda take to travel to school than Sarah?",
+      "options": [
+        "5 min",
+        "10 min",
+        "15 min",
+        "20 min"
+      ],
+      "kind": "multiple_choice",
+      "notes": "1 image(s) on page; image-based content/options not captured as text",
+      "placement_id": "P25",
+      "correct_answer": null,
+      "scoring": "pending_key"
+    },
+    {
+      "source_id": "numeracy-statistics-probability-03",
+      "source_title": "Year 5 Statistics & Probability Test 03",
+      "subject": "Numeracy",
+      "strand": "Statistics & Probability",
+      "level": "Advanced",
+      "n": 1,
+      "stem": "Daisy recorded some data about some plants in her garden: How did Daisy order her data?",
+      "options": [
+        "by colour",
+        "by height",
+        "by width",
+        "by flowering season"
+      ],
+      "kind": "multiple_choice",
+      "notes": "1 image(s) on page; image-based content/options not captured as text",
+      "placement_id": "P26",
+      "correct_answer": null,
+      "scoring": "pending_key"
+    }
+  ],
+  "recommendation_rules": {
+    "weak_threshold_pct": 60,
+    "recommend_per_weak_strand": 3,
+    "prefer_same_strand_same_or_lower_level": true
+  }
+}

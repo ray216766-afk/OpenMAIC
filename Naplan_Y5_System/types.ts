@@ -147,6 +147,67 @@ export interface WeakSpotReport {
   recommendations: PracticeRecommendation[];
 }
 
+/** One practice-test row from the OpenMRC main-page pack, joined to its Word file. */
+export interface OpenMrcEntry {
+  id: string;
+  title: string;
+  topic: string;
+  subject: string;
+  level: string;
+  question_count: number;
+  bank_id: string;
+  path: string | null;
+  minutes: number;
+  passage_title: string | null;
+  image_heavy: boolean;
+}
+
+/** One placement item sent to the browser. `correct_answer` stays on the server. */
+export interface PlacementStudentQuestion {
+  id: string;
+  number: number;
+  strand: string;
+  level: string;
+  subject: string;
+  prompt: string;
+  options: string[];
+  scoreable: boolean;
+  source_id: string;
+  source_title: string;
+}
+
+export interface PlacementStrandReport {
+  strand: string;
+  subject: string;
+  answered: number;
+  total: number;
+  correct: number;
+  scored: number;
+  accuracy: number | null;
+  pending_keys: number;
+  weak: boolean;
+  levels: string[];
+}
+
+export interface PlacementRecommendation {
+  catalog_id: string;
+  resource_id: string;
+  title: string;
+  strand: string;
+  level: string;
+  subject: string;
+  reason: string;
+}
+
+export interface PlacementReport {
+  answered: number;
+  total: number;
+  keyed: number;
+  strands: PlacementStrandReport[];
+  weak: PlacementStrandReport[];
+  recommendations: PlacementRecommendation[];
+}
+
 export interface EnginePaths {
   bankPath: string;
   progressPath: string;

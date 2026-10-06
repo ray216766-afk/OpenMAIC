@@ -1,9 +1,8 @@
 import { loadQuestionBank } from './bank';
-import { selectPlacementQuestions, weakSpotReport } from './placement';
-import { gradeQuestions, summarizeSkills, summarizeStrands } from './Review_Engine/grade';
+import { analysePlacementAttempt, placementStudentPaper } from './openmrc-pack';
+import { gradeQuestions, summarizeStrands } from './Review_Engine/grade';
 import { appendWrongItems, rememberAttempt, wrongItemsFromMarks } from './store';
-import type { AnswerValue, AttemptRecord, WeakSpotReport } from './types';
-import { toStudentQuestion } from './student-view';
+import type { AnswerValue, AttemptRecord, PlacementReport } from './types';
 
 function nowId(prefix: string): string {
   return `${prefix}-${Date.now()}`;
@@ -50,34 +49,39 @@ export function submitPractice(input: {
 }
 
 export function placementPaper() {
-  const { questions } = loadQuestionBank();
-  const selected = selectPlacementQuestions(questions);
+  const paper = placementStudentPaper();
   return {
-    title: 'Year 5 level test',
-    questions: selected.map(toStudentQuestion),
+    id: paper.id,
+    title: paper.title,
+    description: paper.description,
+    question_count: paper.question_count,
+    estimated_minutes: paper.estimated_minutes,
+    scoring_note: paper.scoring_note,
+    questions: paper.questions,
   };
 }
 
 export function submitPlacement(input: {
   answers: Record<string, AnswerValue | undefined>;
   bookmarks?: string[];
+  teacherMarks?: Record<string, boolean | undefined>;
 }): {
   attempt: AttemptRecord;
-  report: WeakSpotReport;
+  report: PlacementReport;
   saved_wrong: number;
   score_label: string;
   strand_summary: ReturnType<typeof summarizeStrands>;
 } {
-  const { resources, questions } = loadQuestionBank();
-  const selected = selectPlacementQuestions(questions);
-  const graded = gradeQuestions(selected, input.answers);
-  const keyed = selected.filter((question) => question.correct_answer != null).length;
+  const graded = analysePlacementAttempt({
+    answers: input.answers,
+    teacherMarks: input.teacherMarks,
+  });
   const submittedAt = new Date().toISOString();
   const attempt: AttemptRecord = {
     id: nowId('placement'),
     kind: 'placement',
     resource_id: null,
-    title: 'Year 5 level test',
+    title: 'Year 5 placement test',
     submitted_at: submittedAt,
     correct: graded.correct,
     scored: graded.scored,
@@ -86,14 +90,14 @@ export function submitPlacement(input: {
   };
   rememberAttempt(attempt);
   const saved = appendWrongItems(
-    wrongItemsFromMarks(graded.marks, 'placement', 'Year 5 level test', input.bookmarks ?? []),
+    wrongItemsFromMarks(graded.marks, 'placement', 'Year 5 placement test', input.bookmarks ?? []),
   );
   return {
     attempt,
-    report: weakSpotReport(summarizeSkills(graded.marks), resources),
+    report: graded.report,
     saved_wrong: saved,
-    score_label: scoreLabel(graded.correct, graded.scored, graded.total, keyed),
-    strand_summary: summarizeStrands(graded.marks),
+    score_label: graded.score_label,
+    strand_summary: graded.strand_summary,
   };
 }
 

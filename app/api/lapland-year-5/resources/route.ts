@@ -1,4 +1,5 @@
 import { loadQuestionBank } from '@/Naplan_Y5_System/bank';
+import { loadOpenMrcEntries } from '@/Naplan_Y5_System/openmrc-pack';
 import { apiSuccess } from '@/lib/server/api-response';
 
 export const runtime = 'nodejs';
@@ -22,6 +23,7 @@ export async function GET() {
       passage_title: resource.passage_title,
       image_heavy: resource.image_heavy,
     })),
+    entries: loadOpenMrcEntries(),
     note,
   });
 }

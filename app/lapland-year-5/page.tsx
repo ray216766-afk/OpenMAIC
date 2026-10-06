@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 
-import { loadQuestionBank } from '@/Naplan_Y5_System/bank';
+import { loadOpenMrcEntries, loadPlacementPack } from '@/Naplan_Y5_System/openmrc-pack';
 
 import { LaplandYear5Client } from './lapland-year-5-client';
 
@@ -13,21 +13,12 @@ export const metadata: Metadata = {
 export const dynamic = 'force-dynamic';
 
 export default function LaplandYear5Page() {
-  const { resources } = loadQuestionBank();
+  const entries = loadOpenMrcEntries();
+  const placement = loadPlacementPack();
   return (
     <LaplandYear5Client
-      initialResources={resources.map((resource) => ({
-        id: resource.id,
-        domain: resource.domain,
-        title: resource.title,
-        level: resource.level,
-        strand: resource.strand,
-        question_count: resource.question_count,
-        minutes: resource.minutes,
-        passage_title: resource.passage_title,
-        image_heavy: resource.image_heavy,
-        path: resource.path,
-      }))}
+      initialEntries={entries}
+      placementQuestionCount={placement.question_count}
     />
   );
 }
